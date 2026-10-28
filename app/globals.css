@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+/* Tokens de marca COCO. Base: isologo beige (#E0DCD3) e isologo gris (#32363C). */
+@theme {
+  --color-hueso: #f5f2ec;
+  --color-beige: #e0dcd3;
+  --color-arena: #cbc4b7;
+  --color-concreto: #6e6b65;
+  --color-carbon: #32363c;
+  --color-tinta: #1f2226;
+
+  --font-sans: var(--font-active), ui-sans-serif, system-ui, sans-serif;
+
+  --tracking-label: 0.18em;
+}
+
+/* Tipografía activa. Opción A: Jost · Opción B: Outfit (se elige en la Fase 1). */
+:root {
+  --font-active: var(--font-jost);
+}
+:root[data-font='b'] {
+  --font-active: var(--font-outfit);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-hueso);
+  color: var(--color-carbon);
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-carbon);
+  outline-offset: 3px;
+}

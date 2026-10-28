@@ -26,15 +26,18 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - **Paleta de marca** (de los logos): beige `#E0DCD3`, gris `#32363C`.
 - **Best sellers** (del brief): Roma, Paris, Asuncion, New York.
 
-## Datos que faltan o no coinciden
+## Decisiones de Juan
 
-1. **Modelo 25**: no está en el catálogo ni en las fotos. El catálogo tiene 24 modelos.
-2. **Precios**: el catálogo no tiene precios. Falta el precio de cada uno de los 24 modelos.
-3. **Dirección del showroom**: el brief dice Sucre 1846; el catálogo dice "Sucre 1862 c/ Ocampos Lanzoni".
-4. **Teléfono**: el catálogo tiene +595 981 418847; el brief usa 0992 901700 para WhatsApp.
-5. **Peso de Paris**: el catálogo dice 18,9 kg. Montevideo, con las mismas medidas, pesa 11,7 kg.
-6. **Medidas en pulgadas del catálogo**: New York dice 22" para 36 cm (debería ser 14,2"). La web usa solo cm.
-7. **Imágenes de ambientación** (`images/ambientes/`): son generadas con IA (Magnific). No tienen personas, pero hay que confirmar que las bachas no cambiaron de forma antes de usarlas.
-8. **Para el FAQ y Cuidado y garantía**: plazo de entrega, formas de pago, productos de limpieza recomendados, plazo de garantía, grifería compatible.
-9. **Foto de Juan** para Nosotros: no hay.
-10. **Descripciones de producto**: no hay textos por modelo. Los redacto en la Fase 3 a partir de la forma de cada bacha, salvo que me pases los tuyos.
+- Arrancamos con 24 modelos; el 25 se agrega después.
+- Precio simbólico de Gs 750.000 en todos los modelos. Se corrige antes de publicar.
+- Dirección del showroom: Sucre 1862 c/ Ocampos Lanzoni.
+- WhatsApp: 0992 901700.
+- Se usan todas las imágenes de ambientes en el diseño.
+
+## Pendientes antes de publicar
+
+1. Precios reales de cada modelo.
+2. Peso de Paris (catálogo: 18,9 kg; Montevideo, de igual tamaño, 11,7 kg).
+3. Modelo 25.
+4. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
+5. Foto de Juan para Nosotros.

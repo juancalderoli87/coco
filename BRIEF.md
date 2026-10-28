@@ -8,7 +8,7 @@ Sos el desarrollador y diseñador de la web de COCO Concrete Company.
 - Deploy en Vercel. Por ahora usamos la URL que genera Vercel; el dominio propio se conecta después.
 
 ## 2. Qué es COCO
-Marca paraguaya que diseña y fabrica bachas de concreto de alto desempeño. Taller en San Lorenzo; showroom y dirección comercial en Sucre 1846, Asunción. Fundador: Juan Calderoli, arquitecto con más de 15 años en diseño y construcción. COCO crea la categoría de concreto de diseño en Paraguay, con ambición global.
+Marca paraguaya que diseña y fabrica bachas de concreto de alto desempeño. Taller en San Lorenzo; showroom y dirección comercial en Sucre 1862 c/ Ocampos Lanzoni, Asunción. Fundador: Juan Calderoli, arquitecto con más de 15 años en diseño y construcción. COCO crea la categoría de concreto de diseño en Paraguay, con ambición global.
 - Línea de voz: "COCO no sigue al mercado. Lo está creando."
 - Tagline: "Sculpted. Refined. Timeless." (siempre en inglés, aun dentro de textos en español)
 - Instagram: @coco_concretecompany
@@ -95,9 +95,9 @@ Identidad COCO:
     - ¿Incluye instalación? (No, COCO vende el producto.)
     - ¿Cuánto tarda la entrega?
     - ¿Qué grifería va con cada bacha?
-    - ¿Puedo verlas en persona? (Showroom en Sucre 1846, coordinando por WhatsApp.)
+    - ¿Puedo verlas en persona? (Showroom en Sucre 1862 c/ Ocampos Lanzoni, coordinando por WhatsApp.)
     - ¿Cómo pago?
-11. **Footer**: logo, tagline, dirección del showroom (Sucre 1846, Asunción) y del taller (San Lorenzo), WhatsApp, Instagram, links a las páginas y "Diseñado y fabricado en Paraguay".
+11. **Footer**: logo, tagline, dirección del showroom (Sucre 1862 c/ Ocampos Lanzoni, Asunción) y del taller (San Lorenzo), WhatsApp, Instagram, links a las páginas y "Diseñado y fabricado en Paraguay".
 
 ### Shop (/shop)
 - Grilla con los 25 modelos (2 columnas en mobile, 3 o 4 en desktop).
