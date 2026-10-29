@@ -7,6 +7,7 @@ import { ProductDetail } from '@/components/shop/ProductDetail';
 import { getProduct, productImage, products } from '@/data/products';
 import { site } from '@/data/site';
 import { formatDimensions, formatGs } from '@/lib/format';
+import { siteUrl } from '@/lib/url';
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -19,12 +20,13 @@ export const dynamicParams = false;
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = getProduct((await params).slug);
   if (!product) return {};
-  const title = `Bacha ${product.name} — ${site.name}`;
+  const title = `Bacha ${product.name}`;
   const description = `${product.shortDescription} ${formatDimensions(product.dimensions)}. ${formatGs(product.price)}. Concreto de alto desempeño, hecha a mano en Paraguay.`;
   return {
     title,
     description,
-    openGraph: { title, description, images: [{ url: productImage(product.slug), width: 1600, height: 1600 }] },
+    alternates: { canonical: `/shop/${product.slug}` },
+    openGraph: { title, description, images: [productImage(product.slug)] },
   };
 }
 
@@ -35,8 +37,26 @@ export default async function ProductPage({ params }: Props) {
   const index = products.indexOf(product);
   const related = [1, 2, 3, 4].map((n) => products[(index + n) % products.length]);
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: `Bacha ${product.name}`,
+    description: product.shortDescription,
+    image: `${siteUrl}${productImage(product.slug)}`,
+    brand: { '@type': 'Brand', name: 'COCO' },
+    material: 'Concreto de alto desempeño',
+    offers: {
+      '@type': 'Offer',
+      price: product.price,
+      priceCurrency: 'PYG',
+      availability: 'https://schema.org/InStock',
+      url: `${siteUrl}/shop/${product.slug}`,
+    },
+  };
+
   return (
     <main className="mx-auto max-w-7xl px-4 pt-6 pb-24 md:px-8 md:pt-10">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <nav aria-label="Ruta" className="mb-6 text-xs text-concreto">
         <Link href="/shop" className="hover:text-carbon hover:underline">
           Shop

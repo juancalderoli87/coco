@@ -7,6 +7,7 @@ import { faq } from '@/data/faq';
 import { bestSellers, lowestPrice } from '@/data/products';
 import { site, whatsappMessages } from '@/data/site';
 import { formatGs, whatsappLink } from '@/lib/format';
+import { siteUrl } from '@/lib/url';
 
 const container = 'mx-auto max-w-7xl px-4 md:px-8';
 const eyebrow = 'text-[11px] tracking-[var(--tracking-label)] text-concreto uppercase';
@@ -27,9 +28,29 @@ const instagram = [
   { src: 'detalle-arcilla', alt: 'Detalle de una bacha COCO color arcilla' },
 ];
 
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Store',
+  name: site.name,
+  slogan: site.tagline,
+  url: siteUrl,
+  logo: `${siteUrl}/images/marca/isologo-gris.png`,
+  image: `${siteUrl}/images/ambientes/bano-gris-azulado-griferia-dorada.webp`,
+  telephone: `+${site.whatsapp.international}`,
+  email: site.email,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: site.showroom.address,
+    addressLocality: site.showroom.city,
+    addressCountry: 'PY',
+  },
+  sameAs: [site.instagram.url],
+};
+
 export default function Home() {
   return (
     <main>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {/* Hero */}
       <section className="lg:grid lg:min-h-[calc(100dvh-6rem)] lg:grid-cols-12">
         <div className="relative aspect-square sm:aspect-[16/11] lg:order-2 lg:col-span-7 lg:aspect-auto">

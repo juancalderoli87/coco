@@ -9,7 +9,7 @@ import { site, whatsappMessages } from '@/data/site';
 import { whatsappLink } from '@/lib/format';
 
 export const metadata: Metadata = {
-  title: 'Sistema de diseño — COCO',
+  title: 'Sistema de diseño',
   robots: { index: false },
 };
 
@@ -17,7 +17,7 @@ const palette = [
   { name: 'Hueso', token: 'hueso', hex: '#F5F2EC', use: 'Fondo general' },
   { name: 'Beige', token: 'beige', hex: '#E0DCD3', use: 'Isologo beige · bloques' },
   { name: 'Arena', token: 'arena', hex: '#CBC4B7', use: 'Bordes y divisores' },
-  { name: 'Concreto', token: 'concreto', hex: '#6E6B65', use: 'Texto secundario' },
+  { name: 'Concreto', token: 'concreto', hex: '#5F5C56', use: 'Texto secundario' },
   { name: 'Carbón', token: 'carbon', hex: '#32363C', use: 'Isologo gris · texto y botones' },
   { name: 'Tinta', token: 'tinta', hex: '#1F2226', use: 'Hover y fondos oscuros' },
 ];

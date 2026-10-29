@@ -6,7 +6,7 @@ import { PageHeader } from '@/components/PageHeader';
 import { site } from '@/data/site';
 
 export const metadata: Metadata = {
-  title: `Nosotros — ${site.name}`,
+  title: 'Nosotros',
   description:
     'La historia de COCO: bachas de concreto de diseño creadas en Paraguay por el arquitecto Juan Calderoli.',
 };

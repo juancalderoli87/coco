@@ -9,7 +9,7 @@ import { site, whatsappMessages } from '@/data/site';
 import { whatsappLink } from '@/lib/format';
 
 export const metadata: Metadata = {
-  title: `Muestras — ${site.name}`,
+  title: 'Muestras',
   description: `Pedí muestras físicas de los ${colors.length} colores y terminaciones de las bachas COCO, para tu proyecto o tu obra.`,
 };
 

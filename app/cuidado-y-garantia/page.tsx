@@ -4,11 +4,11 @@ import { ButtonLink } from '@/components/Button';
 import { WhatsAppIcon } from '@/components/icons';
 import { PageHeader } from '@/components/PageHeader';
 import { careSections, warranty } from '@/data/care';
-import { site, whatsappMessages } from '@/data/site';
+import { whatsappMessages } from '@/data/site';
 import { whatsappLink } from '@/lib/format';
 
 export const metadata: Metadata = {
-  title: `Cuidado y garantía — ${site.name}`,
+  title: 'Cuidado y garantía',
   description: 'Cómo limpiar y cuidar tu bacha de concreto COCO, y cómo funciona la garantía.',
 };
 

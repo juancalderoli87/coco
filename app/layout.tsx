@@ -6,14 +6,25 @@ import { Header } from '@/components/layout/Header';
 import { TopBar } from '@/components/layout/TopBar';
 import { WhatsAppFloat } from '@/components/layout/WhatsAppFloat';
 import { site } from '@/data/site';
+import { siteUrl } from '@/lib/url';
 import './globals.css';
 
 const jost = Jost({ subsets: ['latin'], variable: '--font-jost', display: 'swap' });
 
 export const metadata: Metadata = {
-  title: `${site.name} — Bachas de concreto de diseño`,
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: `${site.name} — Bachas de concreto de diseño`,
+    template: `%s — ${site.name}`,
+  },
   description:
     'Bachas de concreto de alto desempeño, diseñadas y fabricadas a mano en Paraguay. Envíos a todo el país.',
+  openGraph: {
+    type: 'website',
+    locale: 'es_PY',
+    siteName: site.name,
+  },
+  twitter: { card: 'summary_large_image' },
 };
 
 export const viewport: Viewport = {

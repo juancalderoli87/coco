@@ -41,6 +41,7 @@ export function ShopGrid({ products }: { products: Product[] }) {
           </select>
         </label>
       </div>
+      <h2 className="sr-only">Modelos</h2>
       <div className="grid grid-cols-2 gap-x-3 gap-y-12 sm:gap-x-6 md:grid-cols-3 xl:grid-cols-4">
         {sorted.map((p, i) => (
           <ProductCard key={p.slug} product={p} priority={i < 4} />
