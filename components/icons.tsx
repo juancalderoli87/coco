@@ -24,3 +24,34 @@ export function MenuIcon({ className = 'size-6' }: IconProps) {
     </svg>
   );
 }
+
+export function CloseIcon({ className = 'size-6' }: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true" className={className}>
+      <path d="M6 6l12 12M18 6 6 18" />
+    </svg>
+  );
+}
+
+export function ArrowIcon({ className = 'size-5', direction = 'right' }: IconProps & { direction?: 'left' | 'right' }) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+      aria-hidden="true"
+      className={`${className} ${direction === 'left' ? 'rotate-180' : ''}`}
+    >
+      <path d="M4 12h16M14 6l6 6-6 6" />
+    </svg>
+  );
+}
+
+export function PlusIcon({ className = 'size-5' }: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true" className={className}>
+      <path d="M12 5v14M5 12h14" />
+    </svg>
+  );
+}

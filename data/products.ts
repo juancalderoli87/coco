@@ -81,3 +81,5 @@ export const getColor = (slug: ColorSlug) => colors.find((c) => c.slug === slug)
 export const bestSellers = () => products.filter((p) => p.bestSeller);
 export const productImage = (slug: string, color?: ColorSlug) =>
   `/images/productos/${slug}/${color ?? 'principal'}.webp`;
+/** Precio más bajo de la colección, para el "desde Gs ..." */
+export const lowestPrice = () => Math.min(...products.map((p) => p.price));

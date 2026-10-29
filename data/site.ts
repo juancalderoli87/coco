@@ -31,9 +31,16 @@ export const site = {
     'Programa para profesionales',
   ],
 
+  nav: [
+    { label: 'Shop', href: '/shop' },
+    { label: 'Profesionales', href: '/#profesionales' },
+    { label: 'Muestras', href: '/muestras' },
+    { label: 'Nosotros', href: '/nosotros' },
+    { label: 'Cuidado y garantía', href: '/cuidado-y-garantia' },
+  ],
+
   /** Unidades por modelo con entrega inmediata */
   maxImmediateUnits: 5,
-  priceFrom: 815000,
 };
 
 export const whatsappMessages = {

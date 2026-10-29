@@ -1,8 +1,7 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { ButtonLink } from '@/components/Button';
-import { FontSwitcher } from '@/components/FontSwitcher';
-import { BagIcon, WhatsAppIcon } from '@/components/icons';
+import { WhatsAppIcon } from '@/components/icons';
 import { Logo } from '@/components/Logo';
 import { ProductCard } from '@/components/ProductCard';
 import { bestSellers, colors } from '@/data/products';
@@ -35,29 +34,12 @@ function Section({ id, title, children }: { id: string; title: string; children:
 export default function SistemaPage() {
   return (
     <>
-      {/* Barra superior + header de muestra */}
-      <div className="bg-carbon py-2 text-center text-[11px] tracking-[0.16em] text-hueso uppercase">
-        {site.topBarMessages[0]}
-      </div>
-      <header className="sticky top-0 z-30 border-b border-arena bg-hueso/95 backdrop-blur">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-8">
-          <Logo className="h-5 w-auto md:h-6" priority />
-          <nav className="hidden gap-7 text-xs tracking-[0.14em] uppercase lg:flex">
-            {['Shop', 'Profesionales', 'Muestras', 'Nosotros', 'Cuidado y garantía'].map((l) => (
-              <span key={l}>{l}</span>
-            ))}
-          </nav>
-          <BagIcon />
-        </div>
-      </header>
-
       <main className="mx-auto max-w-7xl px-4 md:px-8">
         <div className="flex flex-col gap-6 py-14 md:flex-row md:items-end md:justify-between md:py-20">
           <div>
-            <p className="mb-3 text-xs tracking-[var(--tracking-label)] text-concreto uppercase">Fase 1</p>
+            <p className="mb-3 text-xs tracking-[var(--tracking-label)] text-concreto uppercase">Referencia interna</p>
             <h1 className="text-4xl font-light tracking-tight md:text-6xl">Sistema de diseño</h1>
           </div>
-          <FontSwitcher />
         </div>
 
         <Section id="tipografia" title="Tipografía">
@@ -180,16 +162,6 @@ export default function SistemaPage() {
         </Section>
       </main>
 
-      {/* Botón flotante de WhatsApp */}
-      <a
-        href={whatsappLink(whatsappMessages.general)}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Escribinos por WhatsApp"
-        className="fixed right-4 bottom-4 z-40 grid size-14 place-items-center rounded-full bg-carbon text-hueso shadow-lg shadow-tinta/20 transition-colors hover:bg-tinta md:right-8 md:bottom-8"
-      >
-        <WhatsAppIcon className="size-7" />
-      </a>
     </>
   );
 }

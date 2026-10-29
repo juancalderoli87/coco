@@ -1,10 +1,13 @@
 import type { Metadata, Viewport } from 'next';
-import { Jost, Outfit } from 'next/font/google';
+import { Jost } from 'next/font/google';
+import { Footer } from '@/components/layout/Footer';
+import { Header } from '@/components/layout/Header';
+import { TopBar } from '@/components/layout/TopBar';
+import { WhatsAppFloat } from '@/components/layout/WhatsAppFloat';
 import { site } from '@/data/site';
 import './globals.css';
 
 const jost = Jost({ subsets: ['latin'], variable: '--font-jost', display: 'swap' });
-const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit', display: 'swap' });
 
 export const metadata: Metadata = {
   title: `${site.name} — Bachas de concreto de diseño`,
@@ -18,8 +21,19 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es" className={`${jost.variable} ${outfit.variable}`}>
-      <body className="min-h-dvh font-sans">{children}</body>
+    <html lang="es" className={jost.variable}>
+      <body className="flex min-h-dvh flex-col font-sans">
+        <a href="#contenido" className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-hueso focus:p-3">
+          Saltar al contenido
+        </a>
+        <TopBar />
+        <Header />
+        <div id="contenido" className="flex-1">
+          {children}
+        </div>
+        <Footer />
+        <WhatsAppFloat />
+      </body>
     </html>
   );
 }
