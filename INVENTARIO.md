@@ -42,4 +42,6 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 3. Modelo 25.
 4. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
 5. Foto de Juan para Nosotros.
-6. Texto de cuidado (`careSummary` en `data/site.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
+6. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
+7. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
+8. Muestras: si tienen costo y cómo se entregan.
