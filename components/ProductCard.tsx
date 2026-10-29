@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
 import { getColor, productImage, type ColorSlug, type Product } from '@/data/products';
+import { cart } from '@/lib/cart';
 import { formatDimensions, formatGs } from '@/lib/format';
 import { buttonClass } from './Button';
 import { ColorSwatches } from './ColorSwatches';
@@ -21,7 +22,8 @@ export function ProductCard({ product, onAdd, priority }: ProductCardProps) {
 
   function handleAdd() {
     if (!color) return;
-    onAdd?.(product, color);
+    if (onAdd) onAdd(product, color);
+    else cart.add(product.slug, color);
     setAdded(true);
     setTimeout(() => setAdded(false), 1600);
   }

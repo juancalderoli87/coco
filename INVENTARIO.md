@@ -37,7 +37,9 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 ## Pendientes antes de publicar
 
 1. Precios reales de cada modelo.
-2. Peso de Paris (catálogo: 18,9 kg; Montevideo, de igual tamaño, 11,7 kg).
+2. Peso de Paris (catálogo: 18,9 kg; Montevideo, de igual tamaño, 11,7 kg). La web no muestra el peso por ahora.
+2b. Ancho de Barcelona: el catálogo dice 16,5 cm y en la foto parece más ancha.
 3. Modelo 25.
 4. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
 5. Foto de Juan para Nosotros.
+6. Texto de cuidado (`careSummary` en `data/site.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.

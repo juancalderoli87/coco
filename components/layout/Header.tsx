@@ -4,7 +4,8 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { site } from '@/data/site';
-import { BagIcon, CloseIcon, MenuIcon } from '../icons';
+import { CartButton } from '../cart/CartButton';
+import { CloseIcon, MenuIcon } from '../icons';
 import { Logo } from '../Logo';
 
 export function Header() {
@@ -42,7 +43,7 @@ export function Header() {
             <Link
               key={l.href}
               href={l.href}
-              aria-current={pathname === l.href ? 'page' : undefined}
+              aria-current={pathname === l.href || pathname.startsWith(`${l.href}/`) ? 'page' : undefined}
               className="py-2 underline-offset-[6px] hover:underline aria-[current=page]:underline"
             >
               {l.label}
@@ -50,10 +51,7 @@ export function Header() {
           ))}
         </nav>
 
-        {/* El carrito se conecta en la Fase 3 */}
-        <Link href="/shop" aria-label="Carrito" className="-mr-2 p-2 lg:ml-8">
-          <BagIcon />
-        </Link>
+        <CartButton className="-mr-2 lg:ml-8" />
       </div>
 
       {open && (

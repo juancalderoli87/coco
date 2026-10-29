@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import { Jost } from 'next/font/google';
+import { CartDrawer } from '@/components/cart/CartDrawer';
 import { Footer } from '@/components/layout/Footer';
 import { Header } from '@/components/layout/Header';
 import { TopBar } from '@/components/layout/TopBar';
@@ -33,6 +34,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </div>
         <Footer />
         <WhatsAppFloat />
+        <CartDrawer />
       </body>
     </html>
   );

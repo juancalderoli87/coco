@@ -39,6 +39,10 @@ export const site = {
     { label: 'Cuidado y garantía', href: '/cuidado-y-garantia' },
   ],
 
+  // TODO: confirmar texto de cuidado con Juan
+  careSummary:
+    'Limpiala con agua, jabón neutro y un paño suave. Evitá productos abrasivos o muy ácidos para cuidar el sellado.',
+
   /** Unidades por modelo con entrega inmediata */
   maxImmediateUnits: 5,
 };
@@ -47,6 +51,8 @@ export const whatsappMessages = {
   general: 'Hola COCO, quiero hacer una consulta.',
   samples: 'Hola COCO, quiero pedir muestras de terminaciones.',
   b2b: 'Hola COCO, soy [arquitecto/constructora/revendedor] y quiero información del programa para profesionales.',
-  product: (model: string, color: string) =>
-    `Hola COCO, quiero consultar por la bacha ${model} en color ${color}.`,
+  product: (model: string, color?: string) =>
+    color
+      ? `Hola COCO, quiero consultar por la bacha ${model} en color ${color}.`
+      : `Hola COCO, quiero consultar por la bacha ${model}.`,
 };
