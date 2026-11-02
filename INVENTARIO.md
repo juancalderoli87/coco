@@ -29,7 +29,7 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 ## Decisiones de Juan
 
 - Arrancamos con 24 modelos; el 25 se agrega después.
-- Precio simbólico de Gs 750.000 en todos los modelos. Se corrige antes de publicar.
+- Precios al consumidor cargados: de Gs 815.000 a Gs 1.300.000 en 5 niveles. La tapa de desagüe sube el nivel.
 - Dirección del showroom: Sucre 1862 c/ Ocampos Lanzoni.
 - WhatsApp: 0992 901700.
 - Se usan todas las imágenes de ambientes en el diseño.
@@ -40,10 +40,9 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 
 ## Pendientes antes de publicar
 
-1. Precios reales de cada modelo.
-2. Modelo 25.
-3. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
-4. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
-5. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
-6. Muestras: si tienen costo y cómo se entregan.
-7. Si Lisboa incluye tapa (plano central).
+1. Modelo 25.
+2. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
+3. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
+4. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
+5. Muestras: si tienen costo y cómo se entregan.
+6. Si Lisboa incluye tapa (plano central).
