@@ -27,7 +27,7 @@ export const site = {
 
   topBarMessages: [
     'Envíos a todo el Paraguay',
-    'Entrega inmediata hasta 5 unidades',
+    'Entrega de pedidos a partir de 10 días',
     'Programa para profesionales',
   ],
 
