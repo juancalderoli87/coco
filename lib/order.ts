@@ -24,14 +24,14 @@ export function unitsByModel(lines: OrderLine[]): Map<string, number> {
   return units;
 }
 
-export function exceedsImmediateStock(lines: OrderLine[], slug: string): boolean {
-  return (unitsByModel(lines).get(slug) ?? 0) > site.maxImmediateUnits;
+export function needsAvailabilityCheck(lines: OrderLine[], slug: string): boolean {
+  return (unitsByModel(lines).get(slug) ?? 0) > site.maxUnitsWithoutCheck;
 }
 
 export function orderMessage(lines: OrderLine[]): string {
   const rows = lines.map((l) => {
     const row = `• Bacha ${l.product.name} – ${l.colorName} × ${l.quantity} — ${formatGs(l.product.price)} c/u`;
-    return exceedsImmediateStock(lines, l.slug) ? `${row}\n  (consultar disponibilidad)` : row;
+    return needsAvailabilityCheck(lines, l.slug) ? `${row}\n  (consultar disponibilidad)` : row;
   });
   return [
     'Hola COCO, quiero consultar por:',

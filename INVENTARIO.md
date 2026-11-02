@@ -33,6 +33,8 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Dirección del showroom: Sucre 1862 c/ Ocampos Lanzoni.
 - WhatsApp: 0992 901700.
 - Se usan todas las imágenes de ambientes en el diseño.
+- No hay entrega inmediata: la entrega de pedidos es a partir de 10 días.
+- La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
 ## Pendientes antes de publicar
 

@@ -27,7 +27,7 @@ export const faq: { question: string; answer: string }[] = [
   {
     // TODO: confirmar plazos de entrega por zona
     question: '¿Cuánto tarda la entrega?',
-    answer: `Tenemos entrega inmediata hasta ${site.maxImmediateUnits} unidades por modelo. El plazo exacto depende de tu ciudad: te lo confirmamos por WhatsApp al coordinar tu pedido.`,
+    answer: `${site.deliveryTime}. El plazo exacto depende de tu ciudad: te lo confirmamos por WhatsApp al coordinar tu pedido.`,
   },
   {
     // TODO: confirmar recomendación de grifería por modelo

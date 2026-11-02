@@ -1,5 +1,7 @@
 // Configuración central del sitio. Editá acá datos de contacto y textos generales.
 
+const deliveryTime = 'Entrega de pedidos a partir de 10 días';
+
 export const site = {
   name: 'COCO Concrete Company',
   tagline: 'Sculpted. Refined. Timeless.',
@@ -27,7 +29,7 @@ export const site = {
 
   topBarMessages: [
     'Envíos a todo el Paraguay',
-    'Entrega de pedidos a partir de 10 días',
+    deliveryTime,
     'Programa para profesionales',
   ],
 
@@ -43,8 +45,10 @@ export const site = {
   careSummary:
     'Limpiala con agua, jabón neutro y un paño suave. Evitá productos abrasivos o muy ácidos para cuidar el sellado.',
 
-  /** Unidades por modelo con entrega inmediata */
-  maxImmediateUnits: 5,
+  deliveryTime,
+
+  /** A partir de esta cantidad por modelo, el carrito pide consultar disponibilidad */
+  maxUnitsWithoutCheck: 5,
 };
 
 export const whatsappMessages = {

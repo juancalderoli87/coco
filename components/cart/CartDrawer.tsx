@@ -7,7 +7,7 @@ import { productImage } from '@/data/products';
 import { site } from '@/data/site';
 import { cart, useCart } from '@/lib/cart';
 import { formatGs, whatsappLink } from '@/lib/format';
-import { exceedsImmediateStock, orderLines, orderMessage, orderTotal } from '@/lib/order';
+import { needsAvailabilityCheck, orderLines, orderMessage, orderTotal } from '@/lib/order';
 import { buttonClass } from '../Button';
 import { CloseIcon, WhatsAppIcon } from '../icons';
 import { QuantityInput } from './QuantityInput';
@@ -104,9 +104,9 @@ export function CartDrawer() {
                         Quitar
                       </button>
                     </div>
-                    {exceedsImmediateStock(lines, l.slug) && (
+                    {needsAvailabilityCheck(lines, l.slug) && (
                       <p role="status" className="mt-2 bg-beige px-3 py-2 text-xs leading-relaxed">
-                        Para más de {site.maxImmediateUnits} unidades, consultá disponibilidad por WhatsApp.
+                        Para más de {site.maxUnitsWithoutCheck} unidades, consultá disponibilidad por WhatsApp.
                       </p>
                     )}
                   </div>

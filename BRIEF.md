@@ -60,7 +60,7 @@ Identidad COCO:
 - Montos en guaraníes con punto de miles: "Gs 1.050.500".
 - Precio de entrada a comunicar: "desde Gs 815.000".
 - COCO vende el producto sin instalación, con entrega en todo el país (Asunción y Gran Asunción, interior por encomienda).
-- Stock: entrega inmediata hasta 5 unidades por modelo. Para más de 5 unidades, el cliente consulta por WhatsApp.
+- Entrega de pedidos a partir de 10 días (no hay entrega inmediata). Para más de 5 unidades de un modelo, el cliente consulta disponibilidad por WhatsApp.
 
 ## 7. Carrito
 - Carrito lateral (drawer) guardado en localStorage, con try/catch: si el almacenamiento falla, el carrito funciona en memoria.
@@ -79,7 +79,7 @@ Identidad COCO:
 ## 8. Mapa del sitio
 
 ### Home (/)
-1. **Barra superior** con mensajes rotativos: "Envíos a todo el Paraguay" · "Entrega inmediata hasta 5 unidades" · "Programa para profesionales".
+1. **Barra superior** con mensajes rotativos: "Envíos a todo el Paraguay" · "Entrega de pedidos a partir de 10 días" · "Programa para profesionales".
 2. **Header**: logo, Shop, Profesionales, Muestras, Nosotros, Cuidado y garantía, ícono de carrito.
 3. **Hero**: foto grande de producto, tagline "Sculpted. Refined. Timeless.", una frase corta en español y CTA "Ver colección" (al shop) + CTA secundario "Consultá por WhatsApp".
 4. **Best sellers**: carrusel con Roma, Paris, Asuncion y New York (editable desde el archivo de datos). Cada tarjeta muestra foto, nombre y precio, y lleva a la página del producto.

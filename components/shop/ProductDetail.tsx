@@ -114,9 +114,9 @@ export function ProductDetail({ product }: { product: Product }) {
             Agregar al carrito
           </button>
         </div>
-        {quantity > site.maxImmediateUnits && (
+        {quantity > site.maxUnitsWithoutCheck && (
           <p role="status" className="mt-3 bg-beige px-3 py-2 text-xs leading-relaxed">
-            Para más de {site.maxImmediateUnits} unidades, consultá disponibilidad por WhatsApp.
+            Para más de {site.maxUnitsWithoutCheck} unidades, consultá disponibilidad por WhatsApp.
           </p>
         )}
         <a
@@ -130,7 +130,7 @@ export function ProductDetail({ product }: { product: Product }) {
         </a>
 
         <ul className="mt-8 flex flex-col gap-2 text-xs text-concreto">
-          <li>— Entrega inmediata hasta {site.maxImmediateUnits} unidades</li>
+          <li>— {site.deliveryTime}</li>
           <li>— Envíos a todo el Paraguay</li>
           <li>— Se vende sin instalación</li>
           <li>— {site.madeIn}</li>

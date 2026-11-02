@@ -19,8 +19,7 @@ export default function ShopPage() {
           <h1 className="text-4xl font-light tracking-tight md:text-6xl">La colección</h1>
         </div>
         <p className="max-w-sm text-sm leading-relaxed text-concreto">
-          {products.length} modelos en {colors.length} colores. Entrega inmediata hasta {site.maxImmediateUnits}{' '}
-          unidades por modelo y envíos a todo el Paraguay.
+          {products.length} modelos en {colors.length} colores. {site.deliveryTime} y envíos a todo el Paraguay.
         </p>
       </div>
 
