@@ -131,6 +131,8 @@ export function ProductDetail({ product }: { product: Product }) {
 
         <ul className="mt-8 flex flex-col gap-2 text-xs text-concreto">
           <li>— {site.deliveryTime}</li>
+          {product.drainCover && <li>— Incluye tapa de desagüe</li>}
+          <li>— No incluye sopapa</li>
           <li>— Envíos a todo el Paraguay</li>
           <li>— Se vende sin instalación</li>
           <li>— {site.madeIn}</li>

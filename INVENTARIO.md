@@ -35,6 +35,7 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Se usan todas las imágenes de ambientes en el diseño.
 - No hay entrega inmediata: la entrega de pedidos es a partir de 10 días.
 - Pesos confirmados: Paris y Montevideo 18,9 kg, Amsterdam 13 kg, Curitiba 13,1 kg. Barcelona 46 × 27 × 12 cm.
+- La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
 ## Pendientes antes de publicar
@@ -45,4 +46,4 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 4. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
 5. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
 6. Muestras: si tienen costo y cómo se entregan.
-7. Si la tapa del desagüe viene incluida con la bacha.
+7. Si Lisboa incluye tapa (plano central).

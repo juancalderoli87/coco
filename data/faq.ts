@@ -25,6 +25,11 @@ export const faq: { question: string; answer: string }[] = [
       'No. COCO vende la bacha, sin instalación. La instalación la hace tu plomero de confianza.',
   },
   {
+    question: '¿Incluye la sopapa?',
+    answer:
+      'No, la sopapa no viene incluida. Los modelos con tapa de desagüe, como Lima, Asuncion o Buenos Aires, incluyen la tapa de concreto.',
+  },
+  {
     // TODO: confirmar plazos de entrega por zona
     question: '¿Cuánto tarda la entrega?',
     answer: `${site.deliveryTime}. El plazo exacto depende de tu ciudad: te lo confirmamos por WhatsApp al coordinar tu pedido.`,
