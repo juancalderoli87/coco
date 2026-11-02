@@ -34,18 +34,15 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - WhatsApp: 0992 901700.
 - Se usan todas las imágenes de ambientes en el diseño.
 - No hay entrega inmediata: la entrega de pedidos es a partir de 10 días.
+- Pesos confirmados: Paris y Montevideo 18,9 kg, Amsterdam 13 kg, Curitiba 13,1 kg. Barcelona 46 × 27 × 12 cm.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
 ## Pendientes antes de publicar
 
 1. Precios reales de cada modelo.
-2. Peso de Paris (catálogo: 18,9 kg; Montevideo, de igual tamaño, 11,7 kg). La web no muestra el peso por ahora.
-2b. Ancho de Barcelona: corregido a 27 cm según el catálogo KUBIK.
-2c. Peso de Amsterdam: COCO dice 11,8 kg y KUBIK 13 kg.
-2d. Peso de Curitiba: 13,1 kg, idéntico a Buenos Aires en ambos catálogos (posible copia).
-3. Modelo 25.
-4. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
-5. Foto de Juan para Nosotros.
-6. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
-7. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
-8. Muestras: si tienen costo y cómo se entregan.
+2. Modelo 25.
+3. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
+4. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
+5. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
+6. Muestras: si tienen costo y cómo se entregan.
+7. Si la tapa del desagüe viene incluida con la bacha.

@@ -70,11 +70,10 @@ export default function NosotrosPage() {
 
       <section className="bg-beige">
         <div className="mx-auto grid max-w-7xl gap-12 px-4 py-20 md:px-8 md:py-28 lg:grid-cols-2 lg:items-center lg:gap-20">
-          {/* TODO: reemplazar por la foto de Juan cuando la tengamos */}
-          <div className="relative aspect-[4/5] overflow-hidden">
+          <div className="relative aspect-square overflow-hidden">
             <Image
-              src="/images/ambientes/detalle-canto-blanco.webp"
-              alt="Detalle del canto de una bacha COCO blanco hueso"
+              src="/images/nosotros/juan-calderoli.webp"
+              alt="Juan Calderoli, fundador de COCO, sosteniendo una bacha color carbón en el taller"
               fill
               sizes="(min-width: 1024px) 45vw, 100vw"
               className="object-cover"
