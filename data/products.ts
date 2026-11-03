@@ -49,7 +49,6 @@ export type Product = {
   longDescription: string;
 };
 
-// TODO: confirmar si Lisboa incluye tapa (plano central)
 // Precios al consumidor en guaraníes (5 niveles: 815.000 · 930.000 · 1.050.500 · 1.180.000 · 1.300.000).
 // Los modelos con tapa de desagüe tienen un precio mayor por su diseño.
 export const products: Product[] = [
@@ -62,7 +61,7 @@ export const products: Product[] = [
   { slug: 'paris', name: 'Paris', price: 815000, dimensions: { length: 40, width: 23, height: 9 }, weightKg: 18.9, colors: allColors, bestSeller: true, shortDescription: 'Ovalada, de líneas puras y bordes redondeados.', longDescription: '' },
   { slug: 'london', name: 'London', price: 930000, dimensions: { length: 45, width: 25, height: 10 }, weightKg: 10.4, colors: allColors, bestSeller: false, shortDescription: 'Ovalada, de forma orgánica y bordes finos.', longDescription: '' },
   { slug: 'milan', name: 'Milan', price: 930000, dimensions: { length: 38, width: 38, height: 12 }, weightKg: 10.7, colors: allColors, bestSeller: false, shortDescription: 'Redonda, de paredes rectas y cuenco profundo.', longDescription: '' },
-  { slug: 'lisboa', name: 'Lisboa', price: 1300000, dimensions: { length: 60, width: 39.5, height: 7 }, weightKg: 24, colors: allColors, bestSeller: false, shortDescription: 'Rectangular de perfil bajo, con plano central y desagüe oculto.', longDescription: '' },
+  { slug: 'lisboa', name: 'Lisboa', price: 1300000, dimensions: { length: 60, width: 39.5, height: 7 }, weightKg: 24, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Rectangular de perfil bajo, con tapa central que oculta el desagüe.', longDescription: '' },
   { slug: 'amsterdam', name: 'Amsterdam', price: 815000, dimensions: { length: 33, width: 33, height: 9 }, weightKg: 13, colors: allColors, bestSeller: false, shortDescription: 'Redonda y compacta, de bordes gruesos redondeados.', longDescription: '' },
   { slug: 'barcelona', name: 'Barcelona', price: 1050500, dimensions: { length: 46, width: 27, height: 12 }, weightKg: 11, colors: allColors, bestSeller: false, shortDescription: 'Ovalada, con exterior acanalado.', longDescription: '' },
   { slug: 'valencia', name: 'Valencia', price: 1050500, dimensions: { length: 38, width: 38, height: 9 }, weightKg: 10.3, colors: allColors, bestSeller: false, shortDescription: 'Redonda, con borde exterior acanalado.', longDescription: '' },

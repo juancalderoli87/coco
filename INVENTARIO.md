@@ -35,6 +35,8 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Se usan todas las imágenes de ambientes en el diseño.
 - No hay entrega inmediata: la entrega de pedidos es a partir de 10 días.
 - Pesos confirmados: Paris y Montevideo 18,9 kg, Amsterdam 13 kg, Curitiba 13,1 kg. Barcelona 46 × 27 × 12 cm.
+- Por ahora no hay programa de muestras: /muestras está oculta (`samplesEnabled` en `data/site.ts`).
+- Lisboa incluye tapa.
 - La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
@@ -44,5 +46,3 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 2. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
 3. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
 4. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
-5. Muestras: si tienen costo y cómo se entregan.
-6. Si Lisboa incluye tapa (plano central).

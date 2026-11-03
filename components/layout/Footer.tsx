@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { site, whatsappMessages } from '@/data/site';
+import { navLinks, site, whatsappMessages } from '@/data/site';
 import { whatsappLink } from '@/lib/format';
 import { Logo } from '../Logo';
 
@@ -53,7 +53,7 @@ export function Footer() {
         </Column>
 
         <Column title="Navegá">
-          {site.nav.map((l) => (
+          {navLinks.map((l) => (
             <Link key={l.href} href={l.href} className="hover:underline">
               {l.label}
             </Link>

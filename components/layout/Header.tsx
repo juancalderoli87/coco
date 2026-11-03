@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
-import { site } from '@/data/site';
+import { navLinks, site } from '@/data/site';
 import { CartButton } from '../cart/CartButton';
 import { CloseIcon, MenuIcon } from '../icons';
 import { Logo } from '../Logo';
@@ -39,7 +39,7 @@ export function Header() {
         </Link>
 
         <nav aria-label="Principal" className="hidden gap-8 text-xs tracking-[0.14em] uppercase lg:flex">
-          {site.nav.map((l) => (
+          {navLinks.map((l) => (
             <Link
               key={l.href}
               href={l.href}
@@ -63,7 +63,7 @@ export function Header() {
             </button>
           </div>
           <nav aria-label="Principal" className="flex flex-col px-4 pt-6">
-            {site.nav.map((l) => (
+            {navLinks.map((l) => (
               <Link
                 key={l.href}
                 href={l.href}

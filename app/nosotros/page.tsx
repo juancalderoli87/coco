@@ -101,9 +101,6 @@ export default function NosotrosPage() {
             <ButtonLink href="/shop" variant="light">
               Ver colección
             </ButtonLink>
-            <ButtonLink href="/muestras" variant="secondary" className="border-hueso text-hueso hover:bg-hueso hover:text-carbon">
-              Pedí muestras
-            </ButtonLink>
           </div>
         </div>
       </section>

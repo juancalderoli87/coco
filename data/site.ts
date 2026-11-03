@@ -33,10 +33,13 @@ export const site = {
     'Programa para profesionales',
   ],
 
+  /** Programa de muestras. En false se oculta del menú, el sitemap y /muestras devuelve 404. */
+  samplesEnabled: false,
+
   nav: [
     { label: 'Shop', href: '/shop' },
     { label: 'Profesionales', href: '/#profesionales' },
-    { label: 'Muestras', href: '/muestras' },
+    { label: 'Muestras', href: '/muestras', samples: true },
     { label: 'Nosotros', href: '/nosotros' },
     { label: 'Cuidado y garantía', href: '/cuidado-y-garantia' },
   ],
@@ -50,6 +53,8 @@ export const site = {
   /** A partir de esta cantidad por modelo, el carrito pide consultar disponibilidad */
   maxUnitsWithoutCheck: 5,
 };
+
+export const navLinks = site.nav.filter((l) => !('samples' in l) || site.samplesEnabled);
 
 export const whatsappMessages = {
   general: 'Hola COCO, quiero hacer una consulta.',

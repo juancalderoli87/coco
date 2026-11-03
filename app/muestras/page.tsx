@@ -5,6 +5,7 @@ import { ImageTriptych } from '@/components/ImageTriptych';
 import { WhatsAppIcon } from '@/components/icons';
 import { PageHeader } from '@/components/PageHeader';
 import { colors, productImage } from '@/data/products';
+import { notFound } from 'next/navigation';
 import { site, whatsappMessages } from '@/data/site';
 import { whatsappLink } from '@/lib/format';
 
@@ -20,6 +21,8 @@ const steps = [
 ];
 
 export default function MuestrasPage() {
+  if (!site.samplesEnabled) notFound();
+
   return (
     <main className="mx-auto max-w-7xl px-4 pb-24 md:px-8">
       <PageHeader
