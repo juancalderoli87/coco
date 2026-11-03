@@ -28,7 +28,7 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 
 ## Decisiones de Juan
 
-- Arrancamos con 24 modelos; el 25 se agrega después.
+- Modelo 25: Maldives (48 × 34 × 12 cm, 14,5 kg, Gs 930.000, sin tapa ni orificio). Fotos de color generadas a partir de las fotos reales (`contenido/fotos/maldives`).
 - Precios al consumidor cargados: de Gs 815.000 a Gs 1.300.000 en 5 niveles. La tapa de desagüe sube el nivel.
 - Dirección del showroom: Sucre 1862 c/ Ocampos Lanzoni.
 - WhatsApp: 0992 901700.
@@ -46,4 +46,4 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 
 ## Pendientes antes de publicar
 
-1. Modelo 25.
+Ninguno.

@@ -76,7 +76,7 @@ export const products: Product[] = [
   { slug: 'curitiba', name: 'Curitiba', price: 1050500, dimensions: { length: 38.5, width: 38.5, height: 11 }, weightKg: 13.1, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Redonda, de paredes rectas y tapa de desagüe redonda.', longDescription: '' },
   { slug: 'sydney', name: 'Sydney', price: 815000, dimensions: { length: 37, width: 26, height: 9 }, weightKg: 10.5, colors: allColors, bestSeller: false, shortDescription: 'Rectangular compacta, de líneas rectas.', longDescription: '' },
   { slug: 'auckland', name: 'Auckland', price: 1180000, dimensions: { length: 54, width: 36, height: 9 }, weightKg: 23.3, colors: allColors, bestSeller: false, shortDescription: 'Rectangular amplia, de borde ancho y líneas rectas.', longDescription: '' },
-  // TODO: modelo 25 — se agrega más adelante
+  { slug: 'maldives', name: 'Maldives', price: 930000, dimensions: { length: 48, width: 34, height: 12 }, weightKg: 14.5, colors: allColors, bestSeller: false, shortDescription: 'Rectangular amplia, de paredes altas y esquinas redondeadas.', longDescription: '' },
 ];
 
 export const getProduct = (slug: string) => products.find((p) => p.slug === slug);
