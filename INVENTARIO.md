@@ -37,12 +37,13 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Pesos confirmados: Paris y Montevideo 18,9 kg, Amsterdam 13 kg, Curitiba 13,1 kg. Barcelona 46 × 27 × 12 cm.
 - Por ahora no hay programa de muestras: /muestras está oculta (`samplesEnabled` en `data/site.ts`).
 - Lisboa incluye tapa.
+- Envíos por transportadora; el envío al interior lo paga el cliente.
+- Pago por transferencia o efectivo al retirar; seña del 50% para comenzar la fabricación.
+- Showroom solo con cita previa.
 - La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
 ## Pendientes antes de publicar
 
 1. Modelo 25.
-2. Para el FAQ y Cuidado y garantía: plazo de entrega, formas de pago, productos de limpieza, plazo de garantía, grifería compatible.
-3. Texto de cuidado (`careSummary` en `data/site.ts` y `data/care.ts`) y respuestas del FAQ marcadas con TODO en `data/faq.ts`.
-4. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".
+2. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".

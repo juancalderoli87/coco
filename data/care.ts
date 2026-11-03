@@ -1,5 +1,4 @@
 // Contenido de Cuidado y garantía.
-// TODO: Juan tiene que confirmar todo este contenido antes de publicar.
 
 export const careSections: { title: string; items: string[] }[] = [
   {
@@ -20,15 +19,14 @@ export const careSections: { title: string; items: string[] }[] = [
   {
     title: 'El sellado',
     items: [
-      'Cada bacha sale del taller con un acabado mate sellado que la protege del uso diario.',
-      'Con los años, el sellado se puede renovar. Escribinos y te contamos cómo.',
+      'Cada bacha sale del taller con un sellado profesional, hecho con productos importados especialmente para concreto de alto desempeño.',
+      'El sellado protege la bacha del uso diario y mantiene su acabado mate.',
     ],
   },
   {
     title: 'Un material vivo',
     items: [
       'El concreto tiene variaciones naturales de tono y textura: cada bacha es única.',
-      'Con el uso puede desarrollar una pátina suave, parte del carácter del material.',
     ],
   },
 ];

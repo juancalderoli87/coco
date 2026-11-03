@@ -15,8 +15,8 @@ const h2 = 'text-3xl leading-tight font-light tracking-tight md:text-5xl';
 
 const steps = [
   { title: 'Elegí tu bacha y tu color', text: 'Recorré la colección y armá tu pedido en el carrito.' },
-  { title: 'Enviá tu pedido por WhatsApp', text: 'Te respondemos, confirmamos disponibilidad y coordinamos el pago.' },
-  { title: 'Te la entregamos en todo el país', text: 'Entrega en Asunción y Gran Asunción. Al interior, por encomienda.' },
+  { title: 'Enviá tu pedido por WhatsApp', text: `Te respondemos y coordinamos el pago. Con una seña del ${site.deposit} comenzamos la fabricación.` },
+  { title: 'Te la enviamos a todo el país', text: 'Por transportadora. El costo del envío depende de tu ciudad.' },
 ];
 
 const instagram = [

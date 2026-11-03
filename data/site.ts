@@ -21,6 +21,7 @@ export const site = {
     label: 'Showroom y dirección comercial',
     address: 'Sucre 1862 c/ Ocampos Lanzoni',
     city: 'Asunción',
+    note: 'Visitas solo con cita previa',
   },
   workshop: {
     label: 'Taller',
@@ -44,11 +45,13 @@ export const site = {
     { label: 'Cuidado y garantía', href: '/cuidado-y-garantia' },
   ],
 
-  // TODO: confirmar texto de cuidado con Juan
   careSummary:
     'Limpiala con agua, jabón neutro y un paño suave. Evitá productos abrasivos o muy ácidos para cuidar el sellado.',
 
   deliveryTime,
+
+  /** Seña para comenzar la fabricación */
+  deposit: '50%',
 
   /** A partir de esta cantidad por modelo, el carrito pide consultar disponibilidad */
   maxUnitsWithoutCheck: 5,

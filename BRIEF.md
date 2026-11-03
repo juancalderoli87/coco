@@ -59,7 +59,7 @@ Identidad COCO:
 - Nunca muestres costos, márgenes ni precios mayoristas.
 - Montos en guaraníes con punto de miles: "Gs 1.050.500".
 - Precio de entrada a comunicar: "desde Gs 815.000".
-- COCO vende el producto sin instalación, con entrega en todo el país (Asunción y Gran Asunción, interior por encomienda).
+- COCO vende el producto sin instalación, con envío a todo el país por transportadora (el envío al interior lo paga el cliente). Pago por transferencia o efectivo al retirar; seña del 50% para comenzar la fabricación.
 - Entrega de pedidos a partir de 10 días (no hay entrega inmediata). Para más de 5 unidades de un modelo, el cliente consulta disponibilidad por WhatsApp.
 
 ## 7. Carrito

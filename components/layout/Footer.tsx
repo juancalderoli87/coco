@@ -31,6 +31,8 @@ export function Footer() {
             <br />
             <span className="text-hueso/70">
               {site.showroom.address}, {site.showroom.city}
+              <br />
+              {site.showroom.note}
             </span>
           </p>
           <p>
