@@ -1,5 +1,6 @@
 // Preguntas frecuentes de la Home.
 
+import { warranty } from './care';
 import { site } from './site';
 
 export const faq: { question: string; answer: string }[] = [
@@ -36,6 +37,10 @@ export const faq: { question: string; answer: string }[] = [
     question: '¿Qué grifería va con cada bacha?',
     answer:
       'Roma y Dubai tienen orificio para grifería integrada en la bacha. El resto de los modelos va con grifería de pared o grifería alta de mesada. Si tenés dudas, escribinos y te asesoramos.',
+  },
+  {
+    question: '¿Tienen garantía?',
+    answer: `Sí. ${warranty.summary} Si tu bacha presenta un defecto de fabricación o llega dañada, la reponemos.`,
   },
   {
     question: '¿Puedo verlas en persona?',

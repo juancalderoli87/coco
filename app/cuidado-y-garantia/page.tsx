@@ -50,8 +50,15 @@ export default function CuidadoPage() {
 
           <section id="garantia" className="mt-4 scroll-mt-24 bg-beige p-8 md:p-10">
             <h2 className="text-3xl font-light">Garantía</h2>
-            <p className="mt-4 leading-relaxed">{warranty.text}</p>
-            <p className="mt-3 text-sm text-concreto">{warranty.pending}</p>
+            <p className="mt-4 leading-relaxed">{warranty.summary}</p>
+            <dl className="mt-6 flex flex-col gap-4 text-sm leading-relaxed">
+              {warranty.terms.map((t) => (
+                <div key={t.title}>
+                  <dt className="font-medium">{t.title}</dt>
+                  <dd className="mt-1 text-concreto">{t.text}</dd>
+                </div>
+              ))}
+            </dl>
             <ButtonLink href={whatsappLink(whatsappMessages.general)} variant="secondary" className="mt-8">
               <WhatsAppIcon className="size-4" />
               Consultá por WhatsApp

@@ -119,7 +119,7 @@ Identidad COCO:
 
 ### Cuidado y garantía (/cuidado-y-garantia)
 - Cómo limpiar, qué productos evitar y cuidados del sellado, en lenguaje simple.
-- Plazo de garantía: TODO, pendiente de confirmar. No pongas un número.
+- Garantía: 1 año contra defectos de fabricación; se repone la bacha. Daños de transporte: aviso dentro de 48 h.
 
 ## 9. Datos de productos
 Fuente: el catálogo PDF y las fotos que dejo en el repo.

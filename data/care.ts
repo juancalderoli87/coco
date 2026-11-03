@@ -1,5 +1,7 @@
 // Contenido de Cuidado y garantía.
 
+import { site } from './site';
+
 export const careSections: { title: string; items: string[] }[] = [
   {
     title: 'Limpieza diaria',
@@ -31,8 +33,17 @@ export const careSections: { title: string; items: string[] }[] = [
   },
 ];
 
-// TODO: plazo y condiciones de garantía. No poner un número hasta que Juan lo confirme.
 export const warranty = {
-  text: 'Si tenés cualquier inconveniente con tu bacha, escribinos por WhatsApp y lo resolvemos juntos.',
-  pending: 'Plazo y condiciones de la garantía: a confirmar.',
+  period: '1 año',
+  summary: 'Todas las bachas COCO tienen 1 año de garantía contra defectos de fabricación, desde la entrega.',
+  terms: [
+    { title: 'Cubre', text: 'Defectos de fabricación: fisuras o rajaduras estructurales, filtraciones a través del concreto y fallas del sellado de origen.' },
+    {
+      title: 'No cubre',
+      text: 'Golpes, caídas o mal uso; instalación incorrecta; uso de productos que dañan el sellado, como lavandina, ácidos o abrasivos; desgaste normal por uso; y las variaciones naturales de tono y textura, que son parte del material.',
+    },
+    { title: 'Daños de transporte', text: 'Revisá tu bacha al recibirla. Si llegó dañada, avisanos dentro de las 48 horas y la reponemos.' },
+    { title: 'Cómo reclamar', text: 'Escribinos por WhatsApp con fotos y tu comprobante de compra. Revisamos el caso y, si corresponde, reponemos la bacha.' },
+    { title: 'Responsable', text: `${site.name}, ${site.showroom.address}, ${site.showroom.city}.` },
+  ],
 };

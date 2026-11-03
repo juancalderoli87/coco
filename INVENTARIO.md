@@ -40,10 +40,10 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Envíos por transportadora; el envío al interior lo paga el cliente.
 - Pago por transferencia o efectivo al retirar; seña del 50% para comenzar la fabricación.
 - Showroom solo con cita previa.
+- Garantía: 1 año contra defectos de fabricación; se repone la bacha. COCO responde por daños de transporte (aviso dentro de 48 h).
 - La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
 ## Pendientes antes de publicar
 
 1. Modelo 25.
-2. Garantía: plazo y condiciones (`data/care.ts`). Hoy la página dice "a confirmar".

@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import { useState } from 'react';
 import { colors, getColor, productImage, type ColorSlug, type Product } from '@/data/products';
+import { warranty } from '@/data/care';
 import { site, whatsappMessages } from '@/data/site';
 import { cart } from '@/lib/cart';
 import { formatDimensions, formatGs, whatsappLink } from '@/lib/format';
@@ -133,6 +134,7 @@ export function ProductDetail({ product }: { product: Product }) {
           <li>— {site.deliveryTime}</li>
           {product.drainCover && <li>— Incluye tapa de desagüe</li>}
           <li>— No incluye sopapa</li>
+          <li>— {warranty.period} de garantía</li>
           <li>— Envíos a todo el Paraguay</li>
           <li>— Se vende sin instalación</li>
           <li>— {site.madeIn}</li>
