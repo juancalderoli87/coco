@@ -2,6 +2,10 @@
 
 Originales sin tocar en `contenido/`. Versiones web optimizadas en `public/`.
 
+## Catálogo PDF
+
+`contenido/pdf/catalogo-COCO-2026.pdf` es el catálogo vigente (29 páginas, con Maldives). El original queda como referencia en `contenido/pdf/catalogo COCO vert-comprimido.pdf`.
+
 ## Estructura en `public/`
 
 | Carpeta | Contenido | Peso |
