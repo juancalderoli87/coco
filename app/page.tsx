@@ -73,7 +73,7 @@ export default function Home() {
             Timeless.
           </p>
           <h1 className="max-w-sm text-lg leading-relaxed text-concreto">
-            Bachas de concreto de diseño, hechas a mano una por una.
+            Bachas de concreto de alta performance. Hechas a mano. <span lang="en">Proudly made in Paraguay.</span>
           </h1>
           <div className="flex flex-col gap-3 pt-2 sm:flex-row sm:flex-wrap">
             <ButtonLink href="/shop">Ver colección</ButtonLink>
