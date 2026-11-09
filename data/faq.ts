@@ -5,7 +5,7 @@ import { site } from './site';
 
 export const faq: { question: string; answer: string }[] = [
   {
-    question: '¿Qué es el concreto de alto desempeño?',
+    question: '¿Qué es el concreto de alta performance?',
     answer:
       'Es un concreto más denso y resistente que el tradicional. Usamos una mezcla propia, desarrollada y probada durante años en nuestro taller, que permite piezas más finas, firmes y duraderas.',
   },

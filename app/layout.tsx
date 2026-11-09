@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     template: `%s — ${site.name}`,
   },
   description:
-    'Bachas de concreto de alto desempeño, diseñadas y fabricadas a mano en Paraguay. Envíos a todo el país.',
+    'Bachas de concreto de alta performance, diseñadas y fabricadas a mano en Paraguay. Envíos a todo el país.',
   openGraph: {
     type: 'website',
     locale: 'es_PY',

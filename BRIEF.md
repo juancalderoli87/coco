@@ -8,7 +8,7 @@ Sos el desarrollador y diseñador de la web de COCO Concrete Company.
 - Deploy en Vercel. Por ahora usamos la URL que genera Vercel; el dominio propio se conecta después.
 
 ## 2. Qué es COCO
-Marca paraguaya que diseña y fabrica bachas de concreto de alto desempeño. Taller en San Lorenzo; showroom y dirección comercial en Sucre 1862 c/ Ocampos Lanzoni, Asunción. Fundador: Juan Calderoli, arquitecto con más de 15 años en diseño y construcción. COCO crea la categoría de concreto de diseño en Paraguay, con ambición global.
+Marca paraguaya que diseña y fabrica bachas de concreto de alta performance. Taller en San Lorenzo; showroom y dirección comercial en Sucre 1862 c/ Ocampos Lanzoni, Asunción. Fundador: Juan Calderoli, arquitecto con más de 15 años en diseño y construcción. COCO crea la categoría de concreto de diseño en Paraguay, con ambición global.
 - Línea de voz: "COCO no sigue al mercado. Lo está creando."
 - Tagline: "Sculpted. Refined. Timeless." (siempre en inglés, aun dentro de textos en español)
 - Instagram: @coco_concretecompany
@@ -53,7 +53,7 @@ Identidad COCO:
 - La identidad paraguaya tiene que verse ("Diseñado y fabricado en Paraguay").
 
 ## 6. Reglas de contenido
-- El material se llama "concreto de alto desempeño". Nunca "UHPC".
+- El material se llama "concreto de alta performance". Nunca "UHPC".
 - Lenguaje simple, sin jerga técnica.
 - No empujes la personalización ni el trabajo a medida.
 - Nunca muestres costos, márgenes ni precios mayoristas.
@@ -83,13 +83,13 @@ Identidad COCO:
 2. **Header**: logo, Shop, Profesionales, Muestras, Nosotros, Cuidado y garantía, ícono de carrito.
 3. **Hero**: foto grande de producto, tagline "Sculpted. Refined. Timeless.", una frase corta en español y CTA "Ver colección" (al shop) + CTA secundario "Consultá por WhatsApp".
 4. **Best sellers**: carrusel con Roma, Paris, Asuncion y New York (editable desde el archivo de datos). Cada tarjeta muestra foto, nombre y precio, y lleva a la página del producto.
-5. **Concreto de alto desempeño**: qué es y por qué es mejor, en lenguaje simple. Mezcla propia, desarrollada y probada durante años, con formación en EEUU (Concrete Countertop Institute y Concreteworks, San Francisco). Beneficios: resistencia, durabilidad, acabado mate sellado. Sin datos técnicos.
+5. **Concreto de alta performance**: qué es y por qué es mejor, en lenguaje simple. Mezcla propia, desarrollada y probada durante años, con formación en EEUU (Concrete Countertop Institute y Concreteworks, San Francisco). Beneficios: resistencia, durabilidad, acabado mate sellado. Sin datos técnicos.
 6. **Diseño y calidad**: pieza de autor diseñada por un arquitecto, fabricada a mano en Paraguay, cada bacha es única. Usá fotos de detalle.
 7. **Cómo pedir**, en 3 pasos: (1) Elegí tu bacha y tu color. (2) Enviá tu pedido por WhatsApp y coordinamos el pago. (3) Te la entregamos en todo el país.
 8. **Profesionales (B2B)**: para arquitectos, diseñadores, constructoras y revendedores. Beneficios: precios especiales para profesionales, atención directa, volumen para obras. Sin precios. CTA a WhatsApp con el mensaje B2B.
 9. **Instagram**: bloque con 4 a 6 fotos del repo y link a @coco_concretecompany. Sin feed en vivo.
 10. **FAQ** en acordeón. Preguntas base (redactá respuestas simples; marcá con TODO lo que no puedas confirmar con los archivos):
-    - ¿Qué es el concreto de alto desempeño?
+    - ¿Qué es el concreto de alta performance?
     - ¿Se mancha? ¿Cómo se limpia?
     - ¿Hacen envíos al interior?
     - ¿Incluye instalación? (No, COCO vende el producto.)

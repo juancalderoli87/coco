@@ -21,7 +21,7 @@ export const careSections: { title: string; items: string[] }[] = [
   {
     title: 'El sellado',
     items: [
-      'Cada bacha sale del taller con un sellado profesional, hecho con productos importados especialmente para concreto de alto desempeño.',
+      'Cada bacha sale del taller con un sellado profesional, hecho con productos importados especialmente para concreto de alta performance.',
       'El sellado protege la bacha del uso diario y mantiene su acabado mate.',
     ],
   },

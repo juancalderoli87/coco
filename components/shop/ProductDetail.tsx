@@ -87,7 +87,7 @@ export function ProductDetail({ product }: { product: Product }) {
           </div>
           <div>
             <dt className="text-xs text-concreto">Material</dt>
-            <dd className="mt-1">Concreto de alto desempeño</dd>
+            <dd className="mt-1">Concreto de alta performance</dd>
           </div>
         </dl>
 

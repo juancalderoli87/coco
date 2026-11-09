@@ -64,7 +64,7 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col justify-center gap-5 px-4 py-10 md:gap-6 md:px-8 lg:col-span-5 lg:py-16 lg:pr-12 lg:pl-[max(2rem,calc((100vw-80rem)/2+2rem))]">
-          <p className={eyebrow}>{site.madeIn}</p>
+          <p className={eyebrow}>{site.madeInHero}</p>
           <p lang="en" className="text-[2.75rem] leading-[1.02] font-light tracking-tight md:text-7xl">
             Sculpted.
             <br />
@@ -102,7 +102,7 @@ export default function Home() {
         <BestSellers products={bestSellers()} />
       </section>
 
-      {/* Concreto de alto desempeño */}
+      {/* Concreto de alta performance */}
       <section className="bg-beige">
         <div className={`${container} grid gap-12 py-20 md:py-28 lg:grid-cols-2 lg:items-center lg:gap-20`}>
           <div className="relative aspect-[4/5] overflow-hidden lg:aspect-[5/6]">
@@ -116,7 +116,7 @@ export default function Home() {
           </div>
           <div>
             <p className={`${eyebrow} mb-3`}>El material</p>
-            <h2 className={h2}>Concreto de alto desempeño</h2>
+            <h2 className={h2}>Concreto de alta performance</h2>
             <p className="mt-6 max-w-lg leading-relaxed">
               Es un concreto más denso y resistente que el tradicional. Lo trabajamos con una mezcla propia,
               desarrollada y probada durante años, después de formarnos en Estados Unidos con el Concrete Countertop

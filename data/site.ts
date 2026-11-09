@@ -7,6 +7,8 @@ export const site = {
   tagline: 'Sculpted. Refined. Timeless.',
   voice: 'COCO no sigue al mercado. Lo está creando.',
   madeIn: 'Diseñado y fabricado en Paraguay',
+  /** Línea sobre el título de la Home */
+  madeInHero: 'Diseñado y fabricado en tierra guaraní',
 
   whatsapp: {
     display: '0992 901 700',

@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = getProduct((await params).slug);
   if (!product) return {};
   const title = `Bacha ${product.name}`;
-  const description = `${product.shortDescription} ${formatDimensions(product.dimensions)}. ${formatGs(product.price)}. Concreto de alto desempeño, hecha a mano en Paraguay.`;
+  const description = `${product.shortDescription} ${formatDimensions(product.dimensions)}. ${formatGs(product.price)}. Concreto de alta performance, hecha a mano en Paraguay.`;
   return {
     title,
     description,
@@ -44,7 +44,7 @@ export default async function ProductPage({ params }: Props) {
     description: product.shortDescription,
     image: `${siteUrl}${productImage(product.slug)}`,
     brand: { '@type': 'Brand', name: 'COCO' },
-    material: 'Concreto de alto desempeño',
+    material: 'Concreto de alta performance',
     offers: {
       '@type': 'Offer',
       price: product.price,
@@ -71,7 +71,7 @@ export default async function ProductPage({ params }: Props) {
           <h2 className="text-[11px] tracking-[var(--tracking-label)] text-concreto uppercase">Sobre esta bacha</h2>
           <p className="mt-4 max-w-prose leading-relaxed">
             {product.longDescription ||
-              `La bacha ${product.name} está fabricada a mano en nuestro taller de ${site.workshop.city}, en concreto de alto desempeño con acabado mate sellado. Cada pieza tiene pequeñas variaciones naturales que la hacen única.`}
+              `La bacha ${product.name} está fabricada a mano en nuestro taller de ${site.workshop.city}, en concreto de alta performance con acabado mate sellado. Cada pieza tiene pequeñas variaciones naturales que la hacen única.`}
           </p>
         </div>
         <div>

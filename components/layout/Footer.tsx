@@ -21,7 +21,7 @@ export function Footer() {
           <Logo variant="isologo" tone="beige" className="h-10 w-auto self-start" />
           <p className="text-xs tracking-[var(--tracking-label)] uppercase">{site.tagline}</p>
           <p className="max-w-xs text-sm leading-relaxed text-hueso/70">
-            Bachas de concreto de alto desempeño, hechas a mano una por una.
+            Bachas de concreto de alta performance, hechas a mano una por una.
           </p>
         </div>
 

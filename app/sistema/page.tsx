@@ -51,7 +51,7 @@ export default function SistemaPage() {
             <div className="space-y-8">
               <div>
                 <p className="mb-2 text-[11px] text-concreto">H2 · 36 / light</p>
-                <p className="text-3xl font-light md:text-4xl">Concreto de alto desempeño</p>
+                <p className="text-3xl font-light md:text-4xl">Concreto de alta performance</p>
               </div>
               <div>
                 <p className="mb-2 text-[11px] text-concreto">H3 · 16 / medium / mayúsculas</p>

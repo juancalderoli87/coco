@@ -26,7 +26,7 @@ const story = [
   },
   {
     title: 'Una mezcla propia',
-    text: 'De vuelta en Paraguay, desarrollamos nuestro concreto de alto desempeño, adaptado a insumos locales y probado durante años.',
+    text: 'De vuelta en Paraguay, desarrollamos nuestro concreto de alta performance, adaptado a insumos locales y probado durante años.',
   },
 ];
 
