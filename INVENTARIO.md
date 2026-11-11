@@ -48,6 +48,22 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
+## Mejoras de la auditoría (aplicadas)
+
+- Shop: tarjetas simples que llevan a la página del producto; filtros por forma y "con tapa".
+- Producto: barra de compra fija en celular, peso, video (Chicago, Dubai, Dublin, New York, San Francisco), sugeridos por parecido.
+- Carrito: nombre y ciudad del cliente, que van en el mensaje de WhatsApp.
+- Botón flotante de WhatsApp: en la página de una bacha nombra el modelo.
+- /profesionales con descarga del catálogo (`public/catalogo-coco-2026.pdf`).
+- Analítica: Vercel Web Analytics + eventos `whatsapp_click`, `pedido_enviado`, `catalogo_descarga`. Hay que activarla en Vercel.
+- Tildes en Asunción, Medellín y Galápagos. Títulos SEO con "de concreto". Se borró /sistema.
+
 ## Pendientes antes de publicar
 
-Ninguno.
+1. Activar Web Analytics en el proyecto de Vercel.
+2. Dominio propio y quitar la protección de Vercel.
+3. Pasar el repo de GitHub a privado.
+4. Datos legales: razón social, RUC, términos y privacidad.
+5. Fotos reales de obras y testimonios (sección Proyectos).
+6. Diámetro del desagüe de cada modelo.
+7. Si se cambia el catálogo PDF, copiarlo también a `public/catalogo-coco-2026.pdf`.

@@ -2,18 +2,44 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
-import { useEffect, useRef } from 'react';
+import { track } from '@vercel/analytics';
+import { useEffect, useRef, useState } from 'react';
 import { productImage } from '@/data/products';
 import { site } from '@/data/site';
 import { cart, useCart } from '@/lib/cart';
 import { formatGs, whatsappLink } from '@/lib/format';
-import { needsAvailabilityCheck, orderLines, orderMessage, orderTotal } from '@/lib/order';
+import { needsAvailabilityCheck, orderLines, orderMessage, orderTotal, type Customer } from '@/lib/order';
 import { buttonClass } from '../Button';
 import { CloseIcon, WhatsAppIcon } from '../icons';
 import { QuantityInput } from './QuantityInput';
 
+const CUSTOMER_KEY = 'coco-cliente';
+
+function loadCustomer(): Customer {
+  try {
+    const saved = JSON.parse(window.localStorage.getItem(CUSTOMER_KEY) ?? '{}');
+    return { name: String(saved.name ?? ''), city: String(saved.city ?? '') };
+  } catch {
+    return { name: '', city: '' };
+  }
+}
+
 export function CartDrawer() {
   const { items, open } = useCart();
+  const [customer, setCustomer] = useState<Customer>(() =>
+    typeof window === 'undefined' ? { name: '', city: '' } : loadCustomer(),
+  );
+
+  function updateCustomer(patch: Partial<Customer>) {
+    const next = { ...customer, ...patch };
+    setCustomer(next);
+    try {
+      window.localStorage.setItem(CUSTOMER_KEY, JSON.stringify(next));
+    } catch {
+      // sin almacenamiento: queda en memoria
+    }
+  }
+
   const panel = useRef<HTMLDivElement>(null);
   const lines = orderLines(items);
   const total = orderTotal(lines);
@@ -122,10 +148,36 @@ export function CartDrawer() {
               <p className="mt-2 text-xs leading-relaxed text-concreto">
                 Sin instalación. Coordinamos el pago y la entrega por WhatsApp.
               </p>
+              <div className="mt-4 grid grid-cols-2 gap-3">
+                <label className="text-xs text-concreto">
+                  Tu nombre
+                  <input
+                    type="text"
+                    autoComplete="name"
+                    value={customer.name}
+                    onChange={(e) => updateCustomer({ name: e.target.value })}
+                    className="mt-1 h-11 w-full rounded-none border border-arena bg-white px-3 text-base text-carbon"
+                  />
+                </label>
+                <label className="text-xs text-concreto">
+                  Tu ciudad
+                  <input
+                    type="text"
+                    autoComplete="address-level2"
+                    value={customer.city}
+                    onChange={(e) => updateCustomer({ city: e.target.value })}
+                    className="mt-1 h-11 w-full rounded-none border border-arena bg-white px-3 text-base text-carbon"
+                  />
+                </label>
+              </div>
               <a
-                href={whatsappLink(orderMessage(lines))}
+                href={whatsappLink(orderMessage(lines, customer))}
                 target="_blank"
                 rel="noopener noreferrer"
+                data-track="off"
+                onClick={() =>
+                  track('pedido_enviado', { unidades: lines.reduce((n, l) => n + l.quantity, 0), total })
+                }
                 className={buttonClass('primary', 'mt-4 w-full')}
               >
                 <WhatsAppIcon className="size-4" />

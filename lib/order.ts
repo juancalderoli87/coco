@@ -28,7 +28,9 @@ export function needsAvailabilityCheck(lines: OrderLine[], slug: string): boolea
   return (unitsByModel(lines).get(slug) ?? 0) > site.maxUnitsWithoutCheck;
 }
 
-export function orderMessage(lines: OrderLine[]): string {
+export type Customer = { name: string; city: string };
+
+export function orderMessage(lines: OrderLine[], customer?: Customer): string {
   const rows = lines.map((l) => {
     const row = `• Bacha ${l.product.name} – ${l.colorName} × ${l.quantity} — ${formatGs(l.product.price)} c/u`;
     return needsAvailabilityCheck(lines, l.slug) ? `${row}\n  (consultar disponibilidad)` : row;
@@ -37,6 +39,6 @@ export function orderMessage(lines: OrderLine[]): string {
     'Hola COCO, quiero consultar por:',
     ...rows,
     `Total estimado: ${formatGs(orderTotal(lines))}`,
-    'Nombre: ___ · Ciudad: ___',
+    `Nombre: ${customer?.name.trim() || '___'} · Ciudad: ${customer?.city.trim() || '___'}`,
   ].join('\n');
 }

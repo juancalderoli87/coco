@@ -23,6 +23,7 @@ export function Logo({ variant = 'logo-principal', tone = 'gris', className = 'h
       alt="COCO Concrete Company"
       width={width}
       height={height}
+      sizes="240px"
       className={className}
       priority={priority}
     />

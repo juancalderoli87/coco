@@ -11,7 +11,7 @@ type ColorSwatchesProps = {
 };
 
 export function ColorSwatches({ available, value, onChange, name, size = 'sm' }: ColorSwatchesProps) {
-  const dot = size === 'sm' ? 'size-5' : 'size-8';
+  const dot = size === 'sm' ? 'size-5' : 'size-10';
   return (
     <fieldset>
       <legend className="sr-only">Color</legend>

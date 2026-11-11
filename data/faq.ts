@@ -27,7 +27,7 @@ export const faq: { question: string; answer: string }[] = [
   {
     question: '¿Incluye la sopapa?',
     answer:
-      'No, la sopapa no viene incluida. Los modelos con tapa de desagüe, como Lima, Asuncion o Buenos Aires, incluyen la tapa de concreto.',
+      'No, la sopapa no viene incluida. Los modelos con tapa de desagüe, como Lima, Asunción o Buenos Aires, incluyen la tapa de concreto.',
   },
   {
     question: '¿Cuánto tarda la entrega?',

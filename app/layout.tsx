@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import { Jost } from 'next/font/google';
+import { Analytics } from '@/components/Analytics';
 import { CartDrawer } from '@/components/cart/CartDrawer';
 import { Footer } from '@/components/layout/Footer';
 import { Header } from '@/components/layout/Header';
@@ -24,6 +25,7 @@ export const metadata: Metadata = {
     locale: 'es_PY',
     siteName: site.name,
   },
+  alternates: { canonical: './' },
   twitter: { card: 'summary_large_image' },
 };
 
@@ -46,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Footer />
         <WhatsAppFloat />
         <CartDrawer />
+        <Analytics />
       </body>
     </html>
   );

@@ -41,11 +41,14 @@ export const site = {
 
   nav: [
     { label: 'Shop', href: '/shop' },
-    { label: 'Profesionales', href: '/#profesionales' },
+    { label: 'Profesionales', href: '/profesionales' },
     { label: 'Muestras', href: '/muestras', samples: true },
     { label: 'Nosotros', href: '/nosotros' },
     { label: 'Cuidado y garantía', href: '/cuidado-y-garantia' },
   ],
+
+  /** Catálogo PDF para descargar (en /public) */
+  catalogUrl: '/catalogo-coco-2026.pdf',
 
   careSummary:
     'Limpiala con agua, jabón neutro y un paño suave. Evitá productos abrasivos o muy ácidos para cuidar el sellado.',

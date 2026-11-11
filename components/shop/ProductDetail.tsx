@@ -1,12 +1,12 @@
 'use client';
 
 import Image from 'next/image';
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { colors, getColor, productImage, type ColorSlug, type Product } from '@/data/products';
 import { warranty } from '@/data/care';
 import { site, whatsappMessages } from '@/data/site';
 import { cart } from '@/lib/cart';
-import { formatDimensions, formatGs, whatsappLink } from '@/lib/format';
+import { formatCm, formatDimensions, formatGs, whatsappLink } from '@/lib/format';
 import { buttonClass } from '../Button';
 import { QuantityInput } from '../cart/QuantityInput';
 import { ColorSwatches } from '../ColorSwatches';
@@ -16,6 +16,9 @@ export function ProductDetail({ product }: { product: Product }) {
   const [color, setColor] = useState<ColorSlug | null>(null);
   const [quantity, setQuantity] = useState(1);
   const [error, setError] = useState(false);
+  const [barVisible, setBarVisible] = useState(false);
+  const mainButton = useRef<HTMLButtonElement>(null);
+  const colorBlock = useRef<HTMLDivElement>(null);
   const colorName = color ? getColor(color).name : undefined;
   const available = colors.filter((c) => product.colors.includes(c.slug));
   const gallery: (ColorSlug | undefined)[] = [undefined, ...available.map((c) => c.slug)];
@@ -27,9 +30,19 @@ export function ProductDetail({ product }: { product: Product }) {
     }
   }
 
+  // Barra de compra fija (celular): aparece cuando el botón principal no está a la vista
+  useEffect(() => {
+    const el = mainButton.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(([entry]) => setBarVisible(!entry.isIntersecting));
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+
   function handleAdd() {
     if (!color) {
       setError(true);
+      colorBlock.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
       return;
     }
     cart.add(product.slug, color, quantity);
@@ -80,10 +93,14 @@ export function ProductDetail({ product }: { product: Product }) {
         <p className="mt-4 text-xl">{formatGs(product.price)}</p>
         <p className="mt-6 leading-relaxed">{product.shortDescription}</p>
 
-        <dl className="mt-6 grid grid-cols-2 gap-4 border-y border-arena py-4 text-sm">
+        <dl className="mt-6 grid grid-cols-2 gap-4 border-y border-arena py-4 text-sm sm:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3">
           <div>
             <dt className="text-xs text-concreto">Medidas (largo × ancho × alto)</dt>
             <dd className="mt-1">{formatDimensions(product.dimensions)}</dd>
+          </div>
+          <div>
+            <dt className="text-xs text-concreto">Peso</dt>
+            <dd className="mt-1">{formatCm(product.weightKg)} kg</dd>
           </div>
           <div>
             <dt className="text-xs text-concreto">Material</dt>
@@ -91,7 +108,7 @@ export function ProductDetail({ product }: { product: Product }) {
           </div>
         </dl>
 
-        <div className="mt-8">
+        <div ref={colorBlock} className="mt-8">
           <p className="mb-3 text-sm">
             Color: <span className="text-concreto">{colorName ?? 'elegí uno'}</span>
           </p>
@@ -111,7 +128,7 @@ export function ProductDetail({ product }: { product: Product }) {
 
         <div className="mt-8 flex gap-3">
           <QuantityInput label="Cantidad" value={quantity} onChange={(q) => setQuantity(Math.max(1, q))} />
-          <button type="button" onClick={handleAdd} className={buttonClass('primary', 'min-w-0 flex-1 px-4')}>
+          <button ref={mainButton} type="button" onClick={handleAdd} className={buttonClass('primary', 'min-w-0 flex-1 px-4')}>
             Agregar al carrito
           </button>
         </div>
@@ -140,6 +157,24 @@ export function ProductDetail({ product }: { product: Product }) {
           <li>— {site.madeIn}</li>
         </ul>
       </div>
+
+      {barVisible && (
+        <div
+          data-buybar
+          className="fixed inset-x-0 bottom-0 z-30 flex items-center gap-3 border-t border-arena bg-hueso/95 px-4 pt-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] backdrop-blur lg:hidden"
+        >
+          <div className="min-w-0 flex-1">
+            <p className="truncate text-xs tracking-[0.12em] uppercase">
+              {product.name}
+              {colorName && <span className="text-concreto normal-case"> · {colorName}</span>}
+            </p>
+            <p className="text-sm">{formatGs(product.price)}</p>
+          </div>
+          <button type="button" onClick={handleAdd} className={buttonClass('primary', 'h-11 px-5 text-xs')}>
+            {color ? 'Agregar al carrito' : 'Elegí tu color'}
+          </button>
+        </div>
+      )}
     </div>
   );
 }

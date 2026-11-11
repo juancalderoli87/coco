@@ -32,6 +32,13 @@ body {
   outline-offset: 3px;
 }
 
+/* El botón flotante de WhatsApp sube cuando aparece la barra de compra (celular) */
+@media (max-width: 1023px) {
+  body:has([data-buybar]) .wa-float {
+    bottom: 5.5rem;
+  }
+}
+
 @keyframes topbar {
   from {
     opacity: 0;

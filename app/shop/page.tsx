@@ -6,7 +6,7 @@ import { site, whatsappMessages } from '@/data/site';
 import { formatGs, whatsappLink } from '@/lib/format';
 
 export const metadata: Metadata = {
-  title: 'Shop',
+  title: 'Shop · Bachas de concreto',
   description: `${products.length} modelos de bachas de concreto de alta performance en ${colors.length} colores. Desde ${formatGs(lowestPrice())}. Envíos a todo el Paraguay.`,
 };
 

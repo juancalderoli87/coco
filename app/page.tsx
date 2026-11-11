@@ -245,11 +245,11 @@ export default function Home() {
                 Sumate al programa
               </ButtonLink>
               <ButtonLink
-                href="/shop"
+                href="/profesionales"
                 variant="secondary"
                 className="border-hueso text-hueso hover:bg-hueso hover:text-carbon"
               >
-                Ver colección
+                Conocé el programa
               </ButtonLink>
             </div>
           </div>

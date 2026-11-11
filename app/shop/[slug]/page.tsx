@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { AutoplayVideo } from '@/components/AutoplayVideo';
 import { ButtonLink } from '@/components/Button';
 import { ProductCard } from '@/components/ProductCard';
 import { ProductDetail } from '@/components/shop/ProductDetail';
-import { getProduct, productImage, products } from '@/data/products';
+import { getProduct, productImage, products, relatedProducts } from '@/data/products';
 import { site } from '@/data/site';
 import { formatDimensions, formatGs } from '@/lib/format';
 import { siteUrl } from '@/lib/url';
@@ -20,7 +21,7 @@ export const dynamicParams = false;
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = getProduct((await params).slug);
   if (!product) return {};
-  const title = `Bacha ${product.name}`;
+  const title = `Bacha de concreto ${product.name}`;
   const description = `${product.shortDescription} ${formatDimensions(product.dimensions)}. ${formatGs(product.price)}. Concreto de alta performance, hecha a mano en Paraguay.`;
   return {
     title,
@@ -34,14 +35,14 @@ export default async function ProductPage({ params }: Props) {
   const product = getProduct((await params).slug);
   if (!product) notFound();
 
-  const index = products.indexOf(product);
-  const related = [1, 2, 3, 4].map((n) => products[(index + n) % products.length]);
+  const related = relatedProducts(product);
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Product',
-    name: `Bacha ${product.name}`,
+    name: `Bacha de concreto ${product.name}`,
     description: product.shortDescription,
+    weight: { '@type': 'QuantitativeValue', value: product.weightKg, unitCode: 'KGM' },
     image: `${siteUrl}${productImage(product.slug)}`,
     brand: { '@type': 'Brand', name: 'COCO' },
     material: 'Concreto de alta performance',
@@ -66,7 +67,21 @@ export default async function ProductPage({ params }: Props) {
 
       <ProductDetail product={product} />
 
-      <section className="mt-20 grid gap-10 border-t border-arena pt-12 md:grid-cols-2 md:gap-16">
+      <section
+        className={`mt-20 grid gap-10 border-t border-arena pt-12 md:gap-16 ${
+          product.video ? 'md:grid-cols-[minmax(0,16rem)_1fr_1fr]' : 'md:grid-cols-2'
+        }`}
+      >
+        {product.video && (
+          <div className="relative aspect-[1080/1880] w-full max-w-xs overflow-hidden bg-white">
+            <AutoplayVideo
+              src={`/videos/bacha-${product.slug}.mp4`}
+              poster={`/videos/bacha-${product.slug}-poster.webp`}
+              label={`Video de la bacha ${product.name}`}
+              className="absolute inset-0 size-full object-cover"
+            />
+          </div>
+        )}
         <div>
           <h2 className="text-[11px] tracking-[var(--tracking-label)] text-concreto uppercase">Sobre esta bacha</h2>
           <p className="mt-4 max-w-prose leading-relaxed">
