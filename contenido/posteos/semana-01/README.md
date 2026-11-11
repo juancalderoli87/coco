@@ -4,7 +4,7 @@ Seis posteos listos para aprobar. Cada uno trae sus imágenes (1080 × 1350, for
 
 **Cómo aprobar:** marcá cada día con OK o decime qué cambiar. Los aprobados se programan en Meta Business Suite (Planificador), todos juntos, una sola vez por semana.
 
-**Antes de publicar, confirmá:** el ancho de la Bacha Barcelona figura como 16,5 cm en el catálogo. Si es un error de tipeo, corregilo también en el PDF.
+**Antes de publicar, confirmá dos datos:** (1) que el color va integrado en la masa del concreto, como dice el posteo del martes; (2) el ancho de la Bacha Barcelona figura como 16,5 cm en el catálogo. Si es un error de tipeo, corregilo también en el PDF.
 
 ---
 
@@ -13,7 +13,7 @@ Seis posteos listos para aprobar. Cada uno trae sus imágenes (1080 × 1350, for
 ![](1-lun-barcelona-1.jpg) ![](1-lun-barcelona-2.jpg)
 
 ```
-Barcelona. Estrías marcadas a mano, 46 cm de largo, 11 kg de concreto.
+Barcelona. Estrías marcadas, 46 cm de largo, 11 kg de concreto.
 
 Una bacha que no se esconde: se apoya sobre la mesada y define el baño entero.
 
