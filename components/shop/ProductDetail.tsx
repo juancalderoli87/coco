@@ -97,6 +97,7 @@ export function ProductDetail({ product }: { product: Product }) {
           <div>
             <dt className="text-xs text-concreto">Medidas (largo × ancho × alto)</dt>
             <dd className="mt-1">{formatDimensions(product.dimensions)}</dd>
+            {product.dimensionsNote && <dd className="mt-1 text-xs text-concreto">{product.dimensionsNote}</dd>}
           </div>
           <div>
             <dt className="text-xs text-concreto">Peso</dt>

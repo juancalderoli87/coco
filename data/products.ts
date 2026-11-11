@@ -51,6 +51,8 @@ export type Product = {
   price: number;
   /** Medidas en cm: largo × ancho × alto */
   dimensions: { length: number; width: number; height: number };
+  /** Opcional: aclaración que se muestra debajo de las medidas en la página del producto. */
+  dimensionsNote?: string;
   weightKg: number;
   colors: ColorSlug[];
   bestSeller: boolean;
@@ -80,7 +82,7 @@ export const products: Product[] = [
   { slug: 'madrid', name: 'Madrid', shape: 'ovalada', price: 1050500, dimensions: { length: 47, width: 27, height: 12 }, weightKg: 11.5, colors: allColors, bestSeller: false, shortDescription: 'Ovalada y profunda, con exterior acanalado.', longDescription: '' },
   { slug: 'lima', name: 'Lima', shape: 'rectangular', price: 1180000, dimensions: { length: 56, width: 36, height: 9 }, weightKg: 14.3, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Rectangular amplia, con tapa de desagüe cuadrada.', longDescription: '' },
   { slug: 'medellin', name: 'Medellín', shape: 'rectangular', price: 1180000, dimensions: { length: 48.5, width: 35, height: 11 }, weightKg: 21.6, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Rectangular, con tapa de desagüe rectangular.', longDescription: '' },
-  { slug: 'asuncion', name: 'Asunción', shape: 'redonda', price: 930000, dimensions: { length: 31, width: 31, height: 10 }, weightKg: 9.7, colors: allColors, bestSeller: true, drainCover: true, shortDescription: 'Redonda, de perfil limpio y tapa de desagüe redonda.', longDescription: '' },
+  { slug: 'asuncion', name: 'Asunción', shape: 'redonda', price: 930000, dimensions: { length: 31, width: 31, height: 10 }, dimensionsNote: '31 cm de diámetro arriba, 33 cm en la base.', weightKg: 9.7, colors: allColors, bestSeller: true, drainCover: true, shortDescription: 'Redonda, de perfil limpio y tapa de desagüe redonda.', longDescription: '' },
   { slug: 'montevideo', name: 'Montevideo', shape: 'ovalada', price: 930000, dimensions: { length: 40, width: 23, height: 11 }, weightKg: 18.9, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Ovalada, de paredes altas y tapa de desagüe redonda.', longDescription: '' },
   { slug: 'rio', name: 'Rio', shape: 'rectangular', price: 1050500, dimensions: { length: 37, width: 25, height: 9 }, weightKg: 10.4, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Rectangular compacta, con tapa de desagüe cuadrada.', longDescription: '' },
   { slug: 'galapagos', name: 'Galápagos', shape: 'rectangular', price: 1050500, dimensions: { length: 39, width: 28, height: 12.5 }, weightKg: 11.8, colors: allColors, bestSeller: false, drainCover: true, shortDescription: 'Rectangular de esquinas redondeadas, con tapa de desagüe redonda.', longDescription: '' },
