@@ -45,6 +45,7 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 - Pago por transferencia o efectivo al retirar; seña del 50% para comenzar la fabricación.
 - Showroom solo con cita previa.
 - Garantía: 1 año contra defectos de fabricación; se repone la bacha. COCO responde por daños de transporte (aviso dentro de 48 h).
+- Desagüe de 40 mm (medida estándar) en todos los modelos.
 - La sopapa no viene incluida. Los modelos con tapa de desagüe la incluyen.
 - La web queda protegida en Vercel (solo con sesión de Vercel) hasta ajustar todo.
 
@@ -63,7 +64,5 @@ Color: 00 principal, GAZ gris azulado, AMB amarillo ámbar, BLH blanco hueso, LA
 1. Activar Web Analytics en el proyecto de Vercel.
 2. Dominio propio y quitar la protección de Vercel.
 3. Pasar el repo de GitHub a privado.
-4. Datos legales: razón social, RUC, términos y privacidad.
-5. Fotos reales de obras y testimonios (sección Proyectos).
-6. Diámetro del desagüe de cada modelo.
-7. Si se cambia el catálogo PDF, copiarlo también a `public/catalogo-coco-2026.pdf`.
+4. Fotos reales de obras y testimonios (sección Proyectos).
+5. Si se cambia el catálogo PDF, copiarlo también a `public/catalogo-coco-2026.pdf`.

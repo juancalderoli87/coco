@@ -55,6 +55,9 @@ export const site = {
 
   deliveryTime,
 
+  /** Diámetro del desagüe, igual en todos los modelos */
+  drain: '40 mm',
+
   /** Seña para comenzar la fabricación */
   deposit: '50%',
 

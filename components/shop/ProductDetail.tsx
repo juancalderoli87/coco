@@ -103,6 +103,10 @@ export function ProductDetail({ product }: { product: Product }) {
             <dd className="mt-1">{formatCm(product.weightKg)} kg</dd>
           </div>
           <div>
+            <dt className="text-xs text-concreto">Desagüe</dt>
+            <dd className="mt-1">{site.drain} (medida estándar)</dd>
+          </div>
+          <div>
             <dt className="text-xs text-concreto">Material</dt>
             <dd className="mt-1">Concreto de alta performance</dd>
           </div>
