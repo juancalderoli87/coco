@@ -23,6 +23,19 @@ def key(n):
     return re.sub(r"[^a-z0-9]", "", n.split("/")[0])
 
 
+CANON = [("gran asunci", "Gran Asunción"), ("central", "Central y Cordillera"), ("cordillera", "Central y Cordillera"),
+         ("itap", "Itapúa"), ("alto paran", "Alto Paraná"), ("amambay", "Amambay"), ("caaguaz", "Caaguazú y Guairá"),
+         ("guair", "Caaguazú y Guairá"), ("chaco", "Chaco Central"), ("resto", "Resto del país")]
+
+
+def region(r):
+    r0 = unicodedata.normalize("NFKD", str(r)).encode("ascii", "ignore").decode().lower()
+    for k, v in CANON:
+        if r0.startswith(unicodedata.normalize("NFKD", k).encode("ascii", "ignore").decode()):
+            return v
+    return str(r).split("(")[0].strip()
+
+
 def cut(s, n):
     s = " ".join(str(s or "").split())
     return s if len(s) <= n else s[:n - 1].rstrip() + "…"
@@ -53,7 +66,7 @@ for d0 in dirs:
                 ids[pid] = c["nombre"]
                 bykey[key(c["nombre"])] = pid
                 print("nuevo ID", pid, c["nombre"])
-            c["_region"] = c.get("region") or reg_dir or "Gran Asunción"
+            c["_region"] = region(c.get("region") or reg_dir or "Gran Asunción")
             prev = emp.get(pid)
             if prev is None or (c.get("puntaje") or {}).get("total", 0) >= (prev.get("puntaje") or {}).get("total", 0):
                 emp[pid] = c
