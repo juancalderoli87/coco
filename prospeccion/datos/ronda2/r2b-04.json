@@ -1,0 +1,705 @@
+{
+ "lote": "r2b-04",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "PMP85 SA / SudEste Desarrollos (Alaia Barrio Cerrado)",
+   "segmento": "desarrolladora",
+   "ciudad": "Luque (Barrio Primavera)",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladoras (PMP85 SA y SudEste Desarrollos, dirigida por Ricardo Tomaselli segun prensa 2019) del barrio cerrado Alaia: dúplex de 91 a 137 m2 para primera vivienda en Luque. AlaiaUNO tenia 28 unidades y la segunda etapa ya habia empezado en 2019.",
+   "tipo_proyectos": [
+    "residencial (dúplex en barrio cerrado)"
+   ],
+   "estilo": "Racionalismo urbano (arquitecta Marcia Herrera segun prensa 2019); producto de entrada, no premium.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Alaia Barrio Cerrado / AlaiaUNO (28 dúplex, ~US$1,3 M)",
+     "anio": 2019,
+     "link": "https://infonegocios.com.py/default/alaia-barrio-cerrado-una-buena-opcion-para-la-familia-us-1-3-millones-de-inversion"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Prensa 2019 describe bloques de cemento, losa y fundaciones de hormigon (estructural), sin hormigon visto como terminacion."
+   },
+   "tamano_aprox": "Pequena: un barrio de ~28 dúplex mas segunda etapa (cantidad no confirmada). Empresa sin web activa hallada ni datos de equipo.",
+   "decisores": [
+    {
+     "nombre": "Ricardo Tomaselli",
+     "cargo": "Director de SudEste Desarrollos (segun prensa 2019)",
+     "fuente": "https://infonegocios.com.py/default/alaia-barrio-cerrado-una-buena-opcion-para-la-familia-us-1-3-millones-de-inversion"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/alaiabarriocerrado/",
+   "seguidores_ig": 1659,
+   "facebook": "https://www.facebook.com/AlaiaBarrioCerrado/",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/alaia-barrio-cerrado-una-buena-opcion-para-la-familia-us-1-3-millones-de-inversion",
+    "https://www.instagram.com/alaiabarriocerrado/",
+    "https://www.facebook.com/AlaiaBarrioCerrado/",
+    "https://www.infocasas.com.py/departamento-a-extrenar-en-luque-barrio-cerrado-alaia/191063808",
+    "https://www.infocasas.com.py/hermoso-duplex-barrio-cerrado-alaia-luque/190868930",
+    "https://clasipar.paraguay.com/inmuebles/casas/en-alquiler-duplex-a-estrenar-en-barrio-cerrado-alaia-2414817"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Producto de entrada (US$60-82k en 2019; ~Gs 440-460 M en avisos 2024): poco margen para UHPC. Solo tendria sentido una bacha/mesada estandar de bajo volumen; no priorizar.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 25/100: segmento de primera vivienda, proyecto chico y sin evidencia de obra nueva, contacto de la empresa no verificado."
+   },
+   "pendiente_verificar": "Telefono (0986) 525-436 y email: solo en prensa 2019, no_verificado. Sitio alaia.com.py citado por buscador pero el host no resuelve desde esta sesion (ENOTFOUND). Fecha del ultimo post de Instagram no legible (solo og:description). Si hay segunda etapa en curso. Razon social PMP85 SA sin registro encontrado.",
+   "actividad_reciente": {
+    "fecha": "2024-10",
+    "evidencia": "Aviso de alquiler de dúplex en Alaia publicado por CYN Real Estate el 24/10/2024 (marcado EXPIRADO); venta de dúplex a estrenar listada por REMAX el 24/06/2024. Actividad de la desarrolladora propiamente dicha no se pudo fechar.",
+    "url": "https://clasipar.paraguay.com/inmuebles/casas/en-alquiler-duplex-a-estrenar-en-barrio-cerrado-alaia-2414817"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Dúplex con 2-3 baños estandar (suite con vestidor, baño social); sin diseno destacado de baños (InfoCasas jun-2024)."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles: PVC en ventanas, termofusion, LED (prensa 2019).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 5,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 3,
+    "total": 25
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: racionalismo urbano generico, sin hormigon visto ni materiales nobles.",
+    "volumen": "6/25: ~28 dúplex + segunda etapa no cuantificada; empresa chica.",
+    "gama": "5/20: primera vivienda, US$60-82k (2019) / Gs 440-460 M (2024).",
+    "accesibilidad": "3/15: Instagram propio verificado y director nombrado solo por prensa; telefono/email no verificados en fuente propia.",
+    "oportunidad_inmediata": "3/10: sin obra en curso confirmada; solo unidades usadas/stock en avisos 2024."
+   },
+   "notas_investigacion": "Leidos: nota Infonegocios (oct-2019), 3 avisos InfoCasas/Clasipar 2024, IG (og:description via curl: 1.659 seguidores, 83 posts, bio 'La comodidad de una casa en la tranquilidad y seguridad de un barrio cerrado'), Facebook (login wall, sin datos). Fallaron: alaia.com.py y www.alaia.com.py (ENOTFOUND/CONNECT 000), IG por WebFetch (429), Facebook (login), LinkedIn no hallado. Busquedas de SudEste Desarrollos, Tomaselli y PMP85 SA sin resultados fuera de la nota 2019. Prensa: 2 busquedas (Infonegocios/La Nacion), ninguna nota posterior a 2019. Nota Luque La Nacion jun-2026 no menciona Alaia. Ronda 1 decia 'actividad vigente': no confirmada."
+  },
+  {
+   "nombre": "Grupo Alex SA (La Soñada Barrio Cerrado)",
+   "segmento": "desarrolladora",
+   "ciudad": "Luque (Zárate Isla, zona aeropuerto)",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Grupo Alex SA (tambien escrito 'Alex SA' en prensa) desarrolla La Soñada, barrio cerrado de 13 ha con 112 lotes desde 518 m2 y club house, donde cada comprador construye su casa (estilos contemporaneo o neoclasico segun La Nacion).",
+   "tipo_proyectos": [
+    "residencial (loteamiento en barrio cerrado)"
+   ],
+   "estilo": "Barrio cerrado de lujo con naturaleza (300+ arboles nativos, laguna, club house); casas a cargo del comprador, contemporaneas o neoclasicas.",
+   "proyectos_destacados": [
+    {
+     "nombre": "La Soñada Barrio Cerrado (112 lotes, 13 ha)",
+     "anio": 2023,
+     "link": "https://www.lanacion.com.py/negocios/2025/01/20/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Calles internas de hormigon (infraestructura); sin evidencia de hormigon visto en viviendas, que construye cada propietario."
+   },
+   "tamano_aprox": "112 lotes en 13 ha; obra de infraestructura ~90% en 2023 segun avisos. Tamano de la empresa sin datos.",
+   "decisores": [
+    {
+     "nombre": "Daisy Rodríguez",
+     "cargo": "Jefa comercial del proyecto (contenido patrocinado)",
+     "fuente": "https://www.lanacion.com.py/negocios/2025/01/20/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial/"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/lasonada_barriocerrado/",
+   "seguidores_ig": 15000,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.lanacion.com.py/negocios/2025/01/20/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial/",
+    "https://infonegocios.com.py/infobrand/senti-la-grandeza-del-barrio-cerrado-la-sonada",
+    "https://infonegocios.com.py/y-ademas/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial",
+    "https://www.instagram.com/lasonada_barriocerrado/",
+    "https://century21platinum.com.py/propiedad/la-sonada/",
+    "https://www.infocasas.com.py/proyectos/condominio-la-sonada/15477",
+    "https://www.infocasas.com.py/la-soada-condominio/190776321"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Cada propietario construye su casa (112 lotes, ticket alto): la via es el club house/areas comunes (mesadas, bachas de baños sociales) y una alianza con 2-3 constructoras/arquitectos que trabajan en el barrio, no la desarrolladora como compradora directa.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 47/100: público alto y 112 lotes, pero la desarrolladora no construye las viviendas y su contacto no esta verificado en fuente propia."
+   },
+   "pendiente_verificar": "Telefono 0974 415 000: solo en contenido patrocinado de prensa (no_verificado); IG sin telefono visible en og:description. Web lasonada.com.py figura 'Sitio web Inhabilitado' (hosting suspendido por http; https con certificado vencido). Fecha del ultimo post IG. Razon social/RUC de Grupo Alex SA. Avance real de obra y lotes vendidos en 2026.",
+   "actividad_reciente": {
+    "fecha": "2025-07",
+    "evidencia": "Century 21 Platinum actualizo el aviso de La Soñada el 07/07/2025; nota patrocinada La Nacion 20/01/2025; IG 404 posts (sin fecha legible).",
+    "url": "https://century21platinum.com.py/propiedad/la-sonada/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "La Soñada (lotes en venta; club house operativo)",
+     "tipo": "barrio cerrado, loteamiento",
+     "etapa": "en venta",
+     "unidades": 112,
+     "link": "https://century21platinum.com.py/propiedad/la-sonada/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Se venden lotes; el club house incluye gimnasio, saunas y yoga (Century 21), sin datos de baños/mesadas."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles (calles de hormigon, fibra optica subterranea).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 12,
+    "gama": 15,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 4,
+    "total": 47
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: estilo contemporaneo/neoclasico a eleccion del comprador, naturaleza y club house; sin hormigon visto confirmado.",
+    "volumen": "12/25: 112 lotes en 13 ha, pero la desarrolladora vende lotes (no construye casas).",
+    "gama": "15/20: lotes desde US$130.000 (500-1.500 m2), publico medio-alto/alto.",
+    "accesibilidad": "4/15: IG propio verificado y jefa comercial nombrada por prensa; telefono solo en prensa (no verificado), sin email.",
+    "oportunidad_inmediata": "4/10: lotes en venta; las viviendas las construyen terceros, oportunidad indirecta."
+   },
+   "notas_investigacion": "Leidos: La Nacion (ene-2025, patrocinado), 2 notas Infonegocios (jun-2024 y ene-2025), IG (og via curl: 15K seguidores, 404 posts, bio 'Exclusivo Barrio Cerrado donde la naturaleza y el confort se conjugan perfectamente'), Century 21 Platinum (07/2025), InfoCasas proyecto (ago-2023) e inmobiliaria 'La Soñada' (sin contacto visible). Fallaron: lasonada.com.py (hosting inhabilitado/SSL vencido), WebFetch de IG (429), Remax 143048016-185 (vacio), revistaplus (verificacion anti-bot), Facebook propio no hallado, Google Maps no cargo datos, LinkedIn no hallado. Un intento de leer IG por canales no oficiales fue bloqueado por el entorno y no se repitio. WhatsApp +595 987 326 129 del aviso de Century 21 Platinum es de la inmobiliaria intermediaria: no se registra como de la empresa."
+  },
+  {
+   "nombre": "Inmobiliaria 5Z (Monte Alto)",
+   "segmento": "desarrolladora",
+   "ciudad": "Luque",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "No se identifica una empresa 5Z activa. La unica mencion es un blog de InfoCasas de 2017 con el jefe comercial 'Francisco Delgado, Inmobiliaria 5Z' sobre el barrio cerrado Monte Alto (17 dúplex, Luque). La desarrolladora y constructora de Monte Alto segun Infonegocios (2016 y 2019) es Gonu S.A., perfilada aparte en este lote.",
+   "tipo_proyectos": [],
+   "estilo": "",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "tamano_aprox": "",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.infocasas.com.uy/blog/?p=1252",
+    "https://infonegocios.com.py/infomicasa/barrio-cerrado-monte-alto",
+    "https://infonegocios.com.py/default/condominio-monte-alto-una-inversion-segura-rodeada-de-area-verde"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Descartada: no hay empresa 5Z identificable ni actividad; el proyecto pertenece a Gonu S.A."
+   },
+   "pendiente_verificar": "",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Sin actividad de '5Z' posterior al blog de 2017.",
+    "url": "https://www.infocasas.com.uy/blog/?p=1252"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "materiales_y_proveedores_visibles": "",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 3,
+    "gama": 12,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 23
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: Monte Alto mitad minimalista, mitad ladrillo visto (blog 2017), pero no es de 5Z.",
+    "volumen": "3/25: 17 dúplex, proyecto terminado.",
+    "gama": "12/20: dúplex US$188-215k.",
+    "accesibilidad": "0/15: sin web, redes ni contacto propio hallados.",
+    "oportunidad_inmediata": "0/10: obra terminada (Infonegocios 2019: 14 unidades, una disponible)."
+   },
+   "notas_investigacion": "Busquedas: 'Inmobiliaria 5Z' y '5Z Inmobiliaria' (standard y extended) sin ninguna empresa con ese nombre; dominios 5z.com.py e inmobiliaria5z.com.py no resuelven (000). El blog InfoCasas Uruguay (jun-2017) solo cita al jefe comercial y datos de InfoCasas. Infonegocios (ene-2016) atribuye el desarrollo a Constructora Gonu, arq. Alfredo Segovia, ventas Rosarito Ramírez Inmobiliaria; Infonegocios oct-2019 confirma a Gonu SA como desarrolladora y constructora. La Nacion jun-2026 menciona 'Porta 04 Monte Alto' (266 deptos, 2028) en la misma calle, sin desarrollador nombrado: proyecto distinto, no verificado. Perfilada en su lugar: Gonu S.A.",
+   "descartada": true,
+   "motivo_descarte": "No existe/no se identifica una empresa 5Z activa; Monte Alto (2016-2019, terminado) es de Gonu S.A., que se perfila como ficha propia."
+  },
+  {
+   "nombre": "Gonu S.A. (GONU Desarrolladores Inmobiliarios; desarrolladora de Monte Alto)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Julio Correa 143 c/ Molas López, Asunción (pie de la web propia, ©2019)",
+   "anio_fundacion": 1999,
+   "que_hacen": "Estudio de arquitectura, constructora y desarrolladora que dice haber hecho 300-400 proyectos desde 1999, con foco declarado en viviendas unifamiliares de lujo y barrios cerrados en Asunción y Gran Asunción. Desarrolló Monte Alto (Luque), La Escondida 3 (Villa Aurelia, 12 casas con piscina desde US$585.000) y Pueblo del Río (Mariano Roque Alonso).",
+   "tipo_proyectos": [
+    "residencial unifamiliar de lujo",
+    "barrios cerrados",
+    "edificios de viviendas",
+    "comercial",
+    "reformas"
+   ],
+   "estilo": "Viviendas de lujo a medida con terminaciones personalizables (pisos, colores, griferías); Monte Alto: mitad minimalista, mitad ladrillo visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "La Escondida 3 (12 casas, 400-470 m2, Villa Aurelia)",
+     "anio": 2024,
+     "link": "https://www.elinmobiliario.com.py/post/barrio-cerrado-la-escondida-3-un-refugio-de-tranquilidad-y-comunidad"
+    },
+    {
+     "nombre": "Monte Alto (Luque, 14-17 dúplex)",
+     "anio": 2019,
+     "link": "https://infonegocios.com.py/default/condominio-monte-alto-una-inversion-segura-rodeada-de-area-verde"
+    },
+    {
+     "nombre": "Pueblo del Río (Surubi'i, 132 lotes, edificio Faro 1)",
+     "anio": 2020,
+     "link": "https://infonegocios.com.py/y-ademas/a-orillas-del-rio-en-surubi-i-proyectan-la-construccion-de-un-condominio-nautico-de-30-hectareas"
+    },
+    {
+     "nombre": "Parque Alcántara y Condominio Trinidad VI (en desarrollo segun El Inmobiliario oct-2023)",
+     "anio": 2023,
+     "link": "https://www.elinmobiliario.com.py/post/las-principales-desarrolladoras-inmobiliarias-en-paraguay"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Monte Alto usa ladrillo visto y estilo minimalista (Infonegocios 2016); no hay evidencia de hormigon visto."
+   },
+   "tamano_aprox": "Web propia: +25 años, +400 proyectos, +33 obras en ejecucion, +9 barrios cerrados, +555.500 m2 (cifras sin fecha, sitio ©2019); El Inmobiliario oct-2023: +426.000 m2 y 7 barrios cerrados. Miembro activo de CAPADEI.",
+   "decisores": [
+    {
+     "nombre": "Adolfo y Natalia (solo nombres de pila)",
+     "cargo": "Fundadores",
+     "fuente": "http://gonu.com.py/nosotros"
+    },
+    {
+     "nombre": "Sophia González",
+     "cargo": "Coordinadora/project manager de proyectos (prensa 2019 y 2020)",
+     "fuente": "https://infonegocios.com.py/default/condominio-monte-alto-una-inversion-segura-rodeada-de-area-verde"
+    }
+   ],
+   "web": "http://gonu.com.py/",
+   "instagram": "https://www.instagram.com/gonupy/",
+   "seguidores_ig": 17000,
+   "facebook": "https://www.facebook.com/GonuPy/",
+   "linkedin": "https://py.linkedin.com/company/gonu-s-a",
+   "email": "info@gonu.com.py",
+   "telefono": "+595 21 660 027 / +595 21 613 914",
+   "whatsapp": "+595 994 732 870",
+   "fuentes": [
+    "http://gonu.com.py/",
+    "http://gonu.com.py/contacto",
+    "http://gonu.com.py/nosotros",
+    "https://www.instagram.com/gonupy/",
+    "https://www.facebook.com/GonuPy/",
+    "https://www.elinmobiliario.com.py/post/barrio-cerrado-la-escondida-3-un-refugio-de-tranquilidad-y-comunidad",
+    "https://www.elinmobiliario.com.py/post/las-principales-desarrolladoras-inmobiliarias-en-paraguay",
+    "https://infonegocios.com.py/infomicasa/barrio-cerrado-monte-alto",
+    "https://infonegocios.com.py/default/condominio-monte-alto-una-inversion-segura-rodeada-de-area-verde",
+    "https://infonegocios.com.py/y-ademas/a-orillas-del-rio-en-surubi-i-proyectan-la-construccion-de-un-condominio-nautico-de-30-hectareas",
+    "https://capadei.org.py/tiposocio/activo/",
+    "https://www.infocasas.com.py/en-venta-hermosa-casa-en-condominio-la-escondida-iii/194054903"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Casas de US$585k+ con 400-470 m2, suites con vestidor, varios baños y griferías a elección del cliente: encaja una linea de bachas/mesadas UHPC como upgrade en La Escondida 3 y en Trinidad VI / Parque Alcántara. Primer contacto por info@gonu.com.py o WhatsApp de la web.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 68/100: lujo y personalizacion, contactos propios verificados; baja por cifras de volumen sin fecha y obra actual no confirmada."
+   },
+   "pendiente_verificar": "Fecha del ultimo post de IG (gonupy: 17K seguidores, 748 posts en og; un buscador mostraba 15K/535, cifra mas vieja). Estado actual (2026) de La Escondida 3 (entrega estimada ~ene-2026), Trinidad VI y Parque Alcántara. Apellidos de los fundadores. Reseñas de Google. Si 'Pueblo del Río' sigue activo (pueblodelrio.com.py no resuelve). DNCP no consultado (no es constructora publica). Perfil LinkedIn no leido (403).",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Aviso InfoCasas de una casa de La Escondida III publicado el 30/07/2026 por Century 21 Alliance (terceros) a US$859.947; nota de El Inmobiliario sobre La Escondida 3 actualizada el 29/06/2025; Capadei lo lista como socio activo.",
+    "url": "https://www.infocasas.com.py/en-venta-hermosa-casa-en-condominio-la-escondida-iii/194054903"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "La Escondida 3 (Villa Aurelia)",
+     "tipo": "12 casas con piscina, 400-470 m2",
+     "etapa": "en obra / en venta (obra iniciada ~jul-2024, entrega estimada 16-18 meses; reventa listada en jul-2026)",
+     "unidades": 12,
+     "link": "https://www.elinmobiliario.com.py/post/barrio-cerrado-la-escondida-3-un-refugio-de-tranquilidad-y-comunidad"
+    },
+    {
+     "nombre": "Condominio Trinidad VI",
+     "tipo": "barrio cerrado",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.elinmobiliario.com.py/post/las-principales-desarrolladoras-inmobiliarias-en-paraguay"
+    },
+    {
+     "nombre": "Parque Alcántara",
+     "tipo": "edificio de viviendas",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.elinmobiliario.com.py/post/las-principales-desarrolladoras-inmobiliarias-en-paraguay"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "La Escondida 3: cocina grande, suite con vestidor, baño social y baños compartidos; el comprador elige pisos, colores y griferías (El Inmobiliario 2024). Un aviso de 2026 menciona 5 baños + 1 medio baño."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas de griferias/bachas visibles en fuentes leidas; Monte Alto 2016: griferia FV, porcelanato y muebles Achon (Infonegocios).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 15,
+    "gama": 17,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 6,
+    "total": 68
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: viviendas de lujo a medida y terminaciones personalizables; minimalista/ladrillo visto en Monte Alto, sin hormigon visto probado.",
+    "volumen": "15/25: dice +400 proyectos y 33 obras en ejecucion, pero cifras sin fecha (web ©2019) y proyectos recientes de 12 casas.",
+    "gama": "17/20: casas desde US$585.000 y 'lideres en viviendas unifamiliares de lujo'.",
+    "accesibilidad": "12/15: telefonos, email, WhatsApp, direccion e IG en fuente propia; solo fundadores por nombre de pila y coordinadora por prensa.",
+    "oportunidad_inmediata": "6/10: La Escondida 3 recien entregando o ya entregada; Trinidad VI y Parque Alcántara sin etapa confirmada."
+   },
+   "notas_investigacion": "Hallada al seguir el rastro de 'Inmobiliaria 5Z (Monte Alto)'. Leidos por curl: gonu.com.py (home, nosotros, contacto, obras, servicios: tel:, wa.me, mailto texto info@gonu.com.py, enlaces a IG/FB), IG og (17K seguidores, 748 posts, 'Gonu S.A'), enlace corto de Google Maps (resuelve a la ficha 'Gonu S.A.' en Asunción, sin reseñas legibles), Facebook (login wall). Prensa: El Inmobiliario (oct-2023; jul-2024/jun-2025), Infonegocios (2016, 2019, 2020), Capadei (socio activo). Fallaron: LinkedIn 403, WebFetch IG 429, pueblodelrio.com.py (no resuelve), InfoCasas pagina 192457812 devolvio un listado generico. La web propia puede estar desactualizada (©2019, cifras 300/400 proyectos entre paginas)."
+  },
+  {
+   "nombre": "Club Design (Nativus Barrio Cerrado)",
+   "segmento": "desarrolladora",
+   "ciudad": "Luque (Mora Cué, Ruta Luque-Limpio)",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Club Design nació como Club Jardín (paisajismo, hace ~7 años segun El Inmobiliario 2024) y pasó a arquitectura, construcción y desarrollo inmobiliario. Desarrolla Nativus, barrio cerrado boutique de 19 casas desde 126 m2 en lotes de 188 m2, construido por Benítez Bittar con financiación GNB.",
+   "tipo_proyectos": [
+    "residencial (barrio cerrado boutique)"
+   ],
+   "estilo": "Sostenible y paisajístico: club house, pileta, planta de tratamiento, arbolado replantado; arquitectura sin autor nombrado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Nativus Barrio Cerrado (19 casas, Mora Cué)",
+     "anio": 2025,
+     "link": "https://www.abc.com.py/empresariales/2025/08/16/palada-inicial-del-barrio-cerrado-nativus-en-luque/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fuentes leidas no describen materiales ni terminaciones."
+   },
+   "tamano_aprox": "Proyecto de 19 casas; empresa chica/mediana (sin datos de equipo).",
+   "decisores": [
+    {
+     "nombre": "José Bresanovich",
+     "cargo": "CEO de Club Design",
+     "fuente": "https://infonegocios.com.py/infomicasa/nativus-el-barrio-del-futuro-ubicado-en-luque-que-generara-plusvalia-desde-el-dia-uno"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/nativuspy/",
+   "seguidores_ig": 5085,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": "+595 993 603 009",
+   "fuentes": [
+    "https://linktr.ee/nativuspy",
+    "https://www.instagram.com/nativuspy/",
+    "https://www.abc.com.py/empresariales/2025/08/16/palada-inicial-del-barrio-cerrado-nativus-en-luque/",
+    "https://infonegocios.com.py/infomicasa/nativus-el-barrio-del-futuro-ubicado-en-luque-que-generara-plusvalia-desde-el-dia-uno",
+    "https://www.elinmobiliario.com.py/post/nativus-barrio-cerrado-innovaci%C3%B3n-y-sostenibilidad-en-luque",
+    "https://www.infocasas.com.py/nativus-barrio-residencial-cerrado-en-luque/193095237",
+    "https://maps.app.goo.gl/zmsXmy9XdYd1oEMH9"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "19 casas con suite con vestidor, baño social y baño compartido en obra con entrega hacia fines de 2026: ofrecer bachas y mesadas UHPC como paquete de terminaciones/upgrade antes del cierre de obra. Contactar por el WhatsApp del Linktree de Nativus.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 46/100: proyecto en obra con decisor y WhatsApp propio, pero chico y de gama media-alta, sin terminaciones definidas."
+   },
+   "pendiente_verificar": "Web nativus.com.py (no resuelve desde esta sesion: ENOTFOUND/502) y clubdesign.com.py (Cloudflare 403). Instagram de Club Design (@clubdesignpy, enlazado en el Linktree) devolvio pagina generica: sin seguidores verificados. Telefono fijo y email: no publicados en fuentes leidas. Razon social de Club Design. Terminaciones/marcas de baños y cocinas. Estado de obra 2026 (entrega prevista dic-2026). Facebook/LinkedIn no hallados. Nota: dos listados de InfoCasas/Century 21 muestran precios distintos (US$118.500 a 162.980).",
+   "actividad_reciente": {
+    "fecha": "2025-11",
+    "evidencia": "Palada inicial reportada por ABC Color el 16/08/2025; aviso InfoCasas de Nativus publicado el 13/11/2025 por Remax Conexión; IG @nativuspy con 125 posts (sin fecha legible).",
+    "url": "https://www.abc.com.py/empresariales/2025/08/16/palada-inicial-del-barrio-cerrado-nativus-en-luque/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Nativus Barrio Cerrado",
+     "tipo": "19 casas/dúplex de 126-150 m2, club house, pileta",
+     "etapa": "en obra (inicio ago-2025, ~12 meses; entrega prevista dic-2026)",
+     "unidades": 19,
+     "link": "https://www.elinmobiliario.com.py/post/nativus-barrio-cerrado-innovaci%C3%B3n-y-sostenibilidad-en-luque"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Tipologia estandar: cocina, baño social, suite con vestidor y dos dormitorios con baño compartido (El Inmobiliario); sin terminaciones destacadas."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles; constructora Benítez Bittar (34 años), financiación Banco GNB.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 6,
+    "gama": 11,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 8,
+    "total": 46
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: diseño sostenible y paisajístico, boutique; sin evidencia de hormigon visto ni materiales nobles.",
+    "volumen": "6/25: una sola obra de 19 casas.",
+    "gama": "11/20: US$119k-163k, medio/medio-alto.",
+    "accesibilidad": "9/15: WhatsApp e IG propios verificados (Linktree oficial) y CEO nombrado; sin telefono ni email.",
+    "oportunidad_inmediata": "8/10: obra iniciada en ago-2025 con entrega prevista dic-2026, terminaciones aun por cerrar."
+   },
+   "notas_investigacion": "Leidos: Infonegocios (may-2025), ABC (ago-2025), El Inmobiliario (may-2024, act. ago-2025), InfoCasas (nov-2025), Linktree oficial nativuspy (JSON: wa.me/595993603009, IG nativuspy, IG clubdesignpy, Showroom en Google Maps), IG @nativuspy por og (5.085 seguidores, 125 posts, 'Nativus | Barrio Cerrado | Luque Paraguay'). El enlace corto de Maps resuelve a la ficha 'Club Design' en Asunción (coordenadas -25.2791,-57.5534) sin datos de reseñas legibles. Fallaron: nativus.com.py, clubdesign.com.py (403), IG @clubdesignpy (generico), Facebook/LinkedIn no hallados, Remax 143063221-16 (plantilla vacia), C21 immobel (404). Ronda 1 decia 'Nativus (barrio cerrado)' sin empresa: corregido a Club Design."
+  },
+  {
+   "nombre": "Agriterra S.A. / Grupo Agri Terra (Aldera Resort Life – Barrio Ámbar)",
+   "segmento": "desarrolladora",
+   "ciudad": "Ruta Luque–San Bernardino (a ~25 min de Asunción; Google Maps ubica San Bernardino)",
+   "region": "Central y Cordillera",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Grupo Agri Terra (agro, fundado por los hermanos Pfau en 2012; CEO Carsten Pfau) desarrolla, a traves de Agriterra S.A., Aldera Resort Life: barrio cerrado de 1.600 ha y 8 barrios previstos. Ámbar es el primero: ~400 casas en 6 tipologias de 140 a 520 m2 con lote de 1.000-2.000 m2, desde US$169.000 a US$482.000.",
+   "tipo_proyectos": [
+    "residencial premium (barrio cerrado/resort)",
+    "comercial",
+    "hotelero",
+    "educativo"
+   ],
+   "estilo": "Fachadas de ladrillo visto, piedra natural y cemento lavado; resort con golf de 27 hoyos, laguna, pista de aterrizaje, hotel y shopping previstos.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Aldera Resort Life – Barrio Ámbar (~400 casas)",
+     "anio": 2024,
+     "link": "https://aldera.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "El aviso de la Tipologia 1 en la web propia lista fachadas 'Ladrillo Visto, Piedra Natural, Cemento Lavado' (cemento lavado, no hormigon visto estricto): https://aldera.com.py/producto/tipo-1/"
+   },
+   "tamano_aprox": "Muy grande: 1.600 ha, ~4.800 casas previstas (La Nacion oct-2024), 8 barrios; Ámbar ~400 casas; grupo con agro e industria en Paraguay.",
+   "decisores": [
+    {
+     "nombre": "Carsten Pfau",
+     "cargo": "CEO de Grupo Agri Terra / voz del proyecto en nota ABC enlazada en la web propia",
+     "fuente": "https://aldera.com.py/noticias/nota-en-abc-gente-negocios/"
+    },
+    {
+     "nombre": "Salim Salemma",
+     "cargo": "Director comercial de Aldera Resort Life (La Nacion nov-2024, patrocinado)",
+     "fuente": "https://www.lanacion.com.py/negocios/2024/11/28/ambar-el-precio-por-metro-cuadrado-mas-ventajoso-de-la-ruta-luque-san-bernardino/"
+    },
+    {
+     "nombre": "Camila Giesbrecht",
+     "cargo": "Asesora comercial de Aldera (Infonegocios feb-2025)",
+     "fuente": "https://infonegocios.com.py/default/aldera-barrio-cerrado-de-1-600-hectareas-que-contara-con-pista-de-aterrizaje-golf-y-mas-de-150-actividades"
+    }
+   ],
+   "web": "https://aldera.com.py/",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": "+595 986 293 444",
+   "whatsapp": null,
+   "fuentes": [
+    "https://aldera.com.py/",
+    "https://aldera.com.py/producto/tipo-1/",
+    "https://aldera.com.py/noticias/",
+    "https://aldera.com.py/noticias/nota-en-abc-gente-negocios/",
+    "https://aldera.com.py/noticias/avances-de-obra-marzo-2025/",
+    "https://aldera.com.py/noticias/palada-inicial/",
+    "https://www.lanacion.com.py/negocios/2024/11/28/ambar-el-precio-por-metro-cuadrado-mas-ventajoso-de-la-ruta-luque-san-bernardino/",
+    "https://www.lanacion.com.py/negocios/2024/10/18/aldera-resort-life-se-destaca-como-el-barrio-cerrado-mas-completo-de-la-region/",
+    "https://infonegocios.com.py/default/aldera-barrio-cerrado-de-1-600-hectareas-que-contara-con-pista-de-aterrizaje-golf-y-mas-de-150-actividades"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Ámbar tiene 6 tipologias con 3-8 dormitorios y 2-6 baños, lo que implica cientos de juegos de baños y cocinas. Proponer a Aldera un set de bachas/mesadas UHPC estandarizado para las tipologias 3 a 6 (US$226k-482k) y para el hotel y spa previstos.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 68/100: escala y gama altas y telefono propio, pero sin actividad fechada despues de mar-2025 y sin redes ni email verificados."
+   },
+   "pendiente_verificar": "Actividad 2025-2026: ultima noticia en la web propia es mar-2025 y no se hallaron notas de 2026 (si hay obra y entregas, el puntaje de oportunidad y volumen sube y el fit pasaria a A). Instagram/Facebook oficiales de Aldera no hallados (busquedas y 8 handles probados sin resultado). Email no publicado (solo formulario). Aclarar si +595 986 293 444 es de Agriterra o de una plataforma de ventas (el aviso legal de la web dice que Aldera actua como intermediaria de empresas asociadas). Razon social 'Agriterra S.A.' solo figura en la nota de ABC copiada en la web propia. Google Maps: solo embed sin datos.",
+   "actividad_reciente": {
+    "fecha": "2025-03",
+    "evidencia": "Avances de obra marzo 2025 en la web propia (apertura de caminos y laguna); La Nacion nov-2024 y Infonegocios feb-2025 (patrocinadas). Sin evidencia de 2026.",
+    "url": "https://aldera.com.py/noticias/avances-de-obra-marzo-2025/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Aldera Resort Life – Barrio Ámbar",
+     "tipo": "~400 casas, 6 tipologias de 140-520 m2",
+     "etapa": "en venta y obras de infraestructura (palada inicial 21-dic-2024; primeras casas previstas para fines de 2025 segun prensa)",
+     "unidades": 400,
+     "link": "https://aldera.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Tipologias con 2-6 baños (Tipo 6: 520 m2, 5 dormitorios, 6 baños) y suites; sin diseno de baños publicado. https://aldera.com.py/"
+   },
+   "materiales_y_proveedores_visibles": "Fachadas ladrillo visto, piedra natural y cemento lavado; financiación Banco GNB; sin marcas de sanitarios.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 20,
+    "gama": 15,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 6,
+    "total": 68
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: ladrillo visto, piedra natural y cemento lavado en fachadas; estilo resort, no minimalista puro.",
+    "volumen": "20/25: 1.600 ha y ~400 casas en Ámbar (4.800 previstas), descontado porque no hay evidencia de ejecucion en 2026.",
+    "gama": "15/20: US$169k-482k con lotes de 1.000-2.000 m2, alto.",
+    "accesibilidad": "9/15: telefono en la web propia y decisores nombrados (Pfau en la web, Salemma/Giesbrecht en prensa); sin email ni redes verificadas.",
+    "oportunidad_inmediata": "6/10: ventas abiertas y obras de infraestructura en 2025; viviendas aun no confirmadas en construccion."
+   },
+   "notas_investigacion": "Ronda 1 listaba 'Ámbar' sin empresa: corregido; Ámbar es un barrio de Aldera Resort Life, desarrollado por Agriterra S.A./Grupo Agri Terra segun la propia web (nota ABC) y La Nacion/Infonegocios. Leidos por curl: aldera.com.py home, noticias (7 notas), avances marzo-2025, palada inicial, ABC, producto/tipo-1 y tipo-6 (+595 986 293 444 y fachadas). WhatsApp wa.me no hallado. Prensa: La Nacion (oct y nov 2024), Infonegocios (feb-2025), notas 2023 del grupo, busquedas agro Agri Terra. Fallaron: /contacto y /nosotros (404), IG/FB/LinkedIn no hallados, Google Maps solo embed. Region asignada Central y Cordillera porque el proyecto esta sobre la ruta fuera del casco de Luque y el embed ubica San Bernardino."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Aquaterra (AGB Constructora)",
+   "link": "https://infonegocios.com.py/default/una-isla-urbana-en-luque-aquaterra-ya-comercializo-el-60-de-la-totalidad-del-barrio-cerrado",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Terra Viva Residencias",
+   "link": "https://infonegocios.com.py/default/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Tavamay Mora Cue",
+   "link": "https://infonegocios.com.py/default/barrio-cerrado-tavamay-mora-cue-ofrece-seguridad-naturaleza-y-tranquilidad-para-la-familia",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Villa del Bosque",
+   "link": "https://infonegocios.com.py/default/villa-del-bosque-barrio-cerrado-una-inversion-de-us-2-millones-rodeada-de-verde-en-luque",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Arbolia Luque (Green Paraná)",
+   "link": "https://www.lanacion.com.py/negocios/2026/06/21/luque-se-erige-como-polo-de-desarrollo-inmobiliario/",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Grupo OGA (Paseo Rosario / Oga Ciudad Jardín)",
+   "link": "https://www.lanacion.com.py/negocios/2025/10/21/grupo-oga-da-inicio-a-paseo-rosario-su-nuevo-desarrollo-urbano-en-luque/",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Grupo ECIPSA (Natania 90)",
+   "link": "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Benítez Bittar Constructora (constructora de Nativus, 34 años)",
+   "link": "https://www.elinmobiliario.com.py/post/nativus-barrio-cerrado-innovaci%C3%B3n-y-sostenibilidad-en-luque",
+   "ciudad": "Gran Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Obrasur S.A. (programa Mi Hogar)",
+   "link": "https://infonegocios.com.py/amp/y-ademas/casas-premium-a-precios-accesibles-mira-lo-que-plantea-esta-constructora",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Rosarito Ramírez Inmobiliaria (comercializadora de Monte Alto/La Trinidad)",
+   "link": "https://infonegocios.com.py/infomicasa/barrio-cerrado-monte-alto",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  }
+ ]
+}
