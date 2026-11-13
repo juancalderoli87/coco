@@ -1,0 +1,669 @@
+{
+ "lote": "r2b-02",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Tierra Alta S.A.",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Avda. Guido Boggiani 6945 esq. Mayor Eduardo Vera, Asunción (https://tierraalta.com.py/contacto/)",
+   "anio_fundacion": 2005,
+   "que_hacen": "Desarrolladora y constructora de edificios residenciales de hasta 8 pisos y 49-60 departamentos en barrios residenciales de Asunción (Villa Morra, Mcal. Estigarribia, etc.), con foco en relación precio-calidad. Según su web entregó 8 edificios (Santa Rosa 2013 a Mburucuya 2022); un portal de venta habla de 11 proyectos entregados. Hoy comercializa Tierra Alta Weiss y Hassler.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura"
+   ],
+   "estilo": "Contemporáneo convencional, producto medio / medio-alto orientado a precio-calidad; sin discurso de diseño minimalista ni materiales nobles",
+   "proyectos_destacados": [
+    {
+     "nombre": "Tierra Alta Weiss (60 dptos, 6 pisos, Villa Morra)",
+     "anio": 2025,
+     "link": "https://tierraalta.com.py/tierra-alta-weiss/"
+    },
+    {
+     "nombre": "Tierra Alta Hassler (49 dptos, 7 pisos, Av. Boggiani)",
+     "anio": null,
+     "link": "https://tierraalta.com.py/hassler/"
+    },
+    {
+     "nombre": "Tierra Alta Mburucuya (entregado 2022)",
+     "anio": 2022,
+     "link": "https://tierraalta.com.py/quienes-somos/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas de proyecto (Weiss, Hassler) no detallan acabados; no hay evidencia de hormigón visto."
+   },
+   "tamano_aprox": "Mediana: 8-11 edificios entregados desde 2005; 1-2 lanzamientos simultáneos de 49-60 unidades",
+   "decisores": [
+    {
+     "nombre": "Javier Díaz de Vivar",
+     "cargo": "Presidente (a 2015, según prensa; sin confirmar vigencia)",
+     "fuente": "https://infonegocios.com.py/default/tierra-alta-s-a-inicia-su-sexto-emprendimiento"
+    },
+    {
+     "nombre": "Fernando Lozano",
+     "cargo": "Socio fundador (prensa 2015)",
+     "fuente": "https://infonegocios.com.py/default/tierra-alta-s-a-inicia-su-sexto-emprendimiento"
+    },
+    {
+     "nombre": "Rafael Angulo",
+     "cargo": "Arquitecto, socio fundador (prensa 2015)",
+     "fuente": "https://infonegocios.com.py/default/tierra-alta-s-a-inicia-su-sexto-emprendimiento"
+    }
+   ],
+   "web": "https://tierraalta.com.py/",
+   "instagram": "https://www.instagram.com/tierraaltapy/",
+   "seguidores_ig": 5328,
+   "facebook": "https://www.facebook.com/TierraAltaPy/",
+   "linkedin": null,
+   "email": "informes@tierraalta.com.py",
+   "telefono": "+595 982 525500",
+   "whatsapp": "+595 982 525500",
+   "fuentes": [
+    "https://tierraalta.com.py/",
+    "https://tierraalta.com.py/contacto/",
+    "https://tierraalta.com.py/quienes-somos/",
+    "https://tierraalta.com.py/tierra-alta-weiss/",
+    "https://tierraalta.com.py/hassler/",
+    "https://www.infocasas.com.py/departamentos-en-tierra-alta-weiss/193204933",
+    "https://infonegocios.com.py/default/tierra-alta-s-a-inicia-su-sexto-emprendimiento",
+    "https://www.instagram.com/tierraaltapy/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Edificios de 49-60 unidades con baños sociales y en suite en cada tipología: entrada por volumen con una línea de bachas/mesadas UHPC como upgrade opcional o 'unidad modelo' en Weiss. Posicionamiento precio-calidad: hay que presentar COCO como diferencial de marca, no de costo.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Volumen y proyectos activos (Weiss, Hassler) con contactos verificados, pero perfil medio y sin afinidad estética evidente."
+   },
+   "pendiente_verificar": "Fecha del último post y temas de Instagram (solo se leyó el conteo de seguidores en la meta de perfil). Facebook y LinkedIn bloqueados. Vigencia de decisores (nombres de prensa 2015). Estado real de obra de Weiss y Hassler. Reseñas Google no accesibles.",
+   "actividad_reciente": {
+    "fecha": "2025-12",
+    "evidencia": "Lanzamiento 'Tierra Alta Weiss' (60 dptos, en pozo) listado en InfoCasas el 15-dic-2025 por Century 21 Alliance; la web propia lo muestra como 'Nuevo lanzamiento'",
+    "url": "https://www.infocasas.com.py/departamentos-en-tierra-alta-weiss/193204933"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Tierra Alta Weiss",
+     "tipo": "residencial, 60 dptos, 6 pisos, Villa Morra",
+     "etapa": "en venta",
+     "unidades": 60,
+     "link": "https://tierraalta.com.py/tierra-alta-weiss/"
+    },
+    {
+     "nombre": "Tierra Alta Hassler",
+     "tipo": "residencial, 49 dptos, 7 pisos, Av. Boggiani",
+     "etapa": "en venta",
+     "unidades": 49,
+     "link": "https://tierraalta.com.py/hassler/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Las fichas listan baños en suite y sociales como característica de planta, pero sin detalle de acabados ni protagonismo de diseño."
+   },
+   "materiales_y_proveedores_visibles": "No se publican marcas. InfoCasas solo dice 'materiales y terminaciones de calidad'.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 14,
+    "gama": 12,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 8,
+    "total": 53
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: producto contemporáneo estándar; sin evidencia de hormigón visto ni discurso de diseño de interiores.",
+    "volumen": "14/25: 8-11 edificios en 20 años, 109 unidades entre Weiss y Hassler en comercialización.",
+    "gama": "12/20: medio / medio-alto (Weiss desde USD 111k a USD 295k según InfoCasas), posicionado en precio-calidad.",
+    "accesibilidad": "11/15: teléfono, WhatsApp, email e IG en su web (+4); decisor solo por prensa 2015 sin confirmar vigencia (-4).",
+    "oportunidad_inmediata": "8/10: dos proyectos en comercialización/obra donde aún se definen terminaciones de baños y cocinas."
+   },
+   "notas_investigacion": "Leídas: home, /contacto/, /quienes-somos/, /tierra-alta-weiss/, /hassler/ de tierraalta.com.py; nota Infonegocios 2015; InfoCasas Weiss (Century 21). Email: en el texto visible de la web aparece mirtaga@hotmail.com (parece cuenta personal, NO registrado); el enlace mailto y /contacto/ dan informes@tierraalta.com.py (registrado). Teléfono secundario (0984) 650 548 visible en home, no registrado por ser de contacto individual dudoso. Instagram: curl a instagram.com devolvió meta con 5,328 seguidores, 526 posts (una vez; el segundo intento devolvió login); sin fechas de posts. Facebook: login wall. LinkedIn/Maps: no accesibles. ArchDaily/Plataforma/Archello/Divisare: búsqueda sin resultados para la empresa. Prensa: Infonegocios 2015-2017 (sin notas 2025-26 halladas). InfoCasas Hassler URL dio 404; web afirma 'Proyectos terminados' para Hassler mientras la ficha usa futuro: etapa ambigua. Dato de ronda 1: no había ficha previa."
+  },
+  {
+   "nombre": "AZ Inversiones (Grupo Sindec)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Edificio Zenith Félix Bogado, Piso 8, Asunción (https://azinversiones.com/contacto/)",
+   "anio_fundacion": 2011,
+   "que_hacen": "Desarrolladora de edificios residenciales y 'work & living / apart-living' en el centro y barrios céntricos de Asunción (línea Zenith, España Las Mercedes, Mondrian Villa Morra, Rembrandt). Forma parte del Grupo Sindec; administra alquileres vía Urbania. Historia desde octubre 2011 según su web; prensa 2026 habla de 15 años.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "apart-living / work & living",
+    "inversión para renta"
+   ],
+   "estilo": "Contemporáneo urbano, producto compacto para inversores y usuarios finales de clase media-alta; referencias neoclásicas/arcos y carpintería negra en Zenith Colombia",
+   "proyectos_destacados": [
+    {
+     "nombre": "España Las Mercedes (2 torres, 197 dptos)",
+     "anio": 2026,
+     "link": "https://revistaplus.com.py/2026/05/29/az-inversiones-consolida-su-expansion-urbana-inaugura-espana-las-mercedes-y-completa-su-decimo-proyecto-en-paraguay/"
+    },
+    {
+     "nombre": "Zenith México (work & living)",
+     "anio": 2024,
+     "link": "https://foco.lanacion.com.py/2024/02/29/zenith-mexico-redefine-el-paisaje-asunceno-con-su-concepto-work-living/"
+    },
+    {
+     "nombre": "Zenith Félix Bogado (primer work & living del país)",
+     "anio": 2020,
+     "link": "https://www.abc.com.py/edicion-impresa/suplementos/comercial/inauguracion-edificio-zenith/2020/11/28/se-inauguro-el-primer-edificio-work-living-del-paraguay/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fuentes leídas describen acristalamiento piso-techo (España Las Mercedes) y estética neoclásica con perfiles negros (Zenith Colombia); no mencionan hormigón visto."
+   },
+   "tamano_aprox": "Grande para el piloto: 10 proyectos entregados en 15 años (prensa 2026), 197 dptos en España Las Mercedes y 112 en Zenith Colombia",
+   "decisores": [
+    {
+     "nombre": "Milton Jara",
+     "cargo": "Director de AZ",
+     "fuente": "https://azinversiones.com/nosotros/"
+    }
+   ],
+   "web": "https://azinversiones.com/",
+   "instagram": "https://www.instagram.com/azinversiones/",
+   "seguidores_ig": 30000,
+   "facebook": "https://www.facebook.com/azinversiones",
+   "linkedin": "https://py.linkedin.com/company/az-inversiones-sa",
+   "email": "info@azinversiones.com",
+   "telefono": "+595 21 452 000 / +595 982 971000",
+   "whatsapp": null,
+   "fuentes": [
+    "https://azinversiones.com/",
+    "https://azinversiones.com/nosotros/",
+    "https://azinversiones.com/contacto/",
+    "https://azinversiones.com/espana-las-mercedes/",
+    "https://revistaplus.com.py/2026/05/29/az-inversiones-consolida-su-expansion-urbana-inaugura-espana-las-mercedes-y-completa-su-decimo-proyecto-en-paraguay/",
+    "https://www.revistaceopy.com/2026/03/09/el-liderazgo-inmobiliario-se-construye-con-experiencia-real/",
+    "https://www.elinmobiliario.com.py/post/zenith-colombia-un-nuevo-concepto-de-apart-living-que-apuesta-por-el-centro-hist%C3%B3rico-de-asunci%C3%B3n",
+    "https://infonegocios.com.py/default/desarrollo-en-altura-az-inversiones-se-propone-reemplazar-las-cuotas-de-alquiler-por-las-del-departamento-propio-en-asuncion",
+    "https://www.instagram.com/azinversiones/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Torres de 112-197 unidades con unidades compactas donde el baño/cocina define el producto: bachas y mesadas UHPC livianas como sello de diseño en Zenith Colombia (preventa, entrega 1S 2029) o en la próxima línea Zenith. Hablar con Milton Jara y con DE Constructora (constructora de Zenith Colombia).",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Buen volumen y contactos verificados con decisor identificado; estética urbana contemporánea pero sin evidencia de hormigón visto y proyecto en preventa con entrega lejana."
+   },
+   "pendiente_verificar": "Últimos 12 posts de Instagram (no legibles; solo conteo de seguidores en meta). Facebook/LinkedIn bloqueados. WhatsApp: la web tiene una sección WhatsApp sin número. Acabados/proveedores de baños no publicados. Reseñas Google no accesibles. Fecha de inicio de obra de Zenith Colombia.",
+   "actividad_reciente": {
+    "fecha": "2026-05",
+    "evidencia": "Inauguración de España Las Mercedes (décimo proyecto), nota Revista Plus 29-may-2026; entrevista a Milton Jara en Revista CEO mar-2026",
+    "url": "https://revistaplus.com.py/2026/05/29/az-inversiones-consolida-su-expansion-urbana-inaugura-espana-las-mercedes-y-completa-su-decimo-proyecto-en-paraguay/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Zenith Colombia (apart-living, 19 pisos)",
+     "tipo": "residencial/apart-living, estudios y 1-2 dorm, 30-58 m2",
+     "etapa": "en venta",
+     "unidades": 112,
+     "link": "https://www.elinmobiliario.com.py/post/zenith-colombia-un-nuevo-concepto-de-apart-living-que-apuesta-por-el-centro-hist%C3%B3rico-de-asunci%C3%B3n"
+    },
+    {
+     "nombre": "España Las Mercedes Torre 2",
+     "tipo": "residencial, 16 niveles",
+     "etapa": "en venta",
+     "unidades": 197,
+     "link": "https://azinversiones.com/espana-las-mercedes/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Se describen distribuciones (baño central en estudios, cocina integrada) pero sin acabados."
+   },
+   "materiales_y_proveedores_visibles": "Solo acristalamiento de aluminio piso-techo (España Las Mercedes). La web menciona una sección de acabados (griferías, mesadas, bachas) sin contenido publicado.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 19,
+    "gama": 12,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 7,
+    "total": 59
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: estética contemporánea/neoclásica urbana, sin hormigón visto ni minimalismo declarado.",
+    "volumen": "19/25: 10 proyectos entregados, torres de 112-197 unidades y expansión sostenida en el centro de Asunción.",
+    "gama": "12/20: clase media-alta e inversores; unidades compactas desde USD 40,6k.",
+    "accesibilidad": "13/15: 2 teléfonos, email e IG en su web y decisor (Milton Jara) en su propia web; sin WhatsApp.",
+    "oportunidad_inmediata": "7/10: Zenith Colombia en preventa (obra aún no avanzada, entrega 1S 2029) y últimas unidades de España Las Mercedes."
+   },
+   "notas_investigacion": "Leídas: home, /nosotros/, /contacto/, /espana-las-mercedes/ de azinversiones.com; Revista Plus 2026-05, Revista CEO 2026-03, El Inmobiliario (Zenith Colombia), Infonegocios 2020. Instagram: curl devolvió meta '30K Followers, 7,284 Following, 278 Posts' (@azinversiones, 'AZ INVERSIONES | bienes raíces'); sin acceso a posts. Facebook: login wall; LinkedIn: 403; Google Maps: carga sin datos. ArchDaily/Plataforma/Archello/Divisare: sin resultados. InfoCasas: búsqueda sin resultados específicos. Prensa: ABC 2020/2024, La Nación 2024, Revista Plus 2024/2026, CEO 2026. Nota: fecha de la nota de El Inmobiliario sobre Zenith Colombia sin año visible. Web dice 12 proyectos (11 terminados + Zenith Colombia en desarrollo, 2029); prensa 2026 dice 10 proyectos completados."
+  },
+  {
+   "nombre": "Acostruir (Unir Desarrollos)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Avenida Boggiani 6029, Asunción (https://acostruir.com/)",
+   "anio_fundacion": 1995,
+   "que_hacen": "Estudio de arquitectura, constructora y desarrolladora fundada en 1995 por el arq. Luis Acosta Montanaro (según El Inmobiliario). Diseña, construye y desarrolla edificios residenciales y viviendas; co-desarrolló Complejo República (Luque) y Magna Legión (Villa Morra) y desarrolla Vista Denis Roa con su unidad Unir Desarrollos.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "viviendas",
+    "reformas",
+    "industrial (estaciones de servicio, galpones)"
+   ],
+   "estilo": "Moderno, líneas limpias; Vista Denis Roa usa ladrillo visto, carpintería de aluminio, cementicio y losa de hormigón visto",
+   "proyectos_destacados": [
+    {
+     "nombre": "Vista Denis Roa (Denis Roa 1003, Asunción)",
+     "anio": 2024,
+     "link": "https://acostruir.com/producto/vista-denis-roa/"
+    },
+    {
+     "nombre": "Magna Legión (53 dptos, 12 pisos, Villa Morra; con Codas Vuyk y CDR)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infomicasa/el-edificio-magna-legion-se-alzara-en-el-corazon-de-villa-morra-con-us-5-millones-de-inversion"
+    },
+    {
+     "nombre": "Complejo República (Luque, ~162-168 dptos)",
+     "anio": 2021,
+     "link": "https://infonegocios.com.py/infomicasa/complejo-republica-realizan-palada-inicial-del-proyecto-residencial-en-altura-que-demandara-us-7-millones-de-inversion"
+    },
+    {
+     "nombre": "Cayetano Casa Suite (Luque)",
+     "anio": null,
+     "link": "https://www.unir.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Vista Denis Roa: 'ladrillo visto, carpintería de aluminio, vidrio, metal, cementicio y losa de hormigón visto' (El Inmobiliario)."
+   },
+   "tamano_aprox": "Pequeña-mediana: equipo de 5 arquitectos listados; 3-4 proyectos residenciales recientes, varios en alianza con otras desarrolladoras",
+   "decisores": [
+    {
+     "nombre": "Luis Acosta Montanaro",
+     "cargo": "Arquitecto, fundador (según prensa)",
+     "fuente": "https://www.elinmobiliario.com.py/post/vista-denis-roa-la-combinaci%C3%B3n-perfecta-de-dise%C3%B1o-vanguardista-y-funcionalidad-moderna"
+    },
+    {
+     "nombre": "Nicasio (Nico) Acosta",
+     "cargo": "Arquitecto (cargo no publicado)",
+     "fuente": "https://acostruir.com/"
+    },
+    {
+     "nombre": "Lucía Acosta, María Luz Campos, Sofía Acosta",
+     "cargo": "Equipo (cargos no publicados)",
+     "fuente": "https://acostruir.com/"
+    }
+   ],
+   "web": "https://acostruir.com/",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "info@acostruir.com.py",
+   "telefono": "+595 21 604 630",
+   "whatsapp": "+595 976 231 952",
+   "fuentes": [
+    "https://acostruir.com/",
+    "https://acostruir.com/producto/vista-denis-roa/",
+    "https://www.unir.com.py/",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2022/11/13/acostruir-y-sus-apuestas-al-desarrollo-inmobiliario/",
+    "https://www.elinmobiliario.com.py/post/inicia-la-construcci%C3%B3n-de-vista-denis-roa",
+    "https://www.elinmobiliario.com.py/post/vista-denis-roa-la-combinaci%C3%B3n-perfecta-de-dise%C3%B1o-vanguardista-y-funcionalidad-moderna",
+    "https://www.infocasas.com.py/edificio-vista-denis-roa/190983000",
+    "https://infonegocios.com.py/infomicasa/el-edificio-magna-legion-se-alzara-en-el-corazon-de-villa-morra-con-us-5-millones-de-inversion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Estudio-constructor con lenguaje de hormigón visto y ladrillo: afinidad real con UHPC para bachas, mesadas y piezas de baño en Vista Denis Roa y en sus casas (Cayetano Casa Suite, viviendas particulares). Vender directo al arquitecto que decide terminaciones.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Mejor afinidad estética de todo el lote y contactos verificados, pero escala chica y proyecto principal ya en etapa final."
+   },
+   "pendiente_verificar": "Instagram, Facebook y LinkedIn de la empresa: ninguno enlazado en la web (el sitio muestra ícono 'Linkedin' por integrante sin URL legible); sin acceso. Cargos exactos del equipo. Estado actual de Vista Denis Roa (entrega estimada dic-2025 / mayo-2026 según fuentes; en la web aún figura 'en construcción'). Reseñas Google no accesibles.",
+   "actividad_reciente": {
+    "fecha": "2025-12",
+    "evidencia": "Vista Denis Roa figura 'En construcción' en acostruir.com y 'Disponible' en unir.com.py (sin fecha); última nota de prensa fechada: palada inicial 11-oct-2024; el sitio acostruir.com tiene subidas de archivos de 2025-01. No hay post/nota fechada posterior hallada: actividad dentro de 18 meses no confirmada con fecha firme.",
+    "url": "https://acostruir.com/producto/vista-denis-roa/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Vista Denis Roa",
+     "tipo": "residencial, 5 niveles, 1-3 dorm + penthouse",
+     "etapa": "en obra",
+     "unidades": 10,
+     "link": "https://acostruir.com/producto/vista-denis-roa/"
+    },
+    {
+     "nombre": "Cayetano Casa Suite (Loma Merlo, Luque)",
+     "tipo": "vivienda 3 dorm, 159 m2",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://www.unir.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No hay fotos/descripciones de baños o cocinas en las fuentes leídas; la web menciona reformas pero sin detalle."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo visto, hormigón visto, cementicio, aluminio y vidrio en Vista Denis Roa (El Inmobiliario). Sin marcas de grifería, bachas o mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 10,
+    "gama": 10,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 6,
+    "total": 49
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: único del lote con hormigón visto y ladrillo visto documentados (Vista Denis Roa); resto del portafolio estándar.",
+    "volumen": "10/25: equipo pequeño; 10 unidades propias en Vista Denis Roa, más participaciones minoritarias en Magna Legión y Complejo República.",
+    "gama": "10/20: medio / medio-alto (aprox. USD 1.450-1.500/m2).",
+    "accesibilidad": "11/15: teléfono y email en acostruir.com y WhatsApp en unir.com.py (marca propia según prensa) (+4/+3/+2); sin redes ni cargos (-4).",
+    "oportunidad_inmediata": "6/10: Vista Denis Roa en etapa final de obra (terminaciones probablemente definidas) y Cayetano en venta; ventana corta."
+   },
+   "notas_investigacion": "Datos de ronda 1: ninguno. La web real es acostruir.com (acostruir.com.py redirige 301 a acostruir.com); curl con UA genérico devuelve 406, funcionó con UA de navegador completo y WebFetch. Contacto leído en el HTML: +595 21 604 630, info@acostruir.com.py, Avda. Boggiani 6029. El botón WhatsApp de acostruir.com apunta a '#'; el WhatsApp +595 976 231 952 sale de unir.com.py (Unir Desarrollos es 'unidad de negocios de Acostruir' según El Inmobiliario; no se verificó vínculo desde la web propia de Unir). La prensa 2024 da otro teléfono (+595 976 205636) para Vista Denis Roa: no_verificado, no registrado. Instagram/Facebook: no hay enlaces en la web; instagram.com/acostruir/ devolvió login wall. Búsquedas de prensa: La Nación 2022, Infonegocios 2022, El Inmobiliario 2024; ArchDaily/Plataforma/Archello/Divisare sin resultados; DNCP no aplica. No se hallaron notas 2025-26: ver actividad_reciente. Diferencias: La Nación 2022 habla de 27 años de trayectoria, El Inmobiliario 2024 de 29 años y fundación 1995."
+  },
+  {
+   "nombre": "Grupo ECIPSA / INMO Desarrollos (Natania Paraguay)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Edificio Plaza Center, Av. Aviadores del Chaco 2812, Asunción (sucursal Natania, https://www.natania.com.py/)",
+   "anio_fundacion": null,
+   "que_hacen": "Grupo ECIPSA (holding argentino, +45 años, +110 emprendimientos) opera en Paraguay desde 2022 con el sistema de acceso a vivienda Natania junto al socio local INMO Desarrollos. Desarrolla torres de departamentos en Asunción y un condominio de casas en Luque para clase media, con planes de financiación propios.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "condominio de casas",
+    "vivienda de clase media"
+   ],
+   "estilo": "Vivienda accesible estandarizada para clase media; sin discurso de diseño premium",
+   "proyectos_destacados": [
+    {
+     "nombre": "Natania 86 (torre de 31 pisos, +300 dptos, Santísima Trinidad)",
+     "anio": 2025,
+     "link": "https://www.lanacion.com.py/negocios/2025/12/12/natania-acelera-su-expansion-en-el-paraguay-con-mas-entregas/?outputType=amp"
+    },
+    {
+     "nombre": "Natania 85 (65 dptos, entregado dic-2025)",
+     "anio": 2025,
+     "link": "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional"
+    },
+    {
+     "nombre": "Natania 90 (condominio de casas, Luque, 1ra etapa +80 viviendas)",
+     "anio": 2025,
+     "link": "https://revistaplus.com.py/2025/12/11/natania-se-expande-en-paraguay-nuevas-entregas-un-edificio-en-asuncion-y-viviendas-en-luque/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Sin evidencia; los artículos solo mencionan amenities (piscina, solárium, quincho)."
+   },
+   "tamano_aprox": "Muy grande: grupo con +14.600 unidades entregadas; en Paraguay US$110 M proyectados, ~450 unidades en 3 proyectos",
+   "decisores": [
+    {
+     "nombre": "Giovanni Masulli",
+     "cargo": "Director general de INMO Desarrollos (prensa); citado como socio local en ecipsa.com",
+     "fuente": "https://www.ecipsa.com/proyectos/natania/"
+    },
+    {
+     "nombre": "Alejandro Domínguez",
+     "cargo": "Director de INMO Desarrollos y socio de Natania Paraguay",
+     "fuente": "https://www.ecipsa.com/proyectos/natania/"
+    },
+    {
+     "nombre": "Jaime Garbarsky",
+     "cargo": "Presidente de Grupo ECIPSA (prensa)",
+     "fuente": "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional"
+    }
+   ],
+   "web": "https://www.natania.com.py/",
+   "instagram": "https://www.instagram.com/natania.paraguay",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/NataniaParaguay/",
+   "linkedin": "https://www.linkedin.com/company/ecipsa/",
+   "email": null,
+   "telefono": "+595 981 606808",
+   "whatsapp": "+595 981 606808",
+   "fuentes": [
+    "https://www.natania.com.py/",
+    "https://www.ecipsa.com/",
+    "https://www.ecipsa.com/proyectos/natania/",
+    "https://www.ecipsa.com/contacto/",
+    "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional",
+    "https://www.lanacion.com.py/negocios/2025/12/12/natania-acelera-su-expansion-en-el-paraguay-con-mas-entregas/?outputType=amp",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2024/10/22/el-grupo-ecipsa-lanzo-natania-86-santisima-trinidad-en-asuncion/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Natania es vivienda de clase media; bachas UHPC solo encajan como línea económica por volumen o en unidades modelo/amenities. Baja prioridad; acercarse vía las constructoras (Gómez Abente en Natania 86, Salum & Wenz en Natania 85) que compran terminaciones.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Muy alto volumen, pero gama media-baja y afinidad estética nula; compra por precio."
+   },
+   "pendiente_verificar": "Email propio de Natania Paraguay (solo hay info@ecipsa.com, del grupo argentino); Instagram natania.paraguay (login wall), seguidores y posts; Facebook/LinkedIn bloqueados; sitio web propio de INMO Desarrollos no hallado; reseñas Google; constructoras de cada proyecto; avance real de Natania 86.",
+   "actividad_reciente": {
+    "fecha": "2025-12",
+    "evidencia": "Entrega de Natania 85 (10-dic-2025), palada inicial de Natania 86 (26-nov-2025) y lanzamiento de Natania 90 (Luque); notas en Revista Plus, La Nación y El Cronista",
+    "url": "https://revistaplus.com.py/2025/12/11/natania-se-expande-en-paraguay-nuevas-entregas-un-edificio-en-asuncion-y-viviendas-en-luque/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Natania 86",
+     "tipo": "torre residencial 31 pisos",
+     "etapa": "en obra",
+     "unidades": 300,
+     "link": "https://www.lanacion.com.py/negocios/2025/12/12/natania-acelera-su-expansion-en-el-paraguay-con-mas-entregas/?outputType=amp"
+    },
+    {
+     "nombre": "Natania 90 (Luque)",
+     "tipo": "condominio de casas y dúplex",
+     "etapa": "en venta",
+     "unidades": 88,
+     "link": "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Producto estándar, sin discurso de terminaciones."
+   },
+   "materiales_y_proveedores_visibles": "No se publican. Constructoras: Salum & Wenz (Natania 85) y Gómez Abente (Natania 86), según La Nación 2025.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 3,
+    "volumen": 22,
+    "gama": 3,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 7,
+    "total": 44
+   },
+   "puntaje_justificacion": {
+    "estetica": "3/30: vivienda estandarizada de clase media, sin afinidad con UHPC.",
+    "volumen": "22/25: ~450 unidades en 3 proyectos en Paraguay y grupo de +14.600 unidades entregadas.",
+    "gama": "3/20: público de clase media con financiación de acceso.",
+    "accesibilidad": "9/15: teléfono/WhatsApp, IG y sucursal en natania.com.py; decisores nombrados en ecipsa.com; sin email propio de Paraguay (info@ecipsa.com es del grupo, lo dejo null).",
+    "oportunidad_inmediata": "7/10: Natania 86 en obra y Natania 90 en venta, pero terminaciones definidas por constructoras."
+   },
+   "notas_investigacion": "Candidato de ronda 1 'Grupo ECIPSA / INMO Desarrollos': se perfila la operación paraguaya (Natania). Leídos: ecipsa.com (home, /contacto/, /paises/, /proyectos/natania/), natania.com.py, El Cronista 17-dic-2025 (contenido patrocinado), La Nación 12-dic-2025. info@ecipsa.com aparece en ecipsa.com pero es del holding argentino y no hay oficina paraguaya listada ahí: no se registra como email de la operación paraguaya. natania.com.py no publica email. ecipsa.com no confirma nombres directivos en su 'Directorio' (sin contenido), por eso Masulli/Domínguez provienen de /proyectos/natania/ (nombres) y prensa (cargos). Instagram natania.paraguay: login wall. Facebook/LinkedIn/Maps no accesibles. ArchDaily etc.: sin resultados. InfoCasas no consultado para Natania (venta directa propia). Dato de ronda 1: link del Cronista confirmado."
+  },
+  {
+   "nombre": "Skyterra Paraguay (Wave Houses, AquaBrava)",
+   "segmento": "desarrolladora",
+   "ciudad": "San Bernardino / Altos (Barrio Privado AquaBrava)",
+   "region": "Central y Cordillera",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de capital argentino-paraguayo (más de 15 años según prensa) que construye 'Wave Houses – Luxury Living': 10 casas high tech de 300 m2 en lotes de 650 m2 en AquaBrava, barrio privado con laguna de olas Wavetech (San Bernardino–Altos). Ventas a través de Sotheby's Paraguay; terminaciones premium con Ipale Alta Gama.",
+   "tipo_proyectos": [
+    "residencial premium",
+    "casas de lujo en barrio cerrado"
+   ],
+   "estilo": "Contemporáneo 'high tech', residencias de lujo con tecnología y diseño de vanguardia",
+   "proyectos_destacados": [
+    {
+     "nombre": "Wave Houses – Luxury Living (10 casas, AquaBrava)",
+     "anio": 2025,
+     "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-wave-houses-en-altos-residencias-de-lujo-con-tecnologia-y-naturaleza-frente-a-la-laguna-cristalina"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las notas no detallan materiales; solo 'terminaciones de alta calidad'."
+   },
+   "tamano_aprox": "Pequeña en Paraguay: un proyecto de 10 casas (3 años de plan) con segunda fase mencionada",
+   "decisores": [
+    {
+     "nombre": "Agustina García Estrada",
+     "cargo": "Socia inversora de Skyterra / Skyterra Paraguay",
+     "fuente": "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra"
+    },
+    {
+     "nombre": "Pablo Marchiori",
+     "cargo": "Socio inversor de Skyterra y director de Ipale Alta Gama",
+     "fuente": "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/skyterrapy/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra",
+    "https://infonegocios.com.py/infomicasa/palada-inicial-de-wave-houses-en-altos-residencias-de-lujo-con-tecnologia-y-naturaleza-frente-a-la-laguna-cristalina",
+    "https://www.elinmobiliario.com.py/post/skyterra-paraguay-presenta-wave-houses-casas-de-lujo-en-el-exclusivo-aquabrava",
+    "https://www.aquabrava.com.py/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Casas de ~US$560k con master suite y baños en suite, cocina interior y exterior, duchas exteriores y terminación premium: piezas UHPC (bachas, mesadas, lavatorio exterior) como sello de lujo. Entrada por Ipale Alta Gama (socio en terminaciones) y por Skyterra.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Producto de lujo y obra en curso con terminación premium, pero sin ningún contacto propio verificado y volumen de solo 10 casas."
+   },
+   "pendiente_verificar": "Sitio web y contactos propios de Skyterra Paraguay (no hallados). Instagram @skyterrapy (handle citado por Infonegocios; instagram.com devolvió login wall, seguidores y posts sin leer). Facebook/LinkedIn/Maps no accesibles. Estado de obra de las casas (prometidas para verano 2026). Si Skyterra Paraguay se relaciona con Skyterra Argentina (skyterra.com.ar, estudio de Escobar/Pilar, que no menciona Paraguay): no confirmado. Ipale Alta Gama: perfilar aparte.",
+   "actividad_reciente": {
+    "fecha": "2025-11",
+    "evidencia": "Infobrand Infonegocios 13-nov-2025: obras en curso, laguna inaugurándose, primeras casas para verano 2026; palada inicial 19-jun-2025",
+    "url": "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Wave Houses – Luxury Living",
+     "tipo": "10 casas de 300 m2 en lotes de 650 m2, AquaBrava",
+     "etapa": "en obra",
+     "unidades": 10,
+     "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-wave-houses-en-altos-residencias-de-lujo-con-tecnologia-y-naturaleza-frente-a-la-laguna-cristalina"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Descripción de planta: master suite con baño completo, dos suites, cocina interior y exterior, baño y duchas exteriores; sin acabados publicados."
+   },
+   "materiales_y_proveedores_visibles": "Tecnología Wavetech (laguna); Ipale Alta Gama como socio en terminaciones premium; financiación Banco GNB; comercialización Sotheby's Paraguay.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 15,
+    "volumen": 4,
+    "gama": 18,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 8,
+    "total": 48
+   },
+   "puntaje_justificacion": {
+    "estetica": "15/30: casas high tech de lujo, pero sin evidencia de hormigón visto/minimalismo ni de materiales.",
+    "volumen": "4/25: 10 casas en total.",
+    "gama": "18/20: casas desde US$450-560k con lote, barrio privado con laguna de olas.",
+    "accesibilidad": "3/15: dos socios nombrados en prensa; ningún contacto ni web propia verificada.",
+    "oportunidad_inmediata": "8/10: obra en curso y terminación premium en definición con Ipale Alta Gama."
+   },
+   "notas_investigacion": "Candidato de ronda 1 marcado 'fuera de zona piloto' (San Bernardino/Altos, región Central y Cordillera). Leídos: Infobrand Infonegocios 13-nov-2025, Infonegocios 19-jun-2025 (palada inicial), El Inmobiliario 21-oct-2024, aquabrava.com.py. No existe web hallada de Skyterra Paraguay: skyterra.com.py y skyterrapy.com no resuelven; skyterra.com.ar es un estudio argentino que no menciona Paraguay (no se asume misma empresa). 5dias.com.py/real-estate/... dio 404, revistanordelta.com 503. El WhatsApp +595 21 6887000 de aquabrava.com.py corresponde a AquaBrava (Raíces), NO a Skyterra: no registrado. Teléfono de Sotheby's Paraguay solo en listados de terceros: no registrado. Discrepancias de prensa: ubicación 'Altos' (Infonegocios jun-2025) vs 'San Bernardino' (nov-2025); precio US$450k (2024) vs US$560k (2025)."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Ipale Alta Gama (socio de terminaciones premium de Wave Houses)",
+   "link": "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra",
+   "ciudad": "no identificada",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Codas Vuyk (desarrolladora/constructora de Magna Legión)",
+   "link": "https://infonegocios.com.py/infomicasa/el-edificio-magna-legion-se-alzara-en-el-corazon-de-villa-morra-con-us-5-millones-de-inversion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Raíces Real Estate (desarrolladora de AquaBrava)",
+   "link": "https://www.aquabrava.com.py/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Salum & Wenz (constructora de Natania 85)",
+   "link": "https://www.lanacion.com.py/negocios/2025/12/12/natania-acelera-su-expansion-en-el-paraguay-con-mas-entregas/?outputType=amp",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Gómez Abente (constructora de Natania 86)",
+   "link": "https://www.lanacion.com.py/negocios/2025/12/12/natania-acelera-su-expansion-en-el-paraguay-con-mas-entregas/?outputType=amp",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  }
+ ]
+}
