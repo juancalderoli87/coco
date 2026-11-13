@@ -1,0 +1,690 @@
+{
+ "lote": "r2a-02",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "DE Constructora S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": "Dr. Bernardino Caballero 1239 casi Lillo, Asunción (web propia y nota de prensa)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora y desarrolladora boutique de edificios residenciales en Asunción. Construyó Manantiales Azalea (18 departamentos, Las Mercedes, entregado y ocupado en 2020) para Javier Álvarez y Asociados, y es promotora y constructora de Grand Chelsea (38 unidades de 1-2 dormitorios + 2 penthouses, lanzado en nov-2022). En 2025 se presentó como integrante del Consorcio Ñu Guasu a la licitación pública internacional del Distrito Digital (MITIC).",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "obra pública (consorcio)"
+   ],
+   "estilo": "Edificios residenciales de gama media a media-alta. Manantiales Azalea: diseño de DH Díaz Herranz (Montevideo), sanitarios Duravit, grifería Hansgrohe, mesadas de mármol en baños; Grand Chelsea: fachada inspirada en Chelsea (Nueva York), diseño 'ecléctico' (arq. Francesco Gallarini). No es minimalista.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio Manantiales Azalea (Las Mercedes; 18 deptos de 71 a 192 m2; US$ 115 mil a 320 mil; terminado y ocupado)",
+     "anio": 2020,
+     "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades"
+    },
+    {
+     "nombre": "Grand Chelsea (Primer Presidente y Auditores de la Guerra del Chaco; US$ 6 millones; 6.000 m2; desde US$ 64 mil)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/default/grand-chelsea-el-estilo-de-manhattan-se-replica-en-un-nuevo-rincon-de-asuncion-con-inversion-de-us-6-millones"
+    },
+    {
+     "nombre": "Edificio Manantiales de Asunción (5 niveles, Grabadores de Cabichuí 2884; dirección de obra arq. Nathalie Elías de Constructora DE)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/nota-principal/un-nuevo-edificio-residencial-fue-habilitado-en-inmediaciones-del-eje-corporativo-de-asuncion"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ninguna fuente leída muestra hormigón visto; los acabados descritos son porcelanato, acero inoxidable y mármol (Manantiales Azalea)."
+   },
+   "tamano_aprox": "Pequeña-mediana: edificios boutique de 18 a 40 unidades; dos o tres obras visibles en 2016-2022; sin cifra de empleados publicada.",
+   "decisores": [
+    {
+     "nombre": "David Elías",
+     "cargo": "Ingeniero, presidente de DE Constructora (según nota de prensa; no figura en la web propia)",
+     "fuente": "https://infonegocios.com.py/default/grand-chelsea-el-estilo-de-manhattan-se-replica-en-un-nuevo-rincon-de-asuncion-con-inversion-de-us-6-millones"
+    },
+    {
+     "nombre": "Nathalie Elías",
+     "cargo": "Arquitecta, dirección de obra de Manantiales de Asunción (Constructora DE) (dato visto solo en resumen de buscador de la nota; no la abrí)",
+     "fuente": "https://infonegocios.com.py/nota-principal/un-nuevo-edificio-residencial-fue-habilitado-en-inmediaciones-del-eje-corporativo-de-asuncion"
+    }
+   ],
+   "web": "https://www.deconstructora.com.py",
+   "instagram": "https://www.instagram.com/deconstructorapy/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/constructoraDE/",
+   "linkedin": "https://www.linkedin.com/in/de-constructora-571479126/",
+   "email": "info@deconstructora.com.py",
+   "telefono": "+595 21 602 722; +595 991 901 753; +595 982 554 753 (enlaces tel: de la web; el texto visible de la web muestra además +595 976 177 730 y +595 983 977 485)",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.deconstructora.com.py",
+    "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+    "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades",
+    "https://infonegocios.com.py/default/grand-chelsea-el-estilo-de-manhattan-se-replica-en-un-nuevo-rincon-de-asuncion-con-inversion-de-us-6-millones",
+    "https://www.hoy.com.py/comercio-e-industrias/el-grand-chelsea-un-rincon-neoyorquino-en-asuncion",
+    "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Constructora-desarrolladora propia con penthouses y deptos boutique donde ya especifica sanitarios y grifería de marca (Duravit, Hansgrohe) y mesadas de mármol: COCO puede ofrecer bachas/mesadas UHPC como upgrade premium para penthouses y unidades top de sus próximos edificios. Entrar por el presidente (David Elías) vía el teléfono/email de la web.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 47: contacto directo verificado y especificación de materiales de gama, pero estética no minimalista, escala chica y sin proyecto en obra confirmado hoy."
+   },
+   "pendiente_verificar": "Estado actual de Grand Chelsea (entrega, ventas); si hay un nuevo proyecto lanzado en 2025-2026; seguidores y últimos posts de Instagram @deconstructorapy y @grand_chelsea (Instagram devolvió 429); página de Facebook (solo cargó el título); ficha de Google Maps (no indexada en el buscador); cuál de los números de la web es el vigente (texto visible vs enlaces tel:).",
+   "actividad_reciente": {
+    "fecha": "2025-07",
+    "evidencia": "DE Constructora S.A. (RUC 80088711-5) figura como integrante del Consorcio Ñu Guasu entre los 4 oferentes de la LPI MITIC PAAD 01/2025 Distrito Digital (acta de apertura 22-jul-2025). Última obra residencial propia con fecha: lanzamiento de Grand Chelsea (nov-2022). Web con copyright 2026 pero con texto de plantilla.",
+    "url": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Grand Chelsea (38 deptos 1-2 dorm. + 2 penthouses; 16 meses de financiación en obra declarados en 2022)",
+     "tipo": "edificio residencial en altura",
+     "etapa": "en obra (estado en 2022; avance y entrega actuales NO verificados)",
+     "unidades": 40,
+     "link": "https://www.hoy.com.py/comercio-e-industrias/el-grand-chelsea-un-rincon-neoyorquino-en-asuncion"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Nota de Manantiales Azalea detalla sanitarios Duravit, grifería Hansgrohe, mesadas de mármol en baños y cocinas Achon con mesada de granito."
+   },
+   "materiales_y_proveedores_visibles": "Manantiales Azalea: Duravit (sanitarios), Hansgrohe (grifería), mármol en baños, granito + acero inoxidable en cocinas (Achon), aberturas de madera/aluminio, ascensores Thyssen, aire Airway. Fuente: infonegocios 2020.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 11,
+    "gama": 12,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 3,
+    "total": 47
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: materiales nobles (mármol, Duravit/Hansgrohe) pero estética ecléctica/clásica (Grand Chelsea 'estilo Manhattan'); sin hormigón visto ni minimalismo.",
+    "volumen": "11/25: edificios boutique de 18-40 unidades, 2-3 obras en 6 años visibles; participa en consorcio público en 2025 pero sin adjudicación comprobada.",
+    "gama": "12/20: Manantiales Azalea US$ 115-320 mil con marcas premium; Grand Chelsea desde US$ 64 mil (segmento joven/arte), mezcla media y media-alta.",
+    "accesibilidad": "11/15: teléfono fijo, celulares e email info@ verificados en la web propia (+ enlaces a IG/FB/LinkedIn); decisor (presidente David Elías) identificado solo por prensa, sin contacto directo; sin WhatsApp.",
+    "oportunidad_inmediata": "3/10: único proyecto propio visible es Grand Chelsea (lanzado nov-2022, con entrega prevista ~2024, estado actual desconocido); sin obra en curso confirmada."
+   },
+   "notas_investigacion": "Leídas: web propia (home vía WebFetch + HTML crudo con curl; /contacto da 404, los datos están en la home), notas de infonegocios (Manantiales Azalea 2020-02-28, Grand Chelsea 2022-11-17, Manantiales de Asunción Plaza 2016-02-17), nota de Hoy (2022-11-28), acta/resolución MITIC Nº 500 (set-2025) en contrataciones.gov.py. Fallaron: Instagram @deconstructorapy y @grand_chelsea (429), Facebook /constructoraDE (solo título, sin datos), LinkedIn no abierto, Google Maps no indexado (reseñas null), búsqueda en InfoCasas/RE-MAX/Century 21 sin ficha de Grand Chelsea. Correcciones a ronda 1: 'Constructora DE' y 'DE Constructora' son la misma empresa (RUC 80088711-5; presidente David Elías); Manantiales Azalea es de 2020 (no reciente) y estaba terminado y ocupado; la web propia SÍ existe y publica teléfono y email (ronda 1 decía null). Inconsistencia: la nota de 2016 de Manantiales de Asunción Plaza dice 'DH Constructora' (probable error de la nota, enlaza deconstructora.com.py). La web mezcla texto de relleno (lorem ipsum, 'Mark Clarkson', propiedades con precio genérico): los proyectos que lista (AZ México, Villa la Cassinella, etc.) NO son confiables y no se usaron. Los números visibles de la web (+595 976 177 730, +595 983 977 485) no coinciden con los enlaces tel: (991 901 753, 982 554 753); estos últimos sí coinciden con la nota de 2020. Teléfono de ventas de Grand Chelsea (Century 21 Wilson Chihan) no publicado. Prensa leída: 4 notas + búsquedas adicionales sin novedades 2025-2026 de la empresa. ArchDaily/Plataforma: sin resultados. DNCP: solo aparece como oferente (consorcio) en la resolución MITIC; sin adjudicaciones propias halladas."
+  },
+  {
+   "nombre": "Grillón Alvarenga (constructora)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Constructora citada en notas de 2022 como ejecutora de los proyectos de Building Innovations (desarrolladora de Fernando de la Mora): edificio San Clemente Fernando (7 pisos, inaugurado dic-2022), San Clemente Santa Teresa (13 niveles con penthouse dúplex, entrega prevista feb-2024) y las casas dúplex de Morada Areguá/Capiatá. Usa BIM según la nota. No se encontró web, redes ni ficha propia: toda la información es de prensa.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial",
+    "dúplex en barrios cerrados"
+   ],
+   "estilo": "Residencial contemporáneo funcional (departamentos pequeños a medianos, dúplex); aberturas Modena y pisos de 3 m de altura en Santa Teresa. Sin evidencia de estilo minimalista de alta gama.",
+   "proyectos_destacados": [
+    {
+     "nombre": "San Clemente Fernando (Fernando de la Mora, 7 pisos; estudio a 3 dormitorios)",
+     "anio": 2022,
+     "link": "https://www.lanacion.com.py/negocios/2022/12/01/constructora-building-innovations-cierra-el-ano-con-inauguracion-de-su-primer-edificio-san-clemente/"
+    },
+    {
+     "nombre": "San Clemente Santa Teresa (13 niveles, penthouse dúplex; 40% vendido en nov-2022; entrega prevista feb-2024)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infomicasa/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio"
+    },
+    {
+     "nombre": "Morada Areguá (6 casas en condominio etapa 1 + 7 dúplex etapa 2) y Morada Capiatá",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las notas no describen terminaciones en hormigón visto."
+   },
+   "tamano_aprox": "Mediana (no cuantificado): tres desarrollos simultáneos en 2022 para un solo cliente.",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios",
+    "https://infonegocios.com.py/infomicasa/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio",
+    "https://www.lanacion.com.py/negocios/2022/12/01/constructora-building-innovations-cierra-el-ano-con-inauguracion-de-su-primer-edificio-san-clemente/",
+    "https://infonegocios.com.py/infomicasa/nicolas-paredes-el-mercado-inmobiliario-esta-en-un-muy-buen-momento-hay-una-demanda-genuina-y-un-acceso-a-creditos-en-crecimiento"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Más que la constructora, el cliente real es Building Innovations (desarrolladora, CEO Nicolás Paredes): departamentos funcionales y dúplex repetibles donde un kit de baño/cocina UHPC podría ser un opcional de diferenciación. Conviene abordar primero a Building Innovations y averiguar si Grillón Alvarenga define materiales.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 33: sin contactos propios verificados, sin web/redes, notas de 2022 y gama media; el interés comercial está en la desarrolladora asociada."
+   },
+   "pendiente_verificar": "Existencia de web propia (la nota de nov-2022 cita www.gaconstructora.com, que no resuelve DNS desde esta sesión y no se pudo confirmar que sea de Grillón Alvarenga), redes, teléfono/email propios, decisores, estado actual de Santa Marina/Morada/Santa Teresa, si sigue activa en 2025-2026, Instagram de Building Innovations (429).",
+   "actividad_reciente": {
+    "fecha": "2022-12",
+    "evidencia": "Notas de dic-2022 sobre la inauguración de San Clemente Fernando y los siguientes proyectos. No hay mención de Grillón Alvarenga en notas de 2024-2025 (la entrevista de jun-2025 al CEO de Building Innovations tampoco la nombra).",
+    "url": "https://www.lanacion.com.py/negocios/2022/12/01/constructora-building-innovations-cierra-el-ano-con-inauguracion-de-su-primer-edificio-san-clemente/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "San Clemente Santa Teresa (entrega prevista feb-2024; sin confirmación de entrega)",
+     "tipo": "edificio residencial 13 niveles",
+     "etapa": "en obra (estado 2022; actual no verificado)",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infomicasa/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio"
+    },
+    {
+     "nombre": "Morada Areguá etapas 1-2 / Morada Capiatá",
+     "tipo": "casas y dúplex en barrio cerrado",
+     "etapa": "anunciado",
+     "unidades": 13,
+     "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios"
+    },
+    {
+     "nombre": "Santa Marina Norte (7 pisos) y Sur (5 pisos), Fernando de la Mora (previstos para 2023)",
+     "tipo": "edificios residenciales",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las notas no describen baños ni cocinas; solo aberturas Modena y altura de 3 m."
+   },
+   "materiales_y_proveedores_visibles": "Aberturas Modena (Argentina) con vidrios laminados en San Clemente Santa Teresa. Sin marcas de grifería, bachas ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 9,
+    "gama": 10,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 4,
+    "total": 33
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: edificios y dúplex contemporáneos genéricos con BIM; sin hormigón visto ni materiales nobles descritos.",
+    "volumen": "9/25: tres líneas de desarrollo (San Clemente, Morada, Santa Marina) hasta 13 niveles, pero todo de 2022 y para un cliente; tamaño de la constructora no cuantificado.",
+    "gama": "10/20: segmento medio-medio alto (departamentos funcionales, dúplex en barrios cerrados, inversores); sin precios publicados.",
+    "accesibilidad": "2/15: ningún contacto propio verificado; el (0985) 334-724 es del área comercial de Building Innovations (solo prensa); sin decisores nombrados.",
+    "oportunidad_inmediata": "4/10: Santa Marina y Morada eran 'anunciados' en 2022 y no confirmé su avance; Building Innovations sigue activo (entrevista a su CEO en jun-2025)."
+   },
+   "notas_investigacion": "Leídas: infonegocios 2022-12-05 (inauguración San Clemente y próximos proyectos) e infonegocios 2022-11-08 (San Clemente Santa Teresa), La Nación 2022-12-01, infonegocios 2024-12-31 (resumen inmobiliario; no la nombra) e infonegocios 2025-06-17 (entrevista al CEO de Building Innovations, Nicolás Paredes; no nombra constructora). Búsqueda por nombre exacto: solo esas notas; sin entrada en DNCP, ArchDaily ni portales. Fallaron: www.gaconstructora.com y variantes .com.py (ENOTFOUND/sin respuesta desde la sesión, puede ser restricción de red o dominio inexistente), buildinginnovations.com.py (503/sin DNS), Instagram @buildinginnovations (429). Teléfono (0985) 334-724 y redes @buildinginnovations / facebook buildinginnovationsinmuebles: pertenecen a Building Innovations y figuran solo en prensa -> no_verificado y no se asignan a la constructora. Corrección a ronda 1: la fecha de las notas es 2022 (no hay fuentes propias ni actividad 2024-2026 de Grillón Alvarenga); bajado de B a C. Building Innovations (CEO Nicolás Paredes, Instagram @nicolasparedes.bi) queda como candidato extra."
+  },
+  {
+   "nombre": "Itasa S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": "Juan de Salazar y Washington, Edificio Itasa, 6.º piso, Asunción (web propia)",
+   "anio_fundacion": 1977,
+   "que_hacen": "Constructora y desarrolladora con más de 45 años (web propia; 1977 y ~300 empleados según infonegocios 2015). Servicios: generación de proyectos, construcción, fiscalización y gerenciamiento de obras. Obra residencial propia (Parque Venezuela, Parque Perón, Parque Pinar, Torre Spano, Torre Georgia) y obra pública/institucional en consorcio (Oficinas de Gobierno en el puerto de Asunción, Hospital de Coronel Oviedo, Facultad de la UCA, Biblioteca del Congreso). ISO 9001; miembro de la Cámara Paraguaya de la Construcción y de CAPADEI.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial",
+    "condominios tipo parque",
+    "institucional",
+    "salud",
+    "corporativo"
+   ],
+   "estilo": "Residencial de gama media y media-alta (Parque Pinar desde US$ 120 mil; Torre Spano desde US$ 310 mil, diseño de Guanes y Asociados) y obra pública. Sin estilo minimalista ni hormigón visto identificado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Hospital General de Coronel Oviedo (consorcio Jiménez Gaona y Lima, Itasa, Proel, M.M.S.A.; 99,9% a dic-2024, inaugurado feb-2025)",
+     "anio": 2025,
+     "link": "https://www.abc.com.py/nacionales/2024/12/03/entrega-oficial-del-hospital-general-de-coronel-oviedo-prevista-para-este-viernes/"
+    },
+    {
+     "nombre": "Oficinas de Gobierno, puerto de Asunción (Consorcio TBI: Tecnoedil, Barrail e Hijos, Itasa; ~Gs. 478.828 millones)",
+     "anio": 2018,
+     "link": "https://infonegocios.com.py/plus/consorcio-adjudicado-renovara-el-rostro-del-puerto-de-asuncion"
+    },
+    {
+     "nombre": "Parque Pinar, Ñemby (88 deptos de 2-3 dorm. en 5 bloques; nota de 2015 con 30% de obra)",
+     "anio": 2015,
+     "link": "https://infonegocios.com.py/plus/la-construccion-del-parque-pinar-avanza-sobre-ruedas-esta-edificado-en-un-30"
+    },
+    {
+     "nombre": "Torre Spano, Barrio Herrera (21 deptos, desde US$ 310 mil; desarrolla Roma Inmobiliaria, construye Itasa)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infomicasa/torre-spano-disenado-para-la-vida-en-familia"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web propia y las notas no describen hormigón visto; solo listan obras con fotos."
+   },
+   "tamano_aprox": "Grande: ~300 empleados (infonegocios 2015), más de 45 años, obras públicas por cientos de miles de millones de guaraníes en consorcio.",
+   "decisores": [
+    {
+     "nombre": "Carlos Orué",
+     "cargo": "Ingeniero, director (en el directorio desde 1978) y director de obras",
+     "fuente": "https://www.itasa.com.py/la-empresa/"
+    },
+    {
+     "nombre": "Aniano Orué",
+     "cargo": "Arquitecto, director y cofundador",
+     "fuente": "https://www.itasa.com.py/la-empresa/"
+    },
+    {
+     "nombre": "Miguel Guanes",
+     "cargo": "Ingeniero, director (en el directorio desde 1980)",
+     "fuente": "https://www.itasa.com.py/la-empresa/"
+    },
+    {
+     "nombre": "María Thereza Orué",
+     "cargo": "Arquitecta, directora de proyectos (según prensa; no figura en la web propia)",
+     "fuente": "https://infonegocios.com.py/infomicasa/maria-thereza-orue-el-publico-esta-dispuesto-a-sacrificar-metros-cuadrados-a-cambio-de-ubicacion"
+    }
+   ],
+   "web": "https://www.itasa.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "itasa@itasa.com.py",
+   "telefono": "+595 21 213-906 / +595 21 201-711",
+   "whatsapp": "+595 983 598908 (https://wa.me/595983598908)",
+   "fuentes": [
+    "https://www.itasa.com.py",
+    "https://www.itasa.com.py/contacto",
+    "https://www.itasa.com.py/obras/",
+    "https://www.itasa.com.py/la-empresa/",
+    "https://www.itasa.com.py/servicios/",
+    "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+    "https://www.abc.com.py/nacionales/2024/12/03/entrega-oficial-del-hospital-general-de-coronel-oviedo-prevista-para-este-viernes/",
+    "https://infonegocios.com.py/plus/consorcio-adjudicado-renovara-el-rostro-del-puerto-de-asuncion",
+    "https://infonegocios.com.py/hay-equipo/el-equipo-de-itasa",
+    "https://infonegocios.com.py/infomicasa/torre-spano-disenado-para-la-vida-en-familia",
+    "https://www.infrapppworld.com/company/itasa-sa"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Empresa grande, con contacto directo verificado (email, WhatsApp, teléfonos) y directores nombrados en su web: COCO puede proponer baños/mesadas UHPC para sus próximos condominios y para penthouses en edificios como Torre Spano, y un catálogo institucional para obras públicas (baños de oficinas/hospitales). Entrada: WhatsApp/email corporativo dirigido a la dirección de proyectos.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 58: alto volumen y mejor accesibilidad del lote, pero estética no afín (institucional/medio), sin proyecto residencial nuevo confirmado en 2025-2026."
+   },
+   "pendiente_verificar": "Proyectos residenciales propios nuevos desde 2020 (prometidos Nazareth, Vista Alegre y San Pablo en nota de 2020); estado actual de Oficinas de Gobierno del puerto y del Distrito Digital (adjudicado set-2025; contrato firmado no confirmado); Instagram/Facebook/LinkedIn de la empresa (no hay enlaces en la web; no se halló perfil); ficha de Google Maps y reseñas; si sigue vendiendo Parque Pinar (nota de 2015, ventas por 'A estrenar', teléfono 0981 472-772 solo en prensa = no_verificado).",
+   "actividad_reciente": {
+    "fecha": "2025-09",
+    "evidencia": "Resolución MITIC Nº 500 (set-2025) adjudica la LPI 'Diseño y Construcción del Distrito Digital' al Consorcio Digital Paraguayo, integrado por Tecnoedil, ITASA S.A. (RUC 80016825-9), Celexx y ABH; oferta Gs. 148.377.816.137. Además, Hospital de Coronel Oviedo entregado a fines de 2024/feb-2025.",
+    "url": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Distrito Digital (diseño y construcción, MITIC/BID) - Consorcio Digital Paraguayo",
+     "tipo": "obra pública (infraestructura tecnológica/edificios)",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download"
+    },
+    {
+     "nombre": "Oficinas de Gobierno, puerto de Asunción (Consorcio TBI) - avance actual no verificado",
+     "tipo": "obra pública (oficinas)",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/plus/consorcio-adjudicado-renovara-el-rostro-del-puerto-de-asuncion"
+    },
+    {
+     "nombre": "Facultad de la UCA (nota 'construye el futuro moderno edificio'; fecha no verificada)",
+     "tipo": "institucional",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/default/itasa-sa-construye-el-futuro-moderno-edificio-de-facultad-de-la-uca"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web ni las notas detallan baños/cocinas de sus condominios."
+   },
+   "materiales_y_proveedores_visibles": "No se publican marcas de grifería, bachas ni mesadas. La web propia solo muestra fotos de obra.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 20,
+    "gama": 12,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 4,
+    "total": 58
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: obra institucional y condominios de línea media; sin hormigón visto, minimalismo ni materiales nobles destacados.",
+    "volumen": "20/25: ~300 empleados, +45 años, obras en consorcio de cientos de miles de millones de Gs. (Hospital Coronel Oviedo, oficinas del puerto, Distrito Digital 2025) y más de 30 proyectos habitacionales declarados.",
+    "gama": "12/20: Parque Pinar desde US$ 120-150 mil y Torre Spano desde US$ 310 mil (media a media-alta) más obra pública.",
+    "accesibilidad": "14/15: email, WhatsApp y dos teléfonos verificados en la web propia; tres directores nombrados en la web propia; falta Instagram/LinkedIn.",
+    "oportunidad_inmediata": "4/10: obras públicas en curso (puerto, Distrito Digital) con baños institucionales, pero no hay desarrollo residencial en pozo confirmado hoy."
+   },
+   "notas_investigacion": "Leídas: web propia completa (home, /contacto, /obras/, /la-empresa/, /servicios/, /novedades), notas infonegocios (El equipo de Itasa 2015-08, Parque Pinar 2015-08, entrevista M. T. Orué 2020-01, Consorcio TBI 2018-02, Torre Spano), ABC 2024-12-03, resolución MITIC Nº 500 (PDF de contrataciones.gov.py, extraído con pdftotext), búsquedas de prensa y DNCP. Fallaron: /nosotros (404; la URL real es /la-empresa/), Facebook (la URL probada devolvió un perfil ajeno 'ita.sasa'), Instagram/LinkedIn (la web no enlaza redes; no se halló perfil), BNamericas (403), Google Maps no indexado (reseñas null). Correcciones a ronda 1: la web propia SÍ existe (itasa.com.py) con email, WhatsApp y teléfonos; 'Parque Pinar en construcción al 30%' viene de una nota de agosto de 2015 (no es estado actual); el dato de ~300 empleados es de 2015; las notas 'novedades' de la web con fecha 2024 son republicaciones de notas de 2015-2020. Teléfonos 021 201-711 / 213-906 coinciden entre web propia y prensa. Los 4 nombres de decisores: tres de web propia, M. T. Orué solo de prensa. Itasa figura además en consorcios (Coronel Oviedo, TBI, Distrito Digital); 'Consorcio Itasa S.A. y Asociados' aparece en un registro DNCP LI-23023-15-111708 (visto solo en resultados de buscador)."
+  },
+  {
+   "nombre": "A4 Constructora (A4 Arquitectura)",
+   "segmento": "constructora",
+   "ciudad": "Luque",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Constructora a cargo de las Eco Casas de Terra Viva Residencias (barrio Maramburé, Luque), desarrollo de Sibaris S.A.; el arq. Miguel Alberto Lopatiuk, de A4 Arquitectura, lleva la obra (una sola nota de infonegocios, mayo-2024). No se halló web, redes ni otra obra de A4 en ninguna fuente.",
+   "tipo_proyectos": [
+    "residencial",
+    "casas en barrio cerrado",
+    "casas en barrio abierto"
+   ],
+   "estilo": "Casas modernas con detalles rústicos e interiores cálidos (Eco 2, 4, 7, 8, 10); línea económica 'casa propia a precio de alquiler'.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Terra Viva Residencias (Luque; 28 lotes con casas + 24 lotes abiertos; ~US$ 4 millones; infraestructura 100%, casas 60% en may-2024)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las notas no describen terminaciones; solo 'detalles rústicos e interiores cálidos'."
+   },
+   "tamano_aprox": "Pequeña: una sola obra identificada (42 casas en venta de 52 lotes en 2024).",
+   "decisores": [
+    {
+     "nombre": "Miguel Alberto Lopatiuk",
+     "cargo": "Arquitecto, A4 Arquitectura (a cargo de las obras de Terra Viva)",
+     "fuente": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda",
+    "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/",
+    "https://infonegocios.com.py/infomicasa/vivi-el-sueno-de-un-hogar-en-terra-viva-un-nuevo-concepto-de-vida-en-familia-con-amenidades-de-primer-nivel",
+    "https://www.ecocasas.com.py"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Poco prioritario como cliente directo: casas económicas repetibles. Si se quiere probar, el interlocutor real es el desarrollador Sibaris S.A. (Terra Viva), con un kit UHPC como opcional de personalización para compradores.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 24: una sola obra de gama económica-media con financiamiento AFD, sin contactos propios de A4 ni evidencia de actividad propia."
+   },
+   "pendiente_verificar": "Existencia de web/redes propias de A4 Constructora o A4 Arquitectura, otras obras, contacto propio y dirección; relación con el estudio 'A4 Estudio' (no hay evidencia; el resultado hallado es de Argentina); estado de ventas y avance de Terra Viva; Instagram @terra_vivapy y @ecocasaspy (no abiertos).",
+   "actividad_reciente": {
+    "fecha": "2024-09",
+    "evidencia": "Lanzamiento oficial de Terra Viva Residencias (La Nación 2024-09-24, contenido patrocinado); la nota de infonegocios 2024-05-21 nombra a A4 Constructora. Sin actividad propia de A4 posterior.",
+    "url": "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Terra Viva Residencias - Eco Casas (42 a la venta en may-2024)",
+     "tipo": "casas en barrio cerrado y abierto",
+     "etapa": "en venta",
+     "unidades": 52,
+     "link": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Casas económicas de 3 dormitorios; las notas no destacan baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "No se mencionan marcas de grifería, bachas ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 5,
+    "gama": 5,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 5,
+    "total": 24
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: Eco Casas modernas-rústicas de línea económica; sin hormigón visto ni materiales nobles.",
+    "volumen": "5/25: una sola obra identificada (52 casas) y empresa sin presencia propia.",
+    "gama": "5/20: cuotas AFD desde G. 4.200.000 sin entrega inicial, 'casa propia a precio de alquiler': segmento económico-medio.",
+    "accesibilidad": "3/15: decisor (arq. Lopatiuk) nombrado solo en prensa; sin contacto verificado de A4; teléfono (0985) 660 295, WhatsApp +595 981 585 131 y ventas@sibaris.com.py pertenecen al desarrollador/proyecto, no a A4.",
+    "oportunidad_inmediata": "5/10: casas en obra y a la venta (60% en may-2024) con baños y cocinas, pero de ticket bajo y la decisión de materiales probablemente es del desarrollador."
+   },
+   "notas_investigacion": "Leídas: infonegocios 2024-05-21 (única fuente que nombra a A4), La Nación 2024-09-24 (patrocinado; no nombra a A4), infonegocios 2024-09-24, web ecocasas.com.py (desarrollo 'por Nicolás Cóppola'; no lista constructora). Búsquedas 'A4 Constructora', 'A4 Arquitectura', 'Lopatiuk' en Google, ArchDaily/Divisare/Architizer: sin resultados propios (solo A4 Estudio de Argentina, no relacionado). Fallaron: Instagram @terra_vivapy, @ecocasaspy (no se intentó abrirlos; Instagram devolvió 429 en los demás intentos del lote), sin web ni redes de A4. Contactos del proyecto (0985) 660 295 (Sibaris, La Nación e infonegocios), WhatsApp +595 981 585 131 (ecocasas.com.py) y ventas@sibaris.com.py (visto en resumen de buscador) NO son de A4: se anotan solo aquí y no en los campos de contacto. Inconsistencia de fuentes: infonegocios dice desarrollador Sibaris S.A., ecocasas.com.py dice 'Nicolás Cóppola' (puede ser el dueño/representante; no verificado). Corrección a ronda 1: ubicación Luque, desarrollo y teléfono son de Sibaris; el tamaño es pequeño. No se halló la 'A4 Estudio de Luque' mencionada como duda de ronda 1."
+  },
+  {
+   "nombre": "Ricardo Díaz Martínez Constructora S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": "John F. Kennedy 1.083, casi José Asunción Flores, Asunción (solo nota de infonegocios 2023; no_verificado en fuente propia)",
+   "anio_fundacion": 1996,
+   "que_hacen": "Constructora de obras civiles e industriales fundada en 1996 por el ing. Ricardo Díaz Martínez; declara +27 años y +100 obras entregadas, 80% de su mercado en licitaciones públicas (hospitales, complejos habitacionales, edificios). Promueve el 'sistema monolítico de hormigón' (encofrado de aluminio prefabricado que reduce plazo ~30% y costo ~15%), lo que es hormigón estructural, no hormigón visto. Planea una unidad de desarrollos inmobiliarios propios.",
+   "tipo_proyectos": [
+    "salud",
+    "edificios en altura",
+    "residencial",
+    "obra pública",
+    "obras civiles"
+   ],
+   "estilo": "Obra pública e industrializada; vivienda social/media (Complejo Habitacional Cooperativa Lambaré, edificio Caja de la ANDE). Sin estilo premium ni minimalista identificado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Hospital San Pablo Materno Infantil, Asunción (5.196 m2, 139 camas)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    },
+    {
+     "nombre": "Complejo Habitacional Cooperativa Lambaré (17.854 m2; 10 torres de 6 niveles)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    },
+    {
+     "nombre": "Edificio Caja de Jubilaciones del personal de la ANDE, Asunción (10 plantas, 50 deptos; entrega prevista mayo-2023)",
+     "anio": 2023,
+     "link": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    },
+    {
+     "nombre": "Gran Hospital del Sur, Itapúa (51.525 m2; 30% en mar-2023; consorcio Consorcio Hospitalario del Sur según buscador)",
+     "anio": 2023,
+     "link": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "El 'sistema monolítico de hormigón' es un método constructivo con encofrado de aluminio para estructura; la nota no habla de hormigón visto como terminación."
+   },
+   "tamano_aprox": "Mediana-grande: +100 obras; 190 trabajadores directos solo en el Gran Hospital del Sur (nota 2023).",
+   "decisores": [
+    {
+     "nombre": "Hernán Ricardo Díaz Serafini",
+     "cargo": "MBA, director de la empresa (nota de infonegocios, mar-2023)",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    },
+    {
+     "nombre": "Ricardo Díaz Martínez",
+     "cargo": "Ingeniero, fundador (1996)",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon",
+    "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-12008-23-226731.pdf"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Constructora de volumen con obras públicas y viviendas colectivas: el ángulo es prescripción en proyectos residenciales de su futura unidad de desarrollos inmobiliarios y baños institucionales/hospitalarios; no es prioridad para piezas premium. Primero conseguir un contacto verificado (la empresa no publica web).",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 40: buen volumen, pero sin contactos en fuente propia, gama baja-media y estética no afín; el 'hormigón monolítico' no es hormigón visto."
+   },
+   "pendiente_verificar": "Teléfonos (021) 207-699 y (0981) 225-489, dirección y el usuario 'rdm.constructora' (Instagram/Facebook/LinkedIn) figuran SOLO en la nota de infonegocios de mar-2023: no_verificado, no se pudo abrir ninguna red (Instagram 429, Facebook login, LinkedIn 403). Web propia no encontrada. Estado actual del edificio ANDE y de su unidad de desarrollos propios; participación en el Gran Hospital del Sur (viene de resultados de buscador, no leída); Google Maps y reseñas.",
+   "actividad_reciente": {
+    "fecha": "2025-07",
+    "evidencia": "Ricardo Díaz Martínez (RUC 310695-0) integra el Consorcio Chaco Díaz con Sociedad Constructora Chaco S.A., oferente en la LPI MITIC Distrito Digital (apertura 22-jul-2025). Antes: nota de infonegocios 23-mar-2023 y registro DNCP LP-12008-23 (2023).",
+    "url": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Gran Hospital del Sur, Itapúa (97% de avance según resultado de buscador de Última Hora, fecha no verificada)",
+     "tipo": "hospital (obra pública, consorcio)",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Obra pública y vivienda colectiva; la nota no destaca baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "No se mencionan marcas. Solo el sistema de encofrado de aluminio prefabricado para hormigón.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 19,
+    "gama": 4,
+    "accesibilidad": 5,
+    "oportunidad_inmediata": 4,
+    "total": 40
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: afinidad con el hormigón como tecnología constructiva, pero no como acabado; obras institucionales y de vivienda colectiva.",
+    "volumen": "19/25: +100 obras, 190 trabajadores en una sola obra, hospitales y 10 torres de vivienda; participa en grandes licitaciones (Distrito Digital 2025).",
+    "gama": "4/20: cliente principal el Estado; vivienda cooperativa y de caja de jubilaciones; sin producto premium.",
+    "accesibilidad": "5/15: dos directivos nombrados (solo prensa) y teléfonos/usuario social hallados solo en prensa; ningún contacto en fuente propia.",
+    "oportunidad_inmediata": "4/10: obras públicas en curso, baños institucionales posibles; su unidad de desarrollos privados es solo un plan declarado en 2023."
+   },
+   "notas_investigacion": "Leídas: nota completa de infonegocios 2023-03-23 (HTML crudo con curl), resolución MITIC Nº 500 (set-2025, PDF DNCP), resultados de buscador de DNCP (registros 2023-2025, no abiertos). Fallaron: web propia (no existe o no indexada; sin resultados), Instagram https://www.instagram.com/rdm.constructora/ (429), Facebook rdm.constructora (pantalla de login), LinkedIn (403), Google Maps (no indexado; reseñas null). Correcciones a ronda 1: (1) el 'sistema monolítico de hormigón' es un sistema de encofrado de aluminio prefabricado, no hormigón visto; (2) los teléfonos que ronda 1 puso en el campo 'telefono' quedan como no_verificado (solo prensa) y el campo vuelve a null; (3) proyectos_destacados estaba vacío: se agregan los citados en la nota; (4) fecha de la nota: 23-mar-2023 (no hay actividad propia posterior a esa nota salvo la licitación 2025). La nota habla de planes de desarrollo inmobiliario propio (centros comerciales, complejos residenciales, supermercados y sanatorios privados) sin proyectos concretos. Prensa: solo 1 nota propia; el resto son resultados de licitaciones del Estado."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Building Innovations (Grupo Building Innovations, CEO Nicolás Paredes)",
+   "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios",
+   "ciudad": "Fernando de la Mora",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Sibaris S.A. (desarrollador de Terra Viva Residencias / Eco Casas)",
+   "link": "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Roma Inmobiliaria (Grupo Roma; desarrolló Torre Spano)",
+   "link": "https://infonegocios.com.py/infomicasa/torre-spano-disenado-para-la-vida-en-familia",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Javier Álvarez y Asociados S.A. (desarrollador de Manantiales Azalea y Manantiales de Asunción; sede en Punta del Este)",
+   "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Tecnoedil S.A. Constructora",
+   "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Alberto Barrail e Hijos S.A.",
+   "link": "https://infonegocios.com.py/plus/consorcio-adjudicado-renovara-el-rostro-del-puerto-de-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Constructora Isacio Vallejos S.A. (CIVSA)",
+   "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Sociedad Constructora Chaco S.A.",
+   "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Compañía de Construcciones Civiles S.A.",
+   "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Constructora Tapyta S.R.L.",
+   "link": "https://www.contrataciones.gov.py/api/resultado/1f0c6104-a152-6328-b843-6bd4120a7952/files/f03c3f49-4e6b-48af-b740-dd89e3cacc72/download",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Jiménez Gaona y Lima S.A.",
+   "link": "https://www.abc.com.py/nacionales/2024/12/03/entrega-oficial-del-hospital-general-de-coronel-oviedo-prevista-para-este-viernes/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Capital de Mandatos y Servicios (desarrolladora de Parque Pinar)",
+   "link": "https://infonegocios.com.py/y-ademas/itasa-apuesta-por-la-ciudad-de-nemby-para-una-millonaria-inversion-inmobiliaria",
+   "ciudad": "Ñemby",
+   "segmento": "desarrolladora"
+  }
+ ]
+}

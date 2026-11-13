@@ -1,0 +1,657 @@
+{
+ "lote": "r2a-04",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Civis Soluciones Inmobiliarias",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "World Trade Center, Torre 1, Piso 19, Asunción (oficina comercial)",
+   "anio_fundacion": 2017,
+   "que_hacen": "Desarrolladora paraguaya nacida en 2017 con lineas Flats, Civis, Yvyra y Aether; segun su web lleva +200.000 m2 desarrollados, +1.700 unidades vendidas, 7 proyectos entregados y +USD 150 M en ventas. Hoy desarrolla torres de 34 a 50 pisos en Las Lomas (Civis X, Civis XI, Aether, Plaza by Civis) y edificios medianos (Soho Flats, Civis Mariscal) mas condominios en Luque. Su ecosistema incluye equipamiento de unidades y domotica (empresas Better y Networkers), administracion de condominios (Hostpy) y app Civis Comunidad.",
+   "tipo_proyectos": [
+    "residencial",
+    "uso mixto",
+    "edificios en altura",
+    "oficinas serviced",
+    "condominios cerrados"
+   ],
+   "estilo": "Contemporaneo urbano; edificios compactos y torres con enfoque 'wellness', biofilia, domotica y amenities; unidades entregadas equipadas.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Plaza by Civis (Las Lomas): Civis XV 45 niveles/331 deptos + Nodo 36 niveles/236 oficinas serviced + paseo comercial, USD 65 M, en obra, entrega 2031",
+     "anio": 2031,
+     "link": "https://plaza.civis.com.py/en/"
+    },
+    {
+     "nombre": "AETHER by Civis (Las Lomas): 50 niveles, 239 unidades, entrega 2030",
+     "anio": 2030,
+     "link": "https://aether.civis.com.py/home/"
+    },
+    {
+     "nombre": "Civis XI (Las Lomas): 34 pisos, 196 deptos, obra iniciada jun-2025, entrega 2028",
+     "anio": 2028,
+     "link": "https://xi.civis.com.py/home/"
+    },
+    {
+     "nombre": "Civis Mariscal (Recoleta): 52-53 deptos, inaugurado mar-2026",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/infomicasa/civis-inauguro-civis-mariscal-su-nueva-generacion-de-edificios-que-integran-vivienda-servicios-y-tecnologia"
+    },
+    {
+     "nombre": "Soho Flats (Recoleta/Villa Morra): 112 deptos + 3 locales, entrega prevista 2027",
+     "anio": 2027,
+     "link": "https://sohoflats.civis.com.py/home-eng/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ninguna de las webs de proyecto ni las notas leidas menciona hormigon visto ni describe terminaciones de baño/cocina; los renders se declaran 'preliminares'."
+   },
+   "tamano_aprox": "Grande para el mercado local: +30 personas (web), 14 proyectos en la linea de tiempo 2019-2031, +1.700 unidades vendidas; hasta 5 obras simultaneas (Plaza, Aether, XI, X, Soho Flats, Arazá).",
+   "decisores": [
+    {
+     "nombre": "Kevin Bendlin",
+     "cargo": "CEO / presidente y fundador",
+     "fuente": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/"
+    },
+    {
+     "nombre": "José Luis Serrati",
+     "cargo": "Director jurídico y accionista",
+     "fuente": "https://infonegocios.com.py/infomicasa/civis-inauguro-civis-mariscal-su-nueva-generacion-de-edificios-que-integran-vivienda-servicios-y-tecnologia"
+    }
+   ],
+   "web": "https://www.civis.com.py",
+   "instagram": "https://www.instagram.com/civisparaguay",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/civisparaguay",
+   "linkedin": "https://py.linkedin.com/company/civispy",
+   "email": "comercial@civis.com.py",
+   "telefono": "+595 992 286 661",
+   "whatsapp": "+595 992 286 661 (wa.me/+595992286661)",
+   "fuentes": [
+    "https://www.civis.com.py/contactus",
+    "https://www.civis.com.py/about-us",
+    "https://www.civis.com.py/prensa",
+    "https://plaza.civis.com.py/en/",
+    "https://aether.civis.com.py/home/",
+    "https://xi.civis.com.py/home/",
+    "https://sohoflats.civis.com.py/home-eng/",
+    "https://mariscal.civis.com.py/home-eng/",
+    "https://infonegocios.com.py/default/civis-apuesta-us-65-millones-por-un-nuevo-complejo-en-asuncion-tendra-torres-de-hasta-45-niveles-oficinas-y-paseo-comercial",
+    "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/",
+    "https://infonegocios.com.py/infomicasa/civis-inauguro-civis-mariscal-su-nueva-generacion-de-edificios-que-integran-vivienda-servicios-y-tecnologia",
+    "https://infonegocios.com.py/tarjetero/empresa/civis"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Cartera enorme en obra con una sola puerta comercial (comercial@civis.com.py / WhatsApp). Entrar via el area de 'equipamiento de unidades' del grupo con una propuesta de bachas/mesadas UHPC como upgrade o linea premium (penthouses, Aether, Civis Mariscal) o para amenities y lobbies de las torres.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 68: gran volumen y obras en curso con canal comercial verificado, pero producto masivo/medio sin señal de materiales afines a UHPC."
+   },
+   "pendiente_verificar": "Instagram (@civisparaguay) y Facebook devolvieron 429/login: seguidores y ultimos 12 posts sin leer. LinkedIn 403. Ficha de Google Maps no cargo (reseñas sin leer). Quien decide equipamiento/terminaciones (Better u otro area) no esta publicado. Arquitectos de las torres no identificados.",
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Nota Infonegocios (29-oct-2026) sobre Plaza by Civis USD 65 M; web con CSS v20261023 y 'New Launch' Plaza.",
+    "url": "https://infonegocios.com.py/default/civis-apuesta-us-65-millones-por-un-nuevo-complejo-en-asuncion-tendra-torres-de-hasta-45-niveles-oficinas-y-paseo-comercial"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Plaza by Civis (Civis XV + Nodo)",
+     "tipo": "uso mixto torre residencial + oficinas",
+     "etapa": "en obra",
+     "unidades": 331,
+     "link": "https://plaza.civis.com.py/en/"
+    },
+    {
+     "nombre": "AETHER",
+     "tipo": "residencial en altura",
+     "etapa": "en venta",
+     "unidades": 239,
+     "link": "https://aether.civis.com.py/home/"
+    },
+    {
+     "nombre": "Civis XI",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 196,
+     "link": "https://xi.civis.com.py/home/"
+    },
+    {
+     "nombre": "Civis X",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 192,
+     "link": "https://x.civis.com.py/home/"
+    },
+    {
+     "nombre": "Soho Flats",
+     "tipo": "residencial/uso mixto",
+     "etapa": "en obra",
+     "unidades": 112,
+     "link": "https://sohoflats.civis.com.py/home-eng/"
+    },
+    {
+     "nombre": "Arazá (Luque)",
+     "tipo": "condominio",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://araza.civis.com.py/home-eng/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Las webs de proyecto muestran tipologias y amenities; baño y cocina aparecen solo como ambientes del plano, sin descripcion de materiales."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas de griferias/bachas/mesadas. Se destacan domotica y equipamiento integrado a traves de empresas del grupo (Better, Networkers); certificacion EDGE en Civis XI (segun prensa).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 23,
+    "gama": 12,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 9,
+    "total": 68
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: estilo contemporaneo con wellness y biofilia, pero producto de departamentos compactos de mercado; sin evidencia de hormigon visto ni materiales nobles en baño/cocina.",
+    "volumen": "23/25: 14 proyectos 2019-2031, +1.700 unidades vendidas, 5-6 obras en paralelo y torres de 190-330 unidades.",
+    "gama": "12/20: mezcla de lineas Flats (inversion/medio) y Civis (lujo y comodidad, Las Lomas); precios de listados de reventa USD 220k+ en Civis Mariscal.",
+    "accesibilidad": "12/15: telefono, email y WhatsApp verificados en web propia (contactus); CEO identificado solo por prensa y sin canal directo.",
+    "oportunidad_inmediata": "9/10: Plaza, Aether, Civis X/XI, Soho Flats y Arazá en obra o lanzamiento; equipamiento lo coordina el propio grupo, lo que acota la puerta de entrada."
+   },
+   "notas_investigacion": "Leidos: civis.com.py (home, about-us, contactus, prensa; HTML via curl con www), 6 webs de proyecto, La Nacion 11-mar-2026 (sponsored), Infonegocios Plaza (29-oct-2026), Infonegocios Mariscal (30-mar-2026), tarjetero Infonegocios (Bendlin 'Director General'). Prensa: >=3 busquedas (Infonegocios, La Nacion, Revista PLUS, 5Dias citadas en /prensa). Fallaron: civis.com.py/en/aboutus (404), IG civisparaguay (429, y curl solo trae el shell), Facebook (solo titulo), LinkedIn py.linkedin.com/company/civispy (403), Google Maps (sin datos), ArchDaily/Archello (sin resultados sobre Civis). Correcciones a ronda 1: telefono, email, WhatsApp, direccion y redes ahora verificados en web propia; City Mariscal = Civis Mariscal, inaugurado mar-2026; Soho Flats pasó a 112 deptos + 3 locales (la nota de 2024 decia ~170); proyectos grandes nuevos (Plaza, Aether, XI, X). Ronda 1 tenia entrega de Soho Flats sin fecha: la web propia indica 2027. Telefono tambien figura en sohoflats/plaza webs y Infonegocios (2025). Datos de la nota La Nacion marzo 2026 son contenido patrocinado."
+  },
+  {
+   "nombre": "Concor Desarrollos",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Teniente Rivas 844, barrio Mburucuyá (segun Infonegocios 2023; no verificado en fuente propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de capital/origen coreano (Concor = 'constructora coreana') con la marca de edificios Lumiere. Primer proyecto Lumiere del Sol (Las Lomas, 44 deptos, USD 3,5 M, obra 2023) y segundo Lumiere Mariscal (Villa Morra, 87 deptos, palada inicial 7-nov-2025). Apuesta a edificios boutique con cerraduras electronicas coreanas, vidrios DVH y porcelanato.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios boutique / compactos"
+   ],
+   "estilo": "Boutique contemporaneo con ventanales piso-techo; terminaciones estandar (porcelanato, carpinteria, muebles de cocina), tecnologia coreana.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Lumiere Mariscal (Villa Morra), 87 deptos, 14 pisos, constructora Altanova, desde USD 64.000",
+     "anio": 2025,
+     "link": "https://www.elinmobiliario.com.py/post/lumiere-mariscal-inicia-su-construcci%C3%B3n-a-pasos-del-shopping-mariscal"
+    },
+    {
+     "nombre": "Lumiere del Sol (Las Lomas), 44 deptos, 8 pisos, arq. Antonella Faraone, constructora Salum & Wenz",
+     "anio": 2023,
+     "link": "https://infonegocios.com.py/default/lumiere-del-sol-un-edificio-boutique-en-el-barrio-las-lomas-unidades-desde-us-45-682-hasta-us-148-964"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las notas describen porcelanato, vidrios DVH y 'muros sustentables de doble pared'; no mencionan hormigon visto."
+   },
+   "tamano_aprox": "Pequeña: 2 edificios en cartera real (44 y 87 unidades), equipo reducido; terceriza construccion (Salum & Wenz, Altanova).",
+   "decisores": [
+    {
+     "nombre": "Emilio González",
+     "cargo": "Project manager de Concor Desarrollos",
+     "fuente": "https://infonegocios.com.py/default/concor-desarrollos-una-empresa-multidisciplinaria-dedicada-al-desarrollo-inmobiliario-con-intencion-de-continuar-creciendo"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/concor-desarrollos-una-empresa-multidisciplinaria-dedicada-al-desarrollo-inmobiliario-con-intencion-de-continuar-creciendo",
+    "https://infonegocios.com.py/default/lumiere-del-sol-un-edificio-boutique-en-el-barrio-las-lomas-unidades-desde-us-45-682-hasta-us-148-964",
+    "https://www.elinmobiliario.com.py/post/lumiere-mariscal-inicia-su-construcci%C3%B3n-a-pasos-del-shopping-mariscal",
+    "https://www.infocasas.com.py/proyectos/lumiere-mariscal",
+    "https://www.hubdesarrollos.com.py/es/proyecto/lumiere-del-sol",
+    "https://www.abc.com.py/empresariales/2023/08/17/lumiere-del-sol-asuncion-suma-una-iconica-propuesta-inmobiliaria/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Lumiere Mariscal (87 deptos, obra iniciada nov-2025, entrega probable 2027) esta en fase de definir terminaciones; COCO podria proponer bachas y mesadas UHPC como diferencial 'boutique' a su project manager. Volumen moderado, conviene entrar con un paquete simple.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 44, en el borde de B: boutique y proyecto en obra, pero escala chica y sin contactos verificados (web propia no accesible)."
+   },
+   "pendiente_verificar": "Web propia (concor.com.py, lumiere.com.py) no resuelve DNS desde la sesion: telefono, email, WhatsApp, Instagram y estado actual de Lumiere del Sol sin verificar en fuente propia. Instagram @concordesarrollos y @lumieredelsol solo por prensa (no leidos). Facebook y LinkedIn de la empresa no encontrados. Confirmar con llamada si Lumiere del Sol fue entregado (fin previsto dic-2024).",
+   "actividad_reciente": {
+    "fecha": "2025-11",
+    "evidencia": "Palada inicial de Lumiere Mariscal el 7-nov-2025 (El Inmobiliario, 10-nov-2025).",
+    "url": "https://www.elinmobiliario.com.py/post/lumiere-mariscal-inicia-su-construcci%C3%B3n-a-pasos-del-shopping-mariscal"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Lumiere Mariscal",
+     "tipo": "residencial 14 pisos",
+     "etapa": "en obra",
+     "unidades": 87,
+     "link": "https://www.elinmobiliario.com.py/post/lumiere-mariscal-inicia-su-construcci%C3%B3n-a-pasos-del-shopping-mariscal"
+    },
+    {
+     "nombre": "Lumiere Madero (Luque), segun un unico listado de InfoCasas: 38 m2, desde USD 56.300, inicio dic-2026, entrega dic-2028; no confirmado en otra fuente",
+     "tipo": "residencial",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.infocasas.com.py/habitalis-villa-morra/190900323"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Terminaciones descritas de forma estandar (porcelanato, muebles de cocina duraderos); sin foco en baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Cerraduras electronicas coreanas, vidrios DVH, porcelanato; sin marcas de griferia/bacha/mesada.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 15,
+    "volumen": 8,
+    "gama": 9,
+    "accesibilidad": 5,
+    "oportunidad_inmediata": 7,
+    "total": 44
+   },
+   "puntaje_justificacion": {
+    "estetica": "15/30: discurso de detalle y edificio 'boutique' con ventanales; terminaciones estandar y sin hormigon visto.",
+    "volumen": "8/25: dos edificios (44 y 87 unidades), un tercero sin confirmar.",
+    "gama": "9/20: precios USD 45k-149k (Lumiere del Sol) y desde USD 64k (Mariscal): segmento medio.",
+    "accesibilidad": "5/15: sin ningun contacto verificado en fuente propia; solo telefono/email de prensa (no_verificado) y un project manager de 2023.",
+    "oportunidad_inmediata": "7/10: Lumiere Mariscal en obra desde nov-2025; Lumiere del Sol probablemente ya terminado."
+   },
+   "notas_investigacion": "Leidos: Infonegocios (perfil Concor jul-2023; Lumiere del Sol 27-jul-2023), ABC Color ago-2023, El Inmobiliario (Lumiere Mariscal, 10-nov-2025), InfoCasas Lumiere Mariscal (88 unidades/17 pisos, 'oferta ya no disponible': datos distintos al articulo de 87/14), HubDesarrollos. Fallaron: concor.com.py, www.concor.com.py, lumiere.com.py (ENOTFOUND/connect_unreachable), Instagram (429). No_verificado (solo prensa/terceros): tel/WhatsApp (0992) 477-981 y ventas@concor.com.py (Infonegocios), +595 992 862 954 (boton Llamar en InfoCasas), WhatsApp de HubDesarrollos (agencia, no de la empresa). Correccion ronda 1: la direccion Teniente Rivas 844 es de 2023; existe un segundo proyecto (Lumiere Mariscal) y la nota de ronda 1 indicaba 'planea 1-2 edificios mas', ya cumplido. Arquitecta de Lumiere del Sol: Antonella Faraone (Infonegocios). Constructoras: Salum & Wenz (Del Sol), Altanova Construcciones (Mariscal), candidatas extra."
+  },
+  {
+   "nombre": "Live In S.A. (marca Haus)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora y comercializadora de la marca Haus. Entrego Villa Morra Haus (17 deptos, calle 23 de Octubre y Guido Spano, arq. Gustavo Masi, constructora JCA, concluido 31-mar-2016) y anuncio en 2016 un segundo edificio, Brasilia Haus. No se encontro actividad posterior.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios boutique"
+   ],
+   "estilo": "Boutique 'lujo y confort': porcelanato, marcos de madera, mesadas de granito, aire en todos los ambientes, quincho climatizado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Villa Morra Haus (17 deptos, entregado 2016)",
+     "anio": 2016,
+     "link": "https://infonegocios.com.py/default/villa-morra-haus-lujo-y-confort-en-plena-ciudad"
+    },
+    {
+     "nombre": "Brasilia Haus (anunciado en 2016; sin rastro posterior)",
+     "anio": 2016,
+     "link": "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Nota de 2015 enumera porcelanato, marcos de madera y mesadas de granito: sin hormigon visto."
+   },
+   "tamano_aprox": "Muy pequeña: un edificio de 17 unidades conocido.",
+   "decisores": [
+    {
+     "nombre": "Diego Barbero",
+     "cargo": "Socio de Live In (2016)",
+     "fuente": "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion"
+    },
+    {
+     "nombre": "Fernando Maidana",
+     "cargo": "Area comercial, Live In S.A. (2015)",
+     "fuente": "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion",
+    "https://infonegocios.com.py/default/villa-morra-haus-lujo-y-confort-en-plena-ciudad",
+    "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Sin actividad detectada desde 2016; no priorizar. Reactivar solo si aparece Brasilia Haus u otro proyecto nuevo.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 28: sin actividad desde 2016, sin contactos; probablemente inactiva."
+   },
+   "pendiente_verificar": "Si la empresa sigue activa y si existe Brasilia Haus. villamorrahaus.com.py no resuelve desde la sesion; pagina de Facebook de Live In (citada por Infonegocios) no localizada. Sin ningun contacto publicado.",
+   "actividad_reciente": {
+    "fecha": "2016-04",
+    "evidencia": "Nota Infonegocios (abr-2016) sobre Villa Morra Haus concluido y Brasilia Haus anunciado; sin notas posteriores en 3 busquedas.",
+    "url": "https://infonegocios.com.py/default/villa-morra-haus-lujo-y-confort-en-plena-ciudad"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Se mencionan mesadas de granito y muebles integrales (Achon) en 2015-2016; sin fotos ni detalle de baños."
+   },
+   "materiales_y_proveedores_visibles": "Achon (mobiliario integral), Otis (ascensor), porcelanato, mesadas de granito (2015-2016).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 3,
+    "gama": 12,
+    "accesibilidad": 1,
+    "oportunidad_inmediata": 0,
+    "total": 28
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: terminaciones buenas pero clasicas (granito, porcelanato); sin minimalismo ni hormigon visto.",
+    "volumen": "3/25: un edificio de 17 unidades, sin evidencia de obras posteriores.",
+    "gama": "12/20: USD 115-197 mil en 2016, segmento medio-alto.",
+    "accesibilidad": "1/15: sin contactos ni web accesible; solo nombres en prensa de 2015-2016.",
+    "oportunidad_inmediata": "0/10: no hay obra ni proyecto en curso confirmado."
+   },
+   "notas_investigacion": "Leidos: 3 notas Infonegocios (mar-2015, abr-2016 x2). Busquedas web: 'Brasilia Haus', 'Live In S.A. Diego Barbero', 'Haus Villa Morra' sin resultados posteriores a 2016. Fallo villamorrahaus.com.py (DNS). Instagram/Facebook/LinkedIn no hallados. Descartado como confusion: Home Villa Morra (PyH Urban Development, 2020) no tiene relacion con Live In. Correccion ronda 1: el arquitecto es Gustavo Masi (nota 2015); la nota de ronda 1 dice USD 115-195k (2016) y 17 deptos. Empresa considerada probablemente inactiva (sin actividad en +18 meses): fit C."
+  },
+  {
+   "nombre": "Habitalis (Grupo Capitalis / González Acosta & Wood)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora residencial de Asuncion liderada por el arq. Victor Gonzalez Acosta; construye con su propia constructora (GA&A segun su web) y administra los edificios terminados. Entregó Félix Bogado (2018), Garay y Las Mercedes (2020), Sajonia (2021), Molas López (2022) y Lynch (2024), y tiene Mburucuyá y Villa Morra en venta. Desde 2023 aplica 'Wellness Design' (arquitectura del bienestar, biofilia).",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "edificios de barrio"
+   ],
+   "estilo": "Lineas simples y armoniosas, wellness design, biofilia, domotica/inmotica, balcones de doble profundidad.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Habitalis Mburucuyá (52 deptos, 19 pisos, Av. Molas López) - web: entrega prog. dic-2025 (fecha vencida)",
+     "anio": 2025,
+     "link": "https://habitalis.com.py/desarrollo/mburucuya"
+    },
+    {
+     "nombre": "Habitalis Villa Morra (38 deptos, 7 niveles de vivienda, calle Juan Bogarín) - entrega prog. dic-2026",
+     "anio": 2026,
+     "link": "https://habitalis.com.py/desarrollo/villamorra"
+    },
+    {
+     "nombre": "Habitalis Lynch (finalizado 2024, 44 deptos segun prensa)",
+     "anio": 2024,
+     "link": "https://habitalis.com.py/desarrollos"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web describe 'lineas simples' y materialidad de bajo impacto en aire interior, sin mencionar hormigon visto."
+   },
+   "tamano_aprox": "Mediana: 8 edificios en 6 barrios (web) de 38-52 deptos; construye con constructora propia; la web declara +100.000 m2 propios y +1.000.000 m2 / +150 proyectos en la trayectoria de su presidente (cifras no coinciden).",
+   "decisores": [
+    {
+     "nombre": "Víctor González Acosta",
+     "cargo": "Presidente de Habitalis; arquitecto, urbanista, desarrollador y constructor",
+     "fuente": "https://habitalis.com.py/"
+    }
+   ],
+   "web": "https://habitalis.com.py",
+   "instagram": "https://www.instagram.com/habitalis_py/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/Habitalis/",
+   "linkedin": "https://py.linkedin.com/company/habitalispy",
+   "email": "habitalis@habitalis.com.py",
+   "telefono": "0982 224 433",
+   "whatsapp": null,
+   "fuentes": [
+    "https://habitalis.com.py/",
+    "https://habitalis.com.py/habitalis",
+    "https://habitalis.com.py/desarrollos",
+    "https://habitalis.com.py/desarrollo/villamorra",
+    "https://habitalis.com.py/desarrollo/mburucuya",
+    "https://habitalis.com.py/wellness-design",
+    "https://proyecta.com.py/habitalis-mburucuya-un-espacio-moderno-con-diseno-biofilico-en-asuncion/",
+    "https://www.infocasas.com.py/habitalis-villa-morra/190900323"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Empresa activa que construye y administra con equipo propio: un solo interlocutor (Arq. González Acosta). Su discurso de bienestar, materialidad y biofilia calza con piezas UHPC finas; proponer bachas/mesadas para Habitalis Villa Morra (en cierre) y, sobre todo, para el proximo lanzamiento.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 63: activa, contactos y presidente verificados en web propia, obra propia y wellness design; gama medio-alta."
+   },
+   "pendiente_verificar": "Instagram (@habitalis_py) 429, Facebook solo login, LinkedIn no leido, Google Maps no consultado: seguidores y ultimos posts sin leer. WhatsApp: la web muestra un QR sin numero explicito. 'Habitalis Jardín' (Villa Morra, inicio 2º semestre 2026, entrega 1T 2029) aparece solo en un listado de InfoCasas y no esta en su web: confirmar. Estado real de Mburucuyá (entrega prevista dic-2025 ya vencida) y de Villa Morra (dic-2026).",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "Web propia activa con 2 proyectos en venta (entrega dic-2025 y dic-2026) y Lynch finalizado en 2024; nota Proyecta del 12-feb-2025 sobre Mburucuyá. No se pudo leer ningun post con fecha.",
+    "url": "https://habitalis.com.py/desarrollos"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Habitalis Villa Morra",
+     "tipo": "residencial 7 niveles + 2 de estacionamiento",
+     "etapa": "en obra",
+     "unidades": 38,
+     "link": "https://habitalis.com.py/desarrollo/villamorra"
+    },
+    {
+     "nombre": "Habitalis Mburucuyá",
+     "tipo": "residencial 12 niveles + 6 de estacionamiento",
+     "etapa": "en venta",
+     "unidades": 52,
+     "link": "https://habitalis.com.py/desarrollo/mburucuya"
+    },
+    {
+     "nombre": "Habitalis Jardín (Villa Morra) - NO confirmado en web propia",
+     "tipo": "residencial",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.infocasas.com.py/habitalis-villa-morra/190900323"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las webs de proyecto no describen baños ni cocinas; enfasis en amenities, iluminacion, confort y materialidad."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles. Menciona domotica e inmotica, mejoras acusticas, termicas e hidrofugas, y seleccion de materiales de baja emision (Wellness Design). Consultora wellness: Arq. Verónica Pecci (MSc UCL).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 17,
+    "gama": 13,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 6,
+    "total": 63
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: lineas simples y enfoque en bienestar/biofilia/materialidad que simpatizan con COCO; sin hormigon visto ni materiales nobles destacados.",
+    "volumen": "17/25: 8 edificios de 38-52 deptos, 6 entregados 2018-2024, ritmo ~1 edificio por año y constructora propia.",
+    "gama": "13/20: unidades desde USD 156k (Mburucuyá) en Villa Morra/Molas López: medio-alto, no lujo.",
+    "accesibilidad": "13/15: telefono y email verificados en web propia y decisor (presidente) identificado por la propia empresa; sin WhatsApp explicito.",
+    "oportunidad_inmediata": "6/10: Villa Morra y Mburucuyá en cierre de obra; el valor esta en el proximo lanzamiento (Jardín sin confirmar)."
+   },
+   "notas_investigacion": "Leidos: habitalis.com.py (home, /habitalis, /desarrollos, /desarrollo/villamorra, /desarrollo/mburucuya, /wellness-design via curl), Proyecta feb-2025, InfoCasas (listado con Habitalis Jardín). Busquedas de prensa: 3 (Infonegocios 2016-2019 sobre Habitalis, Proyecta, InfoCasas). Fallaron: Instagram (429), Facebook (login), LinkedIn (no consultado), Google Maps (no consultado), infocasas.com.py/desarrolladoras/habitalis (timeout). CORRECCION IMPORTANTE ronda 1: la empresa NO es inactiva (ronda 1 la daba por 2016-2019): tiene web activa con 8 edificios (Lynch finalizado en 2024) y 2 en venta; la ficha pasa de C a B. Ronda 1 decia 'Felix Bogado, Las Mercedes, Sajonia, Molas López' y 'González Acosta & Wood' como constructora: la web actual nombra a GA&A (constructora propia). Telefono de ronda 1 en prensa antigua (+595 984572666, (021) 661-431) difiere del actual de la web (0982 224 433): se usa solo el de la web propia. Inconsistencia: Mburucuyá figura 'Entrega dic 25' aunque estamos en nov-2026."
+  },
+  {
+   "nombre": "Propay (Grupo Villanueva)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Oficinas administrativas y legales en el World Trade Center, Asunción (segun Infonegocios 2023; no verificado)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de capital argentino (Grupo Villanueva / Villanueva e Hijos, Jujuy) que opera en Paraguay. Su primer proyecto es Villanueva 1 (edificio contemporaneo de 3.045 m2, 9 niveles, planta baja y subsuelo, Villa Morra segun un resumen de buscador) y proyectaba 10 edificios en altura en Asuncion hasta 2032.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura"
+   ],
+   "estilo": "Contemporaneo; sin detalle de terminaciones.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Villanueva 1 (9 niveles, 3.045 m2; obra y venta previstas 2023)",
+     "anio": 2023,
+     "link": "https://infonegocios.com.py/nota-principal/llega-otro-jugador-al-mercado-inmobiliario-propay-se-propone-levantar-10-edificios-para-el-2032"
+    },
+    {
+     "nombre": "Villanueva 1 en la web del grupo (1 y 2 dormitorios, semipiso, terraza con gym y pileta)",
+     "anio": null,
+     "link": "https://villanuevaehijos.com.ar/villanueva-1/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin informacion de terminaciones en las fuentes leidas."
+   },
+   "tamano_aprox": "Pequeña en Paraguay: un edificio conocido (9 niveles); plan de 10 edificios sin evidencia de avance.",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/nota-principal/llega-otro-jugador-al-mercado-inmobiliario-propay-se-propone-levantar-10-edificios-para-el-2032",
+    "https://villanuevaehijos.com.ar/villanueva-1/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Si Villanueva 1 sigue en obra o se lanza un segundo edificio, COCO podria ofrecer bachas/mesadas UHPC; hoy no hay canal ni dato de avance. Baja prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 26: un solo edificio, sin contactos ni avance verificado."
+   },
+   "pendiente_verificar": "propay.com.py (home, /villanueva-1/, /quienes-somos/) aparece en buscadores pero no resuelve DNS/conexion desde la sesion: sin telefono, email ni redes verificados. Estado de Villanueva 1 (resumenes de buscador hablan de entrega jun-dic 2025, no leidos en fuente) y del plan de 10 edificios. Redes de Propay no encontradas.",
+   "actividad_reciente": {
+    "fecha": "2023-02",
+    "evidencia": "Nota Infonegocios (10-feb-2023): Villanueva 1 en etapa de pozo. Resumenes de buscador citan notas promocionales de abril-2025 (La Razon, Economy, Contacto Economico), no legibles (402/404/vacio).",
+    "url": "https://infonegocios.com.py/nota-principal/llega-otro-jugador-al-mercado-inmobiliario-propay-se-propone-levantar-10-edificios-para-el-2032"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Villanueva 1",
+     "tipo": "residencial 9 niveles",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://villanuevaehijos.com.ar/villanueva-1/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin informacion."
+   },
+   "materiales_y_proveedores_visibles": "Ninguno visible. Constructora de Villanueva 1: Soling Constructora segun resultado de buscador (no leido, pagina 404).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 8,
+    "accesibilidad": 1,
+    "oportunidad_inmediata": 3,
+    "total": 26
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: edificio contemporaneo generico, sin evidencia de materiales ni diseño afin.",
+    "volumen": "6/25: un edificio de 9 niveles confirmado; 10 edificios solo como proyeccion.",
+    "gama": "8/20: unidades desde ~USD 91-93k segun resumen de buscador (no leido): segmento inversion/medio.",
+    "accesibilidad": "1/15: ningun contacto ni decisor verificado; el unico nombre (Fernando Villanueva) es GM de Villanueva e Hijos.",
+    "oportunidad_inmediata": "3/10: Villanueva 1 probablemente en cierre o terminado; sin otro proyecto confirmado."
+   },
+   "notas_investigacion": "Leidos: Infonegocios 10-feb-2023; villanuevaehijos.com.ar/villanueva-1 (no menciona Propay; contactos solo de Jujuy, Argentina, del grupo). Fallaron: propay.com.py, www.propay.com.py (ENOTFOUND/connect_unreachable por WebFetch y curl), larazon.bo (402), economy.com.bo (404), contactoeconomico.com (vacio), solingconstructora.com (404). Datos de buscador sin leer: Villanueva 1 en Villa Morra cerca de Shopping Mariscal; precios ~USD 91-93k; creacion de Propay en 2021. No se registro ningun contacto. Redes no encontradas. Fit C por falta de evidencia de actividad y de contactos."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Altanova Construcciones (Altea Holding)",
+   "link": "https://www.elinmobiliario.com.py/post/lumiere-mariscal-inicia-su-construcci%C3%B3n-a-pasos-del-shopping-mariscal",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Salum & Wenz",
+   "link": "https://www.abc.com.py/tag/salum-wenz/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "PyH Urban Development (Edificios Home)",
+   "link": "https://infonegocios.com.py/amp/default/home-villa-morra-esta-listo-y-solo-queda-una-ultima-unidad-disponible",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "JCA Constructora S.A.",
+   "link": "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Altius Group Paraguay (More Mariscal)",
+   "link": "https://infonegocios.com.py/infomicasa/more-mariscal-en-pleno-avance-de-obras-promete-transformar-el-horizonte-de-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Hostpy (grupo Civis)",
+   "link": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Gustavo Masi Arquitectura",
+   "link": "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
