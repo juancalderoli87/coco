@@ -35,11 +35,18 @@ def val(v):
 bykey = {key(n): i for i, n in ids.items()}
 emp = {}
 extra = []
+descartadas = []
 for d0 in dirs:
     reg_dir = REG.get(os.path.basename(d0.rstrip("/")))
     for f in sorted(glob.glob(f"{d0}/*.json")):
         d = json.load(open(f))
         for c in d.get("empresas", []):
+            if c.get("descartada") or c.get("duplicada_de"):
+                motivo = c.get("motivo_descarte") or (f'Duplicada de {c["duplicada_de"]}' if c.get("duplicada_de") else "")
+                fu = [u for u in (c.get("fuentes") or []) if u]
+                descartadas.append([cut(c["nombre"], 80), SEG.get(c.get("segmento"), c.get("segmento") or ""),
+                                    cut(c.get("ciudad"), 40), cut(fu[0] if fu else "", 150), cut("Descartada: " + motivo, 200)])
+                continue
             pid = c.get("id_planilla") or bykey.get(key(c["nombre"]))
             if not pid:
                 pid = f"{max(int(i) for i in ids) + 1:03d}"
@@ -52,7 +59,7 @@ for d0 in dirs:
                 emp[pid] = c
         for x in d.get("candidatos_extra", []):
             extra.append([cut(x.get("nombre"), 80), SEG.get(x.get("segmento"), x.get("segmento") or ""),
-                          cut(x.get("ciudad"), 40), cut(x.get("link"), 150)])
+                          cut(x.get("ciudad"), 40), cut(x.get("link"), 150), "Sin perfilar"])
 
 json.dump(ids, open(IDS_PATH, "w"), ensure_ascii=False, indent=1)
 
@@ -92,5 +99,15 @@ for pid in sorted(emp):
                  cut(f'{ar.get("fecha") or "?"}: {ar.get("evidencia") or ""}', 160) if ar else "",
                  contactos(c), c["_region"], det])
 
+# Extra: candidatas sin perfilar (sin duplicar las ya perfiladas) + descartadas con motivo
+perf = {key(c["nombre"]) for c in emp.values()} | {key(n) for n in ids.values()}
+seen, ex2 = set(), []
+for r in extra:
+    k = key(r[0])
+    if k in perf or k in seen or any(k and (k in p or p in k) for p in perf if len(p) > 4):
+        continue
+    seen.add(k)
+    ex2.append(r)
+extra = descartadas + ex2
 json.dump({"rows": rows, "extra": extra}, open(out, "w"), ensure_ascii=False)
 print(len(rows), "empresas,", len(extra), "extra")
