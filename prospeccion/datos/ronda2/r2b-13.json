@@ -1,0 +1,527 @@
+{
+ "lote": "r2b-13",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Oficina de Arquitectura X (Oficina X)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": 2019,
+   "que_hacen": "Estudio de arquitectura de Asunción dirigido por Nicole Jaquet y Felipe Ramirez Ilculese (este último también calculista estructural). Vivienda unifamiliar de bajo presupuesto con ladrillo visto, muros de tierra y construcción casi artesanal; su Casa 9x9 (Tacumbú, Asunción) fue nominada al premio MCHAP Americas Prize 2025. Su Instagram se presenta como 'de-construcción arquitectónica' y etiqueta una fábrica de bloques y una constructora.",
+   "tipo_proyectos": [
+    "residencial (vivienda unifamiliar)"
+   ],
+   "estilo": "Brutalismo austero / materialidad cruda y de bajo costo: ladrillo visto, tierra, losas de fundación vistas, patios centrales; mínima terminación.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Casa 9x9 (Tacumbú, Asunción; 125 m2; ladrillo visto, nominada MCHAP Americas Prize 2025)",
+     "anio": 2022,
+     "link": "https://www.mchap.co/mchap-2024-projects/casa-9x9"
+    },
+    {
+     "nombre": "House 9X9 (ficha ArchDaily)",
+     "anio": 2022,
+     "link": "https://www.archdaily.com/1005115/house-9x9-oficina-de-arquitectura-x"
+    },
+    {
+     "nombre": "Liquid Earth House (Fernando de la Mora; 230 m2; lote 6x25 m con patio central)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/985568/liquid-earth-house-oficina-de-arquitectura-x"
+    },
+    {
+     "nombre": "House in the Woods (San Bernardino; 350 m2; muros de tierra; firmado 'Oficina X'; misma dupla)",
+     "anio": 2019,
+     "link": "https://www.archdaily.com/1005679/house-in-the-woods-oficina-x"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Casa 9x9 es ladrillo visto con losa de fundación a nivel de piso como estructura y piso (mchap.co); Liquid Earth: las fotos mencionan ladrillo, hormigón y madera pero la ficha no lista materiales; House in the Woods lista como proveedor a Chacore Concretos (ArchDaily 1005679). No hay evidencia clara de hormigón visto como protagonista."
+   },
+   "tamano_aprox": "Pequeño: estudio de 2 socios, 3-4 obras publicadas en 2019-2023; construcción con albañiles/familiares en la Casa 9x9.",
+   "decisores": [
+    {
+     "nombre": "Nicole Jaquet",
+     "cargo": "Socia gerente (según título del resultado de búsqueda de su LinkedIn; la página no pudo leerse, HTTP 999)",
+     "fuente": "https://www.linkedin.com/in/nicole-jaquet-8306a0b5/ ; arquitecta principal en https://www.archdaily.com/1005115/house-9x9-oficina-de-arquitectura-x"
+    },
+    {
+     "nombre": "Felipe Silvestre Ramirez Ilculese",
+     "cargo": "Arquitecto principal y calculista estructural",
+     "fuente": "https://www.mchap.co/mchap-2024-projects/casa-9x9"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/oficinadearquitecturax/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://es.mchap.co/mchap-2024-projects/casa-9x9 (redirige a https://www.mchap.co/es/mchap-2024-projects/casa-9x9)",
+    "https://www.archdaily.com/office/oficina-de-arquitectura-x",
+    "https://www.archdaily.com/1005115/house-9x9-oficina-de-arquitectura-x",
+    "https://www.archdaily.com/985568/liquid-earth-house-oficina-de-arquitectura-x",
+    "https://www.archdaily.com/1005679/house-in-the-woods-oficina-x",
+    "https://architecturelab.net/house-9x9-oficina-de-arquitectura-x (WebFetch 403; solo resultado de búsqueda)",
+    "https://www.instagram.com/oficinadearquitecturax/ (no legible: 429)",
+    "https://www.linkedin.com/in/nicole-jaquet-8306a0b5/ (no legible: 999)"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Estudio de vivienda de bajo presupuesto con gusto por materiales crudos; COCO puede ofrecer bachas y mesadas UHPC como pieza protagonista en baños de obras cuidadas. Entrar por Instagram con propuesta de muestra para sus próximas casas.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estética afín (materiales crudos) pero estudio chico, presupuestos muy bajos y contacto no verificado; total 43."
+   },
+   "pendiente_verificar": "Leer Instagram @oficinadearquitecturax (bio, link, último post, temas); confirmar teléfono/email en fuente propia; confirmar actividad 2025-2026 (solo evidencia: nominación MCHAP 2025); buscar web/Facebook/Google Maps.",
+   "actividad_reciente": {
+    "fecha": "2025-06",
+    "evidencia": "Casa 9x9 listada en el programa MCHAP Americas Prize 2025 (página mchap.co/mchap-2024-projects/casa-9x9, proyecto datado enero 2023). El mes es aproximado; la nominación no se pudo fechar con exactitud y no se leyó ningún post de Instagram. Última nota de ArchDaily leída: 21-ago-2023.",
+    "url": "https://www.mchap.co/mchap-2024-projects/casa-9x9"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas leídas no describen baños ni cocinas. House in the Woods lista proveedores Deca y Portinari (sanitarios/revestimientos), sin protagonismo de bachas o mesadas."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo visto, tierra, losa de hormigón. House in the Woods (ArchDaily 1005679): Chacore Concretos, Comercial Santo Domingo, Deca, Portinari, Luminotecnia, Uddo, Inatec.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 22,
+    "volumen": 6,
+    "gama": 8,
+    "accesibilidad": 5,
+    "oportunidad_inmediata": 2,
+    "total": 43
+   },
+   "puntaje_justificacion": {
+    "estetica": "22/30: materialidad cruda (ladrillo visto, tierra, losas vistas), minimalismo austero; sin hormigón visto confirmado ni baños protagonistas.",
+    "volumen": "6/25: 2 socios, 3-4 obras publicadas en 4 años, escala doméstica.",
+    "gama": "8/20: viviendas de muy bajo presupuesto con alto valor de diseño; no es público premium.",
+    "accesibilidad": "5/15: dos decisores nombrados en ArchDaily/MCHAP, Instagram identificado pero ningún contacto verificado en fuente propia.",
+    "oportunidad_inmediata": "2/10: no se vio ninguna obra en curso."
+   },
+   "notas_investigacion": "Leídos: mchap.co (Casa 9x9), ArchDaily (ficha de oficina, House 9X9, Liquid Earth, House in the Woods). Datos de ronda 1 corregidos: ninguno erróneo; ArchDaily lista 'House in the Woods' bajo 'Oficina X' (se asume la misma dupla porque los arquitectos principales coinciden). Fallaron: Instagram 429 (WebFetch) y redirige a login (curl); LinkedIn 999; architecturelab.net 403; Facebook sin página propia hallada; no existe web propia hallada (ArchDaily no enlaza ninguna). Google Maps no consultable. Prensa (2 búsquedas) sin notas en ABC/Última Hora/La Nación. NO VERIFICADO (solo extracto de buscador del bio de Instagram, no leído en la página): email oficinadearquitecturax@gmail.com y teléfonos 0983562602 / 0994882714; no se registran como contactos hasta leerlos en la fuente. Seguidores aproximados según buscador: 5.822 (no verificado). Año de fundación 2019 inferido solo del título de LinkedIn de Jaquet ('socia gerente desde enero 2019', resultado de búsqueda)."
+  },
+  {
+   "nombre": "ArquitecTava",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Encarnación",
+   "region": "Itapúa",
+   "direccion": null,
+   "anio_fundacion": 2010,
+   "que_hacen": "Estudio de arquitectura de Encarnación (Itapúa) fundado en 2010 por Keiji Ishibashi y Giselle Montanholi, ambos docentes de la FADA/Universidad Católica Campus Itapúa. Hace vivienda unifamiliar, rehabilitación y obras con materiales locales; su Villa Cerro Corá (Asunción, con Grupo Culata Jovái) ganó el primer premio de Rehabilitación en la Bienal Panamericana de Quito 2018.",
+   "tipo_proyectos": [
+    "residencial",
+    "rehabilitación / reciclaje",
+    "hotelero (según tag de ArchDaily)"
+   ],
+   "estilo": "Contemporáneo contextual, materiales locales (ladrillo, hormigón), rehabilitaciones.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Villa Cerro Corá House (Asunción, 144 m2, hormigón y ladrillo; con Grupo Culata Jovái)",
+     "anio": 2018,
+     "link": "https://www.archdaily.com/930200/villa-cerro-cora-house-arquitectava-plus-grupo-culata-jovai"
+    },
+    {
+     "nombre": "Casa Ñasaindy (Colonia Obligado, Itapúa)",
+     "anio": 2019,
+     "link": "https://www.archdaily.com/930106/nasaindy-house-arquitectava"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily lista 'Concrete, brick' como materiales de Villa Cerro Corá House (ficha leída); no se vio detalle de acabados."
+   },
+   "tamano_aprox": "Pequeño: equipo de 5 (Montanholi, Ishibashi, Martín Villalba, Micaela Ortiz, Alma Molinas, según Novarq ago-2022).",
+   "decisores": [
+    {
+     "nombre": "Keiji Ishibashi",
+     "cargo": "Arquitecto principal / cofundador (también concejal de Encarnación 2021-2026)",
+     "fuente": "https://novarq.com.py/arquitectava-estudio-de-arquitectura/"
+    },
+    {
+     "nombre": "Giselle Montanholi",
+     "cargo": "Cofundadora, arquitecta",
+     "fuente": "https://novarq.com.py/arquitectava-estudio-de-arquitectura/"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/arquitectava/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/930200/villa-cerro-cora-house-arquitectava-plus-grupo-culata-jovai",
+    "https://www.archdaily.com/office/arquitectava",
+    "https://novarq.com.py/arquitectava-estudio-de-arquitectura/",
+    "https://universidadcatolica.edu.py/docentes-y-egresados-de-arquitectura-se-alzaron-con-importante-premio-en-la-xxi-bienal-de-quito/ (resultado de búsqueda; no abierto)",
+    "https://www.abc.com.py/nacionales/2025/04/03/concejal-ishibashi-tras-derrumbe-en-encarnacion-esto-no-puede-volver-a-ocurrir/ (resultado de búsqueda; no abierto)"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Estudio del interior (Itapúa) con rehabilitaciones y hormigón; posible puerta de entrada a Encarnación (boom inmobiliario costanero) con piezas UHPC para baños de vivienda.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estudio chico fuera de la zona piloto, sin contacto verificado ni actividad reciente confirmada; total 34."
+   },
+   "pendiente_verificar": "Leer Instagram @arquitectava (bio, contacto, último post); confirmar actividad del estudio desde mayo 2025; web/Facebook/Google Maps; confirmar si la ciudad de ronda 1 (Asunción) era un error (corregido a Encarnación).",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Sin fecha confirmada. Últimas señales: nota de Novarq (12-ago-2022); un arquitecto figura como proyectista del estudio hasta feb-2025 (extracto de búsqueda de LinkedIn, no leído); Ishibashi aparece en ABC (abr-2025) como concejal, no como estudio.",
+    "url": "https://novarq.com.py/arquitectava-estudio-de-arquitectura/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas no describen baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "ArchDaily Villa Cerro Corá lista: Vectorworks, Edelio, Higinio, Japepó, Milciades, Trimble Navigation (proveedores/software locales, ninguno de sanitarios).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 6,
+    "gama": 6,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 1,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: hormigón y ladrillo, rehabilitación contemporánea; sin baños ni estética minimalista premium visible.",
+    "volumen": "6/25: equipo de 5 personas, 2 obras publicadas.",
+    "gama": "6/20: vivienda media y rehabilitación social/estudiantil (Cerro Corá); no premium.",
+    "accesibilidad": "4/15: dos decisores nombrados en Novarq, ningún contacto verificado.",
+    "oportunidad_inmediata": "1/10: sin obras en curso identificadas."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: la ciudad figuraba 'Asunción' (solo ubicación de la obra Villa Cerro Corá); el estudio opera desde Encarnación según Novarq y los extractos de buscador. Leídos: ArchDaily (ficha del proyecto y perfil de oficina; perfil enlaza al Instagram @arquitectava), Novarq. Fallaron: Instagram (login/429), Facebook (login), sin web propia hallada, sin Google Maps. Prensa: 2 búsquedas, nada en ABC/UH/La Nación sobre el estudio (sí sobre Ishibashi como concejal). Algunos resultados de buscador aparecían con fechas de 2026; no se usaron. No se encontró teléfono ni email."
+  },
+  {
+   "nombre": "Tekoha Arquitectos",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio paraguayo de arquitectura vinculado a Ramiro Meyer, Juan Ignacio Meyer y Olga Cáceres; trabaja con tecnologías intermedias y materiales de tierra/ladrillo (colabora con Grupo Culata Jovái en bóvedas catenarias tipo Catenarius y en la casa-taller El Caparazón, Areguá). Proyecto urbano: Triplex en Lambaré (2019).",
+   "tipo_proyectos": [
+    "residencial",
+    "oficinas / taller"
+   ],
+   "estilo": "Experimental, tecnologías apropiadas, ladrillo y suelo-cemento, bóvedas.",
+   "proyectos_destacados": [
+    {
+     "nombre": "El Caparazón House & Workshop (Areguá, 250 m2, ladrillo; con Grupo Culata Jovái y uno3arq)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos"
+    },
+    {
+     "nombre": "Triplex en Lambaré",
+     "anio": 2019,
+     "link": "http://noticiasarquitectura.info/paraguay-triplex-en-lambare-tekoha-arquitectos/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "El Caparazón figura solo con ladrillo en ArchDaily; la nota de Triplex no menciona materiales. La bóveda Catenarius (asociada a Ramiro Meyer, vinculado a Tekoha) usa ladrillo de suelo-cemento con capa fina de hormigón armado (resultado de buscador, no leído)."
+   },
+   "tamano_aprox": "Pequeño: oficina con 3 arquitectos nombrados en 2019; 1 proyecto en ArchDaily.",
+   "decisores": [
+    {
+     "nombre": "Ramiro Meyer",
+     "cargo": "Arquitecto (Tekoha Arquitectos)",
+     "fuente": "http://noticiasarquitectura.info/paraguay-triplex-en-lambare-tekoha-arquitectos/"
+    },
+    {
+     "nombre": "Juan Ignacio Meyer",
+     "cargo": "Arquitecto (Tekoha Arquitectos)",
+     "fuente": "http://noticiasarquitectura.info/paraguay-triplex-en-lambare-tekoha-arquitectos/"
+    },
+    {
+     "nombre": "Olga Cáceres",
+     "cargo": "Arquitecta (Tekoha Arquitectos)",
+     "fuente": "http://noticiasarquitectura.info/paraguay-triplex-en-lambare-tekoha-arquitectos/"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/tekoha.arquitectos/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos",
+    "https://www.archdaily.com/office/tekoha-arquitectos",
+    "http://noticiasarquitectura.info/paraguay-triplex-en-lambare-tekoha-arquitectos/",
+    "https://www.facebook.com/grupoculatajovai/videos/junto-a-tekohaarquitectos-estamos-construyendo-este-proyecto-donde-buscamos-impl/757272708075644/",
+    "https://www.instagram.com/tekoha.arquitectos/ (no legible: 429)"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Perfil de tecnologías apropiadas y tierra; COCO encaja poco salvo en piezas puntuales (bachas de hormigón fino) para casas de materiales nobles. Baja prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estética experimental/tierra, escala pequeña, sin contacto verificado ni actividad reciente confirmada; total 34."
+   },
+   "pendiente_verificar": "Leer Instagram @tekoha.arquitectos (bio con email/teléfono según buscador, seguidores, último post); confirmar ciudad base (Asunción/Areguá); confirmar actividad desde mayo 2025.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Sin fecha confirmada: última obra leída 2020 (El Caparazón) y nota de abril 2019; el post de Grupo Culata Jovái que etiqueta a Tekoha no tiene fecha visible.",
+    "url": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No descritos en las fichas leídas."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo (El Caparazón); suelo-cemento y hormigón armado fino en bóvedas catenarias (no leído directamente). Sin marcas visibles.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 5,
+    "gama": 6,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 1,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: materiales honestos (ladrillo, tierra, bóvedas) pero orientación experimental, sin hormigón visto ni baños protagonistas.",
+    "volumen": "5/25: oficina pequeña, 2 obras conocidas en 2019-2020.",
+    "gama": "6/20: vivienda y taller de tecnología intermedia, no premium.",
+    "accesibilidad": "4/15: 3 nombres en prensa y Instagram identificado, sin contactos verificados.",
+    "oportunidad_inmediata": "1/10: sin obras actuales conocidas."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: ciudad 'Asunción / Areguá' (Areguá es solo la obra El Caparazón; Triplex está en Lambaré). Leídos: ArchDaily (ficha y perfil de oficina; el perfil enlaza el Instagram), noticiasarquitectura.info, post de Facebook de Grupo Culata Jovái. Fallaron: Instagram 429 / login, LinkedIn 403 (Cloudflare), Facebook login; sin web propia hallada. Prensa (2 búsquedas) sin notas en ABC/UH/La Nación. NO VERIFICADO: según un extracto de buscador el bio de Instagram incluye email y teléfono, pero no se pudo leer ni se registra ningún valor; seguidores ~7.859 según buscador (no verificado). Relación Ramiro Meyer-Tekoha-Catenarius inferida de resultados de buscador; confirmar."
+  },
+  {
+   "nombre": "Cinco Patas al Gato (Cincopatasalgato)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "San Salvador, El Salvador",
+   "region": "Fuera de Paraguay (El Salvador)",
+   "descartada": true,
+   "motivo_descarte": "Estudio salvadoreño (San Salvador), no paraguayo: su único vínculo con Paraguay es la co-autoría de la Hay Ranch House / Rancho de Paja en Itá (2020) con Biocons Arquitectos. Activo (premio Architecture Madrid Awards 2025 según un post de LinkedIn en un extracto de buscador) pero fuera de la zona objetivo; sin presencia ni contacto en Paraguay.",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura de El Salvador (socio: Roberto Dumont), con proyectos en Centroamérica y algunos en Paraguay, Ecuador, EE.UU. y Polonia, según una entrevista (Latinness, extracto de buscador). En Paraguay solo se conoce la casa de Itá junto a Biocons.",
+   "tipo_proyectos": [
+    "residencial"
+   ],
+   "estilo": "Contemporáneo tropical, madera y hormigón (Hay Ranch House).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Hay Ranch House / Rancho de Paja en Itá (178 m2, madera y hormigón; con Biocons Arquitectos)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily lista 'Wood, concrete' en Hay Ranch House; la ficha de Biocons (extracto de buscador) menciona hormigón a la vista."
+   },
+   "tamano_aprox": "Mediano (Instagram ~6.700 seguidores, ~1.800 posts según buscador, no verificado).",
+   "decisores": [],
+   "web": "http://www.cincopatasalgato.com/",
+   "instagram": "https://www.instagram.com/5patasalgato/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos",
+    "https://www.archdaily.com/office/cinco-patas-al-gato",
+    "https://www.biocons.com.py/V1/rancho-de-paja-en-ita/ (resultado de búsqueda)",
+    "https://latinness.com/en/roberto-dumont-the-more-points-of-view-and-the-more-opinions-there-are-the-greater-the-possibility-of-creating-a-better-project/ (resultado de búsqueda)"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "No aplica en la fase piloto; solo útil si COCO exporta o si hacen otra obra en Paraguay con Biocons.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estudio extranjero sin operación en Paraguay; total 28."
+   },
+   "pendiente_verificar": "Ninguno por ahora; si se quiere reabrir: leer Instagram @5patasalgato y confirmar obras en Paraguay posteriores a 2020.",
+   "actividad_reciente": {
+    "fecha": "2025",
+    "evidencia": "Premio Architecture Madrid Awards 2025 por Casa Al Suave (El Zonte, El Salvador), según extracto de buscador de un post de LinkedIn (no leído).",
+    "url": "https://www.instagram.com/5patasalgato/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No descrito."
+   },
+   "materiales_y_proveedores_visibles": "Madera, hormigón, paja (Hay Ranch House).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 6,
+    "gama": 8,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 28
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: hormigón y madera en la obra de Itá; resto del portfolio no revisado en detalle.",
+    "volumen": "6/25: estudio mediano pero casi sin obra en Paraguay.",
+    "gama": "8/20: viviendas de diseño en clima tropical, gama no confirmada.",
+    "accesibilidad": "2/15: sin contacto ni decisor en Paraguay.",
+    "oportunidad_inmediata": "0/10: ninguna obra en Paraguay conocida."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: la ficha lo daba como estudio de Itá; en realidad es salvadoreño y solo coautor de una casa en Itá. Leídos: ArchDaily (proyecto y perfil; el perfil enlaza http://www.cincopatasalgato.com/). Fallaron: cincopatasalgato.com (WebFetch ENOTFOUND, curl código 000; el buscador sí lo indexa con título 'shaping connections'), Instagram 429, no se intentó LinkedIn/Facebook por estar fuera de zona. Ficha corta por descarte."
+  },
+  {
+   "nombre": "Penta Arquitectura (penta arquitectura)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción (obra en Lambaré; sede no confirmada)",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio paraguayo liderado por el arquitecto Daniel Díaz Esquivel; su Naked House / Casa Desnuda (Lambaré, 2021) combina planta baja metálica y planta alta de hormigón visto sin revestimientos ni revoques salvo en áreas húmedas, con la idea de 'diseño contemporáneo y accesible adaptado al saber hacer local' (Architizer). Esa fue su primera casa como arquitecto independiente.",
+   "tipo_proyectos": [
+    "residencial (vivienda unifamiliar)"
+   ],
+   "estilo": "Contemporáneo minimalista de bajo costo, materiales vistos (hormigón, metal), sin revestimientos.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Naked House / Casa Desnuda (Ysapy, Valle Ybate, Lambaré; 150 m2 construidos, lote 8x21 m; hormigón visto + metal)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/973492/naked-house-penta-arquitectura"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily: planta alta con 'fair-faced concrete' y paredes sin revestir; Architizer: 'leaving all walls naked'."
+   },
+   "tamano_aprox": "Muy pequeño: 1 obra publicada; equipo de obra de 5 nombres en el crédito de Architizer.",
+   "decisores": [
+    {
+     "nombre": "Daniel Díaz Esquivel",
+     "cargo": "Arquitecto responsable de penta arquitectura",
+     "fuente": "https://www.archdaily.com/973492/naked-house-penta-arquitectura ; https://novarq.com.py/casa-desnuda-daniel-diaz-esquivel/"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/penta.arq/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/973492/naked-house-penta-arquitectura",
+    "https://www.archdaily.com/office/penta-arquitectura",
+    "https://architizer.com/blog/?p=148712",
+    "https://novarq.com.py/casa-desnuda-daniel-diaz-esquivel/",
+    "https://architizer.com/projects/naked-house/ (resultado de búsqueda)",
+    "https://www.instagram.com/penta.arq/ (no legible: 429)"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Estética de hormigón visto y 'casa desnuda' muy afín a COCO; ofrecer bachas y mesadas UHPC como único elemento terminado en áreas húmedas, donde la casa sí usa revestimientos.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estética afín y decisor claro, pero estudio con una sola obra y contacto no verificado; total 34."
+   },
+   "pendiente_verificar": "Leer Instagram @penta.arq (bio, contacto, seguidores, último post, obras nuevas); confirmar sede y actividad desde mayo 2025; descartar que la página de Facebook 'PENTA Arquitectura' hallada (aparece ligada a Chemax, México) sea otra empresa.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Sin fecha confirmada: última evidencia leída, Novarq 3-jun-2022 y Architizer; el Instagram existe pero no pudo leerse.",
+    "url": "https://novarq.com.py/casa-desnuda-daniel-diaz-esquivel/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Naked House solo menciona revestimientos en áreas húmedas; no describe bachas ni mesadas."
+   },
+   "materiales_y_proveedores_visibles": "Hormigón visto, estructura metálica; revestimiento solo en áreas húmedas. Sin marcas visibles. Consultores estructurales: Felipe Ramirez (probable Ramirez Ilculese de Oficina X, no confirmado) y Carlos Gonzalez.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 20,
+    "volumen": 3,
+    "gama": 6,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 1,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "20/30: hormigón visto, estructura metálica y paredes desnudas; muy afín, pero evidencia de una sola obra.",
+    "volumen": "3/25: una obra publicada, estudio unipersonal incipiente.",
+    "gama": "6/20: diseño accesible, presupuesto declarado bajo-medio.",
+    "accesibilidad": "4/15: decisor identificado, Instagram hallado, ningún contacto verificado.",
+    "oportunidad_inmediata": "1/10: sin obras en curso conocidas."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: ciudad 'Asunción (por confirmar)'; la obra está en Lambaré (ArchDaily, Novarq). Leídos: ArchDaily (obra y perfil), Architizer (entrevista), Novarq. Fallaron: Instagram 429; Facebook sin contenido legible; sin web propia ni LinkedIn hallados. NO VERIFICADO: Novarq (tercero) publica un email del arquitecto, daniel.diazesquivel@gmail.com, pero es correo personal tipo Gmail de una fuente de prensa, no se registra como contacto de la empresa. Prensa: 2 búsquedas sin notas en ABC/UH/La Nación. Seguidores ~4.921 según buscador (no verificado)."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "uno3arq",
+   "link": "https://www.archdaily.com/office/uno3arq",
+   "ciudad": "Paraguay (por confirmar)",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Juan Ignacio Meyer / Ramiro Meyer (Catenarius, vinculados a Tekoha)",
+   "link": "https://arquitectos.com.py/2014/11/catenarius/",
+   "ciudad": "Paraguay (por confirmar)",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
