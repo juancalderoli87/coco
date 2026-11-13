@@ -1,0 +1,750 @@
+{
+ "lote": "r2b-12",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Altanova Construcciones (Altea Holding; ex Altea Construcciones)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Facundo Machaín 5952 casi RI 6 Boquerón, Asunción (dirección que figura en el sitio de Altea Desarrollos, la desarrolladora hermana del holding; no hay dirección propia de Altanova publicada)",
+   "anio_fundacion": 2013,
+   "que_hacen": "Constructora del grupo Altea Holding (antes Altea Construcciones, rebrand a Altanova en oct-2025) que ejecuta edificios residenciales y corporativos con metodología 100% BIM, Autodesk Build e ISO 9001 en etapa final. El holding integra Altanova (construcción), Altea Desarrollos (desarrolladora) y Admirem (administración de inmuebles) y cubre desde el terreno hasta la postventa. Su CEO y fundador es Emilio Espínola.",
+   "tipo_proyectos": [
+    "residencial en altura",
+    "residencial inversor (monoambientes y 1-2 dormitorios)",
+    "corporativo",
+    "barrios privados"
+   ],
+   "estilo": "Contemporáneo orientado a inversión (cap rate 13-16% publicitado), 'arquitectura atemporal', terminaciones premium declaradas pero sin materiales específicos; no minimalista en términos de concreto visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Altea de Gaulle (Av. Charles de Gaulle, Recoleta; 67 unidades, 2.660 m2, 72,86% vendido, en obra)",
+     "anio": 2025,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-de-gaulle.php"
+    },
+    {
+     "nombre": "Altea Hub (Mariano Roque Alonso; 2.240 m2, 51,47% vendido, en obra; ejecutado por Altanova según Infonegocios)",
+     "anio": 2025,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-hub.php"
+    },
+    {
+     "nombre": "Altea del Sol (4.917 m2, 90,91% vendido)",
+     "anio": 2025,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-del-sol.php"
+    },
+    {
+     "nombre": "Altea Tower (Las Lomas, 9.400 m2, 4,98% vendido, lanzamiento ago-2026)",
+     "anio": 2026,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-tower.php"
+    },
+    {
+     "nombre": "Altea Ykua Satí (3.057 m2, 83% vendido; con spa, sauna, gimnasio)",
+     "anio": null,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-ykua-sati.php"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni las fichas de proyecto de alteadesarrollos.com.py ni las notas de prensa mencionan hormigón visto ni materiales específicos; solo 'materiales nobles' y 'fachada atemporal con molduras, vidrio y materiales revestidos' (Altea de Gaulle)."
+   },
+   "tamano_aprox": "Mediano: holding con 3 edificios en obra y 2 entregados al oct-2025 (Infonegocios 20-oct-2025); la web de Altea Desarrollos lista 8 proyectos de 1.500 a 10.000 m2; equipo no publicado.",
+   "decisores": [
+    {
+     "nombre": "Emilio Espínola",
+     "cargo": "CEO y fundador de Altanova Construcciones y de Altea Holding / Altea Desarrollos",
+     "fuente": "https://noticias.alteadesarrollos.com.py/emilo-espinola-ceo-de-altea-holding-de-hacer-planos-a-liderar-un-grupo-inmobiliario.html ; https://infonegocios.com.py/default/altanova-construcciones-tecnologia-eficiencia-y-una-nueva-identidad-para-construir-el-futuro"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/altanovaconstrucciones/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": "https://wa.me/595994565690 (WhatsApp del sitio de Altea Desarrollos, empresa hermana del holding; no es un canal exclusivo de Altanova)",
+   "fuentes": [
+    "https://altea.com.py (landing del grupo que enlaza Altanova y Altea Desarrollos)",
+    "https://alteadesarrollos.com.py",
+    "https://noticias.alteadesarrollos.com.py/noticias-de-altea.php",
+    "https://infonegocios.com.py/default/altanova-construcciones-tecnologia-eficiencia-y-una-nueva-identidad-para-construir-el-futuro",
+    "https://infonegocios.com.py/infomicasa/emilio-espinola-nuestros-proyectos-buscan-funcionalidad-atemporalidad-y-rentabilidad",
+    "https://noticias.alteadesarrollos.com.py/altea-de-gaulle-el-inicio-de-una-etapa-en-el-cono-urbano.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Constructora que ejecuta edificios de departamentos para inversión donde la bacha/mesada es un diferenciador barato de percibir; ofrecer un kit de mesadas y bachas UHPC como upgrade de unidades premium en Altea Tower y Altea de Gaulle, hablando con Espínola (CEO) que decide diseño y compras en el holding.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 57/100: holding activo con varios edificios en obra/lanzamiento y decisor claro, pero estética inversor-estándar y sin canal de contacto propio de Altanova verificado."
+   },
+   "pendiente_verificar": "Web propia altanova.com.py no abre desde el entorno (curl: error TLS 'alert internal error'; WebFetch HTTP 503): puede tener teléfono/email/proyectos. Seguidores e historial de posts de Instagram (@altanovaconstrucciones y @alteadesarrolladora, bloqueado). Confirmar con el CEO qué obras construye Altanova vs Altea Desarrollos (en Altea de Gaulle la prensa no dice que Altanova sea el constructor). Reseñas de Google.",
+   "actividad_reciente": {
+    "fecha": "2026-09",
+    "evidencia": "Noticias de Altea (25-sep-2026: 'Altea Tower apuesta por una arquitectura atemporal'; 25-ago-2026 lanzamiento de Altea Tower); copyright 2026 en la web",
+    "url": "https://noticias.alteadesarrollos.com.py/noticias-de-altea.php"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Altea Tower (Las Lomas, frente a Plaza Las Residentas)",
+     "tipo": "residencial en altura",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://alteadesarrollos.com.py/proyectos/altea-tower.php"
+    },
+    {
+     "nombre": "Altea de Gaulle",
+     "tipo": "residencial (estudios, 1-2 dorm.)",
+     "etapa": "en obra",
+     "unidades": 67,
+     "link": "https://noticias.alteadesarrollos.com.py/avances-de-obras.php"
+    },
+    {
+     "nombre": "Altea Hub (Mariano Roque Alonso)",
+     "tipo": "residencial estudiantil",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://noticias.alteadesarrollos.com.py/avances-de-obras.php"
+    },
+    {
+     "nombre": "Barrio Arandú",
+     "tipo": "barrio privado por etapas",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://alteadesarrollos.com.py/proyectos/barrio-arandu.php"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de proyecto no muestran ni describen baños/cocinas; solo mencionan amenities (spa, sauna, gimnasio, quincho climatizado)."
+   },
+   "materiales_y_proveedores_visibles": "No se mencionan marcas de grifería, bachas ni mesadas. Solo 'materiales nobles' genéricos y metodología BIM/Autodesk Build.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 17,
+    "gama": 12,
+    "accesibilidad": 8,
+    "oportunidad_inmediata": 8,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: arquitectura contemporánea 'atemporal' sin evidencia de hormigón visto ni minimalismo; afinidad media-baja.",
+    "volumen": "17/25: 3 edificios en obra + 2 entregados (oct-2025), 8 proyectos listados, 1.500-10.000 m2 cada uno; holding mediano.",
+    "gama": "12/20: producto de inversión medio-alto con 'terminaciones premium' declaradas (Altea de Gaulle, Altea Tower), cap rate publicitado, no ultra-lujo.",
+    "accesibilidad": "8/15: WhatsApp del grupo y Instagram verificados en web propia del holding, decisor (Espínola) identificado; sin teléfono ni email, y sin web propia de Altanova accesible.",
+    "oportunidad_inmediata": "8/10: Altea de Gaulle y Altea Hub en obra, Altea Tower recién lanzada (5% vendida) y Barrio Arandú en venta; hay unidades por equipar."
+   },
+   "notas_investigacion": "Leído: altea.com.py (landing 'ALTEA S.A.' que enlaza Altanova y Altea Desarrollos), alteadesarrollos.com.py (home y 8 fichas de proyecto, WhatsApp, IG y FB del grupo), noticias.alteadesarrollos.com.py (noticias y avances de obra), Infonegocios (rebrand Altanova 17-oct-2025; entrevista Espínola 20-oct-2025; Altea Hub; Altea del Sol), 4 búsquedas web. Falló: altanova.com.py y www (curl error TLS 35 y WebFetch 503; no queda claro si el sitio está caído), Instagram devolvió 200 con shell vacío o 429 vía WebFetch, Facebook/LinkedIn requieren login, Google Maps sin datos. DNCP: la búsqueda no encontró a Altanova/Altea como proveedor ni adjudicatario (probados slugs altanova-construcciones-s-a, altea-s-a, altea-construcciones-s-a: 404), así que no se sabe si trabaja para el sector público. El WhatsApp 595994565690 se verificó en alteadesarrollos.com.py (empresa hermana), por eso se anota como contacto del grupo. La dirección de Boquerón es la de Altea Desarrollos. El link de ronda 2a no existía (null)."
+  },
+  {
+   "nombre": "Salum & Wenz S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Edificio Atlas Center, 6to piso, Quesada 4926 esq. Roque González y Tte. Zotti, Asunción",
+   "anio_fundacion": 1991,
+   "que_hacen": "Constructora fundada en 1991 por el Arq. Edgar Salum y el Ing. Carlos Wenz que ejecuta obras habitacionales y hoteleras, corporativas/comerciales e industriales/logísticas, con foco en construcción sustentable (primer edificio LEED Platinum del país), BIM (2020) e ISO 9001:2015. También diseña proyectos ejecutivos y gerencia obras; el grupo tuvo Génesis Desarrollos Inmobiliarios (proyectos propios) y Emsa Inmobiliaria (loteamientos).",
+   "tipo_proyectos": [
+    "residencial en altura",
+    "hotelero",
+    "corporativo",
+    "comercial",
+    "industrial y logístico",
+    "sustentable (LEED)"
+   ],
+   "estilo": "Funcional-contemporáneo, de ejecución para terceros; proyectos de edificios de 1-3 dormitorios con amenities; énfasis en eficiencia y sustentabilidad más que en una estética de autor.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Natania 85 (Av. Molas López 958; 20 pisos, 7.306 m2)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=6"
+    },
+    {
+     "nombre": "Belive Molas II (20 pisos, 5.642 m2, bistro, spa, sauna)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=8"
+    },
+    {
+     "nombre": "Well Residences (desarrollo de Avanza, Villa Morra, 11 pisos)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=19"
+    },
+    {
+     "nombre": "Hotel Holiday Inn Express Asunción (11 pisos, 9.222 m2)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=11"
+    },
+    {
+     "nombre": "Edificio Corporativo Farmazona (15 pisos, LEED en proceso)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=14"
+    },
+    {
+     "nombre": "Edificio Athos (deptos de 104 m2 con cocina amoblada)",
+     "anio": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=13"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de obra (salum-wenz.com.py/es/obras.php) no describen acabados; el único dato es 'Host 1432' con concepto 'moderno e industrial' (obra id=2). Sin evidencia de hormigón visto."
+   },
+   "tamano_aprox": "Grande: más de 150 empleados (home salum-wenz.com.py), 23 obras listadas (13 de vivienda/hotel), 20.000 m2 de obras sustentables terminadas y 34.000 m2 en ejecución; prensa 2017 hablaba de ~40 en oficina y 300-500 en obra.",
+   "decisores": [
+    {
+     "nombre": "Ing. Robertino Ruffinelli",
+     "cargo": "Gerente General",
+     "fuente": "https://www.salum-wenz.com.py/es/empresa.php"
+    },
+    {
+     "nombre": "Arq. Edgar Salum",
+     "cargo": "Director y Fundador",
+     "fuente": "https://www.salum-wenz.com.py/es/empresa.php"
+    },
+    {
+     "nombre": "Ing. Carlos Wenz",
+     "cargo": "Director y Fundador",
+     "fuente": "https://www.salum-wenz.com.py/es/empresa.php"
+    },
+    {
+     "nombre": "Arq. Alicia Cáceres",
+     "cargo": "Gerente Técnico",
+     "fuente": "https://www.salum-wenz.com.py/es/empresa.php"
+    },
+    {
+     "nombre": "Ing. Daniel Rolón",
+     "cargo": "Superintendente de Obras",
+     "fuente": "https://www.salum-wenz.com.py/es/empresa.php"
+    }
+   ],
+   "web": "https://www.salum-wenz.com.py",
+   "instagram": "https://www.instagram.com/salumywenzpy/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/salumywenzpy",
+   "linkedin": "https://es.linkedin.com/company/salumywenz",
+   "email": null,
+   "telefono": null,
+   "whatsapp": "https://wa.link/sh3ncn (resuelve a api.whatsapp.com/send?phone=595976399739)",
+   "fuentes": [
+    "https://www.salum-wenz.com.py/es/",
+    "https://www.salum-wenz.com.py/es/empresa.php",
+    "https://www.salum-wenz.com.py/es/obras.php",
+    "https://www.salum-wenz.com.py/es/contacto.php",
+    "https://www.salum-wenz.com.py/es/construcciones-sustentables.php",
+    "https://www.salum-wenz.com.py/es/articulo.php?id=9",
+    "https://infonegocios.com.py/infoceo/rodearse-de-gente-capaz-escuchar-opiniones-y-mantenerse-optimista-son-aspectos-fundamentales-para-conducir-una-organizacion",
+    "https://infonegocios.com.py/default/salum-wenz-tiene-nueva-oficina-en-el-nuevo-eje-corporativo-de-asuncion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Constructora con 8+ torres residenciales en proceso donde las mesadas y bachas se definen con el desarrollador; entrar vía Ruffinelli (GM) y Arq. Cáceres (gerente técnica) para proponer UHPC como opción de baños y cocinas en Well Residences, Natania 85, Belive Molas II e Innova Las Mercedes.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 63/100: mayor volumen del lote y obras en curso, con WhatsApp y decisores verificados; estética funcional y sin teléfono ni email publicados."
+   },
+   "pendiente_verificar": "Teléfono y email de contacto: no figuran en el sitio (el contacto es un formulario + WhatsApp); (021) 612-588 aparece solo en un resumen de búsqueda no confirmado en fuente propia. Seguidores y últimos posts de Instagram/Facebook (bloqueados), LinkedIn (403), reseñas Google Maps. Quién es el cliente/desarrollador de cada torre en proceso (solo se conoce Avanza en Well Residences). Años de las obras (la web no los consigna).",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Entrevista a Robertino Ruffinelli por los 35 años de la empresa (Infonegocios, 9-jul-2026); obras 'en proceso' en la web; blog con campaña del 25-nov-2025",
+    "url": "https://infonegocios.com.py/infoceo/rodearse-de-gente-capaz-escuchar-opiniones-y-mantenerse-optimista-son-aspectos-fundamentales-para-conducir-una-organizacion"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Well Residences (Avanza, Villa Morra)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=19"
+    },
+    {
+     "nombre": "Natania 85 (Molas López)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=6"
+    },
+    {
+     "nombre": "Belive Molas II",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=8"
+    },
+    {
+     "nombre": "Matrisa Boggiani (78 deptos)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 78,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=7"
+    },
+    {
+     "nombre": "Innova Las Mercedes (61 deptos)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 61,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=5"
+    },
+    {
+     "nombre": "01 Sync (14 pisos)",
+     "tipo": "residencial sustentable",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=4"
+    },
+    {
+     "nombre": "Lumiere del Sol (44 deptos)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 44,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=1"
+    },
+    {
+     "nombre": "Edificio Corporativo Farmazona",
+     "tipo": "corporativo",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.salum-wenz.com.py/es/obra.php?id=14"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Las fichas de obra mencionan 'cocina amoblada' (Athos) y 'baños sexados' (Finesse) como datos accesorios; los baños y cocinas no son protagonistas de la comunicación."
+   },
+   "materiales_y_proveedores_visibles": "No se ven marcas de grifería, bachas ni mesadas. Solo certificaciones LEED, ISO 9001, BIM, SAP.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 22,
+    "gama": 12,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 9,
+    "total": 63
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: obras corporativas, industriales y torres residenciales de línea funcional; no hay hormigón visto ni lenguaje minimalista de autor.",
+    "volumen": "22/25: +150 empleados, 23 obras en la web, 8 torres/edificios en proceso, 34.000 m2 sustentables en ejecución.",
+    "gama": "12/20: residencial medio-alto (Athos, Finesse, Well Residences, hotel Holiday Inn) mezclado con industrial y logística.",
+    "accesibilidad": "10/15: WhatsApp (resuelto desde el sitio), IG/FB/LinkedIn/YouTube y 5 decisores con cargo publicados en la web propia; faltan teléfono y email.",
+    "oportunidad_inmediata": "9/10: ocho obras en proceso, siete de vivienda/hotel, donde entran bachas y mesadas; la especificación depende del desarrollador."
+   },
+   "notas_investigacion": "Leído con curl y WebFetch: home, empresa, servicios, obras, 23 fichas obra.php, construcciones sustentables, contacto, blog y artículo id=9 en salum-wenz.com.py/es/; la web redirige a /es/ y los links relativos del home daban 404 sin ese prefijo. wa.link/sh3ncn resuelto con curl -I a api.whatsapp.com/send?phone=595976399739 (WhatsApp de la web propia). Prensa: Infonegocios (9-jul-2026 entrevista Ruffinelli; 7-sep-2017 nueva oficina; 24-sep-2015 proyectos; Bohemia Las Mercedes). DNCP: búsqueda sin resultados y slugs probados (salum-wenz-s-a, salum-y-wenz-s-a, salum-wenz-sa) dan 404, probablemente trabaja casi solo en obra privada. Falló: Instagram/Facebook devuelven shell de login sin seguidores, LinkedIn 403, Google Maps no devuelve ficha, ArchDaily/Plataforma no se buscaron específicamente. El teléfono (021) 612-588 y la cifra de '25 años' vistos en resúmenes de búsqueda no se confirmaron en la web; la web dice 1991 y 35 años en 2026."
+  },
+  {
+   "nombre": "JCA Constructora S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "No verificada: DNCP consigna Dr. Morra esq. Guido Spano; Waze/aviso de asamblea 2019 en Edificio Skypark, Av. Aviadores del Chaco 2581; directorio paraguaypymes: Herminio Maldonado 1482. Ninguna es fuente propia.",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora S.A. (RUC 80067624-6, inscripta en DNCP en dic-2016) que se presenta en Construex como especializada en ejecución de proyectos residenciales y comerciales; participó en 4 licitaciones públicas grandes entre 2015 y 2017 (MOPC, BCP, MEC).",
+   "tipo_proyectos": [
+    "público (licitaciones MOPC, BCP, MEC)",
+    "residencial",
+    "comercial"
+   ],
+   "estilo": "Sin datos: no hay web ni portfolio visible.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "No hay portfolio visible."
+   },
+   "tamano_aprox": "Sin datos; DNCP la lista como 'sin categorizar' y las licitaciones eran de ₲12.500 a ₲401.972 millones (2015-2017), sin adjudicaciones propias registradas.",
+   "decisores": [
+    {
+     "nombre": "Javier Canillas Vallejo / Javier Carisimo Canillas",
+     "cargo": "Representantes legales (según registro DNCP; no verificado como decisores comerciales)",
+     "fuente": "https://www.contrataciones.gov.py/proveedor/jca-constructora-s-a.html"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/jca.com.py/",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.contrataciones.gov.py/proveedor/jca-constructora-s-a.html",
+    "https://www.contrataciones.gov.py/proveedor/jca-constructora-s-a/participaciones.html",
+    "https://www.contrataciones.gov.py/proveedor/jca-constructora-s-a/adjudicaciones.html",
+    "https://www.construex.com.py/exhibidores/jca_constructora_sa",
+    "http://paraguaypymes.com/info/jca-constructora-s-a-80209C493EFFC85D"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "No aplica mientras no se confirme actividad; si reaparece, ofrecer UHPC para obras residenciales que ejecute.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 15/100; descartada por falta de actividad visible y sin canales propios."
+   },
+   "pendiente_verificar": "Actividad real 2025-2026, web (el dominio jca.com.py solo aparece en emails; no resuelve), Instagram, teléfono/email propios. Contactos del registro DNCP (no verificados): teléfono 3389594 y email ginsfran@jca.com.py.",
+   "descartada": true,
+   "motivo_descarte": "La empresa existe (RUC 80067624-6) pero no hay actividad visible en los últimos ~18 meses: sin web accesible, sin obras ni notas de prensa, DNCP muestra solo 4 participaciones de 2015-2017 y 0 adjudicaciones, y solo hay registros de directorio (Construex alta ago-2024, página de Facebook con login, aviso de asamblea 2019). No se pudo identificar un canal propio ni portfolio.",
+   "actividad_reciente": {
+    "fecha": "2024-08",
+    "evidencia": "Alta como expositor en Construex (21-ago-2024); es el único indicio fechado y no prueba obra",
+    "url": "https://www.construex.com.py/exhibidores/jca_constructora_sa"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin datos."
+   },
+   "materiales_y_proveedores_visibles": "Sin datos.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 5,
+    "volumen": 4,
+    "gama": 4,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 15
+   },
+   "puntaje_justificacion": {
+    "estetica": "5/30: sin portfolio visible; nota mínima por ser constructora de obra residencial/comercial declarada.",
+    "volumen": "4/25: 4 licitaciones públicas 2015-2017 sin adjudicaciones; sin obras actuales visibles.",
+    "gama": "4/20: sin datos de público objetivo.",
+    "accesibilidad": "2/15: solo una página de Facebook y datos de registro DNCP (no verificados); sin decisor comercial.",
+    "oportunidad_inmediata": "0/10: no hay obras en curso visibles."
+   },
+   "notas_investigacion": "Búsquedas: 6 (nombre, jca.com.py, Skypark, Instagram, DNCP, LinkedIn). Leído: DNCP ficha del proveedor, participaciones y adjudicaciones; Construex (WebFetch 403, curl 200 con texto genérico, sin teléfono ni email); paraguaypymes (domicilio fiscal distinto y teléfono 297758); aviso de asamblea en Diario Correo Comercial (2019, sede en Skypark; no se leyó fecha ni contenido más allá del título). No se pudo leer Facebook (/jca.com.py/ devuelve shell de login; mbasic bloqueado). jca.com.py y www.jca.com.py no resuelven. No se confirmó que JCA construyera Skypark (Infonegocios nombra a JMG). El nombre es de ronda 2a sin link."
+  },
+  {
+   "nombre": "Javier Corvalán + Laboratorio de Arquitectura",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Luque",
+   "region": "Gran Asunción",
+   "direccion": "Tte. Ramos Alfaro 299 esq. Monte Alto, Luque, Paraguay",
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de autor del Arq. Javier Corvalán (n. Asunción 1962, PhD IUAV Venecia, profesor titular FADA-UNA y UCA), conocido internacionalmente por casas y capillas de hormigón con estructuras innovadoras (Casa Hamaca, Casa Obscura, Capilla San Miguel Arcángel, Keche House, Capilla del Vaticano en la Bienal de Venecia 2018). También proyectos urbanos y públicos (Justicia Militar, Bañado Norte, Masterplan Isla Negra).",
+   "tipo_proyectos": [
+    "residencial de autor",
+    "institucional y público",
+    "religioso (capillas)",
+    "urbano / masterplan",
+    "cultural"
+   ],
+   "estilo": "Brutalismo estructural experimental, hormigón armado y materiales locales, formas escultóricas; alto reconocimiento editorial (Casabella, A+U, Domus, ArchDaily).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Casa Obscura / Caja Obscura (Asunción, 85 m2)",
+     "anio": 2012,
+     "link": "https://www.archdaily.com/411099/caja-obscura-javier-corvalan-laboratorio-de-arquitectura"
+    },
+    {
+     "nombre": "Casa Hamaca",
+     "anio": 2013,
+     "link": "https://www.archdaily.com/429449/hammock-house-laboratorio-de-arquitectura"
+    },
+    {
+     "nombre": "Osypyte (vivienda unifamiliar)",
+     "anio": 2013,
+     "link": "https://www.archdaily.com/429502/osypyte-single-family-house-laboratorio-de-arquitectura"
+    },
+    {
+     "nombre": "Capilla para el Vaticano (Bienal de Venecia)",
+     "anio": 2018,
+     "link": "https://www.laboratoriodearquitectura.com.py/obras"
+    },
+    {
+     "nombre": "Keche House (San Bernardino)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/977478/keche-house-javier-corvalan-plus-laboratorio-de-arquitectura"
+    },
+    {
+     "nombre": "Casa Yvapovó (listada en la web del estudio; sin ficha detallada)",
+     "anio": null,
+     "link": "https://www.laboratoriodearquitectura.com.py/obras"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "La web propia lista publicaciones como 'San Concreto' (Summa 142, Capilla San Miguel Arcángel) y 'L'aspect rustre du ciment' (Casabella 845); la Casa Umbráculo tiene losa y canaleta de hormigón armado (revista ARQ 2010). https://www.laboratoriodearquitectura.com.py/publicaciones"
+   },
+   "tamano_aprox": "Estudio pequeño de autor (obras puntuales, pocas por año); 23 obras y 9+ proyectos listados en la web; equipo no publicado.",
+   "decisores": [
+    {
+     "nombre": "Javier Corvalán",
+     "cargo": "Arquitecto titular / director del estudio",
+     "fuente": "https://www.laboratoriodearquitectura.com.py/laboratorio-1"
+    }
+   ],
+   "web": "https://www.laboratoriodearquitectura.com.py",
+   "instagram": "https://www.instagram.com/javiercorvalan_laboratorio/",
+   "seguidores_ig": "10K (meta de Instagram leída por curl el 2026-11-13; 137 posts; sin fechas de posts)",
+   "facebook": "http://www.facebook.com/JavierCorvalanLaboratorioDeArquitectura/",
+   "linkedin": null,
+   "email": "laboratoriodearq@gmail.com",
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.laboratoriodearquitectura.com.py/contacto",
+    "https://www.laboratoriodearquitectura.com.py/obras",
+    "https://www.laboratoriodearquitectura.com.py/proyectos",
+    "https://www.laboratoriodearquitectura.com.py/laboratorio-1",
+    "https://www.laboratoriodearquitectura.com.py/publicaciones",
+    "https://www.instagram.com/javiercorvalan_laboratorio/",
+    "https://www.adndigital.com.py/desafio-del-proximo-intendente-de-asuncion-planificar-la-movilidad-y-mejorar-la-conectividad/",
+    "https://www.archdaily.com/es/office/javier-corvalan-plus-laboratorio-de-arquitectura",
+    "https://chicagoarchitecturebiennial.org/?p=7469",
+    "https://www.area-arch.it/wp-content/uploads/sites/6/2020/07/itinerario-asuncion.pdf"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Prescriptor de prestigio para hormigón de alto desempeño: una colección de bachas/mesadas UHPC firmada o co-diseñada con el estudio daría credibilidad de marca y vitrina editorial; abordar por email con una pieza de muestra, pensando en proyectos residenciales de Corvalán más que en volumen.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 64/100: máxima afinidad con el concreto y email propio verificado, pero volumen y oportunidad bajos y sin proyectos en curso visibles."
+   },
+   "pendiente_verificar": "Teléfono o WhatsApp: no publicados. Proyectos en curso y fechas de los últimos posts de Instagram (bloqueado, solo se leyó el conteo). Si el sitio sigue actualizándose (copyright 2019, últimas publicaciones 2019). Reseñas Google. Si hay materiales/proveedores en sus casas recientes (Keche House en ArchDaily lista fabricantes; no se abrió esa lista completa). Qué es exactamente 'Casa Yvapovó' (solo figura el nombre).",
+   "actividad_reciente": {
+    "fecha": "2026-06",
+    "evidencia": "Javier Corvalán citado como arquitecto urbanista sobre movilidad en Asunción (ADN Digital, 3-jun-2026). Obras recientes: Keche House 2021; no se encontró obra nueva fechada 2025-2026",
+    "url": "https://www.adndigital.com.py/desafio-del-proximo-intendente-de-asuncion-planificar-la-movilidad-y-mejorar-la-conectividad/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas leídas destacan estructura y forma; no se vieron baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Hormigón armado y materiales locales; Keche House en ArchDaily menciona fabricantes (entre ellos Ferroconti, según un resumen de búsqueda no verificado en la página).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 28,
+    "volumen": 6,
+    "gama": 17,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 3,
+    "total": 64
+   },
+   "puntaje_justificacion": {
+    "estetica": "28/30: hormigón visto y estructural como firma del estudio, premiado y publicado internacionalmente; resta 2 por estética escultórica más que minimalista.",
+    "volumen": "6/25: estudio de autor pequeño, pocas obras al año, proyectos públicos grandes pero esporádicos.",
+    "gama": "17/20: clientela de casas de autor y encargos institucionales de prestigio; no hay precios ni público masivo.",
+    "accesibilidad": "10/15: email propio en la web, Instagram y Facebook verificados, decisor identificado; sin teléfono ni WhatsApp.",
+    "oportunidad_inmediata": "3/10: sin proyectos en obra visibles; solo actividad pública en junio 2026."
+   },
+   "notas_investigacion": "El link de ronda 2a (itinerario Area-arch PDF) solo lista la Casa Yvapovó. Leído: laboratoriodearquitectura.com.py (home, contacto, obras, proyectos, laboratorio, publicaciones, novedades), Instagram vía meta tags (10K seguidores, 137 posts; WebFetch devolvió 429), Facebook (6.731 seguidores en meta), ArchDaily (oficina y tag; últimos ítems 2018 y Keche House 2021), ADN Digital 3-jun-2026, 7 búsquedas. Falló: LinkedIn no buscado por ser persona, Google Maps sin ficha, dominios alternativos (javiercorvalan.com, corvalan.com.py) no resuelven. El sitio parece Wix 2019 y puede no estar al día; la dirección de Luque figura en la web propia y en ArchDaily. No se buscó DNCP (no es constructora)."
+  },
+  {
+   "nombre": "-=+X- Arquitectura (Equals Plus X; Francisco Tomboly y Sonia Carísimo)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": 2007,
+   "que_hacen": "Estudio de arquitectura y mobiliario fundado en 2007 por Francisco Tomboly y Sonia Carísimo (formados con IUAV Venecia, docentes UNA/UCA, miembros de Aqua Alta desde 2014). Proyectan casas, talleres y edificios pequeños con 'materiales honestos y recursos mínimos', y tienen un taller de carpintería.",
+   "tipo_proyectos": [
+    "residencial unifamiliar",
+    "talleres",
+    "edificio de departamentos pequeño",
+    "paisaje",
+    "memoria/cultural (Sitio de Memoria 1A Ycuá Bolaños)"
+   ],
+   "estilo": "Austero y artesanal: ladrillo, madera, hormigón y acero; bóvedas y espacios intermedios.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Taller Cerámico Liza Crea (Asunción, 98 m2)",
+     "anio": 2023,
+     "link": "https://www.archdaily.com/1017138/taller-ceramico-liza-crea-equals-plus-x"
+    },
+    {
+     "nombre": "House between Trees (Mariano Roque Alonso, 993 m2; madera, hormigón y ladrillo)",
+     "anio": 2015,
+     "link": "https://www.archdaily.com/894097/house-between-trees-equals-plus-x"
+    },
+    {
+     "nombre": "The Aviary (Luque/Asunción, 330 m2; acero, hormigón, ladrillo)",
+     "anio": 2013,
+     "link": "https://www.archdaily.com/894099/the-aviary-equals-plus-x"
+    },
+    {
+     "nombre": "Edificio Rosas 121 (Tomboly con Marina Tomboly)",
+     "anio": 2016,
+     "link": "https://www.archdaily.com/782899/rosas-121-building-equals-plus-x"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily lista Concrete entre los materiales de House between Trees y The Aviary, sin detalle de dónde se usa; las imágenes citan ladrillo visto."
+   },
+   "tamano_aprox": "Estudio muy pequeño (dos socios); ArchDaily registra 6 proyectos publicados.",
+   "decisores": [
+    {
+     "nombre": "Francisco Tomboly",
+     "cargo": "Arquitecto socio",
+     "fuente": "https://www.archdaily.com/1017138/taller-ceramico-liza-crea-equals-plus-x (ficha de ArchDaily, no es fuente propia)"
+    },
+    {
+     "nombre": "Sonia Carísimo",
+     "cargo": "Arquitecta socia",
+     "fuente": "https://www.archdaily.com/1017138/taller-ceramico-liza-crea-equals-plus-x (ficha de ArchDaily, no es fuente propia)"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/1017138/taller-ceramico-liza-crea-equals-plus-x",
+    "https://www.archdaily.com/894097/house-between-trees-equals-plus-x",
+    "https://www.archdaily.com/894099/the-aviary-equals-plus-x",
+    "https://www.archdaily.com/office/x",
+    "https://fundaciontexo.org/los-arquitectos-sonia-carismo-y-francisco-tomboly-seran-los-proximos-entrevistados-por-fredi-casco-en-contar-el-arte/",
+    "https://tombolycarisimoarq.blogspot.com/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Estudio afín a materiales honestos y mobiliario; podrían especificar mesadas de concreto fino en casas y talleres, pero no hay canal de contacto verificado ni actividad reciente que justifique el esfuerzo ahora.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 38/100; buena afinidad estética pero sin contactos ni actividad visible en 18 meses."
+   },
+   "pendiente_verificar": "Web o redes actuales (el sitio tombolycarisimo.com enlazado en ArchDaily no abre; el blog tombolycarisimoarq.blogspot.com está vacío), email/teléfono propios (el teléfono +595 982 193 232 y el WhatsApp de la nota de Fundación Texo son de esa fundación, no del estudio; los emails/teléfonos viejos de Arqa 2010-2011 no están verificados y no se registran), actividad 2025-2026, dirección actual.",
+   "descartada": true,
+   "motivo_descarte": "No hay actividad visible en los últimos ~18 meses: la última publicación es la ficha de ArchDaily del 6-ago-2024 (obra 2023) y la entrevista de Fundación Texo es de oct-2022; sin web que abra, sin Instagram/Facebook localizables y sin contactos de fuente propia. Puede estar activa; recontrastar si aparece una web o red social.",
+   "actividad_reciente": {
+    "fecha": "2024-08",
+    "evidencia": "Publicación en ArchDaily del Taller Cerámico Liza Crea (6-ago-2024)",
+    "url": "https://www.archdaily.com/1017138/taller-ceramico-liza-crea-equals-plus-x"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas leídas no describen baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo, madera, hormigón, acero; sin marcas en ArchDaily.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 24,
+    "volumen": 4,
+    "gama": 8,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 38
+   },
+   "puntaje_justificacion": {
+    "estetica": "24/30: materiales honestos, ladrillo, hormigón y madera, bóvedas; muy afín a COCO aunque no es minimalismo UHPC puro.",
+    "volumen": "4/25: dos socios, 6 proyectos publicados en 15 años.",
+    "gama": "8/20: casas de clase media-alta y talleres; no hay clientela premium visible.",
+    "accesibilidad": "2/15: decisores identificados solo por ArchDaily y sin ningún contacto propio.",
+    "oportunidad_inmediata": "0/10: no hay obras en curso visibles."
+   },
+   "notas_investigacion": "El link de ronda 1 (ArchDaily House between Trees) es correcto: cita a Tomboly y Carísimo, 2015, Mariano Roque Alonso. Leído: 3 fichas de ArchDaily, páginas de oficina (que enlazan http://www.tombolycarisimo.com, no abre: error TLS/conexión), blog blogspot vacío, nota de Fundación Texo (oct-2022; trayectoria; dirección de la fundación, no del estudio), 5 búsquedas. No confundir con Equipo de Arquitectura (ya perfilada en r2a-05) ni con Oficina de Arquitectura X (Casa 9x9, MCHAP 2024) ni con Tomboly-Zavala Arquitectura. No se hizo Instagram porque no se halló handle. Google Maps sin ficha."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Admirem (administración de inmuebles de Altea Holding)",
+   "link": "https://noticias.alteadesarrollos.com.py/emilo-espinola-ceo-de-altea-holding-de-hacer-planos-a-liderar-un-grupo-inmobiliario.html",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Altea Desarrollos (desarrolladora del holding Altea; proyectos Altea Tower, Altea de Gaulle)",
+   "link": "https://alteadesarrollos.com.py",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Avanza (desarrolladora de Well Residences, obra de Salum & Wenz)",
+   "link": "https://www.salum-wenz.com.py/es/obra.php?id=19",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Grupo Blue Tower Ventures (Centro Logístico KB+, Luque, obra de Salum & Wenz)",
+   "link": "https://www.salum-wenz.com.py/es/obra.php?id=18",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Génesis Desarrollos Inmobiliarios (desarrolladora ligada a Salum & Wenz)",
+   "link": "https://infonegocios.com.py/default/salum-wenz-tiene-nueva-oficina-en-el-nuevo-eje-corporativo-de-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Innova (desarrolladora de Innova Centro e Innova Las Mercedes, obras de Salum & Wenz)",
+   "link": "https://www.salum-wenz.com.py/es/obra.php?id=5",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Belive (desarrolladora de Belive Molas II, obra de Salum & Wenz)",
+   "link": "https://www.salum-wenz.com.py/es/obra.php?id=8",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Eydisa (desarrolladora de las torres Skypark)",
+   "link": "https://www.eydisa.com.py/skypark1y2",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Oficina de Arquitectura X (Casa 9x9, MCHAP 2024)",
+   "link": "https://www.mchap.co/mchap-2024-projects/casa-9x9",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Tomboly-Zavala Arquitectura (con JSH Arquitectura; Vivienda HM)",
+   "link": "https://novarq.com.py/vivienda-hm-tomboly-zavala-arquitectura-jsh-arquitectura/",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
