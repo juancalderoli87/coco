@@ -1,0 +1,743 @@
+{
+ "lote": "r2b-03",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Karmar S.A.I.C. (Grupo Karmar / Karmar Inmobiliaria) - desarrolladora de Arbórea Hills",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción (sede); proyecto Arbórea Hills en San Bernardino",
+   "region": "Gran Asunción",
+   "direccion": "Avda. España Nro. 487 esq. Washington, Asunción (central); otra central en Cerro Corá 765 esq. Tacuary, Asunción",
+   "anio_fundacion": 1979,
+   "que_hacen": "Inmobiliaria y desarrolladora con loteamientos en varios departamentos (Cordillera 183 lotes, Caaguazú 489, Misiones 250, Central 67 según su web), alquileres, administración de propiedades y un parque industrial en Hernandarias. Su proyecto premium actual es Arbórea Hills, barrio cerrado de chacras de 74 ha en la entrada de San Bernardino.",
+   "tipo_proyectos": [
+    "loteamientos",
+    "barrio cerrado de chacras",
+    "residencial",
+    "parque industrial",
+    "comercial (Pueblito de Arbórea)"
+   ],
+   "estilo": "Arbórea Hills: lujo discreto, grandes retiros, materiales armónicos con el entorno (La Nación Foco); master plan con Sordo Madaleno (México) y Bauen (Aldo Cristaldo). El resto del portafolio son loteos sin estética definida.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Arbórea Hills (San Bernardino)",
+     "anio": 2026,
+     "link": "https://arboreahills.com.py"
+    },
+    {
+     "nombre": "Residencial Sunset Hills (San Bernardino)",
+     "anio": null,
+     "link": "https://karmar.com.py/sunset-hills"
+    },
+    {
+     "nombre": "Parque Industrial Montecarlo (Hernandarias)",
+     "anio": null,
+     "link": "https://karmar.com.py/parque-industrial-montecarlo"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ninguna fuente de Arbórea menciona hormigón ni materiales concretos; solo 'materiales armoniosos' (https://revistafoco.com.py/corebusiness-foco/2026/02/18/arborea-hills-el-hito-que-redefine-san-bernardino/). Cada propietario diseña su casa."
+   },
+   "tamano_aprox": "Grande: >45 años de mercado según prensa (web propia dice firma desde 24/02/1979); 4 agencias en el interior + 2 centrales en Asunción; Arbórea Hills USD 15M+ de inversión.",
+   "decisores": [
+    {
+     "nombre": "Astrid Domínguez",
+     "cargo": "Directora ejecutiva de Grupo Karmar SAIC (lidera Arbórea Hills)",
+     "fuente": "https://infonegocios.com.py/amp/default/san-bernardino-suma-un-hito-inmobiliario-con-el-primer-barrio-cerrado-de-chacras-del-pais ; https://revistafoco.com.py/corebusiness-foco/2026/02/18/arborea-hills-el-hito-que-redefine-san-bernardino/ (prensa, no web propia)"
+    }
+   ],
+   "web": "https://karmar.com.py",
+   "web_proyecto": "https://arboreahills.com.py",
+   "instagram": "https://www.instagram.com/karmar_inmobiliaria/",
+   "seguidores_ig": 5712,
+   "instagram_proyecto": "https://www.instagram.com/arboreahills/",
+   "seguidores_ig_proyecto": 977,
+   "facebook": "https://www.facebook.com/karmarSAIC/",
+   "linkedin": null,
+   "email": "recepcion@karmar.com.py",
+   "telefono": "+595 21 443 012",
+   "whatsapp": "+595 981 729 595",
+   "fuentes": [
+    "https://karmar.com.py/contacto",
+    "https://karmar.com.py/",
+    "https://karmar.com.py/quienes-somos",
+    "https://karmar.com.py/urbanizaciones",
+    "https://arboreahills.com.py",
+    "https://www.instagram.com/karmar_inmobiliaria/",
+    "https://www.instagram.com/arboreahills/",
+    "https://infonegocios.com.py/infomicasa/el-origen-de-una-nueva-forma-de-vivir-vida-de-chacras",
+    "https://infonegocios.com.py/amp/default/san-bernardino-suma-un-hito-inmobiliario-con-el-primer-barrio-cerrado-de-chacras-del-pais",
+    "https://revistafoco.com.py/corebusiness-foco/2026/02/18/arborea-hills-el-hito-que-redefine-san-bernardino/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Arbórea Hills busca un entorno de lujo discreto con materiales armónicos y Pueblito comercial (30+ locales de gastronomía y bienestar): COCO puede proponer bachas y mesadas UHPC tanto para locales del Pueblito como para las casas de los 66 propietarios, vía Bauen/Sordo Madaleno y los estudios que cada dueño contrate.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Proyecto premium con arquitectos de primer nivel y contactos corporativos verificados, pero Karmar vende tierra: las casas las proyecta cada propietario, y el Pueblito aún no tiene detalle."
+   },
+   "pendiente_verificar": "Último post de IG (Instagram no expone fechas sin login); reseñas Google; si Bauen/Sordo Madaleno aceptan prescribir; contacto específico de Arbórea (la web solo ofrece formulario, redes en '#'); fecha de inicio de venta de espacios del Pueblito.",
+   "actividad_reciente": {
+    "fecha": "2026-02",
+    "evidencia": "Nota en Revista Foco/La Nación: obras de Arbórea Hills iniciadas en nov. 2025, 5 de 66 chacras vendidas; Infonegocios ene. 2026",
+    "url": "https://revistafoco.com.py/corebusiness-foco/2026/02/18/arborea-hills-el-hito-que-redefine-san-bernardino/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Arbórea Hills",
+     "tipo": "barrio cerrado de chacras (66 chacras de 5.000 y 10.000 m2 según su web; prensa da cifras distintas) + Pueblito comercial + área náutica",
+     "etapa": "en obra / en venta",
+     "unidades": 66,
+     "link": "https://arboreahills.com.py"
+    },
+    {
+     "nombre": "Residencial Sunset Hills",
+     "tipo": "condominio cerrado de lotes",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://karmar.com.py/sunset-hills"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Arbórea vende chacras (lotes); no se publican casas ni interiores. Pueblito comercial con gastronomía implicaría cocinas/baños de locales (sin detalle)."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Equipo: Sordo Madaleno, Bauen, Icon, Riera Abogados, Banco Continental.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 14,
+    "gama": 19,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 6,
+    "total": 69
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: master plan de Sordo Madaleno y 'materiales armoniosos', pero sin evidencia de hormigón visto ni interiores; el resto del portafolio son loteos.",
+    "volumen": "14/25: 66 chacras USD 15M+, más loteos en 7 departamentos (~1.000 lotes) y 4 agencias; pocas obras de edificación propia.",
+    "gama": "19/20: chacras de 5.000-10.000 m2 y posicionamiento 'lujo discreto' en San Bernardino.",
+    "accesibilidad": "13/15: tel, WhatsApp y emails verificados en karmar.com.py/contacto; decisora identificada solo por prensa; Arbórea sin contacto propio.",
+    "oportunidad_inmediata": "6/10: obras iniciadas nov. 2025, pero cada dueño proyecta su casa; Pueblito comercial sin etapa clara."
+   },
+   "notas_investigacion": "Leí karmar.com.py (home, quienes-somos, contacto, urbanizaciones, sunset-hills), arboreahills.com.py (solo con WebFetch; curl da 403 Cloudflare), meta de Instagram de ambas cuentas (seguidores), 3 notas de prensa (Infonegocios x2, Revista Foco). Candidato 'Karmar Inmobiliaria (Arbórea Hills)' = Karmar S.A.I.C.; la web de Karmar no menciona Arbórea en el home, pero el sitio de Arbórea muestra el logo Karmar y la prensa lo confirma. Prensa dice 'Karmar Inmobiliaria Desarrolladora'. Discrepancias de prensa: 66 chacras de 1,5 ha / 1 ha y 0,5 ha / 5.000 y 10.000 m2 (la web de Arbórea y Infonegocios ene-2026 dicen 5.000 y 10.000 m2); antigüedad 35 vs 45 años. Facebook (sunsethillspy) enlazado en web; Facebook y LinkedIn no legibles (login). Google Maps sin datos. ArchDaily/Plataforma: sin resultados. No aplica DNCP. InfoCasas: no se buscó ficha de Karmar. Teléfono de Hernandarias/agencias omitidos del campo principal. Último post IG no verificable."
+  },
+  {
+   "nombre": "Schenk Desarrollos Inmobiliarios (Altos del Salado)",
+   "segmento": "desarrolladora",
+   "ciudad": "San Bernardino (ruta Luque-San Bernardino, entre Matiauda y Ciervo Kua)",
+   "region": "Central y Cordillera",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de un solo proyecto identificable: Altos del Salado, barrio cerrado de 10 ha con 67 lotes de 1.000 m2 con vista al lago Ypacaraí. Vende lotes con financiación propia; no construye viviendas.",
+   "tipo_proyectos": [
+    "loteamiento / barrio cerrado residencial"
+   ],
+   "estilo": "Lotes de 1.000 m2 con amenities (2 canchas de pádel, parque infantil, senderos, gym al aire libre); sin estilo arquitectónico definido.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Altos del Salado",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Solo se venden lotes; no hay viviendas publicadas."
+   },
+   "tamano_aprox": "Pequeño: 1 proyecto de 67 lotes; sin equipo ni web propios visibles.",
+   "decisores": [
+    {
+     "nombre": "Maximiliam Schenk",
+     "cargo": "Socio desarrollador y representante legal de Schenk Desarrollos Inmobiliarios",
+     "fuente": "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano (prensa)"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/altosdelsaladopy/",
+   "seguidores_ig": 2027,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano",
+    "https://infonegocios.com.py/amp/infomicasa/altos-del-salado-un-barrio-cerrado-en-san-bernardino-disenado-para-vivir-en-conexion-con-la-naturaleza",
+    "https://www.instagram.com/altosdelsaladopy/",
+    "https://www.infocasas.com.py/barrio-cerrado-altos-del-salado/193299212",
+    "https://www.infocasas.com.py/altos-del-salado-san-bernardino-terreno-en-venta/190915771"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco directo: vende lotes. Posible vía indirecta, ofrecer a los compradores de lotes (casas de fin de semana/principales) bachas y mesadas UHPC a través de un convenio con el desarrollador o un showroom en el barrio.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Desarrolladora de lotes sin construcción propia, sin contactos publicados y con un solo proyecto; baja oportunidad directa."
+   },
+   "pendiente_verificar": "Teléfono/WhatsApp/email oficiales (no hay web ni contacto propio legible; Instagram bloqueado: bio y link no leídos); último post de IG; si existe razón social formal distinta; Facebook.",
+   "actividad_reciente": {
+    "fecha": "2026-01",
+    "evidencia": "Nota Infonegocios del 21/01/2026 (entrega llave en mano prevista mayo 2026) y aviso InfoCasas del 21/01/2026",
+    "url": "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Altos del Salado",
+     "tipo": "barrio cerrado, 67 lotes de 1.000 m2",
+     "etapa": "en venta",
+     "unidades": 67,
+     "link": "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Solo lotes y amenities; sin viviendas."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Avisos InfoCasas por Century 21 Adventure y Century 21 Prestigio (terceros).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 5,
+    "gama": 11,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 2,
+    "total": 27
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: sin viviendas ni estilo visible; solo urbanización con amenities.",
+    "volumen": "5/25: un proyecto de 67 lotes, sin equipo ni obras de edificación propias.",
+    "gama": "11/20: lotes de 1.000 m2 con vista al lago, US$ 45.000-110.000 en avisos (medio-alto, no ultra premium).",
+    "accesibilidad": "3/15: solo Instagram del proyecto; sin teléfono, email ni web; decisor identificado solo por prensa.",
+    "oportunidad_inmediata": "2/10: venta de lotes; las casas las harán los compradores sin proyecto común conocido."
+   },
+   "notas_investigacion": "Leí 2 notas de Infonegocios (feb-2025 y ene-2026), meta de Instagram @altosdelsaladopy (2.027 seguidores, 97 posts; vía curl), 2 avisos InfoCasas (publicados por Century 21; sin nombre de desarrollador ni teléfono). WebFetch a Instagram: 429. No encontré web propia: probé schenkdesarrollos.com, altosdelsalado.com(.py) y variantes (inexistentes/inalcanzables). Facebook/LinkedIn/Google Maps no hallados ni legibles. Discrepancias: nota de feb-2025 decía entrega may-jun 2025 y ~40% vendido; nota de ene-2026 dice entrega llave en mano mayo 2026; precios de nota US$35-110/m2 vs avisos US$ 45.000 y 110.000 por lote de 1.000 m2. Actividad confirmada (2026-01). Prensa/InfoCasas = no_verificado para cualquier contacto."
+  },
+  {
+   "nombre": "Raíces Real Estate (Aquaterra y otros barrios)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción (sede); Aquaterra en Luque",
+   "region": "Gran Asunción",
+   "direccion": "Sede Av. Aviadores del Chaco, Asunción; sucursal central Av. Dr. Guido Boggiani 6388, Asunción",
+   "anio_fundacion": 2004,
+   "que_hacen": "Gran desarrolladora de barrios cerrados con Crystal Lagoons y loteamientos en todo el país (Aquaterra en Luque, Aquadelta, Aquabrava, Aqua Village, Costa del Lago, La Trinidad, Blue Lagoon, Nova Norte) y departamentos (torres Amalfi, Wyndham Garden Costa del Lago Residences). Comercializa con red propia de 7 sucursales.",
+   "tipo_proyectos": [
+    "barrios cerrados con laguna",
+    "loteamientos",
+    "edificios de departamentos",
+    "branded residences",
+    "residencial"
+   ],
+   "estilo": "Contemporáneo-resort: curvas inspiradas en la laguna, grandes ventanales y balcones (torres Amalfi). Marca premium de masas, no minimalista/hormigón visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Aquaterra (Luque): 47,5 ha, 437 lotes, laguna 2,7 ha, 8 edificios Amalfi",
+     "anio": 2023,
+     "link": "https://www.aquaterra.com.py/"
+    },
+    {
+     "nombre": "Wyndham Garden Costa del Lago Residences (Hernandarias)",
+     "anio": 2026,
+     "link": "https://www.raices.com.py/es/raices/novedades"
+    },
+    {
+     "nombre": "Aquabrava / Aquadelta / Aqua Village (Altos)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infomicasa/raices-real-estate-celebra-20-anos-con-mas-de-33-000-clientes-y-35-millones-de-m2-desarrollados"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fuentes describen arquitectura contemporánea con ventanales y curvas; no mencionan hormigón visto."
+   },
+   "tamano_aprox": "Muy grande: ~300 colaboradores, +33.000 clientes, 35 millones de m2 desarrollados (Última Hora, oct-2024); 7 sucursales (web propia).",
+   "decisores": [
+    {
+     "nombre": "Ernesto Figueredo",
+     "cargo": "Presidente de Raíces Real Estate",
+     "fuente": "https://www.ultimahora.com/raices-real-estate-celebra-dos-decadas-transformando-el-sector-inmobiliario-en-paraguay (prensa)"
+    },
+    {
+     "nombre": "Javier Marín",
+     "cargo": "Gerente de producto de Aquaterra",
+     "fuente": "https://www.abc.com.py/brandlab/2023/08/22/se-inauguro-aquaterra-un-imponente-barrio-cerrado-con-laguna-cristalina-en-luque/ (prensa 2023)"
+    },
+    {
+     "nombre": "Jorge Aníbal Figueredo Fleitas",
+     "cargo": "Fundador",
+     "fuente": "https://www.ultimahora.com/raices-real-estate-celebra-dos-decadas-transformando-el-sector-inmobiliario-en-paraguay (prensa)"
+    }
+   ],
+   "web": "https://www.raices.com.py",
+   "web_proyecto": "https://www.aquaterra.com.py/",
+   "instagram": null,
+   "seguidores_ig": null,
+   "instagram_proyecto": "https://instagram.com/aquaterrapy",
+   "facebook": "https://www.facebook.com/RaicesRealEstate/",
+   "linkedin": null,
+   "email": "contacto@raices.com.py",
+   "telefono": "+595 21 688 7000",
+   "whatsapp": "+595 21 688 7800",
+   "fuentes": [
+    "https://www.raices.com.py/contacto",
+    "https://www.raices.com.py/",
+    "https://www.raices.com.py/es/raices/novedades",
+    "https://www.aquaterra.com.py/",
+    "https://loteamientos.raices.com.py/",
+    "https://www.abc.com.py/brandlab/2023/08/22/se-inauguro-aquaterra-un-imponente-barrio-cerrado-con-laguna-cristalina-en-luque/",
+    "https://www.ultimahora.com/raices-real-estate-celebra-dos-decadas-transformando-el-sector-inmobiliario-en-paraguay",
+    "https://infonegocios.com.py/default/una-isla-urbana-en-luque-aquaterra-ya-comercializo-el-60-de-la-totalidad-del-barrio-cerrado",
+    "https://www.infocasas.com.py/proyectos/aquaterra/14525"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Volumen alto y torres con unidades de 2-3 dormitorios (Amalfi 3 y 4 pendientes, Wyndham residences): oportunidad de proveer bachas y mesadas UHPC como upgrade o paquete de terminaciones para departamentos y casas modelo, entrando por el gerente de producto de Aquaterra.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Escala y contactos verificados muy superiores al resto del lote; estética comercial-resort, no minimalista, pero con edificios en curso."
+   },
+   "pendiente_verificar": "Cuenta oficial de Instagram de Raíces y seguidores (no hallada ni legible); contacto directo del área de producto/compras (los publicados son generales); estado de Amalfi 3/4 (InfoCasas insinúa entrega 2027, no confirmado); reseñas Google; LinkedIn.",
+   "actividad_reciente": {
+    "fecha": "2026-04",
+    "evidencia": "Lanzamiento de Wyndham Garden Costa del Lago Residences (alianza con Grupo Barcelona) y web con 'datos al 2026'",
+    "url": "https://www.raices.com.py/es/raices/novedades"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Aquaterra (Luque) - lotes y edificios Amalfi",
+     "tipo": "barrio cerrado + torres",
+     "etapa": "en venta / en obra",
+     "unidades": 437,
+     "link": "https://www.aquaterra.com.py/"
+    },
+    {
+     "nombre": "Wyndham Garden Costa del Lago Residences (Hernandarias)",
+     "tipo": "branded residence",
+     "etapa": "anunciado / en venta",
+     "unidades": null,
+     "link": "https://www.raices.com.py/es/raices/novedades"
+    },
+    {
+     "nombre": "Nova Norte (norte de Gran Asunción)",
+     "tipo": "desarrollo urbano / lotes",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://loteamientos.raices.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las notas hablan de balcones, ventanales y amenities; no destacan baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Crystal Lagoons (laguna); marca Wyndham (branded residence); Sotheby's International Realty como aliado comercial (Infonegocios).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 25,
+    "gama": 16,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 8,
+    "total": 76
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: arquitectura contemporánea con grandes aberturas y curvas; sin evidencia de hormigón visto ni minimalismo.",
+    "volumen": "25/25: ~300 empleados, 33.000 clientes, 7+ barrios activos en todo el país y varias torres.",
+    "gama": "16/20: Aquaterra y Wyndham residences premium (depto 2 dorm. ~US$ 295.000 en aviso), pero con lotes masivos también.",
+    "accesibilidad": "13/15: tel, email y WhatsApp verificados en raices.com.py; decisores solo por prensa y sin contacto directo.",
+    "oportunidad_inmediata": "8/10: Aquaterra con Amalfi pendientes, Wyndham residences en lanzamiento y Nova Norte."
+   },
+   "notas_investigacion": "Leí raices.com.py (home, contacto, novedades), loteamientos.raices.com.py, aquaterra.com.py (home; /contacto da 404; sin dominio non-www: 406), notas de ABC Brand Lab 2023, Última Hora oct-2024, Infonegocios 2021, ficha InfoCasas de Aquaterra (desarrollador oculto, contacto por formulario). El candidato 'Raíces Real Estate (Aquaterra)' = empresa real y activa; Aquaterra la desarrollan Raíces + Ofisa S.A. (dueña del suelo; director Emanuel Oviedo según ABC). raices.com.py sin www no abre; /nosotros 404. WhatsApp (595216887800) tomado del link wa.me de la home; el número de Aquaterra (595216887000, api.whatsapp) coincide con la central. Instagram: probé 5 handles; ninguno devolvió datos; Facebook RaicesRealEstate enlazado en loteamientos.raices.com.py (no legible); LinkedIn 403; Google Maps sin datos. Cifras de prensa discordantes (30.000/33.000 clientes; 32/35 M m2). ArchDaily/Plataforma sin resultados. InfoCasas: ficha sin unidades listadas."
+  },
+  {
+   "nombre": "Sibaris S.A. (Terra Viva Residencias / EcoCasas)",
+   "segmento": "desarrolladora",
+   "ciudad": "Luque (Bº Maramburé)",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora, comercializadora y administradora de sus propios proyectos en Luque: Terra Viva Residencias (barrio cerrado de 28 lotes y barrio abierto de 24) con su línea de viviendas 'EcoCasas', y Terra Noble. Banco de suelo de 28,64 ha según prensa.",
+   "tipo_proyectos": [
+    "barrio cerrado",
+    "barrio abierto",
+    "viviendas económicas (EcoCasas)",
+    "residencial"
+   ],
+   "estilo": "Casas modernas de bajo costo con criterios básicos de sustentabilidad (orientación, ventilación); 5 tipologías Eco2 a Eco10, desde 64 m2.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Terra Viva Residencias (Luque)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda"
+    },
+    {
+     "nombre": "EcoCasas (sitio del proyecto)",
+     "anio": null,
+     "link": "https://www.ecocasas.com.py"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Casas económicas tipo 'casa propia a precio de alquiler'; sin hormigón visto en las fuentes (https://www.ecocasas.com.py)."
+   },
+   "tamano_aprox": "Pequeño-mediano: 52 viviendas/lotes en Terra Viva (USD 4M); construye A4 Constructora; '+15 años' en el rubro según prensa.",
+   "decisores": [
+    {
+     "nombre": "Alejandra Melgarejo Miranda",
+     "cargo": "Presidenta de Sibaris S.A.",
+     "fuente": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda (prensa)"
+    },
+    {
+     "nombre": "Miguel Alberto Lopatiuk",
+     "cargo": "Arquitecto a cargo de la obra (A4 Arquitectura)",
+     "fuente": "misma nota de Infonegocios (prensa)"
+    }
+   ],
+   "web": "https://www.ecocasas.com.py",
+   "instagram": "https://www.instagram.com/terra_vivapy/",
+   "seguidores_ig": 7197,
+   "instagram_ecocasas": "https://www.instagram.com/ecocasaspy/",
+   "seguidores_ig_ecocasas": 390,
+   "facebook": "https://www.facebook.com/ecocasaspy",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": "+595 981 585 131",
+   "fuentes": [
+    "https://www.ecocasas.com.py",
+    "https://www.instagram.com/terra_vivapy/",
+    "https://www.instagram.com/ecocasaspy/",
+    "https://www.facebook.com/ecocasaspy",
+    "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda",
+    "https://infonegocios.com.py/infomicasa/vivi-el-sueno-de-un-hogar-en-terra-viva-un-nuevo-concepto-de-vida-en-familia-con-amenidades-de-primer-nivel",
+    "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Segmento económico (AFD): poco encaje con UHPC premium. Eventual venta de mesadas/bachas como opcional 'upgrade' en las EcoCasas; A4 Constructora (ya fichada en r2a-02) es el canal de obra.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Vivienda accesible financiada con tasas AFD, 52 unidades y última evidencia fuerte de sep-2024; bajo encaje estético y de gama."
+   },
+   "pendiente_verificar": "Teléfono (0985) 660 295 y correo de ventas: figuran solo en prensa (La Nación 24/09/2024), no_verificado; fecha del último post de IG; estado actual de ventas/obra; sitio propio de Sibaris (no hallado); Facebook 'Terra Viva Residencias'.",
+   "actividad_reciente": {
+    "fecha": "2024-09",
+    "evidencia": "Lanzamiento en La Nación e Infonegocios (24/09/2024); cuenta IG terra_vivapy con 150 posts (fecha del último no legible); web ecocasas.com.py © vigente",
+    "url": "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Terra Viva Residencias",
+     "tipo": "barrio cerrado (28 lotes con casa) + barrio abierto (24 lotes)",
+     "etapa": "en venta / en obra (en may-2024: infraestructura 100%, casas 60%)",
+     "unidades": 52,
+     "link": "https://www.ecocasas.com.py"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Casas funcionales de bajo costo; amenities son el foco."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Constructora A4 Constructora (A4 Arquitectura); financiamiento AFD vía bancos.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 6,
+    "accesibilidad": 8,
+    "oportunidad_inmediata": 5,
+    "total": 33
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: casas modernas económicas; sin hormigón visto ni materiales nobles.",
+    "volumen": "6/25: 52 unidades en un proyecto (+ Terra Noble anunciado).",
+    "gama": "6/20: público de primera vivienda con cuotas AFD desde Gs. 4,2 M.",
+    "accesibilidad": "8/15: WhatsApp verificado en ecocasas.com.py y presidenta identificada por prensa; teléfono y email solo en prensa.",
+    "oportunidad_inmediata": "5/10: casas en construcción en 2024; estado actual no confirmado."
+   },
+   "notas_investigacion": "Leí 3 notas de prensa (Infonegocios mayo y sept-2024, La Nación sept-2024), ecocasas.com.py (web del proyecto citada por Infonegocios; footer 'Desarrollado por Nicolás Cóppola' es crédito del diseñador web, no de Sibaris; WhatsApp tomado de su link wa.me), meta IG de terra_vivapy y ecocasaspy (curl intermitente), Facebook ecocasaspy (9 seguidores). No hallé web propia de Sibaris: sibaris.com.py y www inalcanzables. Un resumen de búsqueda atribuyó el email ventas@sibaris.com.py a la prensa; no pude confirmarlo leyendo la página (Infonegocios lo muestra ofuscado), por eso email=null. Teléfono (0985) 660 295 leído en La Nación = no_verificado. Última evidencia de actividad: sep-2024 (14 meses; dentro de los 18 pero sin evidencia posterior legible). Terra Viva es de Sibaris, no de A4; A4 (r2a-02) es solo la constructora, no hay duplicado. Facebook 'Terra Viva Residencias' no hallado. LinkedIn/Maps sin datos."
+  },
+  {
+   "nombre": "GAO Desarrollos Inmobiliarios (Tavamay Mora Cue)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción (sede); proyectos en Luque, Limpio, Asunción y Ciudad del Este",
+   "region": "Gran Asunción",
+   "direccion": "Aviadores del Chaco 2050, Asunción",
+   "anio_fundacion": 2015,
+   "que_hacen": "Desarrolladora que gestiona todo el ciclo (estudio de mercado, anteproyecto, financiero, legales, construcción y venta) de edificios de departamentos y barrios cerrados/abiertos de casas, mayormente clase media, en Luque, Limpio, Asunción y Ciudad del Este. Tavamay Mora Cue (50 casas, 2019-2021) ya está entregado.",
+   "tipo_proyectos": [
+    "edificios de departamentos",
+    "barrios cerrados de casas",
+    "barrio abierto",
+    "urbanizaciones",
+    "apart hotel"
+   ],
+   "estilo": "Funcional, orientado a primera vivienda y clase media; edificios con 'terminaciones de primer nivel' en Asunción (Bella Vista, Las Mercedes).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Vidalta (54 deptos, Bella Vista, 2026-2028)",
+     "anio": 2026,
+     "link": "https://www.gao.com.py/proyectos/vidalta.php"
+    },
+    {
+     "nombre": "Midtown (20 deptos, Las Mercedes, 2025-2027)",
+     "anio": 2025,
+     "link": "https://www.gao.com.py/proyectos/midtown.php"
+    },
+    {
+     "nombre": "Genoa Carmelitas (18 deptos, 2022-2023)",
+     "anio": 2022,
+     "link": "https://www.gao.com.py/proyectos/genoa-carmelitas.php"
+    },
+    {
+     "nombre": "Tavamay Mora Cue (50 casas, Luque)",
+     "anio": 2019,
+     "link": "https://www.gao.com.py/proyectos/tavamay-mora-cue.php"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web propia no describe materiales ni muestra fotos legibles por texto."
+   },
+   "tamano_aprox": "Mediano: 13 proyectos listados en su web, 4 directores; unidades en curso: ~54+20+40+43 viviendas y 407 lotes en CDE.",
+   "decisores": [
+    {
+     "nombre": "Oliver Stanley",
+     "cargo": "Director",
+     "fuente": "https://www.gao.com.py/empresa.php"
+    },
+    {
+     "nombre": "Ing. Gian Carlo Sottoli",
+     "cargo": "Director",
+     "fuente": "https://www.gao.com.py/empresa.php"
+    },
+    {
+     "nombre": "Cristian Saavedra",
+     "cargo": "Director",
+     "fuente": "https://www.gao.com.py/empresa.php"
+    },
+    {
+     "nombre": "Mathias Benitez",
+     "cargo": "Director",
+     "fuente": "https://www.gao.com.py/empresa.php"
+    }
+   ],
+   "web": "https://www.gao.com.py",
+   "instagram": "https://www.instagram.com/gaoparaguay/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/GAOparaguay/",
+   "linkedin": null,
+   "email": "info@gao.com.py",
+   "telefono": "+595 981 438 906",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.gao.com.py/",
+    "https://www.gao.com.py/empresa.php",
+    "https://www.gao.com.py/contacto.php",
+    "https://www.gao.com.py/proyectos.php",
+    "https://www.gao.com.py/proyectos/vidalta.php",
+    "https://www.gao.com.py/proyectos/midtown.php",
+    "https://www.gao.com.py/proyectos/casa-vida.php",
+    "https://www.gao.com.py/proyectos/barrio-vida-4-vientos.php",
+    "https://infonegocios.com.py/infomicasa/gao-desarrollos-inmobiliarios-proyecta-genoa-carmelitas-con-us-2-millones-de-inversion-40-vendido",
+    "https://infonegocios.com.py/amp/default/barrio-cerrado-tavamay-mora-cue-ofrece-seguridad-naturaleza-y-tranquilidad-para-la-familia"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Edificios en obra en Asunción (Vidalta 54 deptos, Midtown 20) con 'terminaciones de primer nivel': ofrecer bachas y mesadas UHPC como paquete de terminaciones o upgrade, hablando con los directores (contacto corporativo directo disponible).",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Empresa activa con directores y contactos verificados y varias obras en curso, aunque de gama mayormente media."
+   },
+   "pendiente_verificar": "Seguidores y último post de IG (429/login); WhatsApp (el teléfono publicado es móvil pero no figura como WhatsApp); cuáles terminaciones/proveedores usan; reseñas Google; LinkedIn; si 'Tavamay' sigue siendo marca activa (hoy 'Barrio Vida').",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "Web con © 2026 y proyectos con obra 2025-2028 (Vidalta 2026-2028, Midtown 2025-2027, Barrio Vida 4 Vientos 2025-2027)",
+    "url": "https://www.gao.com.py/proyectos.php"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Vidalta",
+     "tipo": "edificio 54 departamentos, 6 niveles, Bella Vista (Asunción)",
+     "etapa": "en obra / anunciado",
+     "unidades": 54,
+     "link": "https://www.gao.com.py/proyectos/vidalta.php"
+    },
+    {
+     "nombre": "Midtown",
+     "tipo": "edificio 20 departamentos, 8 niveles, Las Mercedes",
+     "etapa": "en obra",
+     "unidades": 20,
+     "link": "https://www.gao.com.py/proyectos/midtown.php"
+    },
+    {
+     "nombre": "Casa Vida",
+     "tipo": "barrio abierto, 40 casas, Mora Cue (Luque), clase media",
+     "etapa": "en obra (2024-2026)",
+     "unidades": 40,
+     "link": "https://www.gao.com.py/proyectos/casa-vida.php"
+    },
+    {
+     "nombre": "Barrio Vida 4 Vientos",
+     "tipo": "barrio cerrado 43 casas, Limpio",
+     "etapa": "en obra (2025-2027)",
+     "unidades": 43,
+     "link": "https://www.gao.com.py/proyectos/barrio-vida-4-vientos.php"
+    },
+    {
+     "nombre": "Francavilla",
+     "tipo": "urbanización 407 lotes, Ciudad del Este",
+     "etapa": "en obra (2024-2027)",
+     "unidades": 407,
+     "link": "https://www.gao.com.py/proyectos/francavilla.php"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Fichas web sin detalle de interiores."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Socios: Quadra Constructora (Genoa Carmelitas), C21 Wilson Chihan (ventas), capital del fondo Tavamay (Tavamay Mora Cue).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 13,
+    "gama": 11,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 8,
+    "total": 56
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: foco funcional/clase media; solo 'terminaciones de primer nivel' en torres de Asunción, sin evidencia de minimalismo ni hormigón.",
+    "volumen": "13/25: 5 proyectos en curso (~157 unidades de edificios/casas y 407 lotes) y 13 en cartera.",
+    "gama": "11/20: mayormente clase media y primera vivienda; Vidalta/Midtown/Carmelitas son medio-alto (unidades desde US$ 80.000 en Genoa).",
+    "accesibilidad": "14/15: teléfono, email y dirección en gao.com.py y 4 directores con nombre y cargo en la web propia; falta WhatsApp.",
+    "oportunidad_inmediata": "8/10: Vidalta, Midtown y Barrio Vida 4 Vientos en obra con baños y cocinas por equipar."
+   },
+   "notas_investigacion": "Leí gao.com.py completo (home, empresa, contacto, proyectos y 12 fichas), 2 notas de Infonegocios (2019 y 2022), meta de Instagram gaoparaguay (curl devolvió página genérica; WebFetch 429), Facebook GAOparaguay (login shell). 'GAO Desarrollos Inmobiliarios' es empresa real y activa (desde 2015). Datos de ronda 1/prensa corregidos: la nota de 2019 dice que Tavamay Mora Cue estaba al 40%; la web propia lo lista con obra 2019-2021 (entregado). Tavamay San José ahora se llama Barrio Vida San José. tavamay.com no abre (CONNECT/inalcanzable); gao.com.py sí (www). Búsquedas de prensa no devolvieron noticias recientes de Vidalta/Midtown (solo web propia). LinkedIn/Maps sin datos. Teléfono +595 981 438 906 publicado por la empresa como móvil de información; no figura wa.me."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Cumbres de San Bernardino",
+   "link": "https://infonegocios.com.py/default/cumbres-de-san-bernardino-el-barrio-cerrado-con-vista-al-lago-ypacarai-supera-el-50-de-ventas",
+   "ciudad": "San Bernardino",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Madre Selva (barrio cerrado)",
+   "link": "https://infonegocios.com.py/infomicasa/madre-selva-un-barrio-cerrado-exclusivo-en-san-bernardino-67-lotes-con-vista-al-lago",
+   "ciudad": "San Bernardino",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Piedras Blancas Condominio",
+   "link": "https://infonegocios.com.py/infomicasa/daniel-triderman-de-piedras-blancas-condominio-la-seguridad-que-ofrecemos-no-la-ofrece-nadie-mas-en-san-bernardino",
+   "ciudad": "San Bernardino",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Ámbar (ruta Luque-San Bernardino)",
+   "link": "https://www.lanacion.com.py/negocios/2024/11/28/ambar-el-precio-por-metro-cuadrado-mas-ventajoso-de-la-ruta-luque-san-bernardino/",
+   "ciudad": "Luque / San Bernardino",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Aldera Resort Life",
+   "link": "https://www.lanacion.com.py/negocios/2024/10/18/aldera-resort-life-se-destaca-como-el-barrio-cerrado-mas-completo-de-la-region/",
+   "ciudad": "Gran Asunción (por confirmar)",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "La Soñada (barrio cerrado)",
+   "link": "https://www.lanacion.com.py/negocios/2025/01/20/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial/",
+   "ciudad": "por confirmar",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Green Paraná (Arbolia, Luque)",
+   "link": "https://infonegocios.com.py/amp/infomicasa/green-parana-invierte-us-20-millones-y-lanza-arbolia-el-primer-gran-parque-residencial-de-luque",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Menabi I y II (Luque)",
+   "link": "https://infonegocios.com.py/default/menabi-i-abre-sus-puertas-en-luque-y-menabi-ii-llegara-con-mas-amenities-y-una-cancha-de-padel",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Edificio Marlin Luque",
+   "link": "https://infonegocios.com.py/infomicasa/edificio-marlin-luque-un-complejo-residencial-de-lujo-con-aislamiento-termico-y-acustico",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Insignia Terra 01",
+   "link": "https://infonegocios.com.py/infomicasa/insignia-terra-01-el-proyecto-que-combina-espacios-verdes-y-confort-cotidiano",
+   "ciudad": "por confirmar",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Skyterra Paraguay (Wave Houses, Altos)",
+   "link": "https://infonegocios.com.py/infomicasa/skyterra-paraguay-lanza-wave-houses-en-altos-primer-barrio-cerrado-con-laguna-con-olas-wavetech",
+   "ciudad": "Altos",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Quadra Constructora (socia de GAO en Genoa Carmelitas)",
+   "link": "https://infonegocios.com.py/infomicasa/gao-desarrollos-inmobiliarios-proyecta-genoa-carmelitas-con-us-2-millones-de-inversion-40-vendido",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Ofisa S.A. (propietaria del suelo de Aquaterra)",
+   "link": "https://www.abc.com.py/brandlab/2023/08/22/se-inauguro-aquaterra-un-imponente-barrio-cerrado-con-laguna-cristalina-en-luque/",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  }
+ ]
+}
