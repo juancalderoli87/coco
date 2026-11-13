@@ -1,0 +1,771 @@
+{
+ "lote": "r2a-01",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Concremaq",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Constructora fundada por los ingenieros Néstor Viveros, Sebastián Viveros y Pablo Pavón. Según su web hace edificios multifamiliares, clínicas, salones, galpones, obras industriales y reformas; según Infonegocios (13/07/2026) tiene ocho edificios en altura en ejecución, entre ellos Park Lofts Tower (>100 m), además de centros logísticos, barrios cerrados y obras viales.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial multifamiliar",
+    "salud",
+    "logístico/industrial",
+    "barrios cerrados",
+    "obras viales",
+    "reformas integrales"
+   ],
+   "estilo": "Constructora técnica de obra gruesa y terminaciones para terceros; no se identifica estilo propio (no diseña).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Park Lofts Tower (5.º edificio de la desarrolladora Park Lofts, ~7.000 m2, >100 m)",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"
+    },
+    {
+     "nombre": "Edificio Multifamiliar - Recoleta",
+     "anio": null,
+     "link": "https://concremaq.com.py/"
+    },
+    {
+     "nombre": "Edificio Multifamiliar - Herrera",
+     "anio": null,
+     "link": "https://concremaq.com.py/"
+    },
+    {
+     "nombre": "Reforma de restaurant y amenities de hotel - Ciudad del Este",
+     "anio": null,
+     "link": "https://concremaq.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web ni la nota de prensa mencionan hormigón visto; la web solo muestra fotos de obra sin descripción de terminaciones."
+   },
+   "tamano_aprox": "Mediana-grande en volumen: 8 edificios en altura simultáneos; pico de ~300 trabajadores solo en Park Lofts Tower (Infonegocios 13/07/2026). Headcount total no publicado.",
+   "decisores": [
+    {
+     "nombre": "Sebastián Viveros",
+     "cargo": "Director (Ing., cofundador)",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"
+    },
+    {
+     "nombre": "Néstor Viveros",
+     "cargo": "Ing., cofundador",
+     "fuente": "https://concremaq.com.py/"
+    },
+    {
+     "nombre": "Pablo Pavón",
+     "cargo": "Ing., cofundador",
+     "fuente": "https://concremaq.com.py/"
+    }
+   ],
+   "web": "https://concremaq.com.py/",
+   "instagram": "https://www.instagram.com/concremaq.py/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/Concremaq.py",
+   "linkedin": null,
+   "email": "comercial@concremaq.com.py",
+   "telefono": "+595 971 617 387",
+   "whatsapp": null,
+   "fuentes": [
+    "https://concremaq.com.py/",
+    "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad",
+    "https://asunciontimes.com/?p=17674"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Con 8 torres en ejecución, puede ser canal de volumen para bachas/mesadas UHPC livianas en unidades; pero la especificación la fijan las desarrolladoras (Park Lofts y otras), así que conviene entrar por ambos lados y usar a Concremaq como aliado de obra (tiempos, peso, instalación).",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Volumen alto y contacto directo verificado con tres socios, pero sin evidencia de estética afín ni de poder de especificación sobre terminaciones."
+   },
+   "pendiente_verificar": "Instagram y Facebook bloqueados (HTTP 429/login): seguidores, último post y temática sin leer. Dirección de oficina no publicada. LinkedIn no hallado. Confirmar si Concremaq es realmente la constructora de Park Lofts Tower (un aviso inmobiliario cita a Benítez Bittar como constructor). WhatsApp no publicado.",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Nota Infonegocios del 13/07/2026: 8 edificios en altura en ejecución; Park Lofts Tower en etapa inicial.",
+    "url": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Park Lofts Tower",
+     "tipo": "torre residencial (studios/1 dorm./penthouses), >100 m, ~7.000 m2",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"
+    },
+    {
+     "nombre": "Otros 7 edificios en altura (no nombrados en la fuente)",
+     "tipo": "residencial/mixto",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No hay descripción de terminaciones en web ni prensa."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. (Para Park Lofts Tower, la desarrolladora menciona vidrios dobles alemanes, electrodomésticos Samsung y puertas de madera: Asunción Times, no es dato de Concremaq.)",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 18,
+    "gama": 11,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 7,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: sin evidencia de hormigón visto ni estilo minimalista; obras multifamiliares y comerciales genéricas; la torre Park Lofts se vende como minimalismo, pero es de la desarrolladora.",
+    "volumen": "18/25: 8 torres en ejecución a la vez y 300 obreros pico en una sola obra; empresa joven, sin cifras de m2 históricos.",
+    "gama": "11/20: Park Lofts Tower es producto premium (>100 m, vistas 360°), pero el resto del portfolio es medio (multifamiliares Herrera/Recoleta, galpones, obras viales).",
+    "accesibilidad": "13/15: teléfono, 5 emails (generales y por socio) y redes en la web propia; tres socios identificados; sin WhatsApp ni dirección.",
+    "oportunidad_inmediata": "7/10: ocho edificios en obra, pero etapa de cada uno desconocida y la compra de bachas la define la desarrolladora."
+   },
+   "notas_investigacion": "Leído: concremaq.com.py (home completa con contactos y 6 proyectos), nota Infonegocios 13/07/2026, Asunción Times (Park Lofts Tower). Corrección ronda 1: la web propia SÍ existe (concremaq.com.py) y las redes @concremaq.py figuran allí; el fundador no es solo Sebastián Viveros sino tres socios. Fallaron: Instagram (429), Facebook (login wall), hypeauditor (403), LinkedIn (no aparece en buscador), Google Maps (no se pudo leer la ficha). DNCP: búsqueda web sin resultados para Concremaq (no concluyente; no consultado el buscador del portal). Prensa: solo Infonegocios; sin notas en ABC/ÚH/La Nación/5días. Portales de arquitectura: no aplica/sin resultados. El copyright de la web es 2023."
+  },
+  {
+   "nombre": "Katuete SRL (Grupo Palmanova)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Gral. Santos Nº 520 c/ España, Asunción (según el footer de palmanova.com.py)",
+   "anio_fundacion": 1998,
+   "que_hacen": "Katuete S.R.L. (marca Edificios Palmanova) es una constructora-desarrolladora familiar fundada en 1998 que desarrolla, construye y comercializa torres premium en Asunción. Tiene 4+ proyectos activos, >50.000 m2 construidos y >205.000 m2 en desarrollo, y emitió bonos en bolsa en noviembre de 2024.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial premium",
+    "uso mixto",
+    "corporativo",
+    "comercial (mall)"
+   ],
+   "estilo": "Torres contemporáneas de autor con Jasper Architects (premiadas IADA 2025); Las Lomas con fachada de hormigón visto de inspiración brutalista; certificación LEED en proceso.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Palmanova Las Lomas (torre 50 pisos, Molas López y Roque Saldívar, fachada de hormigón visto; preventa)",
+     "anio": 2025,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html"
+    },
+    {
+     "nombre": "Palmanova Center (mixto >200.000 m2, 2 torres residenciales 40 y 37 pisos con +400 unidades, 2 torres de oficinas, mall; preventa desde 22/07/2025)",
+     "anio": 2025,
+     "link": "https://infonegocios.info/y-ademas/palmanova-center-despierta-asuncion-con-una-propuesta-que-redefine-el-desarrollo-urbano"
+    },
+    {
+     "nombre": "Palmanova Pacheco (18 pisos, ~87 deptos, 100% vendido, entrega prevista may-2027)",
+     "anio": 2024,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-pacheco-es.html"
+    },
+    {
+     "nombre": "Palmanova Las Mercedes (20 pisos, 100% vendido, inaugurado feb-2026, inversión ~US$ 15 M)",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/infomicasa/grupo-palmanova-inaugura-torre-premium-en-las-mercedes-con-todas-las-unidades-vendidas-y-una-propuesta-integral-de-amenities"
+    },
+    {
+     "nombre": "Palmanova Villa Morra (boutique, 37 deptos + penthouse, 100% vendido)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-palmanova-villa-morra-un-edificio-boutique-que-propone-un-nuevo-estandar-de-lujo"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Ficha de Palmanova Las Lomas en palmanova.com.py: 'fachada de hormigón visto inspirada en el brutalismo', diseño Jasper Architects."
+   },
+   "tamano_aprox": "Grande para el mercado local: +500 obreros, >205.000 m2 en desarrollo, 4+ proyectos activos y un megaproyecto de >US$ 200 M anunciado en su web.",
+   "decisores": [
+    {
+     "nombre": "Adrián Soria",
+     "cargo": "Director general de Katuete SRL / director de Grupo Palmanova",
+     "fuente": "https://infonegocios.info/y-ademas/palmanova-center-despierta-asuncion-con-una-propuesta-que-redefine-el-desarrollo-urbano"
+    },
+    {
+     "nombre": "José Ocampos",
+     "cargo": "Encargado comercial / vocero (cargo según prensa 2024)",
+     "fuente": "https://infonegocios.com.py/infomicasa/palmanova-pacheco-marca-nuevo-estandar-en-el-horizonte-urbano-con-pista-de-running-en-el-cuarto-piso"
+    }
+   ],
+   "web": "https://palmanova.com.py/",
+   "instagram": "https://www.instagram.com/palmanovacenter",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/share/1CdTyQgpuC/",
+   "linkedin": "https://www.linkedin.com/company/palmanova-center/",
+   "email": "info@palmanova.com.py",
+   "telefono": "+595 983 196 927",
+   "whatsapp": "+595 983 196 927",
+   "fuentes": [
+    "https://palmanova.com.py/",
+    "https://palmanova.com.py/es/palmanova-nosotros-es.html",
+    "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html",
+    "https://www.palmanovacenter.com",
+    "https://infonegocios.info/y-ademas/palmanova-center-despierta-asuncion-con-una-propuesta-que-redefine-el-desarrollo-urbano",
+    "https://infonegocios.com.py/infomicasa/grupo-palmanova-inaugura-torre-premium-en-las-mercedes-con-todas-las-unidades-vendidas-y-una-propuesta-integral-de-amenities",
+    "https://www.jasperarchitects.com/projects/palmanova-center.php"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Pipeline continuo de torres premium con arquitectura de autor y fachada de hormigón visto en Las Lomas: COCO puede proponer bachas y mesadas UHPC como upgrade o línea 'signature' para penthouses y unidades altas de Las Lomas y Palmanova Center, y mostrar coherencia con el lenguaje brutalista. Entrar por la gerencia comercial/dirección (Soria) y por Jasper Architects.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Desarrolladora-constructora premium con 3+ proyectos en obra/preventa, hormigón visto en su torre insignia y contactos directos verificados."
+   },
+   "pendiente_verificar": "Instagram (@palmanovacenter, @grupo_palmanova, @edificio_palmanova) y Facebook no legibles: seguidores y temática de posts sin confirmar. Google Maps: ficha 'Edificio Palmanova' existe pero no se pudo leer (reseñas). Constructor de Las Lomas: su ficha cita a 'Mafado Constructora' (no Katuete); confirmar quién construye cada torre y quién decide terminaciones. Estado/fecha de entrega de Palmanova Villa Morra (web: fin abr-2025; prensa: dic-2025). Marcas de griferías/sanitarios/mesadas no publicadas. Cargo actual de José Ocampos. Reconciliar US$ 200 M (web) con prensa que no informa monto.",
+   "actividad_reciente": {
+    "fecha": "2026-02",
+    "evidencia": "Inauguración de Palmanova Las Mercedes (100% vendido) en nota Infonegocios del 02/02/2026; Palmanova Center premiado LADI 2026 según Jasper Architects.",
+    "url": "https://infonegocios.com.py/infomicasa/grupo-palmanova-inaugura-torre-premium-en-las-mercedes-con-todas-las-unidades-vendidas-y-una-propuesta-integral-de-amenities"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Palmanova Las Lomas",
+     "tipo": "torre residencial 50 pisos, fachada hormigón visto (1 a 3 dorm. y penthouses 422-533 m2)",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html"
+    },
+    {
+     "nombre": "Palmanova Center",
+     "tipo": "mixto: 2 torres residenciales (+400 unidades), 2 de oficinas, mall 5 niveles",
+     "etapa": "en venta",
+     "unidades": 400,
+     "link": "https://www.palmanovacenter.com"
+    },
+    {
+     "nombre": "Palmanova Pacheco",
+     "tipo": "residencial 18 pisos, 1 a 3 dorm.",
+     "etapa": "en obra",
+     "unidades": 87,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-pacheco-es.html"
+    },
+    {
+     "nombre": "Palmanova Villa Morra",
+     "tipo": "boutique residencial 8 pisos",
+     "etapa": "en obra",
+     "unidades": 37,
+     "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-palmanova-villa-morra-un-edificio-boutique-que-propone-un-nuevo-estandar-de-lujo"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas listan cocina amoblada con horno/anafe/campana, mamparas y espejo en baños, pero no destacan bachas ni mesadas ni materiales."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas de griferías, bachas o mesadas. Visibles: vidrio DVH, fachada de hormigón visto (Las Lomas), cerradura digital (Pacheco). Aliados: Jasper Architects, Mafado Constructora (Las Lomas), ASEPASA/Tayi (seguros), Banco Itaú (financiación), ASUCAPITAL (bonos).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 22,
+    "volumen": 23,
+    "gama": 17,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 9,
+    "total": 84
+   },
+   "puntaje_justificacion": {
+    "estetica": "22/30: fachada de hormigón visto brutalista en Las Lomas y arquitectura de autor premiada; falta evidencia de interiores minimalistas o materiales nobles en baños/cocinas.",
+    "volumen": "23/25: +205.000 m2 en desarrollo, 4+ proyectos activos, +500 obreros, Palmanova Center con +400 unidades residenciales y Las Lomas de 50 pisos.",
+    "gama": "17/20: producto premium/boutique (US$ 1.700-2.300/m2 en Las Lomas, penthouses de 422-533 m2, inversores extranjeros); parte del target es inversión de renta.",
+    "accesibilidad": "13/15: teléfono, WhatsApp, email, dirección y redes en web propia; decisor (Adrián Soria) identificado solo por prensa y sin contacto directo.",
+    "oportunidad_inmediata": "9/10: Las Lomas en preventa/obra, Center en lanzamiento, Pacheco en obra hasta may-2027."
+   },
+   "notas_investigacion": "Leído: palmanova.com.py (home, nosotros, noticias, Las Lomas, Pacheco), palmanovacenter.com, 5 notas Infonegocios (2022-2026), Jasper Architects, Asunción Times, DNCP (certificado de contratación 2017 de Katuete SRL, sin detalle). Correcciones ronda 1: web correcta es palmanova.com.py (edificiopalmanova.com redirige 301); fundación 1998; teléfono, email y WhatsApp sí están publicados; Palmanova Las Lomas (50 pisos, hormigón visto) y Palmanova Center no figuraban; Las Lomas figura construida por Mafado Constructora; Palmanova Villa Morra figura 100% vendido (8 pisos). Fallaron: Instagram (429), Facebook (login wall), LinkedIn (403), Google Maps (sin datos), hypeauditor (403). InfoCasas/portales: la búsqueda no devolvió fichas de Palmanova (no concluyente). Prensa: Infonegocios, ABC (autor) y Jasper; sin hallazgos en ÚH/La Nación/5días. Archello/ArchDaily/Divisare: sin fichas; sí ad-c.org (IADA) y Jasper Architects. La nota de Villa Morra dice entrega dic-2025 (posible error). Ficha de Katuete en DNCP no leída en detalle (RUC 80018714-8 publicado en documento DNCP)."
+  },
+  {
+   "nombre": "Jiménez Gaona y Lima S.A. (JGL)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": "Avda. José G. Artigas Nº 3443, Asunción",
+   "anio_fundacion": 1968,
+   "que_hacen": "Constructora civil e industrial constituida en 1968, con +500 proyectos y +1.000.000 m2 construidos según su web. Hace edificios de departamentos, oficinas, hoteles, hospitales y plantas industriales; desde 2020-21 desarrolla vivienda y oficinas premium vía el Consorcio JGL-Casatua, y en 2026 lanzó JGL & Saphira Capital (LYV, Ciudad del Este).",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial de lujo",
+    "corporativo",
+    "hotelero",
+    "hospitales/público",
+    "industrial",
+    "desarrollo inmobiliario"
+   ],
+   "estilo": "Obras de gran escala y diseño de autor (Jade Park, Carlos Ott); línea contemporánea con torres aterrazadas y LEED en Matter.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Jade Park (3 torres, Carlos Ott, ~US$ 100 M, 2016-2022)",
+     "anio": 2022,
+     "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2021/12/19/jade-park-asuncion-megaproyecto-construido-por-jimenez-gaona-y-lima/"
+    },
+    {
+     "nombre": "Matter (torre de oficinas triple A, 20 pisos, delSol; obra desde mar-2025)",
+     "anio": 2025,
+     "link": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    },
+    {
+     "nombre": "Met del Sol / Met Las Lomas / Met Molas López / Met Santa Teresa / Cosmopolitan / Casa M (Consorcio JGL-Casatua)",
+     "anio": null,
+     "link": "https://www.consorciojglcasatua.com/proyectos"
+    },
+    {
+     "nombre": "LYV (19 pisos, Ciudad del Este, con Saphira)",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni jgl.com.py ni el sitio del consorcio ni las notas mencionan hormigón visto; la web del consorcio solo lista proyectos sin describir materiales."
+   },
+   "tamano_aprox": "Grande: +500 proyectos, +1.000.000 m2; el consorcio declara 7 proyectos terminados (+320 unidades, +118.600 m2) y 9 en curso.",
+   "decisores": [
+    {
+     "nombre": "Ing. Ramón Jiménez Gaona",
+     "cargo": "Directivo (cargo no especificado; citado como director del consorcio JGL Casatua)",
+     "fuente": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    },
+    {
+     "nombre": "Ing. Luis Alberto Lima",
+     "cargo": "Directivo (cargo no especificado; director del consorcio JGL Casatua)",
+     "fuente": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    },
+    {
+     "nombre": "Gerónimo Jiménez",
+     "cargo": "Directivo (cargo no especificado; director del consorcio JGL Casatua)",
+     "fuente": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    },
+    {
+     "nombre": "Luis Adrián Lima",
+     "cargo": "Directivo (cargo no especificado; director del consorcio JGL Casatua)",
+     "fuente": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    }
+   ],
+   "web": "https://jgl.com.py",
+   "instagram": "https://www.instagram.com/jgl.py/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/jimenezgaonalima/",
+   "linkedin": "https://www.linkedin.com/company/jimenez-gaona-y-lima-sa/",
+   "email": "jgl@jgl.com.py",
+   "telefono": "(021) 210 684",
+   "whatsapp": "+595 984 105554",
+   "fuentes": [
+    "https://jgl.com.py",
+    "https://jgl.com.py/nosotros",
+    "https://jgl.com.py/contacto",
+    "https://www.consorciojglcasatua.com",
+    "https://www.consorciojglcasatua.com/proyectos",
+    "https://www.consorciojglcasatua.com/nosotros",
+    "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/",
+    "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Constructora con brazo desarrollador (Consorcio JGL-Casatua) que controla construcción y especificación en varios proyectos premium en Asunción: ofrecer UHPC como terminación distintiva para residenciales de lujo (Ledix, Casa Grande, Blu) y como muestra de eficiencia de peso/tiempos en obra. Contacto comercial del consorcio: comercial@consorciojglcasatua.com.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Gran escala y proyectos de lujo propios en lanzamiento/obra, contactos verificados; estética afín solo parcial (sin evidencia de hormigón visto)."
+   },
+   "pendiente_verificar": "Instagram (@jgl.py, @lyv.py), Facebook y LinkedIn no legibles (429/login/403): seguidores y últimos posts sin confirmar. Cargos exactos de los directivos (ABC no los precisa). Blog de jgl.com.py sin entradas legibles. Google Maps no leído. Página 'Novedades' del consorcio muestra notas de 2025 con datos inconsistentes con su lista de proyectos (p.ej. Met Las Lomas descrito como hotelero): tomar con cautela. Años exactos y unidades de Ledix, Blu, Casa Grande.",
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Nota Infonegocios del 28/10/2026 sobre JGL & Saphira Capital y LYV; el sitio jgl.com.py registra hitos 2025-2026 (hospitales de Curuguaty y Chaco, constitución de JGL & Saphira Capital).",
+    "url": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Matter",
+     "tipo": "torre de oficinas triple A, 20 pisos, 208-524 m2 por unidad, LEED",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/"
+    },
+    {
+     "nombre": "Ledix",
+     "tipo": "residencial",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://www.consorciojglcasatua.com/proyectos"
+    },
+    {
+     "nombre": "Casa Grande",
+     "tipo": "residencial (13 unidades según prensa)",
+     "etapa": "en venta",
+     "unidades": 13,
+     "link": "https://infonegocios.com.py/y-ademas/casa-grande-se-presento-en-asuncion-con-una-propuesta-para-vivir-a-lo-grande"
+    },
+    {
+     "nombre": "Blu",
+     "tipo": "residencial",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.consorciojglcasatua.com/proyectos"
+    },
+    {
+     "nombre": "Mood",
+     "tipo": "corporativo",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.consorciojglcasatua.com/proyectos"
+    },
+    {
+     "nombre": "Met del Sol, Cosmopolitan, Artemio (hotel)",
+     "tipo": "residencial/hotelero",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.consorciojglcasatua.com/proyectos"
+    },
+    {
+     "nombre": "LYV (Ciudad del Este, fuera de zona piloto)",
+     "tipo": "residencial 19 pisos",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No hay descripciones de terminaciones. Una nota de 2025 del consorcio habla de tendencias en piedras naturales y maderas (título 'Tendencias 2026: materiales que definen el lujo'), sin referencia a bachas."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Matter: VRF, LEED; Jade Park: diseño Carlos Ott (desarrollo Fortune International Group).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 24,
+    "gama": 17,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 8,
+    "total": 80
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: diseño de autor y LEED, pero sin evidencia de hormigón visto ni de minimalismo; materiales no publicados.",
+    "volumen": "24/25: +500 proyectos, +1.000.000 m2, 9 proyectos en curso del consorcio, hospitales y torres simultáneos.",
+    "gama": "17/20: Jade Park, torres sold out y proyectos 'de lujo' del consorcio; mezcla con obra pública, supermercados e industrial.",
+    "accesibilidad": "13/15: teléfono, WhatsApp, email y dirección verificados en jgl.com.py (más contacto comercial del consorcio); directivos nombrados por prensa sin cargos.",
+    "oportunidad_inmediata": "8/10: Matter en obra y Ledix/Casa Grande en venta; Matter es de oficinas (menor uso de bachas residenciales)."
+   },
+   "notas_investigacion": "Leído: jgl.com.py (home, nosotros, contacto, proyectos-emblematicos, blog), consorciojglcasatua.com (home, proyectos, nosotros, novedades), ABC 22/08/2025, Infonegocios 28/10/2026 (LYV), La Nación 2021 (Jade Park) por snippet. Correcciones ronda 1: sí existe web propia (jgl.com.py) y el consorcio tiene la suya; fundación 1968; la nota de 'LYV' es de 28/10/2026; hay obras activas en Asunción (Matter, Ledix, Casa Grande) y no solo LYV en CDE. Fallaron: Instagram/Facebook/LinkedIn (429/login/403), hypeauditor (403), Google Maps. DNCP: búsqueda web sin ficha del proveedor (no concluyente); la web propia declara hospitales públicos 2021 y 2025. Prensa: ABC, La Nación, Infonegocios, ÚH (snippet). Property Awards 2025 (Matter). ArchDaily/Archello: sin ficha de JGL."
+  },
+  {
+   "nombre": "AGB Constructora",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": "Edificio New World Tower, piso 8, Quesada y Cruz del Defensor, Villa Morra, Asunción",
+   "anio_fundacion": 1977,
+   "que_hacen": "AGB Constructora S.A. (inició actividades el 18/10/1977 como Osapar SRL) construye edificios de viviendas, corporativos, supermercados, logística y hoteles. Su web declara +170 obras entregadas, 12 en ejecución y 1,2 millones de m2; es pionera en LEED en Paraguay y fundadora del Consejo Paraguayo de Construcción Sostenible.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial",
+    "corporativo",
+    "comercial/supermercados",
+    "hotelero",
+    "logístico/industrial",
+    "construcción sostenible"
+   ],
+   "estilo": "Obra gruesa y terminaciones para desarrolladoras con foco en sostenibilidad (LEED); sin estilo propio marcado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Fortaleza Carmelitas (torres de ~40 pisos, desarrolladora Fortaleza Inmuebles; obra 2023-2026)",
+     "anio": 2023,
+     "link": "https://skyscraperpage.com/b146325"
+    },
+    {
+     "nombre": "BBVA Casa Matriz (primer edificio LEED de Paraguay)",
+     "anio": null,
+     "link": "https://www.agb.com.py"
+    },
+    {
+     "nombre": "Torre de las Américas (Grupo FANAL)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra"
+    },
+    {
+     "nombre": "Torres de Altea (50 deptos, desarrollo propio, Bracco Arquitectos)",
+     "anio": 2014,
+     "link": "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano"
+    },
+    {
+     "nombre": "New World Tower (sede propia, 12 pisos, LEED)",
+     "anio": 2023,
+     "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2023/07/14/new-world-tower-la-nueva-casa-de-agb-constructora/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web lista 'Estructura de hormigón Edificio Bernardino' pero no hormigón visto como terminación; sin evidencia en prensa."
+   },
+   "tamano_aprox": "Grande: +170 obras, 12 en ejecución, 1.200.000 m2, 48 años de experiencia (web propia); trabaja con capital propio y sin deuda.",
+   "decisores": [
+    {
+     "nombre": "Alberto Gross Brown (h)",
+     "cargo": "Gerente general",
+     "fuente": "https://infonegocios.com.py/y-ademas/alberto-gross-brown-quien-es-representante-de-carmix-paraguay"
+    }
+   ],
+   "web": "https://www.agb.com.py",
+   "instagram": "https://www.instagram.com/agbconstructora/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/AGBConstructora/",
+   "linkedin": "https://www.linkedin.com/company/agb-constructora-s-a/",
+   "email": "contacto@agb.com.py",
+   "telefono": "+595 21 201 791",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.agb.com.py",
+    "https://www.agb.com.py/contacto/",
+    "https://www.agb.com.py/nosotros/",
+    "https://www.agb.com.py/obras/",
+    "https://www.agb.com.py/tipo_obra/edificios-de-viviendas/",
+    "https://skyscraperpage.com/b146325",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2023/07/14/new-world-tower-la-nueva-casa-de-agb-constructora/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Discurso de sostenibilidad y LEED que encaja con UHPC (menos material, piezas livianas): proponer a su equipo de marketing/compras un programa de piezas para desarrolladoras clientes (Fortaleza, FANAL) y para su propio desarrollo de oficinas. El poder de especificación está en las desarrolladoras, no en AGB.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Gran volumen y 12 obras en ejecución con contacto verificado, pero estilo no definido, gama mixta y la especificación la fijan los clientes."
+   },
+   "pendiente_verificar": "Instagram/Facebook/LinkedIn no legibles (429/login/403): seguidores, último post y temática sin confirmar. Cuáles son las 12 obras en ejecución (la web no las separa). Teléfono: la web muestra +595 21 201 791 pero el enlace tel apunta a +595 21 207 425 (confirmar). WhatsApp no publicado. Cargo de Gross Brown viene de prensa, la web no lo da. Estado actual de Fortaleza Carmelitas (torre 1 prevista 2026).",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "Web propia vigente declara 12 obras en ejecución (sin fecha de publicación); SkyscraperPage lista Fortaleza Carmelitas en construcción 2023-2026 con AGB como constructora.",
+    "url": "https://skyscraperpage.com/b146325"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Fortaleza Carmelitas (torres)",
+     "tipo": "residencial en altura, ~40 pisos, ~400 deptos según prensa 2023",
+     "etapa": "en obra",
+     "unidades": 400,
+     "link": "https://www.lanacion.com.py/negocios/2023/08/30/fortaleza-carmelitas-se-erige-como-la-obra-mas-grande-de-fortaleza-inmuebles/"
+    },
+    {
+     "nombre": "More Central (Recoleta, Altius Paraguay)",
+     "tipo": "complejo multiuso",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.soletanche-bachy.com/en/?p=25846"
+    },
+    {
+     "nombre": "Otras obras (la web declara 12 en ejecución, sin nombres)",
+     "tipo": "varios",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.agb.com.py"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin descripción de terminaciones en web ni prensa leída."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Clientes/aliados: Fortaleza Inmuebles, Grupo FANAL, Altius Paraguay, BBVA, Soletanche Bachy (contención); LEED/USGBC.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 23,
+    "gama": 13,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 7,
+    "total": 69
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: sostenibilidad y obras de calidad, pero sin evidencia de minimalismo ni hormigón visto; show-room CASACOR 2017 es el único gesto de diseño.",
+    "volumen": "23/25: +170 obras, 12 en ejecución, 1,2 M m2 y Fortaleza Carmelitas (~400 deptos).",
+    "gama": "13/20: mezcla de supermercados, logística y torres residenciales de gama media-alta/alta (Fortaleza, The Address, L'Excellence); no es especialista premium.",
+    "accesibilidad": "12/15: teléfono, email, horario y dirección verificados en la web propia; sin WhatsApp; decisor solo por prensa; discrepancia de teléfono.",
+    "oportunidad_inmediata": "7/10: 12 obras en ejecución y Carmelitas en etapa de terminaciones 2026, pero las compras de bachas las decide el desarrollador."
+   },
+   "notas_investigacion": "Leído: agb.com.py (home, nosotros, contacto, obras, edificios de viviendas), La Nación 2023 (New World Tower), Infonegocios Torres de Altea (2014), SkyscraperPage, DNCP (certificado LP-23023-18-167967, 2018, MUVH, solo por snippet). Correcciones ronda 1: sí existe web propia; AGB es de 1977 (no solo CASACOR 2017); Torres de Altea fue desarrollo propio y su nota es de 2014; hay actividad actual (Fortaleza Carmelitas, 12 obras). La web dice 48 años y la prensa 2023 '+45 años'. Fallaron: Instagram (429), Facebook (login), LinkedIn (403), hypeauditor (403), agb.com.py/obras-en-ejecucion (404), Google Maps. Prensa: La Nación, Infonegocios, ÚH (snippets). ArchDaily/Archello: sin fichas."
+  },
+  {
+   "nombre": "Estudio Mantero Risch (Constructora Mantero Risch S.A.)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": 2013,
+   "que_hacen": "Estudio-constructora que según prensa de 2017-2018 diseñaba y construía casas y dúplex, remodelaciones, interiorismo y dirección de obra, con foco declarado en clase media en Asunción, Villa Elisa, Fernando de la Mora, Lambaré y Luque. Fundado por Juan Francisco Mantero y Melanie Risch (año estimado 2013 por 'hace 4 años' en nota de 2017). No hay evidencia publicada de actividad posterior a 2018.",
+   "tipo_proyectos": [
+    "residencial",
+    "casas llave en mano",
+    "dúplex",
+    "remodelaciones",
+    "interiorismo"
+   ],
+   "estilo": "Casas modernas a medida para clase media; sin portfolio visible.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portfolio ni fotos accesibles."
+   },
+   "tamano_aprox": "Más de 100 personas y ~20.000 m2 construidos según prensa de 2017-2018 (datos de hace 8+ años).",
+   "decisores": [
+    {
+     "nombre": "Juan Francisco Mantero",
+     "cargo": "Presidente; diseño, proyectos y construcción (según prensa 2017)",
+     "fuente": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos"
+    },
+    {
+     "nombre": "Melanie Risch",
+     "cargo": "Diseñadora de interiores; vicepresidente (según prensa 2017-2018)",
+     "fuente": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos"
+    },
+    {
+     "nombre": "Emilio Mantero",
+     "cargo": "Ing., responsable de estructuras (prensa 2017)",
+     "fuente": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/estudioMR/",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos",
+    "https://infonegocios.com.py/infomicasa/la-clase-media-un-sector-olvidado-por-la-construccion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Solo si se confirma que sigue activa y sube de gama: Melanie Risch (interiorismo) sería la prescriptora natural de bachas y mesadas UHPC en casas a medida. Hoy no hay base verificable para priorizarla.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin evidencia de actividad en 18 meses, sin contactos verificados y público declarado de clase media; no se confirma que esté cerrada."
+   },
+   "pendiente_verificar": "Si la empresa sigue activa (última fuente 12/2018). Web propia no hallada. Facebook (estudioMR) enlazado por la nota de 2017 pero no legible. Instagram no hallado. Teléfonos (0991 441 518 y (021) 501-347) y direcciones (Boquerón 1332, 2017; Guarayos 182 c/ Carios, 2018) solo en prensa: no_verificado.",
+   "actividad_reciente": {
+    "fecha": "2018-12",
+    "evidencia": "Última fuente fechada: nota de Infonegocios del 05/12/2018 (mudanza a oficinas en Hipódromo).",
+    "url": "https://infonegocios.com.py/infomicasa/la-clase-media-un-sector-olvidado-por-la-construccion"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Ofrecen diseño de interiores pero no hay material visual accesible."
+   },
+   "materiales_y_proveedores_visibles": "No visibles.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 8,
+    "gama": 5,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 1,
+    "total": 24
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: sin portfolio verificable; diseño moderno declarado pero para clase media; interiorismo integrado como único punto a favor.",
+    "volumen": "8/25: 100+ personas y 20.000 m2 en 2017-2018, dato desactualizado y no confirmado hoy.",
+    "gama": "5/20: la propia nota dice que apuntan a clase media.",
+    "accesibilidad": "2/15: ningún contacto verificado en fuente propia; decisores solo en prensa de 2017-2018.",
+    "oportunidad_inmediata": "1/10: no hay obras en curso conocidas ni actividad reciente."
+   },
+   "notas_investigacion": "Fusionadas las dos entradas de ronda 1 (segmentos constructora e interiorismo) en una ficha; segmento principal constructora, interiorismo es servicio complementario. Leído: 2 notas de Infonegocios (24/10/2017 y 05/12/2018). Corrección ronda 1: la dirección 'Hipódromo' proviene de la nota de 2018 (Guarayos 182 c/ Carios); la nota de 2017 daba Boquerón 1332; la fecha de las notas es 2017-2018, no reciente; Emilio Mantero figura como ingeniero de estructuras. Fallaron: manterorisch.com.py y estudiomr.com.py (no resuelven), Facebook estudioMR (login wall y m.facebook 'no disponible'), Instagram (429, sin perfil en buscador), búsqueda de prensa 2025 sin resultados (solo la empresa textil italiana Mantero). DNCP/portales de arquitectura: sin resultados. Por regla de inactividad (>18 meses sin evidencia) queda fit C, aunque no se pudo comprobar cierre."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Park Lofts (desarrolladora)",
+   "link": "https://asunciontimes.com/?p=17674",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Fortaleza Inmuebles / Fortaleza S.A.",
+   "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2023/07/02/fortaleza-inmuebles-y-agb-constructora-unen-fuerzas/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Casatua Development (socia del Consorcio JGL-Casatua)",
+   "link": "https://www.consorciojglcasatua.com",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Saphira Business",
+   "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Mafado Constructora (constructora de Palmanova Las Lomas según palmanova.com.py)",
+   "link": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Jasper Architects (oficina Asunción)",
+   "link": "https://www.jasperarchitects.com/projects/palmanova-center.php",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Altius Paraguay (More Central, Recoleta)",
+   "link": "https://www.soletanche-bachy.com/en/?p=25846",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Grupo FANAL (Torre de las Américas)",
+   "link": "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Bracco Arquitectos (Torres de Altea)",
+   "link": "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Benítez Bittar (constructor citado en un aviso de Park Lofts Tower)",
+   "link": "https://c21responsive.immobel.com/property/avenida-santa-teresa-casi-aviadores-del-chaco--trinidad-asunci%C3%B3n-00001-paraguay-C21114592440-USD",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  }
+ ]
+}
