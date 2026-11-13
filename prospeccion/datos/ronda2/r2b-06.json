@@ -1,0 +1,342 @@
+{
+ "lote": "r2b-06",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Casatua Development (Consorcio JGL Casatua)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Eusebio Lillo 1294 esquina Senador Long, Villa Morra, Asunción (oficina comercial del Consorcio JGL Casatua, consorciojglcasatua.com/contacto)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora inmobiliaria que, junto a la constructora Jiménez Gaona y Lima (JGL, perfilada en r2a-01), forma el Consorcio JGL Casatua para diseñar, construir y comercializar edificios de alta gama en el eje corporativo de Asunción (Las Lomas / Villa Morra). El consorcio declara 7 proyectos terminados (+320 unidades, +118.600 m2) y 9 proyectos en curso. Cartera residencial de lujo (Casa M, Cosmopolitan, Casa Grande, Ledix, Blu, Met del Sol, Jade Park), corporativa (Matter, Mood) y hotelera (Artemio).",
+   "tipo_proyectos": [
+    "residencial",
+    "residencial premium / boutique",
+    "edificios en altura",
+    "corporativo",
+    "hotelero"
+   ],
+   "estilo": "Contemporáneo atemporal de lujo: líneas rectas, materiales nobles, terminaciones premium y amenities de alto nivel. Casa M ('lujo silencioso', minimalismo) ganó el premio internacional al Mejor Edificio Residencial de América. Fuerte afinidad con el público objetivo de COCO.",
+   "proyectos_destacados": [
+    {"nombre": "Casa M (18 deptos + 2 penthouses, Mejor Edificio Residencial de América)", "anio": 2021, "link": "https://consorciojglcasatua.com/casa-m"},
+    {"nombre": "Matter (torre corporativa triple A, 20 pisos; International Property Award 2025 Mejor Desarrollo de Oficinas de América)", "anio": 2025, "link": "https://consorciojglcasatua.com/torre-matter"},
+    {"nombre": "Jade Park (3 torres, 122 residencias, reserva natural 18.000 m2)", "anio": 2024, "link": "https://consorciojglcasatua.com/jade-park"},
+    {"nombre": "Casa Grande (13 residencias, lanzado 7-oct-2026, entrega est. sept-2029)", "anio": 2026, "link": "https://consorciojglcasatua.com/casa-grande"},
+    {"nombre": "Cosmopolitan (14 deptos de 3 dorm., finalizado/sold out)", "anio": 2026, "link": "https://consorciojglcasatua.com/cosmopolitan"}
+   ],
+   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Las fichas de proyecto (consorciojglcasatua.com) describen 'materiales nobles', superficies vidriadas piso a techo, carpinterías de aluminio de primera línea y muebles europeos a medida, pero no mencionan hormigón/concreto visto como recurso estético."},
+   "tamano_aprox": "Grande: 7 proyectos terminados (+320 unidades, +118.600 m2) y 9 en curso según su web /nosotros; 11 desarrollos en el barrio Las Lomas (ficha de Blu). JGL es una de las constructoras más grandes del país.",
+   "decisores": [
+    {"nombre": "Santiago Steed", "cargo": "director del Consorcio JGL Casatua", "fuente": "https://infonegocios.com.py/y-ademas/casa-grande-se-presento-en-asuncion-con-una-propuesta-para-vivir-a-lo-grande (prensa, no verificado en web propia)"},
+    {"nombre": "Juan Francisco Gils", "cargo": "director del Consorcio JGL Casatua", "fuente": "https://infonegocios.com.py/y-ademas/casa-grande-se-presento-en-asuncion-con-una-propuesta-para-vivir-a-lo-grande (prensa)"},
+    {"nombre": "Estefanía Dubarry", "cargo": "presentó el proyecto Matter (rol comercial/marketing)", "fuente": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/ (prensa)"}
+   ],
+   "web": "https://consorciojglcasatua.com/home",
+   "instagram": "https://www.instagram.com/consorciojglcasatua/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/consorciojglcasatua",
+   "linkedin": "https://www.linkedin.com/company/consorcio-jgl-casatua",
+   "email": "comercial@consorciojglcasatua.com",
+   "telefono": "+595 975 102900",
+   "whatsapp": "+595 975 102900 (https://api.whatsapp.com/send?phone=595975102900, botón 'HABLAR CON UN ASESOR' en consorciojglcasatua.com)",
+   "fuentes": [
+    "https://consorciojglcasatua.com/home",
+    "https://consorciojglcasatua.com/nosotros",
+    "https://consorciojglcasatua.com/proyectos",
+    "https://consorciojglcasatua.com/contacto",
+    "https://consorciojglcasatua.com/casa-m",
+    "https://consorciojglcasatua.com/casa-grande",
+    "https://consorciojglcasatua.com/torre-matter",
+    "https://consorciojglcasatua.com/ledix",
+    "https://consorciojglcasatua.com/jade-park",
+    "https://consorciojglcasatua.com/blu",
+    "https://consorciojglcasatua.com/mood",
+    "https://consorciojglcasatua.com/artemio",
+    "https://casatuarealestate.com/",
+    "https://infonegocios.com.py/y-ademas/casa-grande-se-presento-en-asuncion-con-una-propuesta-para-vivir-a-lo-grande",
+    "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/",
+    "https://infonegocios.com.py/infomicasa/menos-es-mas-casa-m-incorpora-el-concepto-de-lujo-silencioso-un-reflejo-de-exclusividad-y-confort"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Desarrollador de lujo muy activo, con varias torres residenciales en obra/prelanzamiento (Blu, Mood, Casa Grande, Met del Sol) donde entran bachas y mesadas UHPC de alta gama; su discurso de 'materiales nobles' y 'lujo silencioso' calza con la estética minimalista de COCO.",
+   "fit_preliminar": {"nivel": "A", "motivo": "Gran desarrolladora premium, muy activa (Casa Grande lanzado oct-2026, 9 proyectos en curso), contactos verificados en web propia y fuerte afinidad estética; baños/cocinas de alto estándar."},
+   "pendiente_verificar": "Seguidores y últimos posts de Instagram (IG bloquea WebFetch/curl, 429). Proveedor/marca actual de mesadas y bachas en sus proyectos. Año de fundación de Casatua Development. Razón social exacta.",
+   "actividad_reciente": {"fecha": "2026-10", "evidencia": "Lanzamiento del edificio Casa Grande en Asunción el 7-oct-2026 (cena con el chef Fernando Trocca); web con sección Novedades fechada oct-2026.", "url": "https://consorciojglcasatua.com/casa-grande"},
+   "proyectos_en_curso": [
+    {"nombre": "Casa Grande", "tipo": "residencial de lujo (13 residencias, 3-4 dorm. en suite + penthouse, desde 327,2 m2)", "etapa": "lanzamiento", "unidades": 13, "link": "https://consorciojglcasatua.com/casa-grande"},
+    {"nombre": "Blu", "tipo": "residencial (21 residencias, 2 dorm. en suite)", "etapa": "prelanzamiento", "unidades": 21, "link": "https://consorciojglcasatua.com/blu"},
+    {"nombre": "Mood", "tipo": "corporativo (oficinas, Avda. San Martín)", "etapa": "prelanzamiento", "unidades": null, "link": "https://consorciojglcasatua.com/mood"},
+    {"nombre": "Ledix", "tipo": "residencial (10 unidades, dúplex y Signature Floor, 285-414 m2)", "etapa": "lanzamiento / en venta", "unidades": 10, "link": "https://consorciojglcasatua.com/ledix"},
+    {"nombre": "Met del Sol", "tipo": "residencial (1 y 2 dorm.)", "etapa": "en construcción", "unidades": null, "link": "https://consorciojglcasatua.com/met-del-sol"},
+    {"nombre": "Artemio CondoHotel", "tipo": "hotelero/inversión (42 deptos de 1 dorm. equipados)", "etapa": "en construcción", "unidades": 42, "link": "https://consorciojglcasatua.com/proyectos"}
+   ],
+   "banos_cocinas_protagonistas": {"valor": "si", "evidencia": "Casa M detalla cocinas equipadas (Bosch/Samsung) con muebles europeos a medida y vestidores; proyectos de lujo con terminaciones premium donde las bachas/mesadas son parte del producto."},
+   "materiales_y_proveedores_visibles": "Casa M: electrodomésticos Bosch, Samsung o similar; muebles de cocina y vestidores de diseño europeo hechos a medida; aire acondicionado VRV; barandas vidriadas; parrillero con frente de acero inoxidable. No se nombran marcas de griferías ni de mesadas/bachas.",
+   "resenas_google": {"cantidad": null, "nota": null},
+   "contactos_verificados": {"telefono": true, "email": true, "whatsapp": true, "instagram": true},
+   "puntaje": {"estetica": 24, "volumen": 22, "gama": 19, "accesibilidad": 13, "oportunidad_inmediata": 10, "total": 88},
+   "puntaje_justificacion": {
+    "estetica": "24/30: lujo atemporal, 'lujo silencioso' y materiales nobles; Casa M premiada; falta evidencia explícita de hormigón visto.",
+    "volumen": "22/25: 7 terminados (+320 unidades) y 9 en curso, 11 desarrollos en Las Lomas; respaldo de JGL.",
+    "gama": "19/20: segmento premium/lujo claro (penthouses, Casa M, Ledix), público alto.",
+    "accesibilidad": "13/15: teléfono, email, WhatsApp y decisores identificados; contactos verificados en web propia, aunque los nombres de los directores salen de prensa.",
+    "oportunidad_inmediata": "10/10: múltiples torres residenciales en obra y prelanzamiento (Casa Grande, Blu, Met del Sol, Ledix) donde entran bachas/mesadas ya mismo."
+   },
+   "notas_investigacion": "Leído con curl el sitio del Consorcio JGL Casatua (home, nosotros, proyectos, contacto, casa-m, cosmopolitan, casa-grande, ledix, jade-park, met-las-lomas, met-del-sol, blu, mood, artemio, torre-matter) — enlaces mailto/WhatsApp y datos extraídos del HTML. La candidata de entrada 'Casatua Development' es la desarrolladora socia de JGL en el Consorcio JGL Casatua; la web /nosotros la nombra 'Casatua Development'. OJO: JGL (Jiménez Gaona y Lima) ya está perfilada en r2a-01; esta ficha perfila a la desarrolladora Casatua, cuya cara comercial es el consorcio. Dominios casatua.com (en venta/parking), casatua.com.py (no resuelve) y casatuarealestate.com ('próximo lanzamiento', placeholder). Prensa leída: Infonegocios (Casa Grande oct-2026, Casa M sept-2024), ABC (Matter ago-2025). IG/FB/LinkedIn no legibles (429/login/403). La razón social 'Casatua Real Estate' aparece en prensa en inglés; la web usa 'Casatua Development'."
+  },
+  {
+   "nombre": "Saphira Business",
+   "segmento": "desarrolladora",
+   "ciudad": "Ciudad del Este",
+   "region": "Alto Paraná",
+   "direccion": "World Trade Center Ciudad del Este, piso 7, oficina 37 (saphira.com.py/contactos)",
+   "anio_fundacion": 2023,
+   "que_hacen": "Desarrolladora inmobiliaria familiar de Ciudad del Este (no de Asunción, corrige la ciudad tentativa de la ficha de entrada) enfocada en residencias de lujo. Desarrolla y comercializa el edificio Saphira Residence en Barrio Boquerón (16 unidades, entregado dic-2023). En 2026 lanzó, junto a la constructora Jiménez Gaona y Lima, la sociedad JGL & Saphira Capital con su primer proyecto LYV (19 pisos).",
+   "tipo_proyectos": [
+    "residencial",
+    "residencial premium / lujo",
+    "edificios en altura"
+   ],
+   "estilo": "Lujo contemporáneo, líneas modernas, estilo sobrio y elegante; terminaciones de primera calidad, domótica y amenities (jacuzzi con vista al lago, gimnasio, salón de eventos). Afinidad media-alta con COCO.",
+   "proyectos_destacados": [
+    {"nombre": "Saphira Residence (16 unidades, 2-3 dorm., Barrio Boquerón; entregado dic-2023, ~70% vendido)", "anio": 2023, "link": "https://saphira.com.py/saphira-residence/"},
+    {"nombre": "LYV / JGL & Saphira Capital (19 pisos, Calle Capitán Acosta esq. Avda. del Lago)", "anio": 2026, "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"}
+   ],
+   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "La web (saphira.com.py) describe 'terminaciones de primera calidad', líneas modernas y estilo sobrio, sin mencionar hormigón/concreto visto. Saphira Residence se entrega semiamoblado con muebles fijos."},
+   "tamano_aprox": "Pequeña/mediana y joven: un edificio entregado (16 unidades) y una torre nueva en sociedad (LYV, 19 pisos). Empresa familiar fundada hacia 2023.",
+   "decisores": [
+    {"nombre": "Gloria Sanabria", "cargo": "gerente administrativa de Saphira Business", "fuente": "https://infonegocios.com.py/default/saphira-residence-en-una-de-las-zonas-mas-deseadas-de-cde-ya-vendio-70-de-sus-unidades (prensa, no verificado en web propia)"}
+   ],
+   "web": "https://saphira.com.py/",
+   "instagram": "https://www.instagram.com/saphirabusinesspy",
+   "seguidores_ig": 13000,
+   "facebook": "https://www.facebook.com/profile.php?id=100087038932631",
+   "linkedin": null,
+   "email": "info@saphira.com.py",
+   "telefono": "+595 983 700 307",
+   "whatsapp": "+595 983 700 307 (https://wa.link/o92pzv redirige a api.whatsapp.com/send?phone=595983700307, botón 'Contactar por WhatsApp' en saphira.com.py)",
+   "fuentes": [
+    "https://saphira.com.py/",
+    "https://saphira.com.py/nosotros/",
+    "https://saphira.com.py/proyectos/",
+    "https://saphira.com.py/saphira-residence/",
+    "https://saphira.com.py/noticias/",
+    "https://saphira.com.py/contactos/",
+    "https://www.instagram.com/saphirabusinesspy",
+    "https://infonegocios.com.py/default/saphira-residence-en-una-de-las-zonas-mas-deseadas-de-cde-ya-vendio-70-de-sus-unidades",
+    "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Desarrolladora premium joven con una torre nueva (LYV) en Ciudad del Este junto a JGL; entra para la fase 'todo Paraguay', con producto de lujo donde encajan bachas/mesadas UHPC. Está fuera de la Gran Asunción (fase piloto).",
+   "fit_preliminar": {"nivel": "B", "motivo": "Producto premium y contactos verificados en web propia, pero poco volumen (16 unidades + 1 torre) y ubicación en Ciudad del Este, fuera de la zona piloto de COCO."},
+   "pendiente_verificar": "Unidades, etapa y fecha de obra de LYV. Marcas de griferías/mesadas/bachas (Saphira Residence se entrega semiamoblado, posible proveedor de muebles fijos). Nombres de los dueños/directores (empresa familiar).",
+   "actividad_reciente": {"fecha": "2026-10", "evidencia": "Nota de prensa del 28-oct-2026 sobre el nacimiento de JGL & Saphira Capital con el proyecto LYV; participación en la Expo Internacional de Inversiones Inmobiliarias (24-25 oct) según su web /noticias.", "url": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"},
+   "proyectos_en_curso": [
+    {"nombre": "LYV (JGL & Saphira Capital)", "tipo": "residencial en altura (19 pisos; LYV Studio, One y Two)", "etapa": "anunciado", "unidades": null, "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"}
+   ],
+   "banos_cocinas_protagonistas": {"valor": "si", "evidencia": "Saphira Residence se entrega semiamoblado con mobiliario fijo en cocina, lavandería y baños; tipologías con 2-3 baños por unidad. Las terminaciones de baños/cocinas son parte del producto de venta."},
+   "materiales_y_proveedores_visibles": "Semiamoblado: muebles fijos en cocina, lavandería, baños y placares; cerradura electrónica e integración Alexa Home; aire acondicionado. No se nombran marcas de griferías ni de mesadas/bachas.",
+   "resenas_google": {"cantidad": null, "nota": null},
+   "contactos_verificados": {"telefono": true, "email": true, "whatsapp": true, "instagram": true},
+   "puntaje": {"estetica": 18, "volumen": 8, "gama": 16, "accesibilidad": 13, "oportunidad_inmediata": 6, "total": 61},
+   "puntaje_justificacion": {
+    "estetica": "18/30: lujo contemporáneo sobrio y elegante, buenas terminaciones; sin hormigón visto ni evidencia de minimalismo marcado.",
+    "volumen": "8/25: solo un edificio entregado (16 unidades) y una torre nueva en sociedad; empresa chica y joven.",
+    "gama": "16/20: posicionamiento claro de lujo ('exclusivo por naturaleza'), unidades desde US$106.800.",
+    "accesibilidad": "13/15: teléfono, WhatsApp y tres emails (info/ventas/gerencia) verificados en web propia; IG 13K; decisora (Gloria Sanabria) por prensa.",
+    "oportunidad_inmediata": "6/10: LYV recién anunciado (etapa temprana) y Saphira Residence ya entregado; oportunidad en el nuevo proyecto pero sin obra confirmada."
+   },
+   "notas_investigacion": "Leído con curl saphira.com.py (home, nosotros, proyectos, saphira-residence, noticias, contactos). Contactos verificados en fuente propia: tel/WhatsApp +595 983 700 307 (wa.link/o92pzv -> api.whatsapp.com phone=595983700307), emails info@/ventas@/gerencia@saphira.com.py, dirección WTC CDE piso 7 of. 37. IG @saphirabusinesspy legible vía curl: 13K seguidores, 280 posts (meta og:description). FB 'Saphira Business | Ciudad del Este' 111 seguidores (og:description). CORRECCIÓN a la ficha de entrada: está en Ciudad del Este (Alto Paraná), no en Asunción. Prensa: Infonegocios (Saphira Residence jul-2024; JGL & Saphira Capital/LYV oct-2026). Constructora de Saphira Residence: Barchello y Asociados; fachada D'fatto Arquitetura; interiores arq. Mayara Schmitt (Brasil)."
+  },
+  {
+   "nombre": "Grupo FANAL (Torre de las Américas)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Esquina Avda. Mariscal López y Avda. República Argentina, Villa Morra, Asunción (ubicación de Torre de las Américas; no se halló sede comercial vigente)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora paraguaya conocida por un único emprendimiento de envergadura: Torre de las Américas, edificio corporativo AAA de 18 pisos en Villa Morra, inaugurado en 2018 con una inversión de US$ 27 millones. No se encontró actividad ni proyectos nuevos en los últimos ~18 meses y el sitio fanal.com.py no resuelve (dominio caído).",
+   "tipo_proyectos": [
+    "corporativo",
+    "oficinas"
+   ],
+   "estilo": "Corporativo de alta gama: lobby con materiales de alta gama, oficinas en obra blanca, Executive Lounge, fachadas de eficiencia energética. Producto de oficinas, poco afín al negocio residencial de baños/cocinas de COCO.",
+   "proyectos_destacados": [
+    {"nombre": "Torre de las Américas (18 pisos, 11 de oficinas, US$27M, AAA)", "anio": 2018, "link": "https://infonegocios.com.py/infomicasa/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra"}
+   ],
+   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "La prensa describe lobby con materiales de alta gama y oficinas en obra blanca, sin mención de hormigón visto."},
+   "tamano_aprox": "Chica / un solo proyecto conocido (Torre de las Américas). Sin evidencia de obra nueva reciente.",
+   "decisores": [
+    {"nombre": "Leonardo Bracco", "cargo": "director ejecutivo de FANAL (y arquitecto, Bracco Orlando Bracco Arquitectos)", "fuente": "https://infonegocios.com.py/infomicasa/torre-de-las-americas-presenta-su-oficina-modelo (prensa 2017, no verificado en web propia)"},
+    {"nombre": "José Carlos Espinoza", "cargo": "gerente general (lanzamiento Torre de las Américas)", "fuente": "https://infonegocios.com.py/nota-principal/torre-de-las-americas-sera-erigida-en-una-de-las-esquinas-mas-codiciadas-de-asuncion (prensa 2015)"}
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/nota-principal/torre-de-las-americas-sera-erigida-en-una-de-las-esquinas-mas-codiciadas-de-asuncion",
+    "https://infonegocios.com.py/infomicasa/torre-de-las-americas-presenta-su-oficina-modelo",
+    "https://infonegocios.com.py/infomicasa/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra",
+    "https://www.abc.com.py/negocios/2018/04/13/edificio-se-impone-en-eje-corporativo-de-villa-morra/",
+    "https://nanduti.com.py/torres-las-americas-nuevo-producto-inmobiliario-del-grupo-fanal"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Producto corporativo (oficinas) y sin actividad reciente verificable; poco atractivo para bachas/mesadas residenciales de COCO. No priorizar.",
+   "fit_preliminar": {"nivel": "C", "motivo": "Desarrolladora de un solo proyecto corporativo (oficinas), sin actividad visible en los últimos 18 meses y con web caída; bajo encaje con COCO."},
+   "pendiente_verificar": "Si FANAL sigue operando (razón social, nuevos proyectos), ya que fanal.com.py no resuelve y no se hallaron notas recientes. Existencia de redes sociales propias.",
+   "actividad_reciente": {"fecha": "2018-04", "evidencia": "Inauguración de Torre de las Américas (2018). No se encontró actividad posterior ni proyectos nuevos; dominio fanal.com.py caído.", "url": "https://infonegocios.com.py/infomicasa/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra"},
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {"valor": "no", "evidencia": "Edificio corporativo de oficinas con baños sexados y kitchenettes; no es producto residencial con baños/cocinas protagonistas."},
+   "materiales_y_proveedores_visibles": "Oficina modelo con marcas aliadas: BERTONI+ (muebles), Samsung (tecnología), Meyer Gini (cortinados), Lumicorp (iluminación). Griferías/mesadas no detalladas.",
+   "resenas_google": {"cantidad": null, "nota": null},
+   "contactos_verificados": {"telefono": false, "email": false, "whatsapp": false, "instagram": false},
+   "puntaje": {"estetica": 10, "volumen": 6, "gama": 12, "accesibilidad": 2, "oportunidad_inmediata": 1, "total": 31},
+   "puntaje_justificacion": {
+    "estetica": "10/30: alta gama corporativa pero sin afinidad con el minimalismo residencial ni hormigón visto.",
+    "volumen": "6/25: un solo proyecto conocido, sin obra nueva.",
+    "gama": "12/20: producto AAA premium, público corporativo de alto nivel.",
+    "accesibilidad": "2/15: sin contactos verificables (web caída); solo datos de prensa antigua y de la comercializadora IDEES.",
+    "oportunidad_inmediata": "1/10: sin proyectos en obra; empresa aparentemente dormida."
+   },
+   "notas_investigacion": "No se halló web activa (fanal.com.py, grupofanal.com.py, torredelasamericas.com.py no resuelven; CONNECT falla). Toda la información proviene de prensa de 2015-2018 (Infonegocios, ABC, Ñandutí). La comercializadora era IDEES Negocios Inmobiliarios (idees.com.py activa; tel 021-204685/6 en prensa, NO verificado como contacto propio de FANAL). Constructora: AGB Constructora (perfilada en r2a-01). Arquitectos: Leonardo Bracco y Andrés Lauw. Sin actividad en los últimos 18 meses -> marcada descartada por inactividad + bajo fit (oficinas).",
+   "descartada": true,
+   "motivo_descarte": "Desarrolladora de un único proyecto corporativo (Torre de las Américas, 2018); sin actividad visible en los últimos ~18 meses, sitio web caído y producto de oficinas poco afín a COCO. Se mantiene para registro con fit C."
+  },
+  {
+   "nombre": "Roma Inmobiliaria (Grupo Roma / Roma Bienes Raíces, Torre Spano)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Guido Spano 3229 entre Manuel Talavera y Coronel Escurra, Barrio Herrera, Asunción (ubicación de Torre Spano; no se halló sede comercial vigente)",
+   "anio_fundacion": null,
+   "que_hacen": "Empresa familiar paraguaya de capital 100% nacional, con ~30 años administrando y desarrollando propiedades familiares (casas y dúplex a medida). Su primer edificio de envergadura fue Torre Spano (2019), residencial de 21 departamentos de 3 dormitorios en Barrio Herrera, construido por Itasa (perfilada en r2a-02). No se encontró actividad ni proyectos nuevos posteriores a 2019.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "viviendas unifamiliares a medida"
+   ],
+   "estilo": "Residencial pensado 'para vivir como en una casa': departamentos amplios de 3 dorm., familiar, de gama media-alta. Premio LADI (Panamá) al Mejor Proyecto de Vivienda Vertical. Estilo sobrio, no explícitamente minimalista.",
+   "proyectos_destacados": [
+    {"nombre": "Torre Spano (21 deptos de 3 dorm., 7 niveles, US$6,5M; premio LADI)", "anio": 2019, "link": "https://infonegocios.com.py/infomicasa/torre-spano-es-el-edificio-para-aquellos-que-buscan-vivir-como-en-una-casa"}
+   ],
+   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "La prensa no detalla terminaciones ni materiales de Torre Spano; no hay evidencia de hormigón visto."},
+   "tamano_aprox": "Chica / familiar: un edificio (21 unidades) más desarrollos de casas y dúplex a medida. Sin obra nueva reciente conocida.",
+   "decisores": [
+    {"nombre": "Luis Emilio Guanes", "cargo": "director de Roma Inmobiliaria", "fuente": "https://infonegocios.com.py/infomicasa/torre-spano-es-el-edificio-para-aquellos-que-buscan-vivir-como-en-una-casa (prensa 2019, no verificado en web propia)"}
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2019/09/13/grupo-roma-inmobiliaria-lanza-su-primer-edificio-residencial/",
+    "https://infonegocios.com.py/infomicasa/torre-spano-es-el-edificio-para-aquellos-que-buscan-vivir-como-en-una-casa",
+    "https://infonegocios.com.py/y-ademas/torre-spano-se-presenta-como-una-nueva-opcion-residencial-unidades-desde-us-310-mil",
+    "https://infonegocios.com.py/infomicasa/torre-spano-disenado-para-la-vida-en-familia"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Desarrolladora chica/familiar con un solo edificio residencial (2019) y sin obra nueva verificable; oportunidad baja hasta confirmar que sigue construyendo. Útil si retoman proyectos residenciales.",
+   "fit_preliminar": {"nivel": "C", "motivo": "Un solo edificio (Torre Spano, 2019), sin actividad verificable en los últimos 18 meses ni contactos propios publicados; volumen y oportunidad bajos."},
+   "pendiente_verificar": "Si Roma sigue desarrollando edificios (proyectos post-2019). Sitio torrespano.com.py está caído; no se halló web propia de Roma vigente. Teléfonos (0981 573 344 / 021 293-276 / 0985 561-700) solo en prensa, NO verificados.",
+   "actividad_reciente": {"fecha": "2019-09", "evidencia": "Última cobertura hallada: lanzamiento/venta de Torre Spano (2018-2019). No se encontró actividad posterior.", "url": "https://infonegocios.com.py/infomicasa/torre-spano-es-el-edificio-para-aquellos-que-buscan-vivir-como-en-una-casa"},
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {"valor": "desconocido", "evidencia": "La prensa de Torre Spano no detalla baños ni cocinas; son deptos de 3 dorm. pero sin información de terminaciones."},
+   "materiales_y_proveedores_visibles": "No publicado (sin web vigente ni detalle de marcas en prensa).",
+   "resenas_google": {"cantidad": null, "nota": null},
+   "contactos_verificados": {"telefono": false, "email": false, "whatsapp": false, "instagram": false},
+   "puntaje": {"estetica": 11, "volumen": 5, "gama": 12, "accesibilidad": 3, "oportunidad_inmediata": 1, "total": 32},
+   "puntaje_justificacion": {
+    "estetica": "11/30: residencial familiar de gama media-alta, sin evidencia de minimalismo ni hormigón visto.",
+    "volumen": "5/25: un solo edificio (21 unidades) + casas a medida; empresa familiar chica.",
+    "gama": "12/20: media-alta (US$310-375 mil por unidad), premio LADI.",
+    "accesibilidad": "3/15: sin contactos verificados en fuente propia; solo teléfonos de prensa y decisor (Guanes) de prensa.",
+    "oportunidad_inmediata": "1/10: sin proyectos en obra conocidos; actividad reciente no confirmada."
+   },
+   "notas_investigacion": "Única cobertura hallada: Torre Spano (La Nación 2019, Infonegocios 2018-2019). Sitios torrespano.com.py y www.torrespano.com.py caídos; romabienesraices.com resultó ser una inmobiliaria de Punto Fijo, Venezuela (NO es esta empresa); romainmobiliaria.com es un placeholder genérico 'en desarrollo' no atribuible. Constructora: Itasa (r2a-02). Arquitecto: Guanes y Asociados (Luis Guanes). Sin actividad verificable en 18 meses -> fit C, confianza baja. No se descarta del todo porque es una firma familiar que administra/desarrolla, pero requiere confirmar vigencia."
+  },
+  {
+   "nombre": "Javier Álvarez y Asociados S.A. (Manantiales)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Dr. Bernardino Caballero 1239 casi Lillo, Asunción (dato de prensa del proyecto Azalea); la empresa tiene sede en Punta del Este, Uruguay",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de origen uruguayo (sede en Punta del Este, +30 años y +300.000 m2 construidos en Punta del Este y Montevideo) que opera en Asunción con la marca de edificios 'Manantiales'. Ha desarrollado en la capital varios edificios residenciales: Manantiales de Asunción (2015), Manantiales de Asunción Plaza y Manantiales Azalea (Las Mercedes, 2020), además de un nuevo 'Edificio Manantiales' promocionado en su web vigente.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "residencial para vivir y trabajar (monoambientes a 3 dorm.)"
+   ],
+   "estilo": "Residencial contemporáneo de gama media-alta, materiales de primera (porcelanato, mármol en baños, acero inoxidable), ubicaciones estratégicas en buenos barrios. Amenities (piscina, coworking, gym, SUM). Afinidad media-alta con COCO por el nivel de terminaciones.",
+   "proyectos_destacados": [
+    {"nombre": "Manantiales Azalea (18 deptos, Las Mercedes; Duravit, Hansgrohe, mesadas de mármol en baños, cocinas Achon con granito)", "anio": 2020, "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades"},
+    {"nombre": "Manantiales de Asunción Plaza (33 unidades; 2º proyecto del grupo en Asunción)", "anio": 2017, "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-de-asuncion-plaza"},
+    {"nombre": "Manantiales de Asunción (5 niveles, 1-3 dorm. + penthouse)", "anio": 2015, "link": "https://infonegocios.com.py/nota-principal/un-nuevo-edificio-residencial-fue-habilitado-en-inmediaciones-del-eje-corporativo-de-asuncion"},
+    {"nombre": "Edificio Manantiales (nuevo, monoambiente a 3 dorm. + azotea, amenities)", "anio": 2026, "link": "https://manantiales.com.py/"}
+   ],
+   "usa_concreto_visto": {"valor": "no", "evidencia": "En Azalea la estructura es hormigón armado con losas postensadas Stup y mampostería de ladrillo; revestimientos de porcelanato y acero inoxidable (no hormigón visto como estética)."},
+   "tamano_aprox": "Mediana-grande (grupo regional): +300.000 m2 construidos en Uruguay y varios edificios en Asunción bajo la marca Manantiales.",
+   "decisores": [
+    {"nombre": "Tatiana Barrail", "cargo": "arquitecta residente encargada de obra (Azalea)", "fuente": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades (prensa; rol de obra, no decisor comercial)"}
+   ],
+   "web": "https://manantiales.com.py/",
+   "instagram": "https://www.instagram.com/manantialesdesarrollos/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "info@manantiales.com.py",
+   "telefono": "+595 992 221 168",
+   "whatsapp": "+595 992 221 168 (botón de WhatsApp 'Abrir chat' en manantiales.com.py)",
+   "fuentes": [
+    "https://manantiales.com.py/",
+    "https://manantiales.com.py/index.php/wp-json/wp/v2/pages/1163",
+    "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades",
+    "https://infonegocios.com.py/infomicasa/edificio-manantiales-de-asuncion-plaza",
+    "https://infonegocios.com.py/nota-principal/un-nuevo-edificio-residencial-fue-habilitado-en-inmediaciones-del-eje-corporativo-de-asuncion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Desarrolladora activa en Asunción con edificios residenciales de buenas terminaciones (mesadas de mármol en baños, cocinas Achon con granito); COCO puede ofrecer bachas y mesadas UHPC como upgrade de gama en sus nuevos edificios Manantiales.",
+   "fit_preliminar": {"nivel": "B", "motivo": "Desarrolladora con web vigente y contactos verificados, trayectoria regional y producto residencial de buen nivel de terminaciones; baños/cocinas protagonistas, aunque estética no minimalista ni hormigón visto."},
+   "pendiente_verificar": "Estado y fecha del 'Edificio Manantiales' actual en la web (ubicación exacta, unidades, etapa). Nombres de los dueños/directores de Javier Álvarez y Asociados (solo arquitectos de obra identificados). Seguidores IG (@manantialesdesarrollos, IG bloquea lectura).",
+   "actividad_reciente": {"fecha": "2026-09", "evidencia": "Su web manantiales.com.py promociona un nuevo 'Edificio Manantiales' en Asunción; la página fue modificada el 12-sep-2026 (wp-json), lo que indica mantenimiento reciente del sitio.", "url": "https://manantiales.com.py/"},
+   "proyectos_en_curso": [
+    {"nombre": "Edificio Manantiales (nuevo eslabón de la cadena en Asunción)", "tipo": "residencial (monoambiente a 3 dorm. + azotea, amenities: piscina, coworking, gym, SUM, parrilleros)", "etapa": "anunciado / en comercialización", "unidades": null, "link": "https://manantiales.com.py/"}
+   ],
+   "banos_cocinas_protagonistas": {"valor": "si", "evidencia": "En Azalea: griferías Hansgrohe, sanitarios Duravit, mesadas de mármol en baños, cocinas Achon con mesadas de granito y bachas de acero inoxidable; baños y cocinas son argumento de venta."},
+   "materiales_y_proveedores_visibles": "Azalea: sanitarios Duravit, griferías Hansgrohe, mesadas de mármol (baños), cocinas Achon con granito y bachas de acero inoxidable, campana Livetech, anafe Tokyo, ascensores Thyssen, piscina Igui; aliados Ipale Alta Gama, Wilson Tobal, Taka Pinturas.",
+   "resenas_google": {"cantidad": null, "nota": null},
+   "contactos_verificados": {"telefono": true, "email": true, "whatsapp": true, "instagram": true},
+   "puntaje": {"estetica": 14, "volumen": 14, "gama": 14, "accesibilidad": 12, "oportunidad_inmediata": 6, "total": 60},
+   "puntaje_justificacion": {
+    "estetica": "14/30: terminaciones de primera (mármol, porcelanato), pero estética clásica/convencional, sin minimalismo ni hormigón visto.",
+    "volumen": "14/25: varios edificios en Asunción (Manantiales, Plaza, Azalea) + nuevo edificio; grupo regional con +300.000 m2 en Uruguay.",
+    "gama": "14/20: media-alta (US$115-350 mil/unidad), marcas premium de baños/cocinas.",
+    "accesibilidad": "12/15: teléfono, email, WhatsApp e IG verificados en web propia; falta decisor comercial nominado.",
+    "oportunidad_inmediata": "6/10: web promociona un nuevo Edificio Manantiales, pero sin unidades/etapa confirmadas; oportunidad media."
+   },
+   "notas_investigacion": "Leído con curl manantiales.com.py y su wp-json (page 1163 modificada 2026-09-12, señal de sitio vivo). Contactos verificados en web propia: tel/WhatsApp +595 992 221 168, email info@manantiales.com.py, IG @manantialesdesarrollos. La candidata 'Javier Álvarez y Asociados S.A. (Manantiales)' se confirma como la desarrolladora uruguaya (sede Punta del Este) detrás de la marca Manantiales en Asunción. Prensa (Infonegocios): Manantiales de Asunción (2015), Plaza (2017), Azalea (2020, rica en marcas de baños/cocinas). Constructoras citadas: De Constructora/Constructora DE (r2a-02) y arqs. Nathalie Elías, Verónica/DH Díaz Herranz (Montevideo), Tatiana Barrail. FB @manantialesdesarrollos no cargó (0 bytes). Razón social también aparece como 'Álvarez y Asociados' en algunas notas."
+  }
+ ],
+ "candidatos_extra": [
+  {"nombre": "JGL & Saphira Capital (sociedad Saphira Business + Jiménez Gaona y Lima; proyecto LYV)", "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este", "ciudad": "Ciudad del Este", "segmento": "desarrolladora"},
+  {"nombre": "De Constructora S.A. (constructora de los edificios Manantiales; @deconstructorapy)", "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades", "ciudad": "Asunción", "segmento": "constructora"},
+  {"nombre": "IDEES Negocios Inmobiliarios (comercializadora de Torre de las Américas)", "link": "https://idees.com.py/", "ciudad": "Asunción", "segmento": "inmobiliaria"},
+  {"nombre": "Bracco Orlando Bracco Arquitectos (arquitectura de Torre de las Américas; Leonardo Bracco)", "link": "https://www.abc.com.py/negocios/2025/08/22/matter-la-nueva-torre-de-oficinas-que-redefine-el-espacio-laboral-en-asuncion/", "ciudad": "Asunción", "segmento": "estudio_arquitectura"},
+  {"nombre": "Guanes y Asociados Arquitectos (arquitectura de Torre Spano; Luis Guanes)", "link": "https://infonegocios.com.py/infomicasa/torre-spano-es-el-edificio-para-aquellos-que-buscan-vivir-como-en-una-casa", "ciudad": "Asunción", "segmento": "estudio_arquitectura"}
+ ]
+}
