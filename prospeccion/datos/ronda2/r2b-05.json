@@ -1,0 +1,722 @@
+{
+ "lote": "r2b-05",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Petrohué Real Estate (desarrolladora de Highlands)",
+   "nombre_proyecto_candidato": "Highlands (barrio cerrado)",
+   "segmento": "desarrolladora",
+   "ciudad": "San Bernardino",
+   "region": "Central y Cordillera",
+   "direccion": "Viejo acceso a San Bernardino (Ruta 2); oficina/sala de ventas no publicada",
+   "anio_fundacion": null,
+   "que_hacen": "Inmobiliaria con '13 años de desarrollos exitosos en Chile y Paraguay' (web de Highlands) que desarrolla Highlands: 90 ha con laguna Crystal Lagoons, 469 lotes (421 a 2.056 m2), 75 townhouses entregados construidos y 3 torres Crystal Towers (9 tipologías, todos los dormitorios en suite). Incluye hotel con playa propia y paseo comercial.",
+   "tipo_proyectos": [
+    "barrio cerrado / lotes",
+    "townhouses",
+    "edificios en altura",
+    "hotelero",
+    "comercial"
+   ],
+   "estilo": "Resort residencial con laguna, 'alto diseño arquitectónico', fachadas de vanguardia, cristales piso a techo; premium contemporáneo (no minimalista puro).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Highlands Lagoon Lifestyle (San Bernardino)",
+     "anio": 2025,
+     "link": "https://highlands.com.py/"
+    },
+    {
+     "nombre": "Highlands Townhouses 4 dormitorios (brochure octubre 2026)",
+     "anio": 2026,
+     "link": "https://highlands.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web no describe terminaciones de hormigón visto; solo 'acabados de alta calidad' en townhouses."
+   },
+   "tamano_aprox": "Grande: 469 lotes + 75 townhouses + 3 torres (276 estacionamientos privados, 179 bauleras). Prensa (infonegocios 17/01/2025): 170 lotes vendidos.",
+   "decisores": [
+    {
+     "nombre": "Rodrigo Alvarenga",
+     "cargo": "Director comercial",
+     "fuente": "https://infonegocios.com.py/default/highlands-el-barrio-cerrado-que-rompio-records-de-venta-en-san-bernardino-con-170-lotes-comercializados (solo prensa, no verificado en fuente propia)"
+    },
+    {
+     "nombre": "Cristian Gould",
+     "cargo": "Director general de Gould Arquitectura (diseño; estudio externo)",
+     "fuente": "idem prensa"
+    }
+   ],
+   "web": "https://highlands.com.py/",
+   "instagram": "https://www.instagram.com/highlands.py/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/highlands.py",
+   "linkedin": null,
+   "email": "ventas@highlands.com.py",
+   "telefono": "+595 981 008 050",
+   "whatsapp": "+595 981 008 050",
+   "fuentes": [
+    "https://highlands.com.py/",
+    "https://infonegocios.com.py/default/highlands-el-barrio-cerrado-que-rompio-records-de-venta-en-san-bernardino-con-170-lotes-comercializados",
+    "https://www.crystal-lagoons.com/crystal-lagoons-drives-new-project-in-paraguay"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Townhouses (75) y 3 torres con dormitorios en suite: volumen de baños y cocinas premium donde bachas/mesadas UHPC finas diferencian. Entrar por el director comercial y por Gould Arquitectura (especificación).",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Proyecto grande, premium y en obra con 3 torres y 75 townhouses; contactos de ventas verificados."
+   },
+   "pendiente_verificar": "Instagram y Facebook de Highlands no legibles (login). Sitio de Petrohué Real Estate no encontrado (petrohue.cl/.com corresponde a un lodge patagónico, no relacionado). Razón social, RUC y gerente general sin confirmar. Seguidores IG sin leer. Pestaña 'El Equipo' de la web solo muestra logos (Petrohué, Gould, Ojo de Pez).",
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Web publica brochure 'Highlands-Townhouses-4-Dormitorios-octubre-2026.pdf' y canal YouTube con avances de obra",
+    "url": "https://highlands.com.py/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Highlands - lotes",
+     "tipo": "barrio cerrado",
+     "etapa": "en venta",
+     "unidades": 469,
+     "link": "https://highlands.com.py/"
+    },
+    {
+     "nombre": "Crystal Towers (3 torres)",
+     "tipo": "departamentos",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://highlands.com.py/"
+    },
+    {
+     "nombre": "Townhouses",
+     "tipo": "townhouses",
+     "etapa": "en venta",
+     "unidades": 75,
+     "link": "https://highlands.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Dormitorios en suite en todas las torres; sin detalle de griferías/mesadas en fuentes leídas."
+   },
+   "materiales_y_proveedores_visibles": "No visibles (web sin marcas). Crystal Lagoons como tecnología de la laguna.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 24,
+    "gama": 17,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 9,
+    "total": 78
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: diseño arquitectónico contemporáneo con cristales piso a techo y paisajismo cuidado; sin evidencia de hormigón visto.",
+    "volumen": "24/25: 469 lotes, 75 townhouses y 3 torres (276 cocheras) en un predio de 90 ha.",
+    "gama": "17/20: precios desde US$74.304 lotes, townhouses desde US$209.500, deptos desde US$239.501 (infonegocios); laguna, hotel y paseo comercial.",
+    "accesibilidad": "11/15: tel/WhatsApp/email verificados en highlands.com.py; decisor (Rodrigo Alvarenga) solo en prensa.",
+    "oportunidad_inmediata": "9/10: torres y townhouses en venta/obra con brochure de oct-2026."
+   },
+   "notas_investigacion": "Leídos: highlands.com.py (WebFetch/curl con UA de navegador completo; con UA corto devuelve 406), nota infonegocios 17/01/2025, notas de Crystal Lagoons (WebSearch; nombran Petrohué Real Estate como desarrolladora asociada). La web propia muestra el logo 'Petrohué Real State' y 'Empresa inmobiliaria con 13 años de desarrollos exitosos en Chile y Paraguay'. Instagram: respuesta de login sin datos; Facebook 400; LinkedIn 403; Google Maps sin ficha; InfoCasas sin resultados. No se publicó fecha de entrega verificable (Crystal Lagoons menciona enero 2026, no confirmado en la web propia). Se perfila al desarrollador detrás del barrio; nombre de la empresa tomado de la web del proyecto."
+  },
+  {
+   "nombre": "Madre Selva (barrio cerrado)",
+   "segmento": "desarrolladora",
+   "ciudad": "San Bernardino",
+   "region": "Central y Cordillera",
+   "direccion": "Avda. Justino Fleitas c/ Ernesto Ñamandu, Ciervo Cuá, San Bernardino",
+   "anio_fundacion": null,
+   "que_hacen": "Barrio cerrado de 67 lotes de más de 1.000 m2 en 10 ha en Ciervo Cuá con club house de 1.000 m2; la desarrolladora (sin razón social publicada) ofrece financiación propia y proyectos de casas para quienes construyan con ella.",
+   "tipo_proyectos": [
+    "barrio cerrado / lotes"
+   ],
+   "estilo": "Naturaleza y vista al lago; sin referencia a diseño de interiores.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Madre Selva",
+     "anio": 2023,
+     "link": "https://madreselva.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin información."
+   },
+   "tamano_aprox": "Pequeño: 67 lotes (14 vendidos según prensa nov-2023).",
+   "decisores": [],
+   "web": "https://madreselva.com.py/",
+   "instagram": "https://www.instagram.com/madreselva.py/",
+   "seguidores_ig": 7507,
+   "facebook": "https://www.facebook.com/madreselva.barriocerrado",
+   "linkedin": null,
+   "email": null,
+   "telefono": "+595 976 283 220",
+   "whatsapp": "+595 976 283 220",
+   "fuentes": [
+    "https://madreselva.com.py/",
+    "https://www.instagram.com/madreselva.py/",
+    "https://infonegocios.com.py/default/madre-selva-un-barrio-cerrado-exclusivo-en-san-bernardino-67-lotes-con-vista-al-lago"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Solo vía casas llave en mano de la desarrolladora; bajo volumen. Retomar si se identifica la empresa.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Proyecto de lotes sin empresa desarrolladora identificable; volumen bajo."
+   },
+   "pendiente_verificar": "Razón social de la desarrolladora; Facebook no legible.",
+   "descartada": true,
+   "motivo_descarte": "Es un proyecto/barrio activo, pero no se identificó la empresa desarrolladora detrás (ni la web, ni la prensa ni Instagram la nombran; solo aparece la comercializadora Century 21 Wilson-Chihan). Solo lotes, sin obra de baños/cocinas propia.",
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Web modificada 2026-10-19; reel de Instagram del 06/07/2026",
+    "url": "https://www.instagram.com/reel/DadW9WmvmaF/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Madre Selva",
+     "tipo": "lotes",
+     "etapa": "en venta",
+     "unidades": 67,
+     "link": "https://madreselva.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Proyecto de lotes."
+   },
+   "materiales_y_proveedores_visibles": "No aplica.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 14,
+    "accesibilidad": 8,
+    "oportunidad_inmediata": 2,
+    "total": 38
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: sin evidencia de diseño ni materiales.",
+    "volumen": "6/25: 67 lotes.",
+    "gama": "14/20: lotes de 1.000 m2 desde US$56.114 con vista al lago.",
+    "accesibilidad": "8/15: WhatsApp y teléfono del proyecto verificados; sin decisor ni email.",
+    "oportunidad_inmediata": "2/10: venta de lotes; casas solo a pedido."
+   },
+   "notas_investigacion": "Leídos: madreselva.com.py (home; subpáginas /contacto,/proyecto,/lotes dan 404, es una sola página), Instagram por curl (7.507 seguidores, 245 posts; og:description), reel 06/07/2026, nota infonegocios 21/11/2023. Facebook 400. Se buscó la desarrolladora (WebSearch) sin éxito. Aparece también como candidato en r2b-03."
+  },
+  {
+   "nombre": "Valores Real Estate S.A. (Cumbres de San Bernardino)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Avda. Santa Teresa 1827 casi Aviadores del Chaco, Paseo La Galería, Torre 3, Piso 10, Oficina 2, Asunción",
+   "anio_fundacion": null,
+   "que_hacen": "Sociedad anónima (RUC 80095072-0) del grupo Valores Casa de Bolsa que comercializa 4 proyectos: Cumbres de San Bernardino (12 ha, 12 manzanas), Paraqvaria (country club en Itapúa), La Ribera (Nueva Asunción) y Sol City (edificio de deptos en Asunción).",
+   "tipo_proyectos": [
+    "barrio cerrado / lotes",
+    "residencial edificio",
+    "country club"
+   ],
+   "estilo": "Residencial de gama media-alta; Sol City con domótica.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Cumbres de San Bernardino",
+     "anio": 2025,
+     "link": "https://valoresrealestate.com.py/proyectos/cumbres-de-san-bernardino"
+    },
+    {
+     "nombre": "Sol City (Asunción)",
+     "anio": 2026,
+     "link": "https://valoresrealestate.com.py/proyectos/sol-city"
+    },
+    {
+     "nombre": "Paraqvaria",
+     "anio": null,
+     "link": "https://valoresrealestate.com.py/proyectos/paraqvaria"
+    },
+    {
+     "nombre": "La Ribera",
+     "anio": null,
+     "link": "https://valoresrealestate.com.py/proyectos/la-ribera"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Sol City: mesadas de granito natural, porcelanato; no hormigón visto."
+   },
+   "tamano_aprox": "Mediano: 4 proyectos; Sol City ~11 niveles, inversión US$4,2 M (prensa).",
+   "decisores": [
+    {
+     "nombre": "Christian Borja",
+     "cargo": "Accionista mayoritario de Valores Casa de Bolsa (grupo respaldante)",
+     "fuente": "https://infonegocios.com.py/infomicasa/cumbres-de-san-bernardino-el-barrio-cerrado-con-vista-al-lago-ypacarai-supera-el-50-de-ventas (solo prensa)"
+    }
+   ],
+   "web": "https://valoresrealestate.com.py/",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": "+595 994 442 828",
+   "whatsapp": "+595 994 442 828",
+   "fuentes": [
+    "https://valoresrealestate.com.py/",
+    "https://valoresrealestate.com.py/contacto",
+    "https://valoresrealestate.com.py/empresa",
+    "https://valoresrealestate.com.py/proyectos/sol-city",
+    "https://valoresrealestate.com.py/proyectos/cumbres-de-san-bernardino",
+    "https://infonegocios.com.py/infomicasa/cumbres-de-san-bernardino-el-barrio-cerrado-con-vista-al-lago-ypacarai-supera-el-50-de-ventas",
+    "https://valores.com.py/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Sol City ya especifica mesadas de granito y sanitarios Deca/griferías FV: ofrecer mesadas/bachas UHPC como upgrade o diferencial. Lotes (Cumbres) generan casas posteriores, oportunidad indirecta.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Desarrolladora con edificio en comercialización (Sol City) y contactos verificados; gama media-alta, estilo no minimalista."
+   },
+   "pendiente_verificar": "Instagram propio de Valores Real Estate no hallado (el de Cumbres, @cumbres_sanber, devolvió login; el de Casa de Bolsa es @valorescbsa). Email corporativo no publicado en valoresrealestate.com.py. Decisor propio de la inmobiliaria sin identificar. Etapa de obra de Sol City sin confirmar.",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "Sitio con © 2026, 4 proyectos en comercialización",
+    "url": "https://valoresrealestate.com.py/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Sol City",
+     "tipo": "departamentos 2-3 dorm.",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://valoresrealestate.com.py/proyectos/sol-city"
+    },
+    {
+     "nombre": "Cumbres de San Bernardino",
+     "tipo": "lotes",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://valoresrealestate.com.py/proyectos/cumbres-de-san-bernardino"
+    },
+    {
+     "nombre": "Paraqvaria",
+     "tipo": "country club lotes",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://valoresrealestate.com.py/proyectos/paraqvaria"
+    },
+    {
+     "nombre": "La Ribera",
+     "tipo": "lotes",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://valoresrealestate.com.py/proyectos/la-ribera"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Sol City: terminaciones estándar (mesadas granito, griferías FV, sanitarios Deca)."
+   },
+   "materiales_y_proveedores_visibles": "Sol City: granito natural, porcelanato, griferías FV, sanitarios Deca, aberturas de aluminio.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 11,
+    "volumen": 15,
+    "gama": 14,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 7,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "11/30: terminaciones estándar (granito, porcelanato), sin hormigón visto; Cumbres con club house integrado a rocas.",
+    "volumen": "15/25: 4 proyectos, mayoría lotes; un edificio.",
+    "gama": "14/20: lotes desde US$114.000 (prensa), deptos medio-altos.",
+    "accesibilidad": "10/15: tel/WhatsApp y dirección verificados en web propia; sin email ni decisor propio.",
+    "oportunidad_inmediata": "7/10: Sol City en comercialización con mesadas a especificar."
+   },
+   "notas_investigacion": "Leídos: valoresrealestate.com.py (home, /empresa, /contacto, Sol City, Cumbres), valores.com.py (Casa de Bolsa; su tel +595 21 600450 y valores@valores.com.py NO se asignan a la inmobiliaria), infonegocios 07/02/2025. Cumbres: la web propia dice que 'comercializa' Valores RE; la prensa la llama desarrolladora. Dominios cumbres.com.py y similares no existen/redirigen. Sin acceso a Instagram/Facebook/LinkedIn/Maps. Nota: la oficina está en el mismo complejo (Paseo La Galería) que Park Lofts Tower, sin relación declarada."
+  },
+  {
+   "nombre": "Building Innovations (Grupo BI)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Guido Spano c/ Dr. Francisco Morra, Edificio Atrium, planta baja, Asunción (sede; los proyectos están en Fernando de la Mora, Recoleta y Santa Teresa)",
+   "anio_fundacion": 2021,
+   "que_hacen": "Grupo que desarrolla, construye y administra edificios residenciales de departamentos (BI Propiedades, BI Constructora). Su primer edificio San Clemente Fernando se inauguró en dic-2022; hoy figuran Filum Recoleta (119 unidades), Filum Herrera, Santa Marina Norte, Dhome y San Clemente Norte (2027).",
+   "tipo_proyectos": [
+    "edificios en altura residenciales",
+    "inversión inmobiliaria",
+    "barrio cerrado/dúplex (Morada)"
+   ],
+   "estilo": "Funcional contemporáneo de gama media orientado a inversores ('ciudad 30 minutos'); BIM.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Filum Recoleta",
+     "anio": 2026,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "Filum Herrera",
+     "anio": 2026,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "Santa Marina Norte",
+     "anio": 2025,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "Dhome",
+     "anio": 2026,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "San Clemente Norte",
+     "anio": 2027,
+     "link": "https://buildinginnovations.com.py/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Filum Herrera: 'mobiliarios de granito, pisos de porcelanato'."
+   },
+   "tamano_aprox": "Mediano-grande: 5+ edificios en cartera; Filum Recoleta 119 unidades; IG 12K seguidores.",
+   "decisores": [
+    {
+     "nombre": "Marcos Bertone",
+     "cargo": "Gerente Comercial",
+     "fuente": "https://buildinginnovations.com.py/ (testimonio en la home)"
+    },
+    {
+     "nombre": "Nicolás Paredes",
+     "cargo": "CEO de Grupo Building Innovations",
+     "fuente": "https://infonegocios.com.py/default/nicolas-paredes-el-mercado-inmobiliario-esta-en-un-muy-buen-momento-hay-una-demanda-genuina-y-un-acceso-a-creditos-en-crecimiento (prensa, 2025)"
+    }
+   ],
+   "web": "https://buildinginnovations.com.py/",
+   "instagram": "https://www.instagram.com/buildinginnovations/",
+   "seguidores_ig": 12000,
+   "facebook": "https://www.facebook.com/buildinginnovationsinmuebles/",
+   "linkedin": null,
+   "email": "info@buildinginnovations.com.py",
+   "telefono": "+595 994 229 999",
+   "whatsapp": "+595 994 229 999",
+   "fuentes": [
+    "https://buildinginnovations.com.py/",
+    "https://buildinginnovations.com.py/contacto/",
+    "https://www.instagram.com/buildinginnovations/",
+    "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios",
+    "https://infonegocios.com.py/default/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Varios edificios simultáneos con granito en mesadas: proponer mesadas/bachas UHPC como línea premium o para penthouses; constructor propio (BI Constructora) simplifica la decisión.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Volumen alto y contactos completos, pero gama media y estética estándar."
+   },
+   "pendiente_verificar": "Seguidores IG exactos (og indica '12K'), último post y temas no leídos. Facebook 400, LinkedIn 403. Ficha de Google Maps no cargó. Correo info@website.com de la plantilla es un placeholder y se descarta.",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "Home con © 2026 y proyectos 2026-2027",
+    "url": "https://buildinginnovations.com.py/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Filum Recoleta",
+     "tipo": "edificio",
+     "etapa": "en venta",
+     "unidades": 119,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "Filum Herrera",
+     "tipo": "edificio",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "Dhome",
+     "tipo": "edificio",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://buildinginnovations.com.py/"
+    },
+    {
+     "nombre": "San Clemente Norte",
+     "tipo": "edificio 7 niveles",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://buildinginnovations.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Mencionan granito y porcelanato como estándar; sin foco en baños."
+   },
+   "materiales_y_proveedores_visibles": "Granito, porcelanato, aire split, aberturas Modena (2022, prensa).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 11,
+    "volumen": 20,
+    "gama": 11,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 9,
+    "total": 64
+   },
+   "puntaje_justificacion": {
+    "estetica": "11/30: granito y porcelanato estándar; sin hormigón visto.",
+    "volumen": "20/25: cinco edificios activos, 119 unidades en Filum Recoleta.",
+    "gama": "11/20: público medio e inversor (prensa 2022: nivel medio); Recoleta sube el nivel.",
+    "accesibilidad": "13/15: tel/WhatsApp/email/dirección en buildinginnovations.com.py; gerente comercial nombrado en la web.",
+    "oportunidad_inmediata": "9/10: varios edificios 2026-2027 en venta/obra."
+   },
+   "notas_investigacion": "Leídos: home, /sobre-nosotros, /contacto de buildinginnovations.com.py; Instagram por curl (12K, 329 siguiendo, 242 posts); notas infonegocios 2022 y 2025 (WebFetch/WebSearch). Corrección ronda 2a/1: ciudad = Asunción (sede) aunque los primeros edificios están en Fernando de la Mora; el teléfono comercial de prensa (0985) 334-724 ya no figura en la web y se reemplaza por +595 994 229 999. Constructora asociada en 2022: Grillón Alvarenga (gaconstructora.com no cargó, HTTP 000); hoy la web muestra 'BI Constructora'."
+  },
+  {
+   "nombre": "Park Lofts EAS (Park Lofts Paraguay)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Asunción (dirección de oficina no publicada en la web)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora de equipo alemán especializada en estudios/monoambientes para alquiler corto (Airbnb) e inversores. 5 proyectos: Tower (27 pisos, frente a Paseo La Galería), Airport, Recoleta, Los Árboles y Residencias del Sol; 350 unidades en obra, 250 vendidas, US$18,5 M de volumen.",
+   "tipo_proyectos": [
+    "edificios en altura residenciales",
+    "micro-apartamentos para alquiler corto",
+    "penthouses",
+    "hotelero (Park Lofts Hotel)"
+   ],
+   "estilo": "Minimalismo de alta rentabilidad (Infonegocios), diseño compacto, 'hochwertige Naturmaterialien' en penthouses, bistró y sky oasis.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Park Lofts Tower",
+     "anio": 2027,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-tower/"
+    },
+    {
+     "nombre": "Park Lofts Recoleta",
+     "anio": 2026,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-recoleta/"
+    },
+    {
+     "nombre": "Park Lofts Los Árboles",
+     "anio": 2027,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-los-arboles/"
+    },
+    {
+     "nombre": "Residencias del Sol",
+     "anio": 2027,
+     "link": "https://www.parkloftsparaguay.com/projekte/residencias-del-sol/"
+    },
+    {
+     "nombre": "Park Lofts Airport",
+     "anio": null,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-airport/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Web describe 'hochwertige Naturmaterialien' y baños en suite en penthouses; sin mención explícita a hormigón visto."
+   },
+   "tamano_aprox": "Grande en su nicho: 350 unidades en obra, 250 vendidas, 5 proyectos; Recoleta 89 estudios (10 pisos); Tower ~120 unidades.",
+   "decisores": [
+    {
+     "nombre": "Robin Loths",
+     "cargo": "Gerente / Geschäftsführung",
+     "fuente": "https://www.parkloftsparaguay.com/impressum/"
+    },
+    {
+     "nombre": "Julian Sandt",
+     "cargo": "Gerente / Geschäftsführung (socio directivo)",
+     "fuente": "https://www.parkloftsparaguay.com/impressum/"
+    },
+    {
+     "nombre": "Lydia Fehmer",
+     "cargo": "Operations",
+     "fuente": "https://www.parkloftsparaguay.com/kontakt/"
+    }
+   ],
+   "web": "https://www.parkloftsparaguay.com/",
+   "instagram": "https://www.instagram.com/parklofts",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/ParkLoftspy",
+   "linkedin": null,
+   "email": null,
+   "telefono": "+595 981 587 588",
+   "whatsapp": "+595 981 587 588",
+   "fuentes": [
+    "https://www.parkloftsparaguay.com/",
+    "https://www.parkloftsparaguay.com/kontakt/",
+    "https://www.parkloftsparaguay.com/impressum/",
+    "https://www.parkloftsparaguay.com/news-room/",
+    "https://www.parkloftsparaguay.com/projekte/park-lofts-tower/",
+    "https://infonegocios.com.py/amp/infomicasa/en-recoleta-se-erige-park-lofts-con-us-3-millones-de-inversion-minimalismo-de-alta-rentabilidad",
+    "https://www.forbes.com.py/especiales/park-lofts-marca-nuevo-hito-real-estate-local-ambicioso-proyecto-us-10-millones-n75403"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Cinco edificios con cientos de baños y kitchenettes compactos: bachas y mesadas UHPC finas y livianas, minimalistas, para estandarizar estudios y penthouses. Contactar a los gerentes por WhatsApp.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Alto volumen de unidades y obras simultáneas, estética minimalista; riesgo financiero comunicado (ueno bank) y rubro de micro-estudios."
+   },
+   "pendiente_verificar": "Email: la web lo muestra vacío en Kontakt/Impressum (no se pudo leer); un info@parkloftsparaguay.com mencionado por un resumen de búsqueda NO está verificado. Instagram, Facebook y LinkedIn no legibles (login/403). Constructoras por proyecto (Concremaq; Benítez Bittar en un aviso) sin confirmar en fuente propia. Google Maps sin ficha.",
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "News Room: 11.11.2026 y 05.11.2026 (comunicado por intervención de ueno bank, impacto ~US$100.000), avances de obra sep-oct 2026, entregas en Recoleta (sep-2026)",
+    "url": "https://www.parkloftsparaguay.com/news-room/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Park Lofts Tower",
+     "tipo": "torre 27 pisos",
+     "etapa": "en obra",
+     "unidades": 120,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-tower/"
+    },
+    {
+     "nombre": "Park Lofts Los Árboles",
+     "tipo": "edificio 7 pisos",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-los-arboles/"
+    },
+    {
+     "nombre": "Residencias del Sol",
+     "tipo": "edificio",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.parkloftsparaguay.com/projekte/residencias-del-sol/"
+    },
+    {
+     "nombre": "Park Lofts Recoleta",
+     "tipo": "edificio 10 pisos",
+     "etapa": "en obra",
+     "unidades": 89,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-recoleta/"
+    },
+    {
+     "nombre": "Park Lofts Airport",
+     "tipo": "edificio",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.parkloftsparaguay.com/projekte/park-lofts-airport/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Producto = estudios con cocina equipada y baño en suite, optimizados para alquiler; penthouses con baños en suite y materiales naturales."
+   },
+   "materiales_y_proveedores_visibles": "No se nombran marcas en las páginas leídas ('robuste Materialien & hochwertige Ausstattung').",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 15,
+    "volumen": 20,
+    "gama": 12,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 10,
+    "total": 69
+   },
+   "puntaje_justificacion": {
+    "estetica": "15/30: 'minimalismo de alta rentabilidad' y materiales naturales en penthouses; sin hormigón visto confirmado.",
+    "volumen": "20/25: 5 proyectos, 350 unidades en obra, 250 vendidas.",
+    "gama": "12/20: estudios desde US$59.000 hasta penthouse US$500.000 (Forbes); orientado a inversión.",
+    "accesibilidad": "12/15: tel/WhatsApp verificados; gerentes nombrados en Impressum; sin email.",
+    "oportunidad_inmediata": "10/10: cuatro edificios en obra ahora, todos con baños/cocinas por equipar."
+   },
+   "notas_investigacion": "Leídos: parkloftsparaguay.com (home, Über uns, Kontakt, Impressum, News Room, comunicado ueno bank, Tower), infonegocios 06/03/2025, Forbes PY (jul-2025). Corrección: r2a-01 lo tenía solo como candidato. Instagram @parklofts devolvió login; LinkedIn 403; Facebook 400 con curl. El comunicado del 05/11/2026 dice impacto ~US$100.000 por la intervención del BCP a ueno bank sin afectar la continuidad de obras: factor de riesgo comercial a vigilar. Ficha de Maps no cargó."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Century 21 Wilson-Chihan (comercializadora, San Bernardino)",
+   "link": "https://infonegocios.com.py/default/madre-selva-un-barrio-cerrado-exclusivo-en-san-bernardino-67-lotes-con-vista-al-lago",
+   "ciudad": "San Bernardino/Asunción",
+   "segmento": "inmobiliaria"
+  },
+  {
+   "nombre": "Grillón Alvarenga (constructora de Building Innovations)",
+   "link": "https://infonegocios.com.py/default/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Gould Arquitectura (diseño de Highlands)",
+   "link": "https://infonegocios.com.py/default/highlands-el-barrio-cerrado-que-rompio-records-de-venta-en-san-bernardino-con-170-lotes-comercializados",
+   "ciudad": "Paraguay",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Nou Arquitectos (pórtico de Cumbres)",
+   "link": "https://valoresrealestate.com.py/proyectos/cumbres-de-san-bernardino",
+   "ciudad": "Paraguay",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Schenk Desarrollos Inmobiliarios (Altos del Salado)",
+   "link": "https://infonegocios.com.py/default/altos-del-salado-un-barrio-cerrado-en-san-bernardino-disenado-para-vivir-en-conexion-con-la-naturaleza",
+   "ciudad": "San Bernardino",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Eydisa (Marena, Luque, con Crystal Lagoons)",
+   "link": "https://www.crystal-lagoons.com/crystal-lagoons-amplifies-its-presence-in-paraguay/",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Concremaq (constructora de Park Lofts Tower, ya perfilada en r2a-01)",
+   "link": "https://infonegocios.com.py/default/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  }
+ ]
+}
