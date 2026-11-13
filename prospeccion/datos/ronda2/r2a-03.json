@@ -1,0 +1,796 @@
+{
+ "lote": "r2a-03",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Fortaleza Inmuebles (Fortaleza S.A. de Inmuebles)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Asunción: Quesada N° 4.926, Edificio Atlas Center, Piso 4, y oficina en delSol Shopping (Avda. Aviadores del Chaco), planta baja; sucursal Alto Paraná: Paraná Country Club, Gabriel Casaccia c/ Manuel Ortiz Guerrero, Edificio Margarita's, Piso 2 (fuente: https://fortalezainmuebles.com/es-PY/contacto)",
+   "anio_fundacion": 1992,
+   "que_hacen": "Desarrolladora con sistema de inversión y ahorro en inmuebles (el inversor aporta cuotas mientras la empresa construye edificios de departamentos; planes Amplia y Plan 20). Construye con AGB (constructora) y fiscaliza con Fiscrea; más de 30 años de trayectoria, 12 proyectos entregados y más de 5 en desarrollo según su web.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "inversión"
+   ],
+   "estilo": "Torres residenciales de gran escala (28-38 niveles, ~200 departamentos por torre) orientadas a inversión y clase media/media-alta; amenities (coworking, plaza café, gimnasio, piscina). No hay discurso de diseño de autor ni minimalismo.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Fortaleza Carmelitas Torre 1 (198 deptos, avance 92% al 25/08/2026, inauguración 2026)",
+     "anio": 2026,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/2/proyecto/2"
+    },
+    {
+     "nombre": "Fortaleza Carmelitas Torre 2 (210 deptos, avance 59%, inauguración 2027)",
+     "anio": 2027,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/20/proyecto/21"
+    },
+    {
+     "nombre": "Fortaleza Molas López (torre inaugurada 2025, ~US$20 M, 29 pisos, 167 deptos)",
+     "anio": 2025,
+     "link": "https://infonegocios.com.py/infomicasa/fortaleza-inaugura-su-torre-molas-lopez-un-nuevo-icono-inmobiliario-en-asuncion-con-una-inversion-cercana-a-los-us-20-millones"
+    },
+    {
+     "nombre": "Fortaleza Boggiani (200 deptos, inaugurado 2023)",
+     "anio": 2023,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/4/proyecto/4"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web ni la prensa leída muestran terminaciones interiores ni hormigón visto."
+   },
+   "tamano_aprox": "Grande: web declara +US$200 M en construcción, 12 proyectos entregados y +5 en desarrollo; ~60 empleados en 2015 (Infonegocios, dato viejo). Torres de ~200 deptos cada una.",
+   "decisores": [
+    {
+     "nombre": "Francisco Gómez",
+     "cargo": "Presidente (director ejecutivo en nota 2024; director comercial en 2015)",
+     "fuente": "https://www.ultimahora.com/pellegrini-el-nuevo-proyecto-con-el-que-fortaleza-continua-expandiendo-su-sistema-de-inversion"
+    },
+    {
+     "nombre": "Ernesto Gómez Espeche",
+     "cargo": "Director Presidente (dato 2015, puede haber cambiado)",
+     "fuente": "https://infonegocios.com.py/hay-equipo/el-equipo-de-fortaleza"
+    }
+   ],
+   "web": "https://fortalezainmuebles.com",
+   "instagram": "https://www.instagram.com/fortaleza.inmuebles.sae/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/fortaleza.inmuebles.sae/",
+   "linkedin": "https://py.linkedin.com/company/fortaleza-inmuebles",
+   "email": null,
+   "telefono": "+595 21 614 412 (oficina Asunción); +595 21 614 412 int. 1300 (Alto Paraná)",
+   "whatsapp": "+595 975 614 412 (wa.me/595975614412) y +595 971 614 418 (wa.me/+595971614418, botón de la web)",
+   "fuentes": [
+    "https://fortalezainmuebles.com/es-PY",
+    "https://fortalezainmuebles.com/es-PY/contacto",
+    "https://fortalezainmuebles.com/es-PY/nosotros",
+    "https://fortalezainmuebles.com/es-PY/obras-proyectos",
+    "https://www.ultimahora.com/pellegrini-el-nuevo-proyecto-con-el-que-fortaleza-continua-expandiendo-su-sistema-de-inversion",
+    "https://www.ultimahora.com/fortaleza-san-martin-redefine-la-inversion-en-una-zona-privilegiada",
+    "https://infonegocios.com.py/hay-equipo/el-equipo-de-fortaleza",
+    "https://www.lanacion.com.py/negocios/2023/08/30/fortaleza-carmelitas-se-erige-como-la-obra-mas-grande-de-fortaleza-inmuebles/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Carmelitas T1 (92%) y T2 (59%) están en terminaciones y Pellegrini/Lomas arrancan: COCO puede ofrecer bachas/mesadas UHPC como línea premium para penthouses y unidades tipo, o vía el 'ecosistema' de equipamiento que la web menciona. Venta a un comprador corporativo, con ciclo largo y precio sensible.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 57: volumen máximo y obras en curso, pero perfil de inversión masiva, gama media y sin afinidad estética visible."
+   },
+   "pendiente_verificar": "Instagram/Facebook/LinkedIn bloqueados (login/403/429): seguidores y últimos posts sin leer. Google Maps no cargó: reseñas sin dato. Email comercial no publicado (solo seleccion@fortalezainmuebles.com, para CV). Quién decide terminaciones (Fortaleza vs AGB) sin confirmar.",
+   "actividad_reciente": {
+    "fecha": "2026-08",
+    "evidencia": "Lanzamiento de Fortaleza Pellegrini (Última Hora, 06/08/2026) y avance de obra actualizado el 25/08/2026 en la web",
+    "url": "https://www.ultimahora.com/pellegrini-el-nuevo-proyecto-con-el-que-fortaleza-continua-expandiendo-su-sistema-de-inversion"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Fortaleza Carmelitas Torre 1",
+     "tipo": "torre residencial",
+     "etapa": "en obra",
+     "unidades": 198,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/2/proyecto/2"
+    },
+    {
+     "nombre": "Fortaleza Carmelitas Torre 2",
+     "tipo": "torre residencial",
+     "etapa": "en obra",
+     "unidades": 210,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/20/proyecto/21"
+    },
+    {
+     "nombre": "Fortaleza Pellegrini (38 niveles, inauguración 2029)",
+     "tipo": "torre residencial",
+     "etapa": "anunciado",
+     "unidades": 199,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/19/proyecto/20"
+    },
+    {
+     "nombre": "Fortaleza Lomas (inauguración 2029)",
+     "tipo": "torre residencial",
+     "etapa": "anunciado",
+     "unidades": 240,
+     "link": "https://fortalezainmuebles.com/es-PY/obra/18/proyecto/19"
+    },
+    {
+     "nombre": "Fortaleza San Martín (inauguración 2028)",
+     "tipo": "torre residencial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.ultimahora.com/fortaleza-san-martin-redefine-la-inversion-en-una-zona-privilegiada"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No se leyeron especificaciones de terminaciones."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Constructora AGB; fiscalización Fiscrea; la web menciona un 'ecosistema de empresas' con soluciones de equipamiento y administración (https://fortalezainmuebles.com/es-PY/obras-proyectos).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 25,
+    "gama": 8,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 8,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: torres de inversión estandarizadas, sin evidencia de hormigón visto, minimalismo ni materiales nobles.",
+    "volumen": "25/25: +US$200 M en construcción, 5 proyectos en desarrollo con ~200 deptos por torre (web obras-proyectos).",
+    "gama": "8/20: sistema de ahorro/inversión para público amplio, no boutique ni lujo.",
+    "accesibilidad": "10/15: teléfono y WhatsApp verificados en la web propia, decisor (Francisco Gómez) solo por prensa, sin email comercial.",
+    "oportunidad_inmediata": "8/10: Carmelitas T1 al 92% y T2 al 59% entran en terminaciones; Molas López, San Martín y otros en preparación."
+   },
+   "notas_investigacion": "Leído con curl (WebFetch dio 503/DNS en la web): home, /nosotros, /contacto, /obras-proyectos y 5 fichas de obra de fortalezainmuebles.com (dominio .com.py de ronda 1 no existe). Instagram (429/login), Facebook (login), LinkedIn (403) no legibles. Google Maps no cargó vía búsqueda. Prensa: Infonegocios (equipo 2015), Última Hora (Pellegrini 06/08/2026; San Martín 22/11/2024), La Nación 2023. Correcciones ronda 1: Fortaleza San Martín es nota de nov-2024 (no 2026); el handle de Instagram/Facebook es fortaleza.inmuebles.sae (los de la prensa fortaleza.sa/fortaleza.py no son los de la web). Torre 1 próxima a inaugurarse confirmada (avance 92%). Cifra '~600 construcciones' viene de nota antigua. Sin DNCP (no es constructora) ni portales de arquitectura relevantes. Dos WhatsApp distintos publicados en la web."
+  },
+  {
+   "nombre": "Urban Domus",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Papa Juan XXIII 2050, Edificio Skypark, Torre 3, Piso 19, Asunción (https://urbandomus.com.py/contacto)",
+   "anio_fundacion": null,
+   "que_hacen": "Desarrolladora paraguaya con 11 años de trayectoria (nota nov-2025); separa edificios de inversión/renta corta de edificios-hogar. Su web lista 13 desarrollos: 9 terminados, 3 en construcción y 1 próximo; primera incursión fuera de Asunción con Cumbres (Luque). Ofrece financiación propia y administración de propiedades (Urban Host).",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "inversión/renta corta"
+   ],
+   "estilo": "Edificios contemporáneos funcionales de ticket medio/bajo (monoambientes, 1 y 2 dormitorios), con amenities (quincho, piscina, gimnasio, coworking). Arq. Mauro Remonato en Mburucuyá.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Urban Cumbres, Luque (Torres A-D, ~US$20 M; Torre A entregada mar-2026 según web)",
+     "anio": 2026,
+     "link": "https://urbandomus.com.py/desarrollos/urban-cumbres/"
+    },
+    {
+     "nombre": "Urban Mburucuyá (11 pisos, 77 unidades)",
+     "anio": 2025,
+     "link": "https://urbandomus.com.py/desarrollos/mburucuya/"
+    },
+    {
+     "nombre": "Urban Santa Teresa, Ykua Sati (11 pisos, 77 unidades)",
+     "anio": null,
+     "link": "https://urbandomus.com.py/desarrollos/urban-santa-teresa-2/"
+    },
+    {
+     "nombre": "Bosques de Villa Morra (36 deptos, US$4,5 M, terminado)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/default/urban-domus-inauguro-el-edificio-bosques-de-villa-morra-us-4-5-millones-de-inversion"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Fichas de proyecto listan terminaciones estándar (cocina amoblada, termocalefones, mampara); sin mención de hormigón visto."
+   },
+   "tamano_aprox": "Mediana: 13 desarrollos listados (9 terminados, 3 en obra); Cumbres de 4 torres (~336 unidades según ficha) más 77+77 en Mburucuyá/Santa Teresa.",
+   "decisores": [
+    {
+     "nombre": "Mario Cuevas",
+     "cargo": "Gerente general (nov-2025); 'director' en nota 2024",
+     "fuente": "https://infonegocios.com.py/infomicasa/urban-domus-presento-con-exito-las-torres-c-y-d-de-cumbres-durante-su-primer-urban-after"
+    }
+   ],
+   "web": "https://urbandomus.com.py",
+   "instagram": "https://www.instagram.com/urbandomus/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/urbandomuspy",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": "+595 983 554 183 (ventas, fichas de proyecto); +595 982 285 539 (Urban Host, administración de propiedades)",
+   "fuentes": [
+    "https://urbandomus.com.py/",
+    "https://urbandomus.com.py/contacto",
+    "https://urbandomus.com.py/desarrollos/urban-santa-teresa-2/",
+    "https://urbandomus.com.py/desarrollos/mburucuya/",
+    "https://urbandomus.com.py/desarrollos/urban-cumbres/",
+    "https://urbandomus.com.py/urban-host/",
+    "https://infonegocios.com.py/infomicasa/urban-domus-presento-con-exito-las-torres-c-y-d-de-cumbres-durante-su-primer-urban-after",
+    "https://infonegocios.com.py/amp/infomicasa/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Serie repetible de edificios de inversión: COCO puede proponer un pack de bachas/mesadas UHPC como upgrade opcional en preventa o para unidades Urban Host de renta premium. El estándar actual es ticket bajo, por lo que el producto debe ser opcional y modular.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 50: varios proyectos en obra y decisor identificado, pero ticket medio/bajo y sin afinidad estética visible."
+   },
+   "pendiente_verificar": "Instagram/Facebook bloqueados: seguidores y posts sin leer. Sin teléfono fijo ni email publicados en la web (Cloudflare bloquea curl; se leyó con WebFetch). Estado real de obra de Santa Teresa y Mburucuyá (fichas muestran 0%). Fichas de Santa Teresa y Mburucuyá tienen mismos datos (77 unidades, 11 pisos): posible copia. Google Maps no cargó.",
+   "actividad_reciente": {
+    "fecha": "2026-03",
+    "evidencia": "Torre A de Urban Cumbres marcada 'entregada marzo 2026' en la ficha oficial; última nota fechada de prensa 06/11/2025",
+    "url": "https://urbandomus.com.py/desarrollos/urban-cumbres/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Urban Cumbres Torre B (Torres C y D en preventa/arranque), Luque",
+     "tipo": "torres residenciales",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://urbandomus.com.py/desarrollos/urban-cumbres/"
+    },
+    {
+     "nombre": "Urban Mburucuyá",
+     "tipo": "edificio residencial/renta corta",
+     "etapa": "en obra",
+     "unidades": 77,
+     "link": "https://urbandomus.com.py/desarrollos/mburucuya/"
+    },
+    {
+     "nombre": "Urban Santa Teresa (Ykua Sati)",
+     "tipo": "edificio residencial",
+     "etapa": "en obra",
+     "unidades": 77,
+     "link": "https://urbandomus.com.py/desarrollos/urban-santa-teresa-2/"
+    },
+    {
+     "nombre": "Urban Mariscal",
+     "tipo": "edificio",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://urbandomus.com.py/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Fichas: cocina amoblada con horno/anafe/campana, termocalefón, espejo y box con mampara; estándar sin firma de diseño."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles en las fichas ('no se mencionan marcas'); web desarrollada por Girolabs; arquitecto Mauro Remonato (Mburucuyá).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 17,
+    "gama": 8,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 8,
+    "total": 50
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: estilo contemporáneo genérico, terminaciones estándar, sin hormigón visto.",
+    "volumen": "17/25: 13 desarrollos, 3 en obra (~490 unidades entre Cumbres A-B, Mburucuyá y Santa Teresa).",
+    "gama": "8/20: ticket bajo/medio declarado ('llegar a un ticket más bajo sin sacrificar calidad').",
+    "accesibilidad": "9/15: WhatsApp verificado en la web, decisor por prensa (Mario Cuevas), sin teléfono ni email.",
+    "oportunidad_inmediata": "8/10: tres proyectos en obra y Urban Mariscal próximo."
+   },
+   "notas_investigacion": "urbandomus.com.py devuelve 403 (Cloudflare) a curl; se leyó con WebFetch: home, /contacto, página 'Quiénes somos' (/te-vas-a-querer-quedar-2/, sin datos de equipo), fichas Santa Teresa, Mburucuyá, Cumbres y Urban Host. /nosotros da 404. Facebook devolvió solo el título; Instagram 429. Prensa: Infonegocios (Cumbres 06/11/2025; Mburucuyá dic-2024, con teléfono (0986) 700-718 que NO aparece en la web: no_verificado). Correcciones ronda 1: la web ya figura verificada (urbandomus.com.py); Cumbres está en Luque; hoy son 13 desarrollos; Mario Cuevas figura como gerente general en 2025."
+  },
+  {
+   "nombre": "Petra Urbana (Grupo Petra)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Dr. Morra 1849 esq. Guido Spano, Edificio Atrium, Piso 4, Asunción (footer de https://www.petraurbana.com)",
+   "anio_fundacion": 2015,
+   "que_hacen": "Desarrolladora líder en torres de Asunción (se presenta como #1 del mercado): 23 proyectos desarrollados según su web, líneas Life (pet friendly), Spirit, Forvm/Ágora, Residencias Surubi'i y rascacielos (Petra Tower, Petra Icon, Petra Imperiale). Celebró 10 años en nov-2025.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "rascacielos",
+    "corporativo",
+    "hotelero"
+   ],
+   "estilo": "Contemporáneo y aspiracional; torres icónicas con amenities de resort; Petra Imperiale con propuesta 'Resort Living' (torre residencial, corporativa y hotel).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Petra Imperiale (73 niveles, 250 m, 416 deptos, fin de obra 12/2029)",
+     "anio": 2029,
+     "link": "https://www.petraurbana.com/desarrollos/petra-imperiale/"
+    },
+    {
+     "nombre": "Petra Tower (44 niveles, 200 deptos, entregada oct-2025)",
+     "anio": 2025,
+     "link": "https://www.petraurbana.com/desarrollos/petra-tower/"
+    },
+    {
+     "nombre": "Petra Icon (39 niveles, 102 deptos, fin de obra prevista 09/2026)",
+     "anio": 2026,
+     "link": "https://www.petraurbana.com/desarrollos/petra-icon/"
+    },
+    {
+     "nombre": "Spirit Mariscal (40 deptos, entregado abr-2025)",
+     "anio": 2025,
+     "link": "https://www.petraurbana.com/desarrollos/spirit-mariscal/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin evidencia de hormigón visto en fichas ni prensa leída; el hormigón se menciona solo como estructura (La Nación 2021)."
+   },
+   "tamano_aprox": "Grande: 23 proyectos; contadores web: más de 1.000 unidades entregadas, 200.000 m2 construidos y 2.000 unidades vendidas (mapeo de contadores inferido del orden del texto).",
+   "decisores": [
+    {
+     "nombre": "Carlos Guasti",
+     "cargo": "Presidente de Grupo Petra / Petra Urbana (los cargos varían según la nota)",
+     "fuente": "https://www.lanacion.com.py/sociales_edicion_impresa/2025/10/28/la-gran-inauguracion-de-petra-tower/"
+    }
+   ],
+   "web": "https://www.petraurbana.com",
+   "instagram": "https://www.instagram.com/petraurbana/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/petraurbana",
+   "linkedin": "https://www.linkedin.com/company/petra-urbana/",
+   "email": "contacto@petraurbana.com",
+   "telefono": "+595 974 400 800",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.petraurbana.com",
+    "https://www.petraurbana.com/gobierno-corporativo/",
+    "https://www.petraurbana.com/noticias/",
+    "https://www.petraurbana.com/desarrollos/petra-imperiale/",
+    "https://www.petraurbana.com/desarrollos/petra-icon/",
+    "https://www.petraurbana.com/desarrollos/petra-tower/",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2024/07/02/petra-imperiale-sera-la-cuarta-torre-mas-alta-de-america-del-sur/",
+    "https://www.lanacion.com.py/sociales_edicion_impresa/2025/10/28/la-gran-inauguracion-de-petra-tower/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Imperiale (416 deptos + torre corporativa + hotel, hasta 2029) y Petra Icon en cierre ofrecen pipeline largo: COCO puede proponer bachas/mesadas UHPC para unidades premium, showrooms, lobby/hotel y baños corporativos. Marca muy cuidada de su imagen, buen espacio para un 'sello de diseño'.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Puntaje 75: pipeline y volumen líderes, marca aspiracional, contactos verificados; afinidad estética moderada (sin hormigón visto)."
+   },
+   "pendiente_verificar": "Instagram (429) y Facebook/LinkedIn (403/login) sin leer: seguidores y posts sin dato. Google Maps sin datos. WhatsApp no publicado como enlace. Estado real de Petra Icon (la web dice 'en ejecución', fin prevista 09/2026). Mapeo exacto de los contadores de la home.",
+   "actividad_reciente": {
+    "fecha": "2025-11",
+    "evidencia": "Notas en la web: inauguración de Petra Tower y 10 años de Petra Urbana (25/11/2025); Imperiale en fundaciones",
+    "url": "https://www.petraurbana.com/noticias/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Petra Imperiale (torre residencial + corporativa + hotel)",
+     "tipo": "rascacielos mixto",
+     "etapa": "en obra",
+     "unidades": 416,
+     "link": "https://www.petraurbana.com/desarrollos/petra-imperiale/"
+    },
+    {
+     "nombre": "Petra Icon",
+     "tipo": "torre residencial",
+     "etapa": "en obra",
+     "unidades": 102,
+     "link": "https://www.petraurbana.com/desarrollos/petra-icon/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No se leyeron especificaciones de terminaciones."
+   },
+   "materiales_y_proveedores_visibles": "Banco Sudameris financia Imperiale (La Nación 2024); Soletanche Bachy en fundaciones (Forbes, titular en la web de Petra). Sin marcas de sanitarios/griferías.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 25,
+    "gama": 15,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 9,
+    "total": 75
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: arquitectura contemporánea e icónica cuidada, pero sin evidencia de hormigón visto ni minimalismo.",
+    "volumen": "25/25: 23 proyectos, Imperiale con 416 deptos hasta 2029, más de 2.000 unidades vendidas.",
+    "gama": "15/20: torres premium 'resort living' y marca aspiracional, con líneas Life/Spirit de nivel medio-alto.",
+    "accesibilidad": "12/15: teléfono, email y dirección verificados en la web propia; decisor por prensa; sin WhatsApp ni LinkedIn leído.",
+    "oportunidad_inmediata": "9/10: Imperiale en ejecución (fin 12/2029) y Petra Icon en cierre."
+   },
+   "notas_investigacion": "Leído con curl: home de petraurbana.com, fichas Imperiale, Icon, Tower, Spirit Mariscal, /noticias/, /gobierno-corporativo/ (footer con contactos). petraurbana.com.py de ronda 1 no existe (502). Rutas /contacto, /sobre-petra, /proyectos dan 404. Instagram 429, LinkedIn 403. Prensa: La Nación 2024-2025, Infonegocios. Correcciones ronda 1: web correcta petraurbana.com; inicio 2015 según Infonegocios; Petra Imperiale hoy figura con 416 deptos en torre residencial más torre corporativa y hotel; Petra Tower entregada oct-2025; web lista 23 proyectos (ronda 1: 11 entregados/9 en curso, desactualizado). Un teléfono distinto (0974) 500-200 sale en una nota de Infonegocios: no_verificado. Guasti: cargos varían entre notas."
+  },
+  {
+   "nombre": "AV Desarrolladora (marca Aquino+)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Tte. Virgilio Pessolani 2050, Edificio Sky Park, Torre 1, piso 12 B, Asunción (https://avdesarrolladora.com.py)",
+   "anio_fundacion": 2019,
+   "que_hacen": "Desarrolladora (razón social AVDISA SA) creada en 2019 para formalizar los desarrollos del estudio de arquitectura y construcción Aquino+. Edificios boutique de 20-37 unidades en barrios de Asunción (Margarita, MIO Home, MIO Ykua Sati) y un barrio cerrado en San Bernardino (Barrio Pindó, 9,5 ha).",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura (baja/mediana)",
+    "barrio cerrado/loteamiento"
+   ],
+   "estilo": "Contemporáneo y funcional con diseño del estudio de César Aquino; amenities completos; 'espacios abiertos para sentir que estás en una casa'.",
+   "proyectos_destacados": [
+    {
+     "nombre": "MIO Ykua Sati (30 unidades, 7 plantas, 'en pozo' según web)",
+     "anio": null,
+     "link": "https://avdesarrolladora.com.py/mio-ykua-sati/"
+    },
+    {
+     "nombre": "MIO Home, Manorá/Villa Morra (37 unidades, últimas 2 a la venta, entrega prevista abr-2024)",
+     "anio": 2024,
+     "link": "https://avdesarrolladora.com.py/mio-home/"
+    },
+    {
+     "nombre": "Barrio Pindó, San Bernardino (barrio cerrado, 9,5 ha, cuotas desde US$330)",
+     "anio": null,
+     "link": "https://avdesarrolladora.com.py/barrio-pindo/"
+    },
+    {
+     "nombre": "Vivienda Alta Pietra, San Bernardino (2020, proyecto aquino+, mesadas de granito, muebles ACHON)",
+     "anio": 2020,
+     "link": "https://avdesarrolladora.com.py/otros-proyectos/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Fichas muestran porcelanato, granito natural y muebles ACHON; hormigón solo estructural en prensa (Infonegocios 12/09/2023)."
+   },
+   "tamano_aprox": "Pequeña: 8 colaboradores (Infonegocios 2021, dato viejo); edificios de 20-37 unidades más un loteamiento.",
+   "decisores": [
+    {
+     "nombre": "Matías Aquino",
+     "cargo": "Director Ejecutivo y Desarrollador Inmobiliario",
+     "fuente": "https://avdesarrolladora.com.py/conocenos/"
+    },
+    {
+     "nombre": "Lucas Aquino",
+     "cargo": "Director Financiero y Desarrollador Inmobiliario",
+     "fuente": "https://avdesarrolladora.com.py/conocenos/"
+    },
+    {
+     "nombre": "Luis Sánchez",
+     "cargo": "Gerente administrativo",
+     "fuente": "https://avdesarrolladora.com.py/conocenos/"
+    },
+    {
+     "nombre": "Bárbara Sitjar",
+     "cargo": "Arquitecta",
+     "fuente": "https://avdesarrolladora.com.py/conocenos/"
+    },
+    {
+     "nombre": "Ximena Aquino",
+     "cargo": "Directora de Comunicación",
+     "fuente": "https://avdesarrolladora.com.py/conocenos/"
+    },
+    {
+     "nombre": "César Aquino",
+     "cargo": "Arquitecto, líder de Aquino+ (diseña los proyectos)",
+     "fuente": "https://infonegocios.com.py/default/mio-home-tiene-el-87-de-las-unidades-vendidas-y-ya-se-prepara-mio-ycua-sati"
+    }
+   ],
+   "web": "https://avdesarrolladora.com.py",
+   "instagram": "https://www.instagram.com/avdesarrolladora/",
+   "seguidores_ig": null,
+   "facebook": "https://web.facebook.com/AV-Desarrolladora-Inmobiliaria-106738667396028/",
+   "linkedin": null,
+   "email": "info@avdesarrolladora.com.py",
+   "telefono": "+595 976 172 666",
+   "whatsapp": "https://wa.link/qqudjt (botón 'Escribir al whatsapp' de la web; número destino no resuelto, el único número publicado es +595 976 172 666)",
+   "fuentes": [
+    "https://avdesarrolladora.com.py/",
+    "https://avdesarrolladora.com.py/conocenos/",
+    "https://avdesarrolladora.com.py/mio-ykua-sati/",
+    "https://avdesarrolladora.com.py/mio-home/",
+    "https://avdesarrolladora.com.py/barrio-pindo/",
+    "https://avdesarrolladora.com.py/otros-proyectos/",
+    "https://infonegocios.com.py/hay-equipo/el-equipo-de-av-desarrolladora",
+    "https://infonegocios.com.py/default/mio-home-tiene-el-87-de-las-unidades-vendidas-y-ya-se-prepara-mio-ycua-sati"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Desarrollador y estudio de arquitectura integrados (Aquino+) deciden terminaciones internamente: un contacto directo con Matías Aquino y César Aquino permite proponer bachas/mesadas UHPC para MIO Ykua Sati y casas de Barrio Pindó. Escala chica, por lo que la oportunidad es de prestigio/prescripción más que de volumen.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 51 (baja desde A de ronda 1): contactos y decisores verificados y diseño propio, pero escala pequeña y actividad reciente sin confirmar (sitio sin fecha, prensa 2021-2023)."
+   },
+   "pendiente_verificar": "Actividad de los últimos 18 meses no confirmada: ninguna nota fechada posterior a 09/2023 y la web conserva 'MIO Home entrega abril 2024' y pie '2021'. Confirmar por Instagram/WhatsApp si MIO Ykua Sati arrancó obra. Instagram (429) y Facebook (login) sin leer. Número real detrás de wa.link. Google Maps sin datos. Ubicación exacta de Barrio Pindó (la web cita San Bernardino).",
+   "actividad_reciente": {
+    "fecha": "2023-09",
+    "evidencia": "Última nota de prensa fechada (MIO Home 87% vendido, Infonegocios 12/09/2023); la web propia no tiene fechas",
+    "url": "https://infonegocios.com.py/default/mio-home-tiene-el-87-de-las-unidades-vendidas-y-ya-se-prepara-mio-ycua-sati"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "MIO Ykua Sati",
+     "tipo": "edificio residencial",
+     "etapa": "en venta",
+     "unidades": 30,
+     "link": "https://avdesarrolladora.com.py/mio-ykua-sati/"
+    },
+    {
+     "nombre": "Barrio Pindó, San Bernardino",
+     "tipo": "barrio cerrado (lotes)",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://avdesarrolladora.com.py/barrio-pindo/"
+    },
+    {
+     "nombre": "MIO Home (últimas 2 unidades)",
+     "tipo": "edificio residencial",
+     "etapa": "en obra",
+     "unidades": 37,
+     "link": "https://avdesarrolladora.com.py/mio-home/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Alta Pietra: cocina con mesadas de granito natural y muebles ACHON; MIO Home: grifería Deca/Docol 'o similar' y muebles Achon (prensa 2023): terminaciones estándar de mercado."
+   },
+   "materiales_y_proveedores_visibles": "Deca/Docol (griferías, loza), muebles Achon, aberturas Innova, herrajes Yale, Schneider, aires K... (Infonegocios 12/09/2023); Britimp (seguridad); Itasã SA (constructora de MIO Ykua Sati); comercializan Century 21 Wilson-Chihan y Era Black Real Estate.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 7,
+    "gama": 11,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 5,
+    "total": 51
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: diseño de autor (César Aquino) contemporáneo, pero granito/porcelanato estándar y sin hormigón visto.",
+    "volumen": "7/25: edificios de 20-37 unidades, 8 colaboradores y un loteamiento.",
+    "gama": "11/20: boutique medio-alto (MIO Home desde US$83.000, barrio cerrado en cuotas).",
+    "accesibilidad": "14/15: teléfono, email y botón WhatsApp verificados en la web propia y cinco directivos nombrados en /conocenos; falta redes leídas.",
+    "oportunidad_inmediata": "5/10: MIO Ykua Sati y Barrio Pindó en venta, pero sin evidencia fechada reciente de obra."
+   },
+   "notas_investigacion": "Leído con curl: avdesarrolladora.com.py (home, /conocenos, /mio-ykua-sati, /mio-home, /barrio-pindo, /altos-de-concordia, /otros-proyectos); no existen avdesarrolladora.com ni aquinomas.com.py (502); aquinomas.com respondió 200 pero vacío (no relacionado). Instagram 429, Facebook pide login. Prensa: Infonegocios 2021 (equipo, Britimp), 05/2023 y 09/2023 (MIO); búsquedas de 2026 no devolvieron novedades. Búsquedas de Aquino+ en ArchDaily y similares no hallaron proyectos de la firma. Correcciones ronda 1: web propia sí existe (ronda 1 la tenía null); Barrio Pindó (San Bernardino) y Altos de Concordia (2017) no estaban; MIO Home figura con 37 unidades; fit baja de A a B por escala y falta de actividad reciente."
+  },
+  {
+   "nombre": "Creo Inmuebles (Creo Inmuebles S.A.; líneas Ventura y Venire)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "direccion": "Edificio WTC, Torre 2, Piso 18, Aviadores del Chaco 2050, Asunción (https://www.creo.com.py/contacto/)",
+   "anio_fundacion": 2015,
+   "que_hacen": "Desarrolladora de capital nacional con más de 10 años (celebró 10 años en ago-2025): edificios de vivienda de líneas Ventura (clase media, US$80-140k) y Venire (joven, urbano, 'New York Style'). Web declara 10 edificios y 700 departamentos; integra desarrollo, ejecución y comercialización.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "inversión/renta corta"
+   ],
+   "estilo": "Venire: 'arquitectura constructivista' con hormigón, acero, ladrillo y madera, aberturas piso a techo; Ventura: estética sobria, materiales duraderos, patios verdes.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Venire Villamorra (80 deptos, 8 pisos; palada inicial abr-2026; ladrillo visto, acero y hormigón)",
+     "anio": 2026,
+     "link": "https://www.creo.com.py/venire-villa-morra-inicia-su-construccion-un-edificio-orientado-a-la-vida-urbana-y-la-renta-a-corto-plazo/"
+    },
+    {
+     "nombre": "Veralta Los Laureles (3 torres, 351 deptos, con Altamira Group; palada 25/08/2026)",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/infomicasa/veralta-los-laureles-inicia-obras-y-apunta-a-consolidar-una-nueva-propuesta-residencial-en-asuncion"
+    },
+    {
+     "nombre": "Ventura Hassler (56 deptos, 7 pisos; entrega prevista ago-2026)",
+     "anio": 2026,
+     "link": "https://www.creo.com.py/proyectos/edificio-ventura-hassler/"
+    },
+    {
+     "nombre": "Ventura Ykua Sati (séptimo Ventura, patio de 900 m2, listo 2027)",
+     "anio": 2027,
+     "link": "https://www.creo.com.py/ventura-ykua-sati-un-homenaje-al-barrio-mas-verde-de-asuncion/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Su web describe Venire 568 / Lomas / Villamorra con 'hormigón, acero, ladrillo' y la nota de Venire Villamorra habla de 'ladrillo visto, acero y hormigón' (estilo industrial); uso en fachada/interior, no hay fotos de hormigón visto interior leídas."
+   },
+   "tamano_aprox": "Mediana-grande: 10 edificios y 700 deptos según contadores web (94.000 m2); +1.000 unidades entre terminadas, en obra y planificación (nota abr-2026); 4 proyectos en obra o entrega hoy.",
+   "decisores": [
+    {
+     "nombre": "Mateo Fadul",
+     "cargo": "Director",
+     "fuente": "https://www.creo.com.py/venire-villa-morra-inicia-su-construccion-un-edificio-orientado-a-la-vida-urbana-y-la-renta-a-corto-plazo/"
+    },
+    {
+     "nombre": "Víctor Torras",
+     "cargo": "Gerente General",
+     "fuente": "https://www.creo.com.py/victor-torras-liderar-es-establecer-un-rumbo-claro-y-generar-las-condiciones-para-que-el-equipo-pueda-avanzar/"
+    },
+    {
+     "nombre": "Yanina Valinotti",
+     "cargo": "Gerente Técnica",
+     "fuente": "https://www.creo.com.py/venire-villa-morra-inicia-su-construccion-un-edificio-orientado-a-la-vida-urbana-y-la-renta-a-corto-plazo/"
+    },
+    {
+     "nombre": "Rebeca Gonzalez",
+     "cargo": "Jefa Comercial (texto truncado en la página: 'efa Comercial')",
+     "fuente": "https://www.creo.com.py/venire-villa-morra-inicia-su-construccion-un-edificio-orientado-a-la-vida-urbana-y-la-renta-a-corto-plazo/"
+    }
+   ],
+   "web": "https://www.creo.com.py",
+   "instagram": "https://www.instagram.com/creoinmuebles/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/profile.php?id=100068563125073",
+   "linkedin": "https://www.linkedin.com/company/creo-inmuebles/",
+   "email": "info@creo.com.py",
+   "telefono": "+595 974 332 000 (la web lo escribe '+1595 974 332 000', error tipográfico; coincide con su enlace de WhatsApp)",
+   "whatsapp": "+595 974 332 000 (api.whatsapp.com/send?phone=595974332000)",
+   "fuentes": [
+    "https://www.creo.com.py",
+    "https://www.creo.com.py/contacto/",
+    "https://www.creo.com.py/nosotros/",
+    "https://www.creo.com.py/proyectos/venire-villamorra/",
+    "https://www.creo.com.py/proyectos/edificio-veralta/",
+    "https://www.creo.com.py/proyectos/edificio-ventura-hassler/",
+    "https://www.creo.com.py/venire-villa-morra-inicia-su-construccion-un-edificio-orientado-a-la-vida-urbana-y-la-renta-a-corto-plazo/",
+    "https://infonegocios.com.py/infomicasa/veralta-los-laureles-inicia-obras-y-apunta-a-consolidar-una-nueva-propuesta-residencial-en-asuncion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Estética con hormigón y ladrillo visto en Venire encaja con UHPC: proponer bachas/mesadas de hormigón como diferencial en Venire Villamorra (80 deptos, 65% vendido) y Veralta (351 deptos), con gerente técnica y director identificables. Ticket medio-alto: ofrecer línea modular y opcional para unidades premium.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Puntaje 70: afinidad estética con hormigón visible, cuatro proyectos en obra o entrega, contactos y decisores verificados en su web; gama media-alta."
+   },
+   "pendiente_verificar": "Instagram (429), Facebook (login) y LinkedIn (no leído) sin datos: seguidores y posts. Google Maps sin datos. Etapa exacta de Ventura Hassler (entrega ago-2026 prevista) y de Ventura Ykua Sati. Cargo de Rebeca Gonzalez truncado en la web. Ronda 1 ubicaba Ventura Hassler como preventa, hoy debería estar entregándose.",
+   "actividad_reciente": {
+    "fecha": "2026-09",
+    "evidencia": "Entrevista a Víctor Torras publicada el 16/09/2026 en el blog; Veralta inicia obra el 25/08/2026",
+    "url": "https://www.creo.com.py/victor-torras-liderar-es-establecer-un-rumbo-claro-y-generar-las-condiciones-para-que-el-equipo-pueda-avanzar/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Venire Villamorra (Guido Spano esq. Sen. Long)",
+     "tipo": "edificio residencial/renta corta",
+     "etapa": "en obra",
+     "unidades": 80,
+     "link": "https://www.creo.com.py/proyectos/venire-villamorra/"
+    },
+    {
+     "nombre": "Veralta Los Laureles (con Altamira Group)",
+     "tipo": "3 torres residenciales",
+     "etapa": "en obra",
+     "unidades": 351,
+     "link": "https://www.creo.com.py/proyectos/edificio-veralta/"
+    },
+    {
+     "nombre": "Ventura Hassler",
+     "tipo": "edificio residencial",
+     "etapa": "en obra",
+     "unidades": 56,
+     "link": "https://www.creo.com.py/proyectos/edificio-ventura-hassler/"
+    },
+    {
+     "nombre": "Ventura Ykua Sati (listo 2027)",
+     "tipo": "edificio residencial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.creo.com.py/ventura-ykua-sati-un-homenaje-al-barrio-mas-verde-de-asuncion/"
+    },
+    {
+     "nombre": "Venire Lomas / Venire 568",
+     "tipo": "edificios residenciales",
+     "etapa": "en venta",
+     "unidades": 124,
+     "link": "https://www.creo.com.py/proyectos/edificio-venire-lomas/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Fichas: 'cocina equipada con muebles, horno, anafe y campana' estándar; sin foco en baños ni mesadas de diseño."
+   },
+   "materiales_y_proveedores_visibles": "Hormigón, acero, ladrillo y madera en fachadas; cerraduras digitales; selección de 'proveedores de alto nivel' sin marcas de sanitarios. Constructora González Acosta y Wood (Ventura Hassler); Altamira Group (socio de Veralta); comercializa Era Black.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 19,
+    "gama": 11,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 9,
+    "total": 70
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: hormigón/ladrillo visto y arquitectura constructivista en Venire; Ventura más convencional.",
+    "volumen": "19/25: 10 edificios, 700 deptos y 500+ unidades en curso (Veralta 351, Venire Villamorra 80, Hassler 56).",
+    "gama": "11/20: medio/medio-alto (Ventura US$80-140k; Venire desde US$94k).",
+    "accesibilidad": "14/15: teléfono, email, WhatsApp y cuatro decisores publicados en su web; falta leer redes.",
+    "oportunidad_inmediata": "9/10: Venire Villamorra y Veralta recién en obra (abr y ago 2026) más Hassler en entrega e Ykua Sati 2027."
+   },
+   "notas_investigacion": "Leído con curl: creo.com.py (home, /contacto, /nosotros, fichas Venire Villamorra, Venire 568, Venire Lomas, Veralta, Ventura Hassler, Ventura Ykua Sati II (sin contenido) y cinco notas del blog). creoinmuebles.com.py y .com no existen (502). Instagram 429, Facebook login, LinkedIn no leído. Prensa: Infonegocios (Veralta 26/08/2026, Ventura Ykua Sati 13/02/2025, Venire Villamorra, Ventura Hassler). Correcciones ronda 1: la empresa se llama Creo Inmuebles S.A. con líneas Ventura y Venire (Ventura Hassler está en Mariscal Estigarribia/Los Laureles, RI 6 Boquerón esq. Hassler); Venire Villamorra empezó obra en abril 2026 y está ~65% vendido; Veralta (351 deptos) es proyecto nuevo con Altamira Group. Un dato de HypeAuditor (~12,7K seguidores en @creoinmuebles) apareció en un buscador pero no pude abrirlo: no_verificado."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Altamira Group (socio de Creo en Veralta Los Laureles)",
+   "link": "https://infonegocios.com.py/infomicasa/veralta-los-laureles-inicia-obras-y-apunta-a-consolidar-una-nueva-propuesta-residencial-en-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Katuete SRL (Palmanova Villa Morra, edificio boutique)",
+   "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-palmanova-villa-morra-un-edificio-boutique-que-propone-un-nuevo-estandar-de-lujo",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "PyH Urban Development (Home Villa Morra)",
+   "link": "https://infonegocios.com.py/default/home-villa-morra-esta-listo-y-solo-queda-una-ultima-unidad-disponible",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "AGB Constructora (construye Fortaleza Carmelitas)",
+   "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2023/07/02/fortaleza-inmuebles-y-agb-constructora-unen-fuerzas/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Itasã SA (constructora de MIO Ykua Sati)",
+   "link": "https://infonegocios.com.py/amp/infomicasa/av-desarrolladora-e-itasa-sa-dan-palada-inicial-de-mio-ykua-sati-esquina-residencial-inigualable",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Constructora González Acosta y Wood (Ventura Hassler)",
+   "link": "https://infonegocios.com.py/default/ventura-hassler-se-encuentra-en-preventa-un-proyecto-de-creo-inmuebles-con-us-5-6-millones-de-inversion",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Estudio Aquino+ / arq. César Aquino (diseña los MIO y Barrio Pindó)",
+   "link": "https://infonegocios.com.py/infomicasa/cesar-aquino-para-casacor-gastronomia-y-arquitectura-dos-pasiones",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Arq. Mauro Remonato (proyectó Urban Mburucuyá)",
+   "link": "https://infonegocios.com.py/amp/infomicasa/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
