@@ -1,0 +1,674 @@
+{
+ "lote": "r2b-10",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "La Fábrica Social S.A. (La Fábrica de Viviendas)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Alejo Silva 2092 casi Mayor Merlo, Asunción",
+   "anio_fundacion": null,
+   "que_hacen": "Vende y construye viviendas económicas y de gama media-baja con financiación propia o bancaria (cuotas 'a precio de alquiler'), en dos líneas (Standar y Deluxe) y el loteo 'Barrio Modelo Ykua Dure' en Luque. Nació en 2020 como emprendimiento social vinculado a TECHO Paraguay (prensa 2020) y hoy figura como La Fábrica Social Sociedad Anónima.",
+   "tipo_proyectos": [
+    "residencial económico / social",
+    "viviendas financiadas",
+    "módulos sanitarios y mejoras en unidades de salud"
+   ],
+   "estilo": "Viviendas estándar de baja gama; Barrio Modelo con hormigón armado, piso cerámico, mesada de granito y azulejado de baños. Sin estética minimalista/concreto visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Barrio Modelo Ykua Dure (Luque; casas de 58 a 108 m2, Gs. 290 a 520 millones)",
+     "anio": 2022,
+     "link": "https://lafabrica.com.py/barrio-modelo/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Fichas de modelos en lafabrica.com.py/barrio-modelo/ listan estructura de hormigón armado con piso cerámico y mesada de granito; no hay mención de hormigón visto."
+   },
+   "tamano_aprox": "Pequeña-mediana: 'más de 100' (quienes-somos) / 'más de 200' (home) viviendas entregadas; equipo de ~10 personas listado en la web.",
+   "decisores": [
+    {
+     "nombre": "Adriana Cho",
+     "cargo": "Gerente general",
+     "fuente": "https://lafabrica.com.py/quienes-somos/"
+    },
+    {
+     "nombre": "Ana Zaracho",
+     "cargo": "Gerente Comercial",
+     "fuente": "https://lafabrica.com.py/quienes-somos/"
+    },
+    {
+     "nombre": "José Bogado",
+     "cargo": "Arq., Obras",
+     "fuente": "https://lafabrica.com.py/quienes-somos/"
+    }
+   ],
+   "web": "https://lafabrica.com.py/",
+   "instagram": "https://instagram.com/lafabrica_py",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/lafabricadeviviendas",
+   "linkedin": null,
+   "email": "hola@lafabrica.com.py",
+   "telefono": "+595 972 796 000",
+   "whatsapp": "+595 972 796 000",
+   "fuentes": [
+    "https://lafabrica.com.py/",
+    "https://lafabrica.com.py/contacto/",
+    "https://lafabrica.com.py/quienes-somos/",
+    "https://lafabrica.com.py/barrio-modelo/",
+    "https://lafabrica.com.py/financiacion/",
+    "https://luquenoticias.com.py/2020/08/27/la-fabrica-social-ofrece-viviendas-premium/",
+    "https://www.lanacion.com.py/negocios/2020/08/28/ofrecen-construir-viviendas-sociales-tipo-premium-desde-g-29-millones",
+    "https://www.infocasas.com.py/barrio-modelo-ykua-dure/189589042",
+    "https://www.contrataciones.gov.py/buscador/proveedores.html?proveedor=FABRICA+SOCIAL"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco encaje: vende vivienda económica donde la bacha/mesada es de granito estándar. Solo tendría sentido como cuenta de volumen muy bajo costo, no como prescriptor.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Gama económica, estética sin afinidad y sin actividad verificable en los últimos 18 meses (ver motivo_descarte)."
+   },
+   "pendiente_verificar": "Instagram (429) y Facebook (login) no legibles: no se pudo confirmar actividad reciente ni seguidores. Google Maps no cargó. LinkedIn no hallado. Confirmar con llamada si la empresa sigue operando.",
+   "descartada": true,
+   "motivo_descarte": "Sin actividad verificable en los últimos ~18 meses: el contenido de lafabrica.com.py fue editado por última vez en oct-2023 (API wp-json), el aviso en InfoCasas es de ago-2022 y las últimas notas de prensa son de 2020; el sitio además tiene 6 entradas de spam de casino inyectadas en sep-2026 (posible sitio comprometido/abandonado). Segmento vivienda económica, fit C. Los contactos verificados quedan registrados por si se reevalúa.",
+   "actividad_reciente": {
+    "fecha": "2023-10",
+    "evidencia": "Última edición de las páginas del sitio propio (wp-json/wp/v2/pages: modified 2023-10-28 en barrio-modelo y galería). Sin posts/obras fechados posteriores; entradas de blog de casino spam fechadas 2026-09-25 no son actividad de la empresa.",
+    "url": "https://lafabrica.com.py/wp-json/wp/v2/pages"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Barrio Modelo Ykua Dure (Luque)",
+     "tipo": "casas en loteo, tipologías 1, 2A, 2C y 3",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://lafabrica.com.py/barrio-modelo/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Solo especificaciones estándar: 'azulejado completo en baños', 'cocina con mesada de granito' (lafabrica.com.py/barrio-modelo/)."
+   },
+   "materiales_y_proveedores_visibles": "Mesada de granito, piso cerámico, vidrio templado, termopanel. Sin marcas de grifería ni bachas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 3,
+    "volumen": 6,
+    "gama": 5,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 3,
+    "total": 29
+   },
+   "puntaje_justificacion": {
+    "estetica": "3/30: viviendas estándar con granito y cerámico; hormigón armado solo estructural; sin concreto visto ni minimalismo.",
+    "volumen": "6/25: 100 a 200 viviendas entregadas en ~4 años; equipo chico; Barrio Modelo es un solo loteo.",
+    "gama": "5/20: público de crédito AFD/clase media-baja; casas desde Gs. 290 millones (aprox. 37 mil USD) y modelos desde 29 millones en 2020.",
+    "accesibilidad": "12/15: teléfono, email y WhatsApp publicados en la propia web + gerente general y gerente comercial nombrados; sin Instagram/seguidores leídos.",
+    "oportunidad_inmediata": "3/10: Barrio Modelo figura 'en venta' pero sin fecha reciente ni evidencia de obras en curso."
+   },
+   "notas_investigacion": "Leído: luquenoticias 2020 (WebFetch), La Nación 28/08/2020, Infonegocios 01/09/2020, Última Hora 2020, paraguay.techo.org/que-hacemos (no menciona la Fábrica; TECHO comparte la dirección Alejo Silva 2092 con la Fábrica), lafabrica.com.py (home, quienes-somos, barrio-modelo, financiacion, contacto, galeria, modelos, wp-json) vía curl con UA de navegador, InfoCasas ref A3AF1F (publicado 31/08/2022), DNCP (sin resultados como proveedor). CORRECCIONES ronda 1: el link de ronda 1 era prensa 2020; el dominio fabricasocial.com.py citado en prensa NO resuelve (EAI_AGAIN / CONNECT 502; BuiltWith indica que redirigía a lafabrica.com.py hasta ene-2024); la web vigente es lafabrica.com.py y la razón social es 'La Fábrica Social Sociedad Anónima'. El email de prensa 'hola@fabricasocial.como.py' es un error tipográfico del medio y no se usa; el WhatsApp de prensa 0986 560 000 (2020) queda como no_verificado. En el sitio propio hay dos números de WhatsApp: 595972796000 (botón flotante, coincide con el teléfono) y 595976540000 (ícono social del footer, no coincide). Instagram (429), Facebook (login wall) y Google Maps (sin datos) fallaron. La web dice 'más de 100' en quienes-somos y 'más de 200' en el home viviendas entregadas. Contenido de casino spam en el blog."
+  },
+  {
+   "nombre": "Aveiro Construcciones S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción (a confirmar)",
+   "region": "Gran Asunción",
+   "direccion": "Av. Luis María Argaña casi de las Palmas (según Infonegocios 2023; no verificado en fuente propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora vial joven (nueve años en el mercado en jul-2023): movimiento de suelo, alquiler de maquinaria, gerenciamiento y fiscalización de obras e impermeabilización de techos con poliuretano expandido. Socio director: Ing. Jorge Aveiro (Infonegocios 20/07/2023).",
+   "tipo_proyectos": [
+    "ingeniería vial",
+    "movimiento de suelo",
+    "impermeabilización"
+   ],
+   "estilo": "Obra civil/vial; no hay obra de edificación ni de terminaciones.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Defensa Costera de Pilar (subcontrato de alquiler de maquinaria, Consorcio CTC, concluido 2022)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/default/aveiro-construcciones-sa-pisa-fuerte-en-la-ingenieria-vial-y-suma-servicio-de-impermeabilizacion-de-techos-con-poliuretano-expandido"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin información."
+   },
+   "tamano_aprox": "Pequeña: más de 15 máquinas de porte grande y mediano (Infonegocios 2023); sin cifra de empleados.",
+   "decisores": [
+    {
+     "nombre": "Jorge Aveiro",
+     "cargo": "Ing., socio director",
+     "fuente": "https://infonegocios.com.py/default/aveiro-construcciones-sa-pisa-fuerte-en-la-ingenieria-vial-y-suma-servicio-de-impermeabilizacion-de-techos-con-poliuretano-expandido"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/aveiro-construcciones-sa-pisa-fuerte-en-la-ingenieria-vial-y-suma-servicio-de-impermeabilizacion-de-techos-con-poliuretano-expandido",
+    "https://www.contrataciones.gov.py/proveedor/jorge-moises-aveiro-kruger.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Sin ángulo: constructora vial/impermeabilización sin obras de edificación visibles.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Inactiva a la vista y fuera de segmento (obra vial)."
+   },
+   "pendiente_verificar": "Teléfonos de la nota de prensa (021) 338-002 y (0981) 621-861: NO verificados (solo aparecen en Infonegocios 2023). Instagram y Facebook de la empresa no encontrados.",
+   "descartada": true,
+   "motivo_descarte": "Sin actividad visible en los últimos ~18 meses: lo único hallado es la nota de Infonegocios del 20/07/2023 (hace ~40 meses); no hay web, Instagram ni Facebook propios hallados; en DNCP no figura como S.A. sino una persona física (Jorge Moisés Aveiro Krüger, nombre de fantasía 'Aveiro Construcciones', RUC 4842194-4) con 0 participaciones y 0 adjudicaciones. Además el foco es obra vial, sin edificación.",
+   "actividad_reciente": {
+    "fecha": "2023-07",
+    "evidencia": "Nota Infonegocios 20/07/2023: 'Aveiro Construcciones SA pisa fuerte en la ingeniería vial'; obras en subcontrato en Ruta 22 San Pedro (2023).",
+    "url": "https://infonegocios.com.py/default/aveiro-construcciones-sa-pisa-fuerte-en-la-ingenieria-vial-y-suma-servicio-de-impermeabilizacion-de-techos-con-poliuretano-expandido"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "No hace edificación ni terminaciones."
+   },
+   "materiales_y_proveedores_visibles": "Máquina de proyección de poliuretano Evolution G35h (impermeabilización); nada de grifería/bachas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 1,
+    "volumen": 4,
+    "gama": 2,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 7
+   },
+   "puntaje_justificacion": {
+    "estetica": "1/30: obra vial e impermeabilización, sin afinidad con terminaciones.",
+    "volumen": "4/25: ~15 máquinas, subcontratos puntuales; sin adjudicaciones en DNCP.",
+    "gama": "2/20: obras públicas/subcontratos; sin público premium.",
+    "accesibilidad": "0/15: ningún contacto verificado en fuente propia; solo un socio director nombrado en prensa 2023.",
+    "oportunidad_inmediata": "0/10: sin obras en curso ni evidencia de actividad."
+   },
+   "notas_investigacion": "Leído: Infonegocios 20/07/2023 (WebFetch; el artículo no cita web ni redes propias: los enlaces sociales de la página son de Infonegocios). WebSearch (3 búsquedas, incluida 'Aveiro Construcciones 2025 OR 2026') no halló prensa posterior ni web. DNCP: buscador proveedores?proveedor=AVEIRO+CONSTRUCCIONES devuelve solo 'JORGE MOISES AVEIRO KRUGER' (fantasía Aveiro Construcciones; domicilio Gral. Burgués c/ 9 de Marzo) sin participaciones ni adjudicaciones (no se registran los datos personales de contacto). Dominios probados aveiroconstrucciones.com.py, www., aveiro.com.py: sin resolución (CONNECT 502). Facebook /aveiroconstrucciones: login wall; Instagram /aveiroconstrucciones: 429. Google Maps no cargó. CORRECCIÓN ronda 1: ciudad era 'a confirmar'; la nota solo da una dirección sobre Av. Luis María Argaña (Asunción), por eso 'Asunción (a confirmar)'."
+  },
+  {
+   "nombre": "Constructora Isacio Vallejos S.A. (CIVSA)",
+   "segmento": "constructora",
+   "ciudad": "Fernando de la Mora",
+   "region": "Gran Asunción",
+   "direccion": "Avda. Defensores del Chaco 767 c/ Incas, Fernando de la Mora (domicilio legal según registros DNCP; no verificado en web propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora de obra pública de gran volumen (rutas, pavimentación, hospitales, agua potable, saneamiento, puertos), generalmente en consorcio con otras empresas (TyC, Rovella Carranza, Benito Roggio). Su director propietario, Isacio Vallejos, dice llevar 'un poco más de 37 años' en la actividad (Infonegocios 22/04/2024).",
+   "tipo_proyectos": [
+    "obra vial",
+    "público (hospitales)",
+    "agua y saneamiento",
+    "viviendas sociales rurales (2016)"
+   ],
+   "estilo": "Ingeniería pesada / obra pública; sin diseño ni terminaciones de alta gama.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Corredor Bioceánico PY15, Lote 4 km 270-322 (Consorcio TCR: TyC, CIVSA, Rovella Carranza; Fonplata)",
+     "anio": 2025,
+     "link": "https://mopc.gov.py/mano-de-obra-calificada-impulsa-el-avance-del-lote-4-de-la-ruta-bioceanica/"
+    },
+    {
+     "nombre": "Ruta O'Leary - San Cristóbal, Lote 3 (Consorcio TYCIV III: TyC y CIVSA)",
+     "anio": 2026,
+     "link": "https://www.lanacion.com.py/negocios/2026/01/26/asfalto-oleary-san-cristobal-avanza-con-obras-en-los-tres-lotes-del-tramo-de-62-km/"
+    },
+    {
+     "nombre": "Hospital IPS Ingavi (construido por CIVSA según ABC 2026)",
+     "anio": null,
+     "link": "https://www.abc.com.py/economia/2026/05/06/hospital-de-itaugua-itaipu-descalifica-a-dos-consorcios-de-peso-por-falta-de-solvencia-y-experiencia/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin información; obra vial y hospitalaria."
+   },
+   "tamano_aprox": "Grande en obra pública: Consorcio Conciv (arroyo Itay/Parque Guasu) adjudicado por Gs. 76.604 millones y varios consorcios viales con Vallejos como representante en DNCP; más de 200 personas solo en el Lote 4 del Bioceánico (consorcio). Headcount propio no publicado.",
+   "decisores": [
+    {
+     "nombre": "Isacio Vallejos (Isacio Eusebio Vallejos Aquino)",
+     "cargo": "Director propietario / representante legal",
+     "fuente": "https://infonegocios.com.py/nota-principal/isacio-vallejos-la-capacidad-de-endeudamiento-es-tan-importante-como-la-capacidad-financiera-y-tecnica"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/civsa_py/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/nota-principal/isacio-vallejos-la-capacidad-de-endeudamiento-es-tan-importante-como-la-capacidad-financiera-y-tecnica",
+    "https://www.lanacion.com.py/negocios/2026/01/26/asfalto-oleary-san-cristobal-avanza-con-obras-en-los-tres-lotes-del-tramo-de-62-km/",
+    "https://mopc.gov.py/mano-de-obra-calificada-impulsa-el-avance-del-lote-4-de-la-ruta-bioceanica/",
+    "https://www.abc.com.py/economia/2026/05/06/hospital-de-itaugua-itaipu-descalifica-a-dos-consorcios-de-peso-por-falta-de-solvencia-y-experiencia/",
+    "https://www.contrataciones.gov.py/buscador/proveedores.html?proveedor=CIVSA",
+    "https://www.contrataciones.gov.py/proveedor/consorcio-conciv/adjudicaciones.html",
+    "https://www.infrapppworld.com/company/constructora-isacio-vallejos-sa-civsa-1"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco encaje directo: obra pública vial. Solo útil como contacto si COCO apuntara a hospitales/edificios públicos (mesadas y bachas antivandálicas) o a viviendas sociales; baja prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Gran volumen pero obra pública vial, sin afinidad estética y sin contactos verificados en fuente propia."
+   },
+   "pendiente_verificar": "No se halló web propia. Instagram 'civsa_py' (handle citado por Infonegocios 2024) no leído por 429 → seguidores y actividad sin confirmar. Teléfono 520653 y dirección figuran solo en registros DNCP (no_verificado como contacto de la empresa). Hay un gmail en DNCP que no se registra. Confirmar con BNamericas (403) la pertenencia de CIVSA al Consorcio Boquerón (Ruta 9, Gs. 413.888 millones), que no pudo leerse.",
+   "descartada": false,
+   "actividad_reciente": {
+    "fecha": "2026-05",
+    "evidencia": "ABC Color 06/05/2026: CIVSA (Consorcio GHI) descalificada en licitación del Hospital de Itauguá; La Nación 26/01/2026: Consorcio TYCIV III ejecuta el Lote 3 de O'Leary-San Cristóbal.",
+    "url": "https://www.abc.com.py/economia/2026/05/06/hospital-de-itaugua-itaipu-descalifica-a-dos-consorcios-de-peso-por-falta-de-solvencia-y-experiencia/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Ruta O'Leary - San Cristóbal, Lote 3 (Consorcio TYCIV III)",
+     "tipo": "pavimentación vial (22 km, inicio oficial mayo 2025)",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.lanacion.com.py/negocios/2026/01/26/asfalto-oleary-san-cristobal-avanza-con-obras-en-los-tres-lotes-del-tramo-de-62-km/"
+    },
+    {
+     "nombre": "Corredor Bioceánico PY15, Lote 4 (Consorcio TCR)",
+     "tipo": "ruta, km 270 a 322, Chaco",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://mopc.gov.py/mano-de-obra-calificada-impulsa-el-avance-del-lote-4-de-la-ruta-bioceanica/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Obra vial y pública; sin terminaciones de baño/cocina visibles."
+   },
+   "materiales_y_proveedores_visibles": "No visibles.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 2,
+    "volumen": 20,
+    "gama": 4,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 2,
+    "total": 32
+   },
+   "puntaje_justificacion": {
+    "estetica": "2/30: obra vial y pública; sin diseño ni concreto visto arquitectónico.",
+    "volumen": "20/25: consorcios con obras de decenas a cientos de miles de millones de Gs. (Conciv Gs. 76.604 millones; Bioceánico Lote 4; O'Leary-San Cristóbal), pero siempre en consorcio.",
+    "gama": "4/20: público/estatal; sin público premium.",
+    "accesibilidad": "4/15: sin web ni contactos verificados en fuente propia; solo decisor identificado (Isacio Vallejos, director propietario).",
+    "oportunidad_inmediata": "2/10: obras en curso son rutas; solo hospitales/viviendas sociales podrían usar bachas."
+   },
+   "notas_investigacion": "Leído: Infonegocios 22/04/2024 (entrevista; solo cita instagram.com/civsa_py), La Nación 26/01/2026, MOPC 07/10/2025 (Lote 4), ABC 06/05/2026, DNCP (buscador de proveedores: CIVSA aparece solo como domicilio/representante de consorcios: Caaguazú, Caazapá, CIVSA-IOCON, Conciv (con Sergio Samudio Báez); adjudicaciones leídas: Conciv Gs. 76.604.222.719 MOPC arroyo Itay; Caaguazú I Gs. 28.176.956.549; Caaguazú II Gs. 7.922.813.667; CT Vial Gs. 289.659.810.096 y GHA Gs. 466.945.868.869 aparecen en la búsqueda por Vallejos pero no confirmé que CIVSA integre esos consorcios). CORRECCIÓN ronda 1: ciudad 'a confirmar' → Fernando de la Mora (domicilio legal DNCP/WebSearch de un expediente MUVH); el link de ronda 1 (infrapppworld) es un directorio sin contactos. Falló: BNamericas y DevelopmentAid (403), Instagram (429), dominios civsa.com.py y www.civsa.com.py (CONNECT 502, no existen), LinkedIn y Facebook no encontrados, Google Maps no cargó. 'No hay web propia' es la conclusión tras 5 búsquedas; podría existir sin indexar."
+  },
+  {
+   "nombre": "Mafado Constructora S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Auditores del Chaco 169 c/ Stma. Trinidad, Asunción",
+   "anio_fundacion": 2013,
+   "que_hacen": "Constructora que proyecta, construye, gerencia y fiscaliza obras civiles; inició actividades en 2013 en el Departamento Central. Primera Empresa B del rubro construcción en Paraguay (certificada ago-2022) y adherida al Pacto Global desde 2019. Edificios en altura, hoteles, viviendas, comercios, depósitos y estacionamientos.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "hotelero",
+    "residencial",
+    "comercial/oficinas",
+    "depósitos",
+    "estacionamientos"
+   ],
+   "estilo": "Constructora de terceros con estética contemporánea de los proyectos que ejecuta (Hotel Five con hormigón visto, Palmanova Las Lomas con fachada de hormigón visto); no diseña.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Palmanova Las Lomas (torre de 50 pisos, Grupo Palmanova; Mafado figura en 'Construye')",
+     "anio": 2025,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html"
+    },
+    {
+     "nombre": "Hotel Five (Villa Morra, 1 subsuelo + 6 pisos, culminado 2019)",
+     "anio": 2019,
+     "link": "https://mafado.com.py/five-hotel/"
+    },
+    {
+     "nombre": "Edificio Áncora (Av. Santa Teresa c/ Cnel. Escurra, 2 subsuelos + 18 pisos, 11.695 m2)",
+     "anio": 2017,
+     "link": "https://mafado.com.py/edificio-ancora/"
+    },
+    {
+     "nombre": "Hotel Esplendor (3 subsuelos + 19 pisos, 15.500 m2, gerenciamiento 2013-2016)",
+     "anio": 2016,
+     "link": "https://mafado.com.py/hotel-esplendor-2/"
+    },
+    {
+     "nombre": "Edificio Brasilia (Av. Brasilia, 7 pisos de departamentos, 3.104 m2)",
+     "anio": null,
+     "link": "https://mafado.com.py/edificio-brasilia/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ABC Color 18/09/2018 (Hotel Five): 'hormigón visto', losas radiantes en baños, drywall; Palmanova Las Lomas, que Mafado construye, tiene fachada de hormigón visto según palmanova.com.py."
+   },
+   "tamano_aprox": "Mediana-grande: torres de 18 a 50 pisos; más de 150 profesionales en el Hotel Five (2018). Headcount total no publicado.",
+   "decisores": [
+    {
+     "nombre": "Marco Facetti",
+     "cargo": "Ing., director de la empresa constructora",
+     "fuente": "https://www.abc.com.py/edicion-impresa/suplementos/comercial/inauguracion-hotel-five/una-edificacion-conectada-con-el-paisaje-urbano-1741587.html"
+    }
+   ],
+   "web": "https://mafado.com.py/",
+   "instagram": "https://www.instagram.com/mafadoconstructora/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/ConstructoraMafado/",
+   "linkedin": "https://py.linkedin.com/company/mafadoconstructora",
+   "email": "info@mafado.com.py",
+   "telefono": "021 284 050/1",
+   "whatsapp": null,
+   "fuentes": [
+    "https://mafado.com.py/",
+    "https://mafado.com.py/viviendas/",
+    "https://mafado.com.py/edificio-brasilia/",
+    "https://mafado.com.py/five-hotel/",
+    "https://mafado.com.py/edificio-ancora/",
+    "https://mafado.com.py/hotel-esplendor-2/",
+    "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html",
+    "https://www.abc.com.py/edicion-impresa/suplementos/comercial/inauguracion-hotel-five/una-edificacion-conectada-con-el-paisaje-urbano-1741587.html",
+    "https://infonegocios.com.py/infomicasa/los-laureles-tower-edificio-tiana-el-sexto-proyecto-en-paraguay-de-la-desarrolladora-corar-avanza-su-construccion",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2017/12/05/edificio-ancora-ya-vendio-el-40-de-los-96-departamentos/",
+    "https://amigocamionero.com.py/constructora-mafado-innova-en-tecnicas-para-el-cuidado-del-medio-ambiente/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Constructora de torres premium (Palmanova Las Lomas, hoteles) que incluye 'granito y mármol' y carpintería en su alcance: puede recomendar o incorporar bachas/mesadas UHPC livianas en unidades y baños de hotel. Entrar por Mafado y por la desarrolladora (Katuete/Palmanova) que fija la terminación.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Torres y hoteles de gama alta con hormigón visto, contactos de empresa verificados; pero ejecuta lo que define el desarrollador y su actividad 2025-26 está documentada solo por un logo."
+   },
+   "pendiente_verificar": "Instagram (429), Facebook (login) y LinkedIn (403) no legibles: seguidores, último post y temas sin leer. Google Maps no cargó. El teléfono visible (021 284 050/1) no coincide con el enlace tel: del mismo bloque (+595 21 227 896); confirmar cuál atiende. El número wa.me/595976777399 (0976 777 399) está publicado como canal de DENUNCIAS, no comercial: no se registra como WhatsApp. Confirmar con Palmanova quién decide terminaciones de Las Lomas y su estado de obra.",
+   "descartada": false,
+   "actividad_reciente": {
+    "fecha": "2026-11",
+    "evidencia": "A la fecha de verificación, la ficha de Palmanova Las Lomas (torre en preventa) muestra a Mafado como constructora ('Construye'); fecha de inicio de obra no publicada. El sitio propio no tiene noticias fechadas; la última obra con nota fechada es Los Laureles Tower Edificio Tiana (palada inicial mar-2021).",
+    "url": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Palmanova Las Lomas",
+     "tipo": "torre residencial de 50 pisos con fachada de hormigón visto (Grupo Palmanova / Katuete SRL)",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://palmanova.com.py/es/edificio-palmanova-las-lomas-es.html"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Alcance de Edificio Brasilia incluye 'granito y mármol' y 'muebles a medida'; en Hotel Five se citan losas radiantes en baños; no hay fotos ni especificación de bachas/mesadas."
+   },
+   "materiales_y_proveedores_visibles": "Hormigón visto, drywall, carpintería PVC, granito y mármol (alcance Brasilia); sin marcas de grifería, bachas o mesadas. Aliados: Jasper Architects y Katuete/Palmanova (Las Lomas), CorAr (Tiana), Holding Mediofin / Canopy (Áncora).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 13,
+    "volumen": 15,
+    "gama": 15,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 6,
+    "total": 60
+   },
+   "puntaje_justificacion": {
+    "estetica": "13/30: hormigón visto en Hotel Five (ABC 2018) y en la fachada de Las Lomas; pero constructora de terceros, sin identidad propia de diseño.",
+    "volumen": "15/25: torres de 18 a 50 pisos y hoteles de hasta 15.500 m2; más de 10 años; sin cifra de obras/año ni empleados.",
+    "gama": "15/20: Palmanova (premium), hoteles 4 estrellas y torres céntricas; también 'Social Towers' (CorAr) de gama media.",
+    "accesibilidad": "11/15: teléfono e email 'info@' publicados en la propia web (8) y un director nombrado (Marco Facetti, ABC 2018, fuente tercera y antigua) (3); sin WhatsApp comercial ni IG leído.",
+    "oportunidad_inmediata": "6/10: Las Lomas en preventa con Mafado como constructora, pero sin fecha de inicio de obra ni etapa de terminaciones conocida."
+   },
+   "notas_investigacion": "Leído (curl con UA de navegador): mafado.com.py home, /viviendas, /edificios, /hoteles, /comercios-u-oficinas, /edificio-ancora, /five-hotel, /hotel-esplendor-2 (WebFetch /edificio-brasilia); palmanova.com.py Las Lomas (logo mafado-constructora-logo.png bajo 'Construye', junto a Jasper Architects; es un logo, no texto); ABC 18/09/2018; Infonegocios 20/04/2021 (Tiana, 45 deptos, construido junto a la nueva constructora de CorAr); La Nación 2017 y Amigo Camionero 29/06/2020 (vía búsqueda). DNCP: buscador de proveedores sin resultados para 'MAFADO' (los resultados son de otros nombres): Mafado no figura como proveedor del Estado (obra privada). CORRECCIONES ronda 1: 'Palmanova Las Lomas' sí es obra de Mafado según el sitio de Palmanova; el sitio dice fundación 2013 (un registro de terceros dice 2007). Datos de contacto propios: footer 'Auditores del Chaco 169 c/ Stma Trinidad', Tel 021 284 050/1, info@mafado.com.py; el enlace tel: apunta a +595 21 227 896 (inconsistente); canal de denuncias mafadoescucha@mafado.com.py y 0976 777 399 (no se usan como contacto comercial). Falló: Instagram 429, Facebook login wall, LinkedIn 403, Google Maps sin datos, bcorporation.net 403, Construex 403. Web con proyectos sin fechas recientes; el sitio mismo no publica noticias."
+  },
+  {
+   "nombre": "Benítez Bittar Constructora S.A.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Nuestra Señora del Carmen 1388 casi San Martín, Asunción",
+   "anio_fundacion": 1989,
+   "que_hacen": "Constructora familiar que estudia, desarrolla y construye edificios multifamiliares (línea Zuba, Forum, Life, Aires del Laurel), corporativos, logísticos/industriales y obras civiles de gran envergadura (Petra Tower como constructora principal, Distrito Perseverancia, REISA). Nació como Benítez Vieira Construcciones en 1989 y adoptó el nombre actual en 2016.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial multifamiliar",
+    "unifamiliares",
+    "corporativo",
+    "logístico/industrial",
+    "uso mixto",
+    "estacionamientos"
+   ],
+   "estilo": "Constructora de gran volumen con enfoque de inversión inmobiliaria eficiente (costo y plazo); mezcla desde monoambientes económicos (Zuba) hasta torres de alta gama (Petra Tower).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Petra Tower (44 pisos, ~172 m; ejecución integral junto a Petra Urbana)",
+     "anio": 2021,
+     "link": "https://www.lanacion.com.py/negocios/2021/09/25/se-erige-en-asuncion-petra-tower-la-torre-mas-alta-del-pais/"
+    },
+    {
+     "nombre": "Zuba 13 (Luque, 8 niveles, 91 departamentos, 5.582 m2)",
+     "anio": null,
+     "link": "https://www.benitezbittar.com.py/obra.php?id=61"
+    },
+    {
+     "nombre": "Zuba 9 (Encarnación, 7 niveles, 44 departamentos)",
+     "anio": null,
+     "link": "https://www.benitezbittar.com.py/obra.php?id=52"
+    },
+    {
+     "nombre": "Distrito Perseverancia (proyecto mixto en 7 hectáreas, Asunción)",
+     "anio": null,
+     "link": "https://www.benitezbittar.com.py/obras.php?id=6"
+    },
+    {
+     "nombre": "Casa La Pausa - San Bernardino, Vivienda Selva Negra y Aquaterra (unifamiliares)",
+     "anio": null,
+     "link": "https://www.benitezbittar.com.py/obras.php?id=11"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas de obras de benitezbittar.com.py muestran solo nombres, superficies y descripciones breves; no mencionan hormigón visto."
+   },
+   "tamano_aprox": "Grande: 'más de 350.000 m2 de obra en curso' (El Inmobiliario, mar-2024); en 2019 reportaba ~400 empleados en obra y +30 técnicos directos (Revista Foco); expansión a Encarnación y Ciudad del Este.",
+   "decisores": [
+    {
+     "nombre": "Santiago Benítez Vieira",
+     "cargo": "Ing., presidente / director de la constructora",
+     "fuente": "https://www.lanacion.com.py/negocios/2021/09/25/se-erige-en-asuncion-petra-tower-la-torre-mas-alta-del-pais/"
+    },
+    {
+     "nombre": "Sebastián Benítez Bittar",
+     "cargo": "Arq.; área comercial, contratos y comunicaciones (2019)",
+     "fuente": "https://revistafoco.com.py/2019/10/09/benitez-bittar-la-marca-registrada-de-la-construccion/"
+    },
+    {
+     "nombre": "Andrea Bittar",
+     "cargo": "Administración (2019)",
+     "fuente": "https://revistafoco.com.py/2019/10/09/benitez-bittar-la-marca-registrada-de-la-construccion/"
+    }
+   ],
+   "web": "https://benitezbittar.com.py/",
+   "instagram": "https://www.instagram.com/benitezbittar/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/BenitezBittar/",
+   "linkedin": "https://www.linkedin.com/company/ben%C3%ADtez-bittar-constructora/",
+   "email": null,
+   "telefono": "+595 971 775 000",
+   "whatsapp": "+595 971 775 000",
+   "fuentes": [
+    "https://benitezbittar.com.py/",
+    "https://www.benitezbittar.com.py/nosotros.php",
+    "https://www.benitezbittar.com.py/obras.php?id=10",
+    "https://www.benitezbittar.com.py/obra.php?id=61",
+    "https://www.benitezbittar.com.py/obra.php?id=52",
+    "https://www.lanacion.com.py/negocios/2021/09/25/se-erige-en-asuncion-petra-tower-la-torre-mas-alta-del-pais/",
+    "https://www.elinmobiliario.com.py/post/benitez-bittar-constructora-forjando-un-legado-de-excelencia-en-paraguay",
+    "https://revistafoco.com.py/2019/10/09/benitez-bittar-la-marca-registrada-de-la-construccion/",
+    "https://infonegocios.com.py/nota-principal/santiago-benitez-vieira-la-excesiva-confianza-del-empresario-paraguayo-se-convirtio-en-una-debilidad",
+    "https://www.parkloftsparaguay.com/en/projects/",
+    "https://www.contrataciones.gov.py/proveedor/benitez-bittar-constructora-sa.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Constructora con decenas de edificios multifamiliares seriados (Zuba, Forum, Life): canal de volumen para bachas y mesadas UHPC como upgrade, y contacto para torres premium (Petra Tower, Mova del Sol). Conviene abordar también a las desarrolladoras (Zuba, Singular, Petra Urbana) que fijan las terminaciones.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Volumen alto y teléfono/WhatsApp verificados con decisores identificados; estética mixta y gama que va de económica a premium."
+   },
+   "pendiente_verificar": "Instagram (429), Facebook (login) y LinkedIn (403) no legibles: seguidores, último post y temas sin leer. Google Maps sin datos. Mova del Sol (palada inicial oct-2026, desarrolladora Singular Desarrollos, César López Moreira esq. Agustín Pío Barrios) viene de un resultado de búsqueda de Ñanduti: la página dio 403, no leída. Park Lofts Tower: Infonegocios 13/07/2026 la atribuye a Concremaq; el sitio de Park Lofts solo muestra el logo de Benítez Bittar como socio, no confirmo que la construya. Email no publicado en la web propia. Fecha exacta de entrega de Petra Tower no confirmada (Wikipedia en resultado de búsqueda: 2025).",
+   "descartada": false,
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Palada inicial de Mova del Sol (Asunción) informada por Ñanduti en oct-2026 (resultado de búsqueda; página 403, no leída). Leído y vigente: benitezbittar.com.py muestra paladas iniciales de Zuba 9 (Encarnación) y Zuba VII (Asunción) sin fecha, y el sitio de Park Lofts lista a la empresa como socio con noticias de obra sep-nov 2026.",
+    "url": "https://nanduti.com.py/benitez-bittar-inicia-la-construccion-de-mova-del-sol-un-nuevo-desarrollo-residencial-en-asuncion"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Zuba 13 (Luque, calle Santa Margarita)",
+     "tipo": "edificio habitacional 8 niveles, 91 monoambientes y de 1 dormitorio, con amenities",
+     "etapa": "en obra",
+     "unidades": 91,
+     "link": "https://www.benitezbittar.com.py/obra.php?id=61"
+    },
+    {
+     "nombre": "Zuba 9 (Encarnación)",
+     "tipo": "edificio habitacional 7 niveles",
+     "etapa": "en obra",
+     "unidades": 44,
+     "link": "https://www.benitezbittar.com.py/obra.php?id=52"
+    },
+    {
+     "nombre": "Zuba VII (Asunción, a 50 m de Av. Mariscal López)",
+     "tipo": "edificio habitacional",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.benitezbittar.com.py/nosotros.php"
+    },
+    {
+     "nombre": "Mova del Sol (Asunción; desarrolladora Singular Desarrollos)",
+     "tipo": "residencial con estándares 5 estrellas (dato de prensa no leída)",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://nanduti.com.py/benitez-bittar-inicia-la-construccion-de-mova-del-sol-un-nuevo-desarrollo-residencial-en-asuncion"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de obras no describen terminaciones de baños/cocinas; Zuba 13 solo lista amenities (quinchos, piscina, baños sexados)."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Clientes/aliados: REISA (primer fondo inmobiliario), Zuba, Petra Urbana, Proinvest (First Mariscal), Singular Desarrollos.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 24,
+    "gama": 13,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 8,
+    "total": 66
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: edificios contemporáneos y unifamiliares (San Bernardino, Aquaterra) pero sin evidencia de hormigón visto ni línea estética propia; ejecuta lo que define el desarrollador.",
+    "volumen": "24/25: más de 350.000 m2 de obra en curso, ~400 trabajadores en obra (2019), ~25 multifamiliares listados, Petra Tower de 44 pisos y expansión regional.",
+    "gama": "13/20: Petra Tower y Mova del Sol (premium) pero gran parte es Zuba (monoambientes de clase media).",
+    "accesibilidad": "11/15: teléfono y WhatsApp en la propia web, dirección, y tres decisores con cargo (presidente, arquitecto comercial, administración); falta email.",
+    "oportunidad_inmediata": "8/10: Zuba 13, Zuba 9 y Zuba VII con obra iniciada según el sitio, y Mova del Sol recién arrancado (según prensa no leída)."
+   },
+   "notas_investigacion": "Leído: benitezbittar.com.py (home vía curl; nosotros, portafolio, obras.php?id=6/7/10/11 y obra.php?id=52/61/62 vía WebFetch con www; el home con teléfono, dirección y enlaces a IG, FB, LinkedIn y wa.me/595971775000); La Nación 25/09/2021 (Petra Tower), Infonegocios 29/05/2023 (entrevista), El Inmobiliario 14/03/2024, Revista Foco 09/10/2019, sitio de Park Lofts. DNCP: figura inscripta (BENITEZ BITTAR CONSTRUCTORA SA, RUC 80100468-3, representante Santiago Rubén Benítez Vieira, inscripta 13-03-2018) con 0 adjudicaciones, o sea no vende al Estado; el contacto del registro DNCP (hotmail personal, dirección en Mariano Roque Alonso) no se registra. Zuba 10 (Luque, 89 unidades): Infonegocios indica que la desarrolladora Zuba trabaja con Benítez Bittar. CORRECCIONES: el título de ronda 1 solo decía '(constructora)'; razón social 'Benítez Bittar Constructora S.A.'. Un listado de Concremaq (r2a-01) citaba a BB como constructora de Park Lofts Tower: no confirmado. Falló: benitezbittar.com.py sin www dio 502/000 en varios intentos (www sí responde por WebFetch), Instagram 429, Facebook login wall, LinkedIn 403, Nanduti 403, Google Maps sin datos, ZoomInfo/directorios no usados. No se halló ficha en ArchDaily/Plataforma/Archello (es constructora)."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Zuba (desarrolladora de edificios Zuba; Alejandro Zuccolillo y Valentina Basaglia)",
+   "link": "https://infonegocios.com.py/default/a-dos-meses-de-su-lanzamiento-zuba-10-ya-vendio-el-90-de-sus-unidades-esta-en-luque",
+   "ciudad": "Asunción / Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Singular Desarrollos (Mova del Sol)",
+   "link": "https://nanduti.com.py/benitez-bittar-inicia-la-construccion-de-mova-del-sol-un-nuevo-desarrollo-residencial-en-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "CorAr (Social Towers, Los Laureles Tower Edificio Tiana)",
+   "link": "https://infonegocios.com.py/infomicasa/los-laureles-tower-edificio-tiana-el-sexto-proyecto-en-paraguay-de-la-desarrolladora-corar-avanza-su-construccion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Holding Mediofin S.A. / Canopy (Edificio Áncora)",
+   "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2017/12/05/edificio-ancora-ya-vendio-el-40-de-los-96-departamentos/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "REISA Primer Fondo Inmobiliario del Paraguay",
+   "link": "https://reisa.com.py/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Topografía y Caminos S.A. (TyC)",
+   "link": "https://mopc.gov.py/mano-de-obra-calificada-impulsa-el-avance-del-lote-4-de-la-ruta-bioceanica/",
+   "ciudad": "a confirmar",
+   "segmento": "constructora"
+  }
+ ]
+}

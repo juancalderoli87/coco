@@ -1,0 +1,770 @@
+{
+ "lote": "r2b-11",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Alberto Barrail e Hijos S.A. (ABH S.A. Empresa Constructora)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Av. Artigas 1513 esq. María Concepción Leyes de Chávez, Asunción (DNCP, no verificado en web propia; Infonegocios la ubica en Edificio Rosa T, piso 8, Complejo Barrail Costanera)",
+   "anio_fundacion": 1904,
+   "que_hacen": "Constructora civil e industrial familiar, con origen en 1904 (Jean Barthélemy Barrail), especializada en estructuras de hormigón armado, restauración de edificios patrimoniales y obras industriales; con certificación ISO. Construyó la sede de la Unión Europea (primer edificio LEED Gold de Paraguay según su presidente), restauró el edificio histórico del Puerto de Asunción (inaugurado dic-2023) y integra el Consorcio TBI (con Tecnoedil e Itasa) para las oficinas de gobierno del puerto. En 2026 muestra obras en Hernandarias (Centro de Imágenes del Hospital Distrital, taller Chevrolet) y San Lorenzo (OVS).",
+   "tipo_proyectos": [
+    "público",
+    "restauración patrimonial",
+    "corporativo",
+    "industrial",
+    "hospitalario",
+    "comercial"
+   ],
+   "estilo": "Obra sólida y técnica, sin identidad de diseño propia: ejecuta proyectos de terceros. Fuerte en patrimonio y estructuras de hormigón armado; no hay evidencia de interiorismo o terminaciones de alta gama propias.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Restauración y puesta en valor del edificio histórico del Puerto de Asunción (G. 22.188 M adjudicados; inaugurado 15-dic-2023)",
+     "anio": 2023,
+     "link": "https://www.ip.gov.py/ip/2023/12/15/restauracion-del-edificio-del-puerto-quedo-oficialmente-inaugurada/"
+    },
+    {
+     "nombre": "Consorcio TBI (con Tecnoedil e Itasa): diseño y construcción de oficinas de gobierno en el puerto de Asunción",
+     "anio": 2021,
+     "link": "https://infonegocios.com.py/infoconstruccion/juan-jose-barrail-troche-la-construccion-es-uno-de-los-motores-del-sector-publico"
+    },
+    {
+     "nombre": "Restauración del Palacio de Gobierno (1.ª y 2.ª etapa) y de la Iglesia San Francisco",
+     "anio": 2012,
+     "link": "https://www.contrataciones.gov.py/proveedor/albero-barrail-e-hijos-s-a/adjudicaciones.html"
+    },
+    {
+     "nombre": "Intervención de emergencia en la Iglesia San Joaquín y Santa Ana (Caaguazú)",
+     "anio": 2021,
+     "link": "https://www.contrataciones.gov.py/proveedor/albero-barrail-e-hijos-s-a/adjudicaciones.html"
+    },
+    {
+     "nombre": "Primer edificio de oficinas del Complejo Barrail Costanera (BAGA SA desarrolladora; nota de prensa antigua, ~2009-2010)",
+     "anio": 2010,
+     "link": "https://www.ultimahora.com/grupo-barrail-construye-edificio-oficinas-vista-la-bahia-n274731"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La entrevista a su presidente (Infonegocios, 8-oct-2020) destaca el hormigón armado y las estructuras como especialidad, pero no menciona hormigón visto como terminación."
+   },
+   "tamano_aprox": "Mediana (Infonegocios Tarjetero: 'Mediana Tramo I'); ~50 empleados permanentes y ~500 contratados según obra (Infonegocios, 2020); 7 adjudicaciones DNCP (2012-2021), la mayor G. 22.188 M.",
+   "decisores": [
+    {
+     "nombre": "Juan José Barrail Troche",
+     "cargo": "Presidente (también representante legal en DNCP)",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/juan-jose-barrail-troche-la-construccion-es-uno-de-los-motores-del-sector-publico ; https://www.contrataciones.gov.py/proveedor/albero-barrail-e-hijos-s-a.html (fuentes de terceros, no web propia)"
+    }
+   ],
+   "web": "http://www.abh.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.contrataciones.gov.py/proveedor/albero-barrail-e-hijos-s-a.html",
+    "https://www.contrataciones.gov.py/proveedor/albero-barrail-e-hijos-s-a/adjudicaciones.html",
+    "https://infonegocios.com.py/infoconstruccion/juan-jose-barrail-troche-la-construccion-es-uno-de-los-motores-del-sector-publico",
+    "https://infonegocios.com.py/tarjetero/empresa/alberto-barrail-e-hijos-s-a",
+    "https://www.ip.gov.py/ip/2023/12/15/restauracion-del-edificio-del-puerto-quedo-oficialmente-inaugurada/",
+    "https://www.contractors1000.com/PY/Asunci%C3%B3n/147002847492309/ABH-S.A.-Empresa-Constructora",
+    "https://www.buscoinfo.com.py/neg/alberto_barrail_e_hijos_sa-jara-asuncion-asunci%C3%B3n-81461001",
+    "https://www.ultimahora.com/grupo-barrail-construye-edificio-oficinas-vista-la-bahia-n274731"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Constructora patrimonial y de obras públicas/corporativas con presidente identificado: la puerta de entrada es prescribir bachas y mesadas UHPC en obras de restauración y edificios de oficinas (contratista, no prescriptor de diseño). Priorizar contacto por presidente y por obras en curso; primero hay que conseguir un canal de contacto verificado.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 47: activa y con volumen, pero sin contactos verificados en fuente propia (sitio abh.com.py responde 403), perfil de obra pública/patrimonial y poca afinidad estética con COCO."
+   },
+   "pendiente_verificar": "Web abh.com.py devuelve 403 del propio servidor (Apache): no se pudo leer; confirmar con la empresa o desde otra red. Teléfono 021 291 224/5 y email abh@abh.com.py solo figuran en DNCP, Infonegocios y directorios (no verificados). Directorio Contractors1000 muestra otro teléfono (+595 21 207329). Instagram/Facebook/LinkedIn propios no hallados. Reseñas Google no consultables. Confirmar si 'Tatakua II' (Complejo Barrail Costanera, 2025) es obra de ABH o del grupo desarrollador.",
+   "actividad_reciente": {
+    "fecha": "2026-08",
+    "evidencia": "Directorio Contractors1000 replica publicaciones de la empresa: 10-ago-2026 'Centro de Diagnóstico por Imágenes, Hospital Distrital de Hernandarias, etapa final'; 22-jul-2026 avance OVS San Lorenzo; 05-feb-2026 taller Chevrolet Hernandarias terminado. Fuente de terceros.",
+    "url": "https://www.contractors1000.com/PY/Asunci%C3%B3n/147002847492309/ABH-S.A.-Empresa-Constructora"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Centro de Diagnóstico por Imágenes, Hospital Distrital de Hernandarias (Alto Paraná)",
+     "tipo": "hospitalario",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contractors1000.com/PY/Asunci%C3%B3n/147002847492309/ABH-S.A.-Empresa-Constructora"
+    },
+    {
+     "nombre": "OVS San Lorenzo",
+     "tipo": "no especificado (solo 'OVS' en la fuente)",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contractors1000.com/PY/Asunci%C3%B3n/147002847492309/ABH-S.A.-Empresa-Constructora"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Ninguna fuente muestra baños o cocinas como parte de su oferta; obras públicas, patrimoniales e industriales."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles. En el Puerto de Asunción: piso de granito reconstituido y escalera helicoidal con mosaico italiano restaurados (IP, 2023).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 15,
+    "gama": 11,
+    "accesibilidad": 6,
+    "oportunidad_inmediata": 5,
+    "total": 47
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: especialidad en hormigón armado y restauración patrimonial (materiales nobles en el Puerto), pero obra de terceros sin hormigón visto ni interiorismo propio.",
+    "volumen": "15/25: ~50 permanentes y ~500 contratados, obras activas 2026 en Hernandarias y San Lorenzo; pero solo 7 adjudicaciones DNCP y la última es de 2021.",
+    "gama": "11/20: patrimonio, oficinas de gobierno y corporativo; sin evidencia de residencial premium.",
+    "accesibilidad": "6/15: decisor identificado (presidente) pero por terceros; ningún contacto verificado en fuente propia (web 403).",
+    "oportunidad_inmediata": "5/10: dos obras en curso (centro de imágenes y OVS) con baños sanitarios institucionales; baja afinidad con piezas UHPC."
+   },
+   "notas_investigacion": "Leídos: infonegocios (entrevista 8-oct-2020 y tarjetero), DNCP (ficha de proveedor + adjudicaciones + CSV: 7 adjudicaciones 2012-2021; RUC 80005800-3; reg. 2009), Agencia IP (restauración Puerto, dic-2023), Contractors1000, buscoinfo, resultados de búsqueda de Última Hora (nota de la bahía ~2009-2010: el buscador la muestra con fecha '15 jul 2026', falsa). Búsquedas de prensa: 5. Fallaron: abh.com.py (403 Forbidden del servidor en https/http/www; sin alternativa), Instagram/Facebook (handles probados devuelven pantalla genérica, sin perfil real hallado), LinkedIn 403, Google Maps (shell JS sin datos), ArchDaily/Archello (sin ficha de ABH). Distinción: Barrail Hnos. S.A. de Construcciones (hoy ASCENT S.A., RUC 80004588-2) es OTRA empresa; no se mezclaron datos. Entrada ronda 2a sin link; no había datos de ronda 1 que corregir."
+  },
+  {
+   "nombre": "Sociedad Constructora Chaco S.A. (SCC)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Parirí nº 1013 casi Tobatí, Asunción (web propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora paraguaya (ISO 9001:2015) que ofrece edificios comerciales y corporativos, centros educativos, obras hospitalarias, industriales, residenciales, sanitarias, viales, eléctricas y de infraestructura. Tiene planta de asfalto móvil y planta de prefabricados de hormigón en Itá (postes, columnas, alcantarillas celulares, registros). Es contratista frecuente del Estado (33 adjudicaciones DNCP desde 2010) y forma parte del consorcio del Hospital General de Itapúa.",
+   "tipo_proyectos": [
+    "público",
+    "hospitalario",
+    "educativo",
+    "comercial",
+    "corporativo",
+    "industrial",
+    "infraestructura sanitaria",
+    "residencial (menor)"
+   ],
+   "estilo": "Constructora generalista orientada a obra pública, industrial y comercial; sin estética de diseño propia visible. Portfolio con algunas obras privadas (Cervepar, Shopping del Sol, Paseo Los Laureles, Tigo, Green Park).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Hospital General de Itapúa / Gran Hospital del Sur (consorcio con Ascent S.A. y Constr. Ing. Ricardo Díaz Martínez; obra civil terminada ene-2025)",
+     "anio": 2025,
+     "link": "https://www.abc.com.py/nacionales/2025/07/03/hospital-general-de-itapua-inauguraran-el-hospital-sin-tramo-vial-pavimentado-terminado/"
+    },
+    {
+     "nombre": "Edificio Residencial Green Park (Asunción)",
+     "anio": null,
+     "link": "https://scc.com.py/trabajos/14/edificio-green-park"
+    },
+    {
+     "nombre": "Edificio Corporativo CERVEPAR y warehouses Cervepar (Coronel Oviedo, Encarnación)",
+     "anio": null,
+     "link": "https://scc.com.py/trabajos/2/edificio-corporativo-cervepar"
+    },
+    {
+     "nombre": "Palacio de Justicia de Villarrica / Ministerio del Ambiente y Desarrollo Sostenible",
+     "anio": null,
+     "link": "https://scc.com.py/trabajos/27/palacio-de-justicia-de-villarica"
+    },
+    {
+     "nombre": "Ampliación de la PTAP San Bernardino (G. 29.723 M, contrato 13-nov-2025)",
+     "anio": 2025,
+     "link": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/adjudicaciones.html"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web propia solo informa planta de prefabricados de hormigón (https://scc.com.py/trabajos/custom/planta-de-asfalto-y-prefabricados-de-hormigon); las fichas de obra no tienen descripción legible (el CMS devuelve textos vacíos) y no se pudo ver acabado de hormigón visto."
+   },
+   "tamano_aprox": "Grande en obra pública: 33 adjudicaciones DNCP (2010-2025), G. 104.773 M adjudicados solo en 2025 (dos contratos: G. 75.049 M y G. 29.723 M); Instagram 2.672 seguidores.",
+   "decisores": [
+    {
+     "nombre": "Luis María Gulino Canese",
+     "cargo": "Representante legal",
+     "fuente": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl.html (DNCP; no web propia)"
+    },
+    {
+     "nombre": "Marcial Manuel López Cano",
+     "cargo": "Representante legal",
+     "fuente": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl.html (DNCP; no web propia)"
+    }
+   ],
+   "web": "https://scc.com.py",
+   "instagram": "https://www.instagram.com/scc_py/",
+   "seguidores_ig": 2672,
+   "facebook": "https://www.facebook.com/sccpy",
+   "linkedin": "https://www.linkedin.com/company/scc-s-a/",
+   "email": "scchaco@scc.com.py",
+   "telefono": "+595 21 550 283 | +595 981 550 032",
+   "whatsapp": null,
+   "fuentes": [
+    "https://scc.com.py/",
+    "https://scc.com.py/trabajos",
+    "https://scc.com.py/trabajos/14",
+    "https://scc.com.py/calidad",
+    "https://www.instagram.com/scc_py/",
+    "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl.html",
+    "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/adjudicaciones.html",
+    "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/sanciones.html",
+    "https://www.abc.com.py/nacionales/2025/07/03/hospital-general-de-itapua-inauguraran-el-hospital-sin-tramo-vial-pavimentado-terminado/",
+    "https://www.bnamericas.com/en/company-profile/sociedad-constructora-chaco-sa"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Contratista con planta propia de prefabricados de hormigón y obras comerciales, corporativas, hospitalarias y algunas residenciales: posible socio para prescribir bachas/mesadas UHPC en baños de hospitales, edificios corporativos y obras privadas (Cervepar, Green Park). Entrar por el correo y teléfono de la oficina de Parirí, proponiendo muestras para licitaciones con especificación de terminaciones.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 57: activa y de gran volumen, contactos y redes verificados en web propia, pero perfil de obra pública/industrial y baja afinidad estética con COCO."
+   },
+   "pendiente_verificar": "Instagram: solo se leyó el encabezado público (2.672 seguidores, 136 posts); no se pudo leer fecha del último post ni los temas de los últimos 12 posts. Facebook (login) y LinkedIn (403) sin leer. Google Maps no cargó. Los segundos teléfonos (+595 981 550 032) no están marcados como WhatsApp. Nombres de gerentes/decisores no figuran en la web; los representantes legales vienen de DNCP. Verificar rol real de SCC en Green Park (la prensa nombra a otro consorcio; la web propia lo lista como obra suya). Estado actual de la amonestación DNCP (inicio 21-ene-2022; hay resolución de reconsideración).",
+   "actividad_reciente": {
+    "fecha": "2025-11",
+    "evidencia": "Contrato DNCP 13-nov-2025 'Ampliación de la PTAP San Bernardino' (ESSAP, G. 29.723 M) y contrato 7-abr-2025 sistema de alcantarillado sanitario (MOPC, G. 75.049 M); Hospital de Itapúa con obra civil terminada en ene-2025.",
+    "url": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/adjudicaciones.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Ampliación de la PTAP San Bernardino",
+     "tipo": "infraestructura sanitaria",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/adjudicaciones.html"
+    },
+    {
+     "nombre": "Construcción del sistema de alcantarillado sanitario y planta de tratamiento (LPI MOPC 33/24)",
+     "tipo": "infraestructura sanitaria",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contrataciones.gov.py/proveedor/sociedad-constructora-chaco-srl/adjudicaciones.html"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "El portfolio propio no describe baños ni cocinas; hay obras hospitalarias, educativas y residenciales donde entran sanitarios."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles. Producción propia de prefabricados de hormigón (postes, columnas, alcantarillas, registros) en Itá.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 22,
+    "gama": 10,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 3,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: planta propia de prefabricados de hormigón da afinidad de material, pero obra generalista sin estética minimalista ni hormigón visto comprobado.",
+    "volumen": "22/25: 33 adjudicaciones DNCP, G. 104.773 M adjudicados en 2025, consorcio del Hospital de Itapúa e ISO 9001.",
+    "gama": "10/20: obra pública, hospitalaria y corporativa con algunas privadas; sin residencial premium acreditado.",
+    "accesibilidad": "12/15: teléfonos, email, dirección, Instagram, Facebook y LinkedIn en web propia; sin decisor identificado por la propia empresa ni WhatsApp.",
+    "oportunidad_inmediata": "3/10: obras en curso son de saneamiento (PTAP, alcantarillado) sin bachas ni mesadas."
+   },
+   "notas_investigacion": "Leídos: scc.com.py (home, /trabajos, /calidad, categorías 2-15 y fichas de obra; contenido de fichas casi vacío porque el CMS Strapi no devuelve descripciones), DNCP (ficha, adjudicaciones HTML y CSV de 33 contratos, sanciones: 'Amonestación' desde 21-ene-2022), Instagram scc_py (solo meta og: 2.672 seguidores, 136 posts), ABC 3-jul-2025 (consorcio Hospital de Itapúa), BNamericas/infrapppworld (resultados de búsqueda). Búsquedas de prensa: 4 (Green Park, Hospital de Itapúa, SCC general, Chaco). Falló: Facebook (200 pero solo login, sin datos), LinkedIn 403, Google Maps (shell JS), ArchDaily/Archello (sin fichas), Infonegocios Green Park (prensa lo atribuye a otro consorcio). El dominio se halló a partir del email scchaco@scc.com.py que consta en contratos DNCP y se confirmó en la web propia. Corrección: DNCP lo muestra con slug 'srl' pero es S.A. Entrada ronda 2a sin link."
+  },
+  {
+   "nombre": "Compañía de Construcciones Civiles S.A. (CCC S.A.)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Manuel Domínguez 1057 c/ Brasil, Asunción (web propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora vial y de obras civiles: pavimentación asfáltica, caminos, obras ferroviarias y construcciones en general; su gerente declara 'más de 40 años' en el sector y 15 obras en ejecución (oct-2024). Integra el Consorcio Paraguayo Costero (defensa costera de Encarnación) y es socia de la cámara vial Cavialpa. Tiene cantera propia según perfiles de terceros.",
+   "tipo_proyectos": [
+    "infraestructura vial",
+    "público",
+    "espacios públicos",
+    "obras sanitarias/pluviales"
+   ],
+   "estilo": "Infraestructura vial y obra pública; sin estética de diseño ni edificación de interiores.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Mejoramiento de la Travesía Urbana de Coronel Oviedo (MOPC 38/2024, G. 78.790 M)",
+     "anio": 2024,
+     "link": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html"
+    },
+    {
+     "nombre": "Renovación de la Plaza Cerro Corá y su entorno, San Lorenzo (G. 12.000 M, contrato abierto plurianual, may-2025)",
+     "anio": 2025,
+     "link": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html"
+    },
+    {
+     "nombre": "Pavimentación asfáltica de accesos a puertos (Campichuelo-PY06, G. 54.563 M)",
+     "anio": 2020,
+     "link": "https://cccsa.com.py/2024/10/19/avance-del-tramo-campichuelo/"
+    },
+    {
+     "nombre": "Desagüe pluvial cuenca Av. Dr. Felipe Molas López, Asunción (G. 35.932 M)",
+     "anio": 2021,
+     "link": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html"
+    },
+    {
+     "nombre": "Defensa costera de Encarnación (Consorcio Paraguayo Costero, Paquete A)",
+     "anio": null,
+     "link": "https://cccsa.com.py/2024/10/19/defensa-costera/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin evidencia: su actividad es vial/civil; la renovación de la Plaza Cerro Corá podría incluir hormigón urbano pero no hay descripción."
+   },
+   "tamano_aprox": "Grande en obra vial: 17 adjudicaciones DNCP (2010-2025), G. 92.690 M adjudicados en 2024-2025; 15 obras en ejecución según su gerente (oct-2024).",
+   "decisores": [
+    {
+     "nombre": "David Brítez",
+     "cargo": "Lic., gerente de la empresa",
+     "fuente": "https://cccsa.com.py/2024/10/19/participacion-evento-corporativo-espacios-y-tendencias/ (web propia, cita de Espacios & Tendencias)"
+    },
+    {
+     "nombre": "Mauricio Javier Cordero Codas",
+     "cargo": "Representante legal",
+     "fuente": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a.html (DNCP; no web propia)"
+    },
+    {
+     "nombre": "Solano Victorino Cordero Gámez",
+     "cargo": "Representante legal según contratos DNCP anteriores y prensa (Última Hora 25-ene-2021); vigencia no confirmada",
+     "fuente": "https://www.ultimahora.com/grandes-obras-del-estado-recaen-socias-gremio-empresarial-n2924599"
+    }
+   ],
+   "web": "https://cccsa.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "ccc@cccsa.com.py",
+   "telefono": "+595 21 202001",
+   "whatsapp": null,
+   "fuentes": [
+    "https://cccsa.com.py/blog/",
+    "https://cccsa.com.py/2024/10/19/participacion-evento-corporativo-espacios-y-tendencias/",
+    "https://cccsa.com.py/2024/10/19/avance-del-tramo-campichuelo/",
+    "https://cccsa.com.py/2024/10/19/defensa-costera/",
+    "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a.html",
+    "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html",
+    "https://www.ultimahora.com/grandes-obras-del-estado-recaen-socias-gremio-empresarial-n2924599",
+    "https://www.bnamericas.com/en/company-profile/compania-de-construcciones-civiles-sa"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco encaje directo: es una vial/civil. Única vía razonable: mobiliario urbano o piezas de hormigón fino para espacios públicos (p. ej. plaza Cerro Corá) vía licitación; no es prioridad comercial para COCO.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 42: empresa activa con contactos propios verificados, pero perfil vial/infraestructura sin baños ni cocinas."
+   },
+   "pendiente_verificar": "La home cccsa.com.py devuelve error crítico de WordPress (HTTP 500); solo cargan /blog/, posts y RSS/wp-json, por eso 'nosotros' y 'contacto' no se leyeron (el pie de página del blog muestra teléfono y email). Redes sociales propias no halladas (el dominio ccc.com.py y @somosccc pertenecen a una consultora contable, NO a esta empresa). Reseñas Google no consultables. Confirmar quién ejecuta/qué incluye la Plaza Cerro Corá (ABC abr-2026 reporta obra al 60% sin nombrar contratista).",
+   "actividad_reciente": {
+    "fecha": "2025-05",
+    "evidencia": "Contrato DNCP 19-may-2025 'Renovación de la Plaza Cerro Corá y su entorno inmediato' (Municipalidad de San Lorenzo, G. 12.000 M); contrato 3-dic-2024 regularización asfáltica Caaguazú; contrato 19-nov-2024 travesía urbana Coronel Oviedo.",
+    "url": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Renovación de la Plaza Cerro Corá y su entorno (San Lorenzo)",
+     "tipo": "espacio público",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.abc.com.py/nacionales/2026/04/25/persisten-quejas-entorno-a-las-obras-de-la-plaza-cerro-cora-y-de-la-catedral-de-san-lorenzo/"
+    },
+    {
+     "nombre": "Mejoramiento de la Travesía Urbana de Coronel Oviedo",
+     "tipo": "vial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contrataciones.gov.py/proveedor/compania-construcciones-civiles-s-a/adjudicaciones.html"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Obras viales, pluviales y espacios públicos; no figuran edificios ni interiores."
+   },
+   "materiales_y_proveedores_visibles": "Asfalto, empedrado, cantera propia (perfiles de terceros); sin marcas visibles.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 4,
+    "volumen": 18,
+    "gama": 5,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 3,
+    "total": 42
+   },
+   "puntaje_justificacion": {
+    "estetica": "4/30: actividad vial y civil, sin diseño ni hormigón visto.",
+    "volumen": "18/25: 17 adjudicaciones DNCP, G. 92.690 M en 2024-2025 y 15 obras simultáneas declaradas; solo obra pública.",
+    "gama": "5/20: licitaciones estatales; sin público premium.",
+    "accesibilidad": "12/15: teléfono y email en pie de página propio y gerente nombrado en su blog; sin WhatsApp ni redes propias.",
+    "oportunidad_inmediata": "3/10: plaza Cerro Corá (mobiliario urbano posible) pero sin baños/cocinas en el portfolio."
+   },
+   "notas_investigacion": "Leídos: cccsa.com.py (/blog/, 3 posts vía wp-json, sitemap, pie de página con teléfono y email; la home da HTTP 500 en https/http/www), DNCP (ficha 80001918-0, adjudicaciones HTML/CSV: 17 contratos 2010-2025), Última Hora 25-ene-2021 (Cavialpa), BNamericas y búsquedas. Búsquedas de prensa: 4. Falló: home cccsa.com.py, ccc.com.py (otra empresa: consultora contable; descartado como fuente), Facebook/Instagram propios no hallados, LinkedIn 403, Google Maps JS, Construex 403, ArchDaily (sin fichas). El dominio cccsa.com.py se encontró en el email de contratos DNCP. Entrada ronda 2a sin link; no había datos previos que corregir."
+  },
+  {
+   "nombre": "Constructora Tapyta S.R.L. (TAPYTA S.R.L.)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Ayolas 1637 entre Roma y Francisco Dupuis, Asunción (web propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora de tamaño pequeño-mediano, inscripta en el Registro de Proveedores del Estado desde 2012, cuyas obras visibles son todas públicas: infraestructura escolar (57 colegios técnicos, MEC), readecuación de centros penitenciarios de Cordillera (urgencia impostergable), mejoramiento de la Unidad de Tratamiento de Adicciones en Itauguá, empedrados y redes cloacales. Su web propia es una página mínima con datos de contacto (©2018).",
+   "tipo_proyectos": [
+    "público",
+    "educativo",
+    "penitenciario",
+    "infraestructura urbana",
+    "saneamiento"
+   ],
+   "estilo": "Obra pública de reparación y adecuación; sin portfolio propio ni estética de diseño visible.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Readecuación y reconstrucción de centros penitenciarios de Cordillera (CVEX 13/2025, G. 3.908 M, 26-feb-2026)",
+     "anio": 2026,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    },
+    {
+     "nombre": "Construcción y reparación de infraestructura en 57 colegios técnicos (LPN 01/2025, G. 4.609 M)",
+     "anio": 2025,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    },
+    {
+     "nombre": "Mejoramiento de la UTRA, Centro Educativo Itauguá (LPN 16/2024, G. 3.200 M)",
+     "anio": 2024,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    },
+    {
+     "nombre": "Recuperación de calle Eligio Ayala, Ñemby (G. 1.030 M)",
+     "anio": 2019,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portfolio ni fotos accesibles; web propia sin proyectos."
+   },
+   "tamano_aprox": "Pequeña-mediana: 8 adjudicaciones DNCP (2014-2026), montos entre G. 51 M y G. 4.609 M; tres contratos por G. 11.700 M en total entre dic-2024 y feb-2026.",
+   "decisores": [
+    {
+     "nombre": "Gabriel Alejandro Canale Frescura",
+     "cargo": "Representante legal",
+     "fuente": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl.html (DNCP; no web propia)"
+    }
+   ],
+   "web": "https://tapyta.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "a.canale@tapyta.com.py",
+   "telefono": "+595 21 393 431",
+   "whatsapp": null,
+   "fuentes": [
+    "https://tapyta.com.py/",
+    "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl.html",
+    "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html",
+    "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.csv"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco encaje: contratista estatal de reparaciones. Solo sería relevante si COCO participa en provisión para obras de sanitarios institucionales (colegios, penales) bajo especificación pública; no es prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Total 31: activa y con contactos propios, pero pequeña, sin portfolio visible y 100% obra pública de reparación."
+   },
+   "pendiente_verificar": "La web propia es una sola página (©2018) sin proyectos, redes ni horario de actividad reciente. Instagram, Facebook, LinkedIn y Google Maps propios no hallados (búsquedas sin resultados; handles no verificables). Nombre y rol del contacto 'a.canale' en el email: no se asume; el representante legal sí figura en DNCP. Estado real de obra del CVEX 13/2025 (penales de Cordillera) y de los 57 colegios técnicos.",
+   "actividad_reciente": {
+    "fecha": "2026-02",
+    "evidencia": "Adjudicación por excepción DNCP CE-12009-26-264013 del 26-feb-2026 (readecuación de penitenciarías de Cordillera, G. 3.908 M); previamente LPN 01/2025 MEC (21-may-2025) y LPN 16/2024 Justicia (9-dic-2024).",
+    "url": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Readecuación y reconstrucción de centros penitenciarios de Cordillera (CVEX 13/2025)",
+     "tipo": "penitenciario",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    },
+    {
+     "nombre": "Construcción y reparación de infraestructura en 57 colegios técnicos",
+     "tipo": "educativo",
+     "etapa": "en obra",
+     "unidades": 57,
+     "link": "https://www.contrataciones.gov.py/proveedor/constructora-tapyta-srl/adjudicaciones.html"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Sin portfolio propio; obras públicas de reparación."
+   },
+   "materiales_y_proveedores_visibles": "Sin información (web sin proyectos).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 4,
+    "volumen": 9,
+    "gama": 4,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 3,
+    "total": 31
+   },
+   "puntaje_justificacion": {
+    "estetica": "4/30: sin portfolio ni evidencia de diseño o concreto visto.",
+    "volumen": "9/25: 8 adjudicaciones DNCP en 12 años; tres contratos por ~G. 11.700 M en 2024-2026.",
+    "gama": "4/20: obra pública de reparación; sin público premium.",
+    "accesibilidad": "11/15: teléfono, email y dirección en web propia; decisor solo por DNCP; sin WhatsApp ni redes.",
+    "oportunidad_inmediata": "3/10: colegios y penales en obra con sanitarios institucionales; fuera del perfil de COCO."
+   },
+   "notas_investigacion": "Leídos: tapyta.com.py (una sola página, vía curl; WebFetch no necesario), DNCP (ficha RUC 80063383-0 inscripta 29-oct-2012, adjudicaciones HTML y CSV: 8 contratos, último 26-feb-2026). Búsquedas de prensa: 3 (Tapyta general, penitenciarías Cordillera con resultados DNCP, Gabriel Canale) sin notas periodísticas propias de la empresa. Falló: no hay Instagram/Facebook/LinkedIn hallados, Google Maps (shell JS), ArchDaily (sin fichas). Entrada ronda 2a sin link; no había datos previos que corregir. El dominio tapyta.com.py figura también como 'Página Web' en DNCP."
+  },
+  {
+   "nombre": "González Acosta & Wood S.A. (GA&W / GAW)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "World Trade Center Asunción, Aviadores del Chaco 2050, Torre 2, piso 11 (web propia)",
+   "anio_fundacion": 1994,
+   "que_hacen": "Constructora y gerenciadora de proyectos fundada por los arquitectos Víctor González Acosta y Randy Wood, con obras corporativas, residenciales, retail y hoteleras: World Trade Center Asunción y Ciudad del Este, Sheraton Asunción, Aloft, Plaza Center, HSBC, Sudameris, Nissan, ampliación del Shopping del Sol, y los edificios Habitalis y Ventura. Es la constructora de los edificios de Habitalis (desarrolladora del mismo grupo); aun así tiene web, contacto, RUC (80015015-5) y clientes propios.",
+   "tipo_proyectos": [
+    "corporativo",
+    "residencial",
+    "retail",
+    "hotelero",
+    "edificios en altura"
+   ],
+   "estilo": "Arquitectura corporativa y residencial de líneas simples; Habitalis aplica 'Wellness Design' (biofilia). Portfolio generalista de alta calidad técnica, sin foco en concreto visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Habitalis Mburucuyá (7.845 m², proyecto, construcción y gerenciamiento; 'En curso')",
+     "anio": null,
+     "link": "https://www.gaw.com.py/obras/habitalis-mburucuya.html"
+    },
+    {
+     "nombre": "Edificio Habitalis Lynch (4.064 m²)",
+     "anio": 2023,
+     "link": "https://www.gaw.com.py/obras/edificio-habitalis-lynch.html"
+    },
+    {
+     "nombre": "Edificio Ventura Cerro Corá (5.463 m²)",
+     "anio": 2020,
+     "link": "https://www.gaw.com.py/obras/edificio-ventura-cerro-cora.html"
+    },
+    {
+     "nombre": "Edificio Ventura San Vicente (3.370 m², Gondra 1615)",
+     "anio": 2017,
+     "link": "https://gaw.com.py/obras/edificio-ventura-san-vicente.html"
+    },
+    {
+     "nombre": "World Trade Center Asunción (4 torres; constructora principal, inauguración oficial 2015 según Wikipedia)",
+     "anio": 2015,
+     "link": "https://infonegocios.com.py/hay-equipo/el-equipo-de-gaw"
+    },
+    {
+     "nombre": "Edificio Plaza Center Santa Teresa (9.681 m²)",
+     "anio": 2011,
+     "link": "https://www.gaw.com.py/obras/edificio-plaza-center-santa-teresa.html"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de obra propias solo indican superficie, servicios y ubicación; sin descripción de acabados."
+   },
+   "tamano_aprox": "Mediana-grande: 62 funcionarios (Infonegocios, jul-2015); más de 40 obras residenciales, corporativas, retail y hoteleras listadas en su web; edificios Habitalis de 38-52 deptos y torres WTC.",
+   "decisores": [
+    {
+     "nombre": "Víctor González Acosta",
+     "cargo": "Director (presidente según Infonegocios)",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Randy Wood",
+     "cargo": "Director",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Germán Fretes",
+     "cargo": "Gerencia de Obra",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Nilda Rodríguez",
+     "cargo": "Gerencia de Proyecto",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Ysmena Vidallet",
+     "cargo": "Gerencia de Compras y Contrataciones",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Stella Oporto",
+     "cargo": "Gerencia de Presupuestos",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    },
+    {
+     "nombre": "Abel Brizuela",
+     "cargo": "Gerencia Administrativa",
+     "fuente": "https://gaw.com.py/capital-humano.html"
+    }
+   ],
+   "web": "https://gaw.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "gaw@gaw.com.py",
+   "telefono": "+595 21 338 9084 | +595 21 338 9652 | +595 981 936 990",
+   "whatsapp": null,
+   "fuentes": [
+    "https://gaw.com.py/",
+    "https://gaw.com.py/contacto.html",
+    "https://gaw.com.py/capital-humano.html",
+    "https://gaw.com.py/residencial.html",
+    "https://gaw.com.py/corporativo.html",
+    "https://gaw.com.py/retail.html",
+    "https://gaw.com.py/hoteleria.html",
+    "https://www.gaw.com.py/obras/habitalis-mburucuya.html",
+    "https://infonegocios.com.py/hay-equipo/el-equipo-de-gaw",
+    "https://www.ultimahora.com/centro-arte-premia-gaw-buenos-aires-n278200",
+    "https://habitalis.com.py/desarrollo/villamorra"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Constructora con compras y presupuestos identificados que ejecuta torres corporativas, hoteles y residenciales de gama media-alta: prescriptor natural de bachas y mesadas UHPC para baños de hoteles/oficinas y unidades Habitalis/Ventura. Contactar a Gerencia de Compras (Ysmena Vidallet) y a Víctor González Acosta, con muestra para Habitalis Villa Morra y futuros lanzamientos.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Total 65: contactos y 7 decisores verificados en web propia, volumen y gama sólidos; sin evidencia de hormigón visto ni redes activas."
+   },
+   "pendiente_verificar": "Instagram, Facebook y LinkedIn propios no hallados (la web no enlaza redes; Instagram devolvió 429 en el único handle probado, no verificado). Último dato de actividad en web propia: 'Habitalis Mburucuyá – En curso' y copyright 2025; no hay fechas de 2026 ni noticias recientes propias (los enlaces 'artículos' del home dan 404). Confirmar si GAW (y no 'GA&A') construye Habitalis Villa Morra: la web de Habitalis dice 'nuestra propia desarrolladora GA&A'. Teléfono +595 981 936 990 no está marcado como WhatsApp. Reseñas Google no consultables. DNCP: sin registro de adjudicaciones públicas (proveedor 'gonzalez-acosta-wood-s-a' RUC 80015015-5 listado pero la ficha da 404/500).",
+   "actividad_reciente": {
+    "fecha": "2025",
+    "evidencia": "Web propia (©2025) muestra Habitalis Mburucuyá 'En curso' (7.845 m²); último edificio terminado listado: Habitalis Lynch (2023). Mes exacto no consta.",
+    "url": "https://www.gaw.com.py/obras/habitalis-mburucuya.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Habitalis Mburucuyá (Av. Molas López 986, 52 deptos según Habitalis)",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 52,
+     "link": "https://www.gaw.com.py/obras/habitalis-mburucuya.html"
+    },
+    {
+     "nombre": "Habitalis Villa Morra (38 deptos; constructora no confirmada: GAW vs 'GA&A')",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 38,
+     "link": "https://habitalis.com.py/desarrollo/villamorra"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de obra no muestran interiores; son edificios de oficinas, hoteles y viviendas."
+   },
+   "materiales_y_proveedores_visibles": "Sin marcas visibles. Habitalis (cliente propio del grupo) declara domótica, mejoras acústicas/térmicas/hidrófugas y materiales de baja emisión.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 20,
+    "gama": 14,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 5,
+    "total": 65
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: líneas simples y wellness design en Habitalis, hoteles y corporativo cuidado; sin hormigón visto comprobado ni minimalismo declarado.",
+    "volumen": "20/25: 62 funcionarios, más de 40 obras listadas y WTC, hoteles y 8 edificios Habitalis; actividad 2026 no documentada con fecha.",
+    "gama": "14/20: Sheraton, Aloft, WTC, embajada de EE.UU., Habitalis medio-alto; sin lujo residencial.",
+    "accesibilidad": "14/15: 3 teléfonos, email y dirección en web propia y 7 gerentes con cargo; sin WhatsApp ni redes.",
+    "oportunidad_inmediata": "5/10: Habitalis Mburucuyá en curso (y posiblemente Villa Morra); falta confirmar etapa de terminaciones."
+   },
+   "notas_investigacion": "Leídos: gaw.com.py (home, contacto, capital-humano, residencial, corporativo, retail, hotelería, rse y 6 fichas de obra, vía curl), Infonegocios 'El equipo de GAW' (16-jul-2015), Última Hora premio GA&W (28-nov-2009; el buscador la muestra con fecha '17 jul 2026', falsa), habitalis.com.py (nosotros, Villa Morra, Mburucuyá), DNCP (autocompletado: RUC 80015015-5; sin adjudicaciones accesibles). Búsquedas de prensa: 6 (GAW, WTC, Ventura, Habitalis, premios, redes) y 2 de portales de arquitectura sin fichas. Falló: Instagram 429, Facebook/LinkedIn sin perfil hallado (403/login), Google Maps (shell JS), enlaces /articulos/... de la web (404), obra 'Edificio Unión Encarnación' (404). RELACIÓN CON HABITALIS (r2a-04): NO son la misma empresa. Habitalis es la desarrolladora (web habitalis.com.py, tel. 0982 224 433, habitalis@habitalis.com.py) y GAW la constructora (web, RUC y contactos propios; construye también para terceros como HSBC, Nissan, Creo S.A.). Ambas lideradas por Víctor González Acosta; la ficha r2a-04 ya incluye 'González Acosta & Wood' en el nombre. Por eso no se marca duplicada_de; se registra 'relacionada_con'. Entrada ronda 2a sin link ni datos previos.",
+   "relacionada_con": "Habitalis (Grupo Capitalis / González Acosta & Wood) — ficha /home/user/coco/prospeccion/datos/ronda2/r2a-04.json: desarrolladora que contrata a GAW; evitar contactar dos veces al mismo grupo."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "ASCENT S.A. (antes Barrail Hnos. S.A. de Construcciones)",
+   "link": "https://www.abc.com.py/nacionales/2025/07/03/hospital-general-de-itapua-inauguraran-el-hospital-sin-tramo-vial-pavimentado-terminado/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Tecnoedil S.A.",
+   "link": "https://www.bnamericas.com/en/company-profile/tecnoedil-sa",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Itasa S.A.",
+   "link": "https://infonegocios.com.py/amp/default/la-construccion-de-las-nuevas-oficinas-de-gobierno-ya-tienen-adjudicatario",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Constructora Ing. Ricardo Díaz Martínez",
+   "link": "https://www.abc.com.py/nacionales/2025/07/03/hospital-general-de-itapua-inauguraran-el-hospital-sin-tramo-vial-pavimentado-terminado/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Creo S.A. (desarrolladora de Edificio Ventura; construye GAW)",
+   "link": "https://infonegocios.com.py/default/elegi-vivir-en-el-edificio-ventura-san-vicente",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Aranda & Benítez (desarrolladora Edificio Green Park, Av. España)",
+   "link": "https://infonegocios.com.py/infomicasa/green-park-disenado-para-vivir-una-vida-tranquila",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "BAGA S.A. (desarrolladora Complejo Barrail Costanera)",
+   "link": "https://www.ultimahora.com/grupo-barrail-construye-edificio-oficinas-vista-la-bahia-n274731",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  }
+ ]
+}

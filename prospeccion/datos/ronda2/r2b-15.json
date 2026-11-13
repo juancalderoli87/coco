@@ -1,0 +1,609 @@
+{
+ "lote": "r2b-15",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "TECA Estudio (Arq. Mauro Remonato y Arq. Luján Rojas)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Dr. Alejandro Davalos 445, Asunción (https://teca.com.py/contacto/)",
+   "anio_fundacion": 2019,
+   "que_hacen": "Estudio de arquitectura sustentable dirigido por Mauro Remonato y Luján Rojas (socios desde 2019; Remonato tiene práctica propia desde 2013). Hace anteproyecto, proyecto ejecutivo, dirección y fiscalización de obra de edificios corporativos, comerciales y residenciales; su web declara ~176 proyectos (84 comerciales, 18 residenciales, 17 administrativos, 7 institucionales). Remonato es el arquitecto de Urban Mburucuyá (Urban Domus).",
+   "tipo_proyectos": [
+    "corporativo",
+    "comercial",
+    "residencial",
+    "edificios en altura",
+    "hotelero",
+    "institucional"
+   ],
+   "estilo": "Contemporáneo sobrio, orientado a sustentabilidad (LEED) y bajo mantenimiento; Remonato anticipa 'edificios más austeros, simples y con materiales de bajo mantenimiento' (Infonegocios 30/01/2026). Sin marca estética propia de hormigón visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "BBVA Casa Central (7.378 m2, 2008-2009; primer edificio LEED de Paraguay según bio de Remonato)",
+     "anio": 2009,
+     "link": "https://teca.com.py/portfolio-item/bbva/"
+    },
+    {
+     "nombre": "Mapfre Casa Central (4.759 m2)",
+     "anio": 2016,
+     "link": "https://teca.com.py/portfolio-item/mapfre-casa-central/"
+    },
+    {
+     "nombre": "BALI IV y V (residencial, 6.500 m2)",
+     "anio": 2021,
+     "link": "https://teca.com.py/portfolio-item/bali-iv-y-v/"
+    },
+    {
+     "nombre": "Plaza Pacheco (residencial, 6.200 m2, fiscalización de obra)",
+     "anio": 2022,
+     "link": "https://teca.com.py/portfolio-item/plaza-pacheco/"
+    },
+    {
+     "nombre": "Quincho HM (278 m2)",
+     "anio": 2022,
+     "link": "https://teca.com.py/portfolio-item/quincho-hm/"
+    },
+    {
+     "nombre": "Hotel Le Pelican - Ampliación (659 m2)",
+     "anio": 2016,
+     "link": "https://teca.com.py/portfolio-item/hotel-le-pelican/"
+    },
+    {
+     "nombre": "Urban Mburucuyá (11 pisos, 77 unidades; arq. Mauro Remonato)",
+     "anio": 2025,
+     "link": "https://infonegocios.com.py/default/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de portfolio leídas (BBVA, Mapfre, BALI, Plaza Pacheco, Quincho HM, Le Pelican) no describen materiales; texto en latín de plantilla. Sin mención de hormigón visto."
+   },
+   "tamano_aprox": "Mediano: 13 profesionales (2 directores, 2 jefas de proyecto, 7 arquitectos, administración y contabilidad) según https://teca.com.py/el-estudio/; edificios de 4.000-7.400 m2.",
+   "decisores": [
+    {
+     "nombre": "Mauro Remonato",
+     "cargo": "Arquitecto, director y socio de TECA Estudio; vicepresidente del Consejo Paraguayo de Construcción Sustentable (nota 2016)",
+     "fuente": "https://teca.com.py/mauro-remonato/"
+    },
+    {
+     "nombre": "Luján Rojas Poletti",
+     "cargo": "Directora y socia",
+     "fuente": "https://teca.com.py/el-estudio/"
+    },
+    {
+     "nombre": "Lucia Pessina",
+     "cargo": "Jefa de proyecto",
+     "fuente": "https://teca.com.py/el-estudio/"
+    },
+    {
+     "nombre": "Natalia Alcaraz",
+     "cargo": "Jefa de proyecto",
+     "fuente": "https://teca.com.py/el-estudio/"
+    }
+   ],
+   "web": "https://teca.com.py/",
+   "instagram": "https://www.instagram.com/teca_estudio/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": "info@teca.com.py (contacto general); mauro@teca.com.py (Mauro Remonato)",
+   "telefono": "+595 986 343977",
+   "whatsapp": "+595 986 343977 (https://api.whatsapp.com/send?phone=595986343977)",
+   "fuentes": [
+    "https://teca.com.py/",
+    "https://teca.com.py/contacto/",
+    "https://teca.com.py/el-estudio/",
+    "https://teca.com.py/mauro-remonato/",
+    "https://teca.com.py/portfolio-item/bbva/",
+    "https://teca.com.py/portfolio-item/mapfre-casa-central/",
+    "https://teca.com.py/portfolio-item/bali-iv-y-v/",
+    "https://teca.com.py/portfolio-item/plaza-pacheco/",
+    "https://teca.com.py/portfolio-item/quincho-hm/",
+    "https://teca.com.py/portfolio-item/hotel-le-pelican/",
+    "https://infonegocios.com.py/infomicasa/mauro-remonato-el-arquitecto-hoy-debe-pensar-como-disenador-empresario-y-urbanista-al-mismo-tiempo",
+    "https://infonegocios.com.py/default/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores",
+    "https://infonegocios.com.py/y-ademas/arquitectura-y-urbanismo-sostenible-el-futuro-de-la-construccion-en-el-pais",
+    "https://imago.com.py/portfolio/diseno-web-estudio-arquitectura-teca/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Estudio que diseña edificios residenciales y corporativos y dirige/fiscaliza obra: puede especificar bachas y mesadas UHPC como opción sustentable y liviana (bajo mantenimiento, menor peso) en baños de oficinas y departamentos. Entrar por Mauro Remonato (decisor, email y WhatsApp públicos) con muestra y ficha técnica.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 57: contactos y decisor verificados y volumen medio, pero estética sin afinidad visible con hormigón y proyectos de ticket medio/corporativo."
+   },
+   "pendiente_verificar": "Instagram @teca_estudio no legible (429): seguidores, último post y temas. Facebook sin perfil enlazado desde la web (enlace genérico). Google Maps no consultado/cargado. Estado real de obra de Urban Mburucuyá (fichas de Urban Domus muestran 0%). Si COCO entra en baños: confirmar quién especifica griferías/sanitarios en BALI IV/V y Plaza Pacheco.",
+   "actividad_reciente": {
+    "fecha": "2026-01",
+    "evidencia": "Entrevista a Mauro Remonato en Infonegocios (30/01/2026); web teca.com.py con páginas modificadas jun-2025 (wp-json); Urban Mburucuyá en preventa dic-2024 con obra prevista 2025",
+    "url": "https://infonegocios.com.py/infomicasa/mauro-remonato-el-arquitecto-hoy-debe-pensar-como-disenador-empresario-y-urbanista-al-mismo-tiempo"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Urban Mburucuyá (Urban Domus), Julio Correa e Hipólito Carrón",
+     "tipo": "edificio residencial / renta corta",
+     "etapa": "en venta",
+     "unidades": 77,
+     "link": "https://infonegocios.com.py/default/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas de portfolio no describen baños ni cocinas; Urban Mburucuyá es un edificio de inversión con terminaciones estándar (ver ficha de Urban Domus en r2a-03)."
+   },
+   "materiales_y_proveedores_visibles": "Ninguna marca visible en las fichas leídas; énfasis en certificación LEED y eficiencia energética.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 17,
+    "gama": 11,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 5,
+    "total": 57
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: arquitectura contemporánea sobria y sustentable, discurso de materiales de bajo mantenimiento, pero sin evidencia de hormigón visto ni interiorismo de autor.",
+    "volumen": "17/25: 13 profesionales, ~176 obras declaradas y edificios de 4.000-7.400 m2 (BALI IV/V 6.500 m2, Plaza Pacheco 6.200 m2).",
+    "gama": "11/20: corporativo (BBVA, Mapfre) y residencial medio/medio-alto; Urban Mburucuyá es de ticket medio/bajo.",
+    "accesibilidad": "12/15: teléfono, email (info@ y mauro@), WhatsApp y dirección publicados en la web propia, decisores nombrados; Instagram y Facebook no leídos.",
+    "oportunidad_inmediata": "5/10: Urban Mburucuyá en preventa/obra prevista 2025 y estudio activo en 2026, pero sin obras con bachas/mesadas identificadas."
+   },
+   "notas_investigacion": "Dato de ronda 2a corregido: el candidato figuraba como 'Arq. Mauro Remonato (Urban Mburucuyá)' sin web; su estudio es TECA Estudio (teca.com.py), hallado vía búsqueda del Instagram. Leídos con WebFetch y curl (-A Mozilla/5.0, HTTP 200): home, /contacto/, /el-estudio/, /mauro-remonato/, /proyectos/ y las 6 fichas de portfolio; mailto/tel/api.whatsapp confirmados en el HTML. El pie de página trae texto de plantilla (Black Street 175 New York, dor@mikado.com) que NO es de TECA y se ignoró; los enlaces de Facebook y de 'dirección/horarios' de la web apuntan a páginas genéricas o ajenas. Horario publicado: lunes a viernes 08:00-17:00. Instagram @teca_estudio y @mauroremonato (personal, no registrado): 429. Facebook (facebook.com/teca.estudio) devolvió solo título de login; LinkedIn company/teca-estudio: 403. Google Maps no consultado (no carga). Prensa: Infonegocios 30/01/2026 (entrevista), Infonegocios 06/12/2024 (Urban Mburucuyá), Infonegocios 27/04/2016 (Remonato como vicepresidente del Consejo Paraguayo de Construcción Sustentable); no se hallaron notas en ABC, La Nación o Última Hora; búsquedas en ArchDaily/Divisare/Archello/Plataforma no devolvieron obras de TECA. Teléfono (0986) 700-718 de Urban Mburucuyá es de Urban Domus, no de TECA. Inconsistencia menor: la nota 2026 dice 'marca desde hace 7 años', la bio de la web dice sociedad desde 2019 y práctica propia desde 2013. Seguidores IG ~1.747 según un extracto de buscador: no verificado, no registrado. Duplicado: no es duplicada de Urban Domus (cliente/desarrolladora distinta)."
+  },
+  {
+   "nombre": "Gustavo Masi Arquitectura",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio del arq. Gustavo Masi, diseñador de Villa Morra Haus (17 departamentos, desarrolla Live In S.A., construye JCA; nota de Infonegocios de 04/03/2015). Desde entonces Masi aparece en prensa como exdirector de Infraestructura del IPS (gobierno de Cartes) y directivo de Capaco, sin ninguna actividad de estudio visible.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios boutique"
+   ],
+   "estilo": "No evaluable; Villa Morra Haus se presenta como 'lujo y confort'.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Villa Morra Haus (17 deptos, Villa Morra)",
+     "anio": 2016,
+     "link": "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin información."
+   },
+   "tamano_aprox": "Desconocido",
+   "decisores": [
+    {
+     "nombre": "Gustavo Masi",
+     "cargo": "Arquitecto (exdirector de Infraestructura del IPS; directivo de Capaco según ABC Color)",
+     "fuente": "https://www.abc.com.py/tag/gustavo-masi/"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus",
+    "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion",
+    "https://www.abc.com.py/tag/gustavo-masi/",
+    "https://www.adndigital.com.py/arquitecto-gustavo-masi-califica-de-triste-la-comparacion-que-hizo-abdo-entre-paraguay-y-miami/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Sin estudio activo identificable no hay ángulo comercial. Si apareciera una oficina, Villa Morra Haus muestra obra boutique de gama media-alta.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 23: no se halló ni web, ni redes, ni contacto, ni obra posterior a 2016."
+   },
+   "pendiente_verificar": "Confirmar si Gustavo Masi mantiene hoy un estudio (nombre comercial, contacto) vía Capaco o la Asociación Paraguaya de Arquitectos; la ficha del Tarjetero de InfoNegocios enlazada en la nota de 2015 no se pudo localizar. No se registra ningún contacto.",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Notas de ABC Color (16/07/2026) lo citan como exdirector de Obras del IPS, no como estudio",
+    "url": "https://www.abc.com.py/tag/gustavo-masi/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin información."
+   },
+   "materiales_y_proveedores_visibles": "No visible.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 5,
+    "volumen": 4,
+    "gama": 12,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 23
+   },
+   "puntaje_justificacion": {
+    "estetica": "5/30: sin portfolio visible; solo un edificio boutique de 2015.",
+    "volumen": "4/25: una obra de 17 unidades; sin evidencia de estudio activo.",
+    "gama": "12/20: Villa Morra Haus de USD 115.000-195.000 por unidad.",
+    "accesibilidad": "2/15: decisor nombrado en prensa, sin web ni contacto de estudio.",
+    "oportunidad_inmediata": "0/10: sin obras en curso."
+   },
+   "notas_investigacion": "Búsquedas: 'Gustavo Masi Arquitectura Paraguay', 'Masi Arquitectura/Masi y Asociados', 'Gustavo Masi arquitecto estudio obras', 'Gustavo Masi Villa Morra Haus', infonegocios tarjetero. La única mención del estudio es 'Gustavo Masi Arquitectura y JCA Constructora están encargados del diseño y la construcción' (Infonegocios 04/03/2015, página una-vida-moderna-en-el-villa-morra-haus); las otras dos notas de Villa Morra Haus (11 y 13/04/2016) no nombran al arquitecto. Masi aparece después como figura pública (IPS, Capaco) en ABC (tag, jul-2026) y ADN Digital (26/09/2021), sin firma de estudio. villamorrahaus.com / .com.py no resuelven (dominio bloqueado o inexistente); x.com/masi_gustavo devolvió 402. Instagram/Facebook/LinkedIn/Maps: no se hallaron perfiles del estudio. No se registran datos personales ni contactos. Dato de ronda 1 (Live In S.A., ficha piloto) coincide: arq. Gustavo Masi, construye JCA.",
+   "descartada": true,
+   "motivo_descarte": "No hay empresa de arquitectura identificable y activa: sin web, redes ni contacto, última obra de estudio visible de 2015-2016; hoy aparece solo como exfuncionario del IPS y directivo de Capaco."
+  },
+  {
+   "nombre": "Casal Arquitectura (Casal Arquitectos)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Asunción: Avda. Artigas esquina Enrique Solano López (https://casalarquitectos.com/); Montevideo: Antonio D. Costa 3380bis",
+   "anio_fundacion": null,
+   "que_hacen": "Estudio regional uruguayo-paraguayo (oficinas en Montevideo y Asunción; sede propia en Asunción desde ~2014 a partir de Skytower) liderado por José María Casal y Gabriel Etchepare, con 25+ años de trayectoria. Diseña edificios residenciales y corporativos, hoteles, masterplanes y desde 2024 casas para clientes finales en Paraguay.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "corporativo",
+    "hotelero",
+    "residencial",
+    "viviendas unifamiliares",
+    "masterplan"
+   ],
+   "estilo": "'Arquitectura sin artificio': contemporánea, sostenible, con 'materiales nobles' y certificaciones LEED/WELL (web propia). No se vio estética de hormigón visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Go Tower Business Center (24 pisos, Av. Artigas, Costanera; inaugurada oct-2025; inversión >US$33 M; desarrolla Escala)",
+     "anio": 2025,
+     "link": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/"
+    },
+    {
+     "nombre": "Feel Asunción (torres residenciales con coworking, Av. Santísima Trinidad; con Escala Desarrollos)",
+     "anio": 2018,
+     "link": "https://infonegocios.com.py/default/un-proyecto-que-cambiara-el-paisaje-residencial-de-asuncion"
+    },
+    {
+     "nombre": "Skytower (Asunción) y Mangoré, Del Chaco (concurso internacional): listados en web propia sin ficha",
+     "anio": null,
+     "link": "https://casalarquitectos.com/"
+    },
+    {
+     "nombre": "Hotel Aloft Punta Carretas, Hotel AWA, Bellagio (Uruguay)",
+     "anio": null,
+     "link": "https://casalarquitectos.com/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La web lista proyectos sin descripción de materiales; solo habla de 'materiales nobles' y 'materiales duraderos'."
+   },
+   "tamano_aprox": "Mediano-grande regional: ~35 proyectos listados (5 en Paraguay), dos oficinas, torres de >US$30 M.",
+   "decisores": [
+    {
+     "nombre": "José María Casal",
+     "cargo": "Fundador, Managing Director y Arquitecto Líder",
+     "fuente": "https://casalarquitectos.com/en/"
+    },
+    {
+     "nombre": "Gabriel Etchepare",
+     "cargo": "Cofundador y Arquitecto Líder",
+     "fuente": "https://casalarquitectos.com/en/"
+    }
+   ],
+   "web": "https://casalarquitectos.com/",
+   "instagram": "https://www.instagram.com/casalarquitectura/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": "https://www.linkedin.com/company/casal-arquitectura/",
+   "email": null,
+   "telefono": null,
+   "whatsapp": "+595 982 533320 (https://wa.me/595982533320)",
+   "fuentes": [
+    "https://casalarquitectos.com/",
+    "https://casalarquitectos.com/en/",
+    "https://infonegocios.com.py/infomicasa/jose-maria-casal-es-previsible-que-los-precios-de-los-alquileres-se-estabilicen-para-2025",
+    "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/",
+    "https://infonegocios.com.py/default/un-proyecto-que-cambiara-el-paisaje-residencial-de-asuncion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Estudio que diseña torres residenciales, oficinas y hoteles de nivel medio-alto y ahora casas a medida: COCO puede ofrecer bachas y mesadas UHPC para baños de hotel/residencias premium y para las casas nuevas. Entrada por WhatsApp a José María Casal con muestra y proponer especificación en Feel torres 2-3 o casas.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 63: estudio activo con torres y hoteles y WhatsApp verificado, pero sin email ni teléfono fijo y estética no centrada en hormigón."
+   },
+   "pendiente_verificar": "Instagram @casalarquitectura (429) y LinkedIn (403): seguidores, posts y temas sin leer. Google Maps y Facebook no consultados/no hallados. Email no publicado (solo formulario). Confirmar cuáles de los proyectos de Paraguay están hoy en obra (Feel torres 2-3, casas, Del Chaco) y quién especifica terminaciones de baño. Skytower: la ficha de Branson lista otro arquitecto, la atribución solo está respaldada por la web de Casal y una entrevista.",
+   "actividad_reciente": {
+    "fecha": "2026-02",
+    "evidencia": "Web propia con copyright 2026 y imágenes subidas en feb-2026 (Go Tower, Palieres); inauguración de Go Tower oct-2025",
+    "url": "https://casalarquitectos.com/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Casas para clientes finales / barrios cerrados periféricos de Asunción (2 casas iniciadas en 2024)",
+     "tipo": "vivienda unifamiliar",
+     "etapa": "en obra",
+     "unidades": 2,
+     "link": "https://infonegocios.com.py/infomicasa/jose-maria-casal-es-previsible-que-los-precios-de-los-alquileres-se-estabilicen-para-2025"
+    },
+    {
+     "nombre": "Feel Asunción (primera de tres torres, 5 niveles de estacionamiento + 23 de departamentos)",
+     "tipo": "torres residenciales",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/default/un-proyecto-que-cambiara-el-paisaje-residencial-de-asuncion"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web ni las notas describen baños o cocinas; los edificios se presentan por amenities y certificaciones."
+   },
+   "materiales_y_proveedores_visibles": "Ninguno visible; nota de 2018 menciona BoConcept solo como mobiliario del lanzamiento de Feel. LEED/WELL/NFPA como foco técnico.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 20,
+    "gama": 14,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 6,
+    "total": 63
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: contemporáneo sobrio y 'materiales nobles', sin evidencia de hormigón visto ni foco en interiorismo.",
+    "volumen": "20/25: ~35 proyectos, dos oficinas, torres de >US$30 M (Go Tower) y varias torres/hoteles en Uruguay y Paraguay.",
+    "gama": "14/20: oficinas con doble certificación, hoteles y torres de ticket medio-alto (unidad Feel ~US$187.000 en un aviso no fechado).",
+    "accesibilidad": "9/15: WhatsApp y dirección verificados en la web propia, dos decisores nombrados; sin teléfono fijo ni email.",
+    "oportunidad_inmediata": "6/10: Go Tower recién inaugurada, Feel con torres posteriores y 2 casas iniciadas en 2024, sin detalle de etapa de terminaciones."
+   },
+   "notas_investigacion": "Dato de ronda 2a: 'Casal Arquitectos' sin web ni ciudad confirmada; es un estudio con sede doble Montevideo-Asunción (casalarquitectura.uy redirige 301 a casalarquitectos.com). Leídos: casalarquitectos.com (WebFetch y curl 200; wa.me/595982533320, instagram y LinkedIn extraídos del HTML) y versión /en/ (WebFetch del /en/ dio 404 pero la home trae el mismo contenido). Prensa: Infonegocios 23/01/2024 (entrevista a José María Casal), La Nación 10/10/2025 (Go Tower), Infonegocios 16/01/2018 (Feel). Datos del Infonegocios 2018 de Feel (tel +595 21 3384132, +595 985 411900, feelasuncion.com.py) son de la comercialización de Feel, no del estudio: no_verificado y no registrados. Instagram 429, LinkedIn 403, Facebook sin página hallada, Google Maps no consultado. ArchDaily/Archello/Plataforma: búsqueda sin fichas del estudio. DNCP no aplica. Escala Desarrollos (desarrolladora de Go Tower y Feel) ya está perfilada en r2b-07."
+  },
+  {
+   "nombre": "Nabi Diseño de Interiores",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Avda. Eusebio Ayala 426, Asunción (https://nabi.com.py/contacto/)",
+   "anio_fundacion": null,
+   "que_hacen": "Estudio pequeño de interiorismo residencial y comercial liderado por 'Ana' (diseñadora, '14 años de experiencia'; apellido no publicado). Ofrece diseño 3D, fabricación de mobiliario, empapelado, iluminación, pisos y reformas. Tres proyectos publicados (joyería en San Lorenzo, casa de 200 m2 en Mariano Roque Alonso, departamento de 110 m2 en Asunción).",
+   "tipo_proyectos": [
+    "residencial",
+    "comercial"
+   ],
+   "estilo": "Moderno, minimalista y 'acogedor'; paleta cálida (web propia)",
+   "proyectos_destacados": [
+    {
+     "nombre": "Casa moderna y minimalista (Mariano Roque Alonso, 200 m2)",
+     "anio": null,
+     "link": "https://nabi.com.py/casa-moderna-y-minimalista/"
+    },
+    {
+     "nombre": "Departamento inspirado en la playa (Asunción, 110 m2)",
+     "anio": null,
+     "link": "https://nabi.com.py/departamento-inspirado-en-la-playa/"
+    },
+    {
+     "nombre": "Joyería de ensueño (San Lorenzo, 60 m2)",
+     "anio": null,
+     "link": "https://nabi.com.py/joyeria-de-ensueno/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Fichas sin materiales; solo empapelados y revestimientos de pared."
+   },
+   "tamano_aprox": "Muy pequeño: una diseñadora principal, tres proyectos publicados.",
+   "decisores": [
+    {
+     "nombre": "Ana (apellido no publicado)",
+     "cargo": "Diseñadora principal",
+     "fuente": "https://nabi.com.py/"
+    }
+   ],
+   "web": "https://nabi.com.py/",
+   "instagram": "https://www.instagram.com/nabi.interiores/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/nabi.interiores/",
+   "linkedin": null,
+   "email": "hola@nabi.com.py",
+   "telefono": "0991 709889",
+   "whatsapp": "+595 991 709889 (api.whatsapp.com/send?phone=595991709889)",
+   "fuentes": [
+    "https://nabi.com.py/",
+    "https://nabi.com.py/contacto/",
+    "https://nabi.com.py/proyectos/",
+    "https://nabi.com.py/casa-moderna-y-minimalista/",
+    "https://nabi.com.py/departamento-inspirado-en-la-playa/",
+    "https://nabi.com.py/joyeria-de-ensueno/",
+    "https://www.facebook.com/nabi.interiores/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Si COCO quisiera atender estudios pequeños: ofrecer bachas y mesadas UHPC como pieza de mobiliario a medida en sus reformas. Prioridad baja por escala y falta de actividad reciente verificable.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 33: estudio muy pequeño y sin actividad visible desde 2022-2023."
+   },
+   "pendiente_verificar": "Facebook (login) e Instagram (429) no legibles: es posible que la actividad reciente exista solo allí; si se revisa a mano y hay obras 2025-2026, reabrir. Google Maps no consultado.",
+   "actividad_reciente": {
+    "fecha": "2023",
+    "evidencia": "Pie de web '© 2023'; wp-json: páginas modificadas por última vez 05-05-2022 y proyectos publicados oct-2021. No se vio ningún post ni obra posterior.",
+    "url": "https://nabi.com.py/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Las tres fichas de proyecto no mencionan baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Empapelados, iluminación decorativa, mobiliario propio; sin marcas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 3,
+    "gama": 8,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 0,
+    "total": 33
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: estilo moderno/minimalista pero sin hormigón ni materiales nobles visibles.",
+    "volumen": "3/25: una diseñadora y tres proyectos publicados.",
+    "gama": "8/20: viviendas y locales medios; sin señales de público premium.",
+    "accesibilidad": "10/15: teléfono, WhatsApp, email y dirección publicados en la web propia; decisora identificada solo por nombre de pila.",
+    "oportunidad_inmediata": "0/10: ninguna obra en curso ni actividad posterior a 2023 visible."
+   },
+   "notas_investigacion": "Candidato de piloto con link de Facebook (login, sin contenido). Una búsqueda halló nabi.com.py (WebFetch no sirvió: resumió solo secciones; se leyó con curl -A Mozilla/5.0, HTTP 200, en home, /contacto/, /proyectos/ y las 3 fichas). El email aparece ofuscado (Cloudflare) y se decodificó desde data-cfemail del HTML de la propia web: hola@nabi.com.py. Facebook: login; m.facebook.com devuelve 'Log in or sign up'; Instagram 429. Un extracto de buscador atribuye 1.879 seguidores a Facebook (no verificado). Google Maps no consultado. Prensa: 2 búsquedas sin ninguna nota sobre Nabi. Existe homónimo Nabi Interior Design (Nápoles, Italia) en Archilovers: no relacionado. Descartada por falta de actividad visible en los últimos ~18 meses (la web no se actualiza desde 2022); los contactos quedan por si se decide reintentar.",
+   "descartada": true,
+   "motivo_descarte": "Empresa existente pero sin actividad visible verificable en los últimos ~18 meses: web sin cambios desde 2022 (© 2023), sin prensa, redes no legibles; además muy pequeña (3 proyectos publicados)."
+  },
+  {
+   "nombre": "Ertl Design",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura de la arq. Antonella Ertl para locales comerciales, equipamiento de oficinas e interiorismo residencial, llave en mano. Equipo (2023): Patricia Ayala (diseño y planificación), Fabiane Sánchez (supervisión de obra), Ornella Caponne (administración). Clientes citados: Alvica (cafetería, aeropuerto Silvio Pettirossi) y Ja-Virá (buffet, Shopping Multiplaza).",
+   "tipo_proyectos": [
+    "comercial",
+    "corporativo",
+    "residencial"
+   ],
+   "estilo": "Contemporáneo cálido con referencias a la identidad paraguaya (almacenes antiguos), iluminación cálida y texturas, según la nota.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Alvica (tiendas, primera en Aeropuerto Silvio Pettirossi)",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infomicasa/diseno-integral-con-ertl-design-del-concepto-a-la-realidad-en-espacios-comerciales-y-residenciales"
+    },
+    {
+     "nombre": "Ja-Virá, Shopping Multiplaza",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infomicasa/diseno-integral-con-ertl-design-del-concepto-a-la-realidad-en-espacios-comerciales-y-residenciales"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La nota no menciona materiales concretos."
+   },
+   "tamano_aprox": "Pequeño: 4 personas citadas en la nota de 2023.",
+   "decisores": [
+    {
+     "nombre": "Antonella Ertl",
+     "cargo": "Arquitecta, fundadora y directora",
+     "fuente": "https://infonegocios.com.py/infomicasa/diseno-integral-con-ertl-design-del-concepto-a-la-realidad-en-espacios-comerciales-y-residenciales"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/ertldesign/ (handle @ertldesign citado por Infonegocios; no leído)",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/diseno-integral-con-ertl-design-del-concepto-a-la-realidad-en-espacios-comerciales-y-residenciales"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Si se reactivara: estudio de locales comerciales y oficinas donde las mesadas y bachas UHPC pueden ser pieza de diseño en baños y barras de cafeterías. Hoy no hay datos de contacto verificados ni actividad reciente.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 27: única evidencia es una nota de agosto de 2023 y no hay contacto verificado."
+   },
+   "pendiente_verificar": "Revisar a mano Instagram @ertldesign (429) para confirmar actividad 2025-2026 y obtener teléfono/email/WhatsApp. El teléfono (0971) 250-092 aparece solo en la nota de Infonegocios (agosto 2023): no_verificado, no se registra como contacto. Buscar si tiene web o ficha en Google Maps.",
+   "actividad_reciente": {
+    "fecha": "2023-08",
+    "evidencia": "Nota de Infonegocios del 17/08/2023 (más de 27 meses antes de la verificación)",
+    "url": "https://infonegocios.com.py/infomicasa/diseno-integral-con-ertl-design-del-concepto-a-la-realidad-en-espacios-comerciales-y-residenciales"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No se menciona."
+   },
+   "materiales_y_proveedores_visibles": "Ninguno visible.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 10,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 0,
+    "total": 27
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: estilo contemporáneo cálido sin evidencia de hormigón ni minimalismo marcado; solo texto de prensa.",
+    "volumen": "6/25: equipo de 4 personas, dos clientes comerciales citados.",
+    "gama": "10/20: locales en Multiplaza y aeropuerto, clientes de marca; sin señal de residencial premium.",
+    "accesibilidad": "3/15: decisora nombrada por prensa, ningún contacto verificado en fuente propia.",
+    "oportunidad_inmediata": "0/10: ninguna obra en curso visible."
+   },
+   "notas_investigacion": "Leído: nota de Infonegocios (WebFetch; fecha 17/08/2023). Instagram @ertldesign: 429 (WebFetch y curl). Facebook facebook.com/ertldesign devuelve 'ERTL Design | London', una página ajena: no se registra. Probados dominios ertldesign.com.py, ertldesign.com, ertl.com.py, www.ertldesign.com: no resuelven (sin web propia hallada). Búsquedas en buscador: ninguna otra fuente (ni prensa, ni ArchDaily, ni portales). Google Maps no consultado. Una tercera búsqueda web no pudo ejecutarse por límite de uso del buscador. Datos de ronda 1: corregido, el candidato no tenía web ni contacto. Descartada por falta de actividad visible en los últimos ~18 meses.",
+   "descartada": true,
+   "motivo_descarte": "Única evidencia de actividad es una nota de agosto de 2023 (>18 meses); sin web, sin redes legibles ni contactos verificados."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "JCA Constructora S.A.",
+   "link": "https://infonegocios.com.py/default/una-vida-moderna-en-el-villa-morra-haus",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Gómez Abente Construcciones (constructora de Go Tower)",
+   "link": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  }
+ ]
+}
