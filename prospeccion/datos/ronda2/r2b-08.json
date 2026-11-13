@@ -1,0 +1,594 @@
+{
+ "lote": "r2b-08",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Viaplan S.A. (Constructora Viaplan)",
+   "segmento": "constructora",
+   "ciudad": "Santa Rita (Alto Paraná)",
+   "region": "Alto Paraná",
+   "direccion": "Casa central en Santa Rita, Alto Paraná (Infonegocios 2022); la bolsa de trabajo de la empresa la ubica en Barrio Campiña Verde, Santa Rita (dato leído solo como snippet de buscador porque oportunidad.viaplan.com.py devolvió 403). Calle exacta no verificada.",
+   "anio_fundacion": 2005,
+   "que_hacen": "Constructora de obras industriales, agroindustriales y comerciales (galpones, silos, centros de distribución, supermercados, estaciones de servicio, oficinas, hoteles) con producción propia de premoldeados de hormigón (sistema Galplac) y estructuras metálicas, además de fundaciones profundas. Nació en 2005 haciendo residencias y depósitos para maquinaria en Alto Paraná, Canindeyú e Itapúa.",
+   "tipo_proyectos": [
+    "industrial",
+    "agroindustrial",
+    "comercial",
+    "logístico (galpones)"
+   ],
+   "estilo": "Utilitario/industrial; premoldeado de hormigón y metal. Sin estética residencial ni de interiores.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Planta agroindustrial en Canindeyú para inversores estadounidenses (en ejecución a 2022)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoconstruccion/viaplan-la-constructora-que-se-dedica-a-ejecutar-obras-industriales-y-comerciales-de-forma-exclusiva"
+    },
+    {
+     "nombre": "Planta de producción de lechones de 40.000 m2 en Itapúa, premoldeado de hormigón",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoconstruccion/viaplan-la-constructora-que-se-dedica-a-ejecutar-obras-industriales-y-comerciales-de-forma-exclusiva"
+    },
+    {
+     "nombre": "Planta de silos ADM Itakyry (caso en web propia; solo visto como snippet de buscador, sitio con Cloudflare)",
+     "anio": null,
+     "link": "https://www.viaplan.com.py/caso/adm-itakyry"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Fabrica premoldeados de hormigón estructural (columnas, muros, cubiertas) para galpones; no hay evidencia de hormigón visto como terminación estética."
+   },
+   "tamano_aprox": "Más de 140 empleados directos (Infonegocios, ago-2022)",
+   "decisores": [
+    {
+     "nombre": "Daniel Rech",
+     "cargo": "Representante comercial",
+     "fuente": "https://infonegocios.com.py/amp/default/viaplan-la-constructora-que-se-dedica-a-ejecutar-obras-industriales-y-comerciales-de-forma-exclusiva (prensa 2022; no verificado en fuente propia)"
+    }
+   ],
+   "web": "https://www.viaplan.com.py",
+   "instagram": "https://www.instagram.com/viaplanpy/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/viaplan.sa",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/amp/default/viaplan-la-constructora-que-se-dedica-a-ejecutar-obras-industriales-y-comerciales-de-forma-exclusiva",
+    "https://www.contrataciones.gov.py/proveedor/viaplan-s-a/adjudicaciones.html",
+    "https://panjiva.com/Viaplan-SA/35911032"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Encaje débil: su obra es industrial/agro. Solo vale como contacto secundario si COCO quisiera piezas premoldeadas en Alto Paraná (oficinas o baños de plantas); no es prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Constructora industrial y agroindustrial del interior, sin baños/cocinas de gama ni estética afín."
+   },
+   "pendiente_verificar": "Teléfonos (0981) 793-195 y (0983) 798-979 y horarios figuran solo en Infonegocios 2022: NO VERIFICADOS en fuente propia porque viaplan.com.py (home, /contacto, /caso/*) devuelve 403 de Cloudflare ('Just a moment') tanto con WebFetch como con curl. Instagram (429/login wall), Facebook (login), seguidores, último post y reseñas de Google Maps: sin leer. Actividad de los últimos 18 meses no confirmada con fecha.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Fecha desconocida. Indicio indirecto: el sitio de la empresa y su portal de empleo siguen en línea (aparecen en buscador) y Panjiva registra un embarque a nombre de Viaplan SA en 2024 (puerto Ciudad del Este). Sin fecha de post ni de obra reciente leída.",
+    "url": "https://panjiva.com/Viaplan-SA/35911032"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Obras industriales, agroindustriales y comerciales de gran escala; no se mencionan baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Sistema propio de premoldeado de hormigón Galplac y estructuras metálicas; sin marcas de griferías ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 3,
+    "volumen": 12,
+    "gama": 3,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 1,
+    "total": 23
+   },
+   "puntaje_justificacion": {
+    "estetica": "3/30: obra utilitaria industrial con premoldeado estructural; sin interiores ni hormigón visto decorativo.",
+    "volumen": "12/25: más de 140 empleados y plantas de hasta 40.000 m2 en varios departamentos, pero obra de nicho industrial y sin DNCP (0 adjudicaciones).",
+    "gama": "3/20: cliente agro/industrial, no residencial premium.",
+    "accesibilidad": "4/15: no hay contacto verificado en fuente propia (sitio bloqueado por Cloudflare); solo teléfonos y un representante comercial citados en prensa 2022.",
+    "oportunidad_inmediata": "1/10: planta agroindustrial en Canindeyú y silos, sin demanda visible de bachas/mesadas."
+   },
+   "notas_investigacion": "Ronda 1 decía 'Asunción (a confirmar)': corregido, la casa central está en Santa Rita, Alto Paraná (Infonegocios), con galpones logísticos en Asunción, CDE, Caaguazú e Itapúa. Leído: Infonegocios (WebFetch, nota de Nora Vega del 18-ago-2022); DNCP /proveedor/viaplan-s-a/participaciones y /adjudicaciones (0 resultados; otros slugs probados: viaplan, viaplan-s-a-1); Panjiva (vía buscador); 3 búsquedas de prensa (Infonegocios es la única fuente; no hay notas en ABC, La Nación ni Última Hora en los resultados). FALLÓ: viaplan.com.py (home, www/sin www, http, /contacto, /caso/ciabay, /caso/adm-itakyry, oportunidad.viaplan.com.py) 403 Cloudflare con UA de navegador; Instagram @viaplanpy 429 por WebFetch y shell de login por curl; Facebook viaplan.sa pide login; LinkedIn no hallado; Google Maps carga solo shell JS; ArchDaily/Archello sin resultados. Los teléfonos de prensa se anotan como no_verificado y quedan null en la ficha."
+  },
+  {
+   "nombre": "Alar Constructora S.R.L.",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Charles de Gaulle 463 c/ Campos Cervera, Asunción (sitio propio y Infonegocios 2022)",
+   "anio_fundacion": 2005,
+   "que_hacen": "Constructora pequeña/mediana que ejecuta obras civiles, comerciales e industriales completas o parciales y provee mano de obra para hormigón armado, albañilería, pisos y revestimientos; también elabora proyectos, cómputos y presupuestos. Trabaja como contratista general y como subcontratista de hormigón y albañilería de otras constructoras y desarrolladoras.",
+   "tipo_proyectos": [
+    "edificios en altura (subcontrato de hormigón/albañilería)",
+    "industrial",
+    "comercial",
+    "residencial unifamiliar"
+   ],
+   "estilo": "Ejecutora de obra gruesa y terminaciones; no tiene línea de diseño propia visible.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio More del Sol (Asunción, desarrolladora Altius)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoconstruccion/scouting-que-construye-alar-constructora-capta-talentos-para-la-ejecucion-de-obras"
+    },
+    {
+     "nombre": "Edificios Innova, SkyPark y Bernardino (Asunción)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoconstruccion/scouting-que-construye-alar-constructora-capta-talentos-para-la-ejecucion-de-obras"
+    },
+    {
+     "nombre": "Ampliación de fábrica Ball Corporation (Guarambaré) y parque logístico SB+ (Luque)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoconstruccion/scouting-que-construye-alar-constructora-capta-talentos-para-la-ejecucion-de-obras"
+    },
+    {
+     "nombre": "Chacomer (subcontrato de fundaciones, hormigón y albañilería) y Achon Muebles (ampliación)",
+     "anio": null,
+     "link": "https://www.alarconstructora.com/?action=obras"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Hace hormigón armado estructural como subcontratista; no hay evidencia de hormigón visto ni de microcemento."
+   },
+   "tamano_aprox": "Pequeña; red de colaboradores sin cifra publicada. 13 obras citadas en 2022",
+   "decisores": [
+    {
+     "nombre": "Aníbal Alarcón",
+     "cargo": "Director General (Ing., MBA)",
+     "fuente": "https://www.alarconstructora.com/?action=nosotros (sitio propio) e Infonegocios 2022"
+    }
+   ],
+   "web": "https://www.alarconstructora.com",
+   "instagram": "https://www.instagram.com/alarconstructora/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/ALAR-Constructora-SRL-176396699070764/",
+   "linkedin": null,
+   "email": "alarconstructora@gmail.com",
+   "telefono": "021 662-389",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.alarconstructora.com/",
+    "https://www.alarconstructora.com/?action=nosotros",
+    "https://www.alarconstructora.com/?action=obras",
+    "https://infonegocios.com.py/infoconstruccion/scouting-que-construye-alar-constructora-capta-talentos-para-la-ejecucion-de-obras",
+    "https://www.contrataciones.gov.py/proveedor/alar-constructora-s-r-l/adjudicaciones.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Es subcontratista de obra gruesa de edificios residenciales como More del Sol: no especifica terminaciones, pero conoce a las desarrolladoras. Sirve como contacto de referencia/recomendación más que como cliente directo.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Subcontratista de mano de obra; sin poder de especificación de bachas ni mesadas y sin actividad reciente confirmada."
+   },
+   "pendiente_verificar": "Celular (0981) 957-796 figura solo en Infonegocios 2022: no_verificado. Instagram @alarconstructora (solo shell de login), seguidores y último post; Facebook (login); LinkedIn no hallado; Google Maps. Actividad en 2025-2026 no confirmada: lo último fechado es la nota de dic-2022 y la web propia es de diseño antiguo ('11 años', sin copyright con año).",
+   "actividad_reciente": {
+    "fecha": "2022-12",
+    "evidencia": "Nota Infonegocios del 29-dic-2022 con 13 obras; sin evidencia posterior leída (fuera de la ventana de 18 meses). Aun así la web propia está en línea y el correo y teléfono figuran allí.",
+    "url": "https://infonegocios.com.py/infoconstruccion/scouting-que-construye-alar-constructora-capta-talentos-para-la-ejecucion-de-obras"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Provee obra gruesa, albañilería y terminaciones como mano de obra; no hay baños ni cocinas destacados."
+   },
+   "materiales_y_proveedores_visibles": "Ninguna marca visible. Clientes con logo en su web: Salum Wenz, AGB, Tecnoedil, Vialsur, Hevreco (Bluetower) y UAA; edificios de Altius (More del Sol).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 7,
+    "gama": 8,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 2,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: obra gruesa y mano de obra de hormigón/albañilería; sin evidencia de estética afín.",
+    "volumen": "7/25: empresa pequeña, 13 obras mencionadas en 2022 y una sola adjudicación DNCP (G. 139.850.825, UNA Villarrica).",
+    "gama": "8/20: subcontrata en edificios de desarrolladoras de gama media-alta (More del Sol, SkyPark) y residencias privadas, pero también en industria y obras públicas.",
+    "accesibilidad": "11/15: teléfono y correo (Gmail) verificados en la web propia y director general nombrado en la web; sin WhatsApp ni redes leídas.",
+    "oportunidad_inmediata": "2/10: no hay obra en curso identificada ni actividad posterior a 2022."
+   },
+   "notas_investigacion": "Ronda 1 traía 'Asunción (a confirmar)': confirmada Asunción. La web real es alarconstructora.com (alarconstructora.com.py y alar.com.py no resuelven). Leído con curl/WebFetch: home, ?action=nosotros, ?action=obras; DNCP (1 adjudicación, 1 participación); Infonegocios (WebFetch). Discrepancia: la web propia dice premio International Arch of Europe en 2014 y '11 años' de trayectoria, la prensa dice 2004 y mercado desde mayo de 2005; se dejó 2005 como fundación según prensa. Búsquedas de prensa: 3, solo Infonegocios; resultados Argentina/Chile son homónimos y se descartaron. FALLÓ: Instagram (login), Facebook (login), LinkedIn (no encontrado), Google Maps (shell JS), ArchDaily/Archello (sin resultados). El correo es una cuenta Gmail publicada por la propia empresa."
+  },
+  {
+   "nombre": "Somagec Paraguay S.A. (Somagec Inmobiliaria)",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Oficina central: Tte. Malutin 489 esquina Moisés Bertoni (sitio propio, la web no nombra la ciudad; prensa 2022 citaba Cruz del Defensor 197 casi Quesada, dato desactualizado). Cantera en Costa Hu, Pirayú (Paraguarí).",
+   "anio_fundacion": 2015,
+   "que_hacen": "Filial paraguaya del grupo francés/marroquí Somagec (más de 50 años en puertos, caminos, puentes y obras civiles). Desde 2015 en Paraguay: infraestructura civil, sanitaria y vial, líneas eléctricas (tramo de 360 km de la LT 500 kV Ayolas-Villa Hayes), obras para la industria del cemento y, desde 2018, una cantera de riolita en Pirayú. Con su brazo Somagec Inmobiliaria desarrolló y construyó el edificio Marlin Luque.",
+   "tipo_proyectos": [
+    "infraestructura vial",
+    "líneas eléctricas",
+    "industrial",
+    "edificios públicos",
+    "residencial (edificio Marlin Luque)",
+    "cantera / agregados"
+   ],
+   "estilo": "Ingeniería de infraestructura; en lo residencial, estilo industrial de tonos neutros con muebles de cocina Achon.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio Marlin Luque (63 deptos, 2 torres de 6 pisos, tras la sede de Conmebol)",
+     "anio": 2021,
+     "link": "https://infonegocios.com.py/infomicasa/edificio-marlin-luque-un-complejo-residencial-de-lujo-con-aislamiento-termico-y-acustico"
+    },
+    {
+     "nombre": "LT 500 kV Ayolas-Villa Hayes (360 km, cliente ANDE)",
+     "anio": 2018,
+     "link": "https://www.somagec.com.py/obras"
+    },
+    {
+     "nombre": "Obras civiles planta Industria Nacional del Cemento, Vallemí (hormigón de alto desempeño y pavimentos de hormigón)",
+     "anio": 2017,
+     "link": "https://www.somagec.com.py/obras"
+    },
+    {
+     "nombre": "Edificio corporativo ANDE Agencia Coronel Oviedo (licitación LP1555-20, participó)",
+     "anio": 2020,
+     "link": "https://www.contrataciones.gov.py/proveedor/somagec-paraguay-s-a/participaciones.html"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Hace hormigón estructural y de alto desempeño en obras industriales; Marlin Luque se describe con 'mix de materiales y texturas' de estilo industrial, sin confirmar hormigón visto."
+   },
+   "tamano_aprox": "Unos 160 trabajadores en 2022 (Infonegocios); grupo internacional con presencia en Marruecos, Yibuti, Mauritania y Guinea Ecuatorial",
+   "decisores": [
+    {
+     "nombre": "Jean Michel García",
+     "cargo": "Director Presidente",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/somagec-paraguay-una-constructora-especializada-en-megaproyectos-de-infraestructura-cuenta-con-una-cantera-ubicada-en-pirayu (prensa mar-2022; no figura en la web propia)"
+    }
+   ],
+   "web": "https://www.somagec.com.py",
+   "instagram": "https://www.instagram.com/somagec_paraguay/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/pages/Somagec-Paraguay/1219634654820646",
+   "linkedin": "https://www.linkedin.com/company/somagec-paraguay/",
+   "email": "somagec@somagec.com.py",
+   "telefono": "+595 21 663 529",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.somagec.com.py/",
+    "https://www.somagec.com.py/clientes",
+    "https://www.somagec.com.py/obras",
+    "https://www.somagec.com.py/cantera",
+    "https://infonegocios.com.py/infoconstruccion/somagec-paraguay-una-constructora-especializada-en-megaproyectos-de-infraestructura-cuenta-con-una-cantera-ubicada-en-pirayu",
+    "https://infonegocios.com.py/infomicasa/edificio-marlin-luque-un-complejo-residencial-de-lujo-con-aislamiento-termico-y-acustico",
+    "https://www.contrataciones.gov.py/proveedor/somagec-paraguay-s-a/adjudicaciones.html",
+    "https://www.contrataciones.gov.py/proveedor/somagec-paraguay-s-a/participaciones.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Tiene brazo inmobiliario que ya construyó 63 departamentos con cocinas amuebladas y anunció un barrio cerrado y otro edificio; ahí COCO podría ofrecer bachas y mesadas UHPC como diferencial. Entrada por la oficina de Somagec Inmobiliaria.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Constructora de infraestructura con un solo edificio residencial conocido (2021) y actividad reciente sin confirmar; queda justo bajo B."
+   },
+   "pendiente_verificar": "Teléfonos de ventas (0981) 150-526 y datos del edificio Marlin figuran solo en prensa 2021: no_verificado. Estado de los proyectos anunciados en 2022 (barrio cerrado y edificio de departamentos) sin confirmar. Instagram, Facebook y LinkedIn solo con link en la web propia, no leídos (login/403): seguidores, último post y reseñas de Google Maps sin datos. Actividad dentro de los últimos 18 meses no confirmada: footer web 2022, última adjudicación DNCP leída de 2023.",
+   "actividad_reciente": {
+    "fecha": "2023",
+    "evidencia": "Última adjudicación DNCP leída: LLAMADO MOPC Nº 23/2023, materiales para planta asfáltica (ID 436295, G. 1.890.000.000); el mes no figura en el listado. Fuera de la ventana de 18 meses; la web propia sigue en línea con footer 2022. No hay evidencia más reciente.",
+    "url": "https://www.contrataciones.gov.py/proveedor/somagec-paraguay-s-a/adjudicaciones.html"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Barrio cerrado residencial y edificio de departamentos (anunciados en 2022, estado desconocido)",
+     "tipo": "residencial",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infoconstruccion/somagec-paraguay-una-constructora-especializada-en-megaproyectos-de-infraestructura-cuenta-con-una-cantera-ubicada-en-pirayu"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Marlin Luque incluye cocina y dormitorio amueblados Achon y balcones gourmet, pero la nota no detalla baños, mesadas ni griferías."
+   },
+   "materiales_y_proveedores_visibles": "Muebles de cocina Achon; aislación Airblock y U-Boot Beton (Marlin Luque). Sin marcas de griferías ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 14,
+    "gama": 8,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 3,
+    "total": 43
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: obras de infraestructura; el único edificio residencial es de estilo industrial neutro, sin hormigón visto confirmado.",
+    "volumen": "14/25: unos 160 trabajadores, grupo internacional, cantera y 15+ adjudicaciones DNCP (hasta G. 4.100 millones por contrato), pero casi toda la obra es vial y de agregados.",
+    "gama": "8/20: Marlin Luque se vende como 'residencial de lujo' pero son deptos de 38 a 77 m2; resto de la cartera es infraestructura.",
+    "accesibilidad": "12/15: teléfono y correo verificados en la web propia más tres redes enlazadas y un presidente identificado en prensa; sin WhatsApp ni decisor en fuente propia.",
+    "oportunidad_inmediata": "3/10: dos proyectos residenciales anunciados en 2022 sin estado confirmado."
+   },
+   "notas_investigacion": "Ronda 1 traía 'Asunción (a confirmar)': confirmada, pero la dirección vigente es Tte. Malutin 489 esq. Moisés Bertoni (web propia), no Cruz del Defensor 197 como decía la prensa de 2022. Leído: web propia (home, /obras, /cantera, /clientes, /rse, con curl: WebFetch no se probó porque curl funcionó), Infonegocios (2 notas: empresa 11-mar-2022 y Marlin Luque 9-nov-2021), DNCP /proveedor/somagec-paraguay-s-a (adjudicaciones y participaciones), 3 búsquedas de prensa. FALLÓ: Instagram (shell de login), Facebook, LinkedIn, Google Maps (shell JS); ArchDaily/Archello sin resultados. Discrepancias: Marlin Luque terminado a fines de 2021 según la nota de 2022; otra nota dice entrega en diciembre (2021). El teléfono de ventas (0981) 150-526 solo está en prensa: no_verificado."
+  },
+  {
+   "nombre": "JVPSA Constructora",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Lillo 2147, Asunción: edificio de oficinas de cuatro niveles (solo en Infonegocios, sep-2023; no verificado en fuente propia)",
+   "anio_fundacion": 2014,
+   "que_hacen": "Constructora fundada por Juan Viedma con casi 10 años en 2023 y más de 60 familias empleadas. Dice ejecutar obras educativas, de salud, civiles y de arte, desde refacciones hasta obras de gran escala. Su obra insignia citada es un museo MUVA en San Ignacio, Misiones, de más de 6.500 m2.",
+   "tipo_proyectos": [
+    "educativo",
+    "salud",
+    "civil",
+    "museos y arte",
+    "refacciones"
+   ],
+   "estilo": "No evaluable: sin web propia ni portafolio leído.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Museo MUVA, San Ignacio Guazú, Misiones (Museo Viedma, inaugurado el 28-may-2026; la prensa que leí no nombra a la constructora)",
+     "anio": 2026,
+     "link": "https://www.lanacion.com.py/la-nacion-del-finde/2026/05/30/muva-aportar-este-legado-al-paraguay-es-un-acto-de-arraigo-coherencia-y-gratitud/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portafolio ni fotos leídas."
+   },
+   "tamano_aprox": "Más de 60 familias con empleo (autodeclarado, Infonegocios 2023); oficina de 4 niveles con equipo de ingenieros y arquitectos",
+   "decisores": [
+    {
+     "nombre": "Juan Viedma",
+     "cargo": "Gerente general y fundador",
+     "fuente": "https://infonegocios.com.py/infobrand/jvpsa-constructora-estreno-nueva-imagen-corporativa-fresca-e-innovadora (nota patrocinada, 20-sep-2023)"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/jvpsa_py/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": "https://www.linkedin.com/company/jvpsa-constructora/",
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infobrand/jvpsa-constructora-estreno-nueva-imagen-corporativa-fresca-e-innovadora",
+    "https://www.abc.com.py/nacionales/2026/05/28/museo-viedma-abre-sus-puertas-en-san-ignacio-como-nuevo-espacio-cultural-del-pais/",
+    "https://www.lanacion.com.py/la-nacion-del-finde/2026/05/30/muva-aportar-este-legado-al-paraguay-es-un-acto-de-arraigo-coherencia-y-gratitud/",
+    "https://www.contrataciones.gov.py/proveedor/jvpsa-constructora/adjudicaciones.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Constructora chica de obras institucionales y de arte, con vínculo probable con el museo MUVA; podría interesar para piezas en obras culturales o de salud, pero primero hay que confirmar que sigue activa y cómo contactarla.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin web, sin contacto verificado y sin actividad de los últimos 18 meses confirmada; perfil institucional, no residencial premium."
+   },
+   "pendiente_verificar": "No hay teléfono, email ni web en ninguna fuente leída. Instagram jvpsa_py y LinkedIn jvpsa-constructora: links tomados de la nota de Infonegocios, ambos sin leer (Instagram devuelve la pantalla de login, LinkedIn 403). La constructora del MUVA (la prensa 2026 no la nombra) y el parentesco entre Juan Viedma y el artista Manuel Viedma, fundador del MUVA, no están confirmados: no asumir. Reseñas y horario de Google Maps sin datos.",
+   "actividad_reciente": {
+    "fecha": "2023-09",
+    "evidencia": "Única fuente fechada: nota patrocinada del 20-sep-2023. Indicio indirecto: el museo MUVA que la empresa cita como obra en etapa final se inauguró el 28-may-2026, pero ninguna nota leída vincula a JVPSA con la obra.",
+    "url": "https://infonegocios.com.py/infobrand/jvpsa-constructora-estreno-nueva-imagen-corporativa-fresca-e-innovadora"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin portafolio leído."
+   },
+   "materiales_y_proveedores_visibles": "No hay datos.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 2,
+    "volumen": 6,
+    "gama": 6,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 1,
+    "total": 18
+   },
+   "puntaje_justificacion": {
+    "estetica": "2/30: sin portafolio ni fotos; obras institucionales y un museo sin evidencia de afinidad.",
+    "volumen": "6/25: más de 60 familias empleadas según nota patrocinada y un museo de 5.300 a 6.500 m2; sin DNCP (0 resultados con los slugs probados).",
+    "gama": "6/20: obra cultural privada de inversión importante, pero sin residencial ni público premium identificado.",
+    "accesibilidad": "3/15: decisor nombrado solo en prensa, ningún teléfono ni email publicado en fuente propia.",
+    "oportunidad_inmediata": "1/10: sin obra en curso identificada; museo ya inaugurado."
+   },
+   "notas_investigacion": "El archivo de entrada trae 'JVPSA Constructora' con ciudad 'Asunción (a confirmar)': confirmada por la nota (Lillo 2147). ATENCIÓN: jvpsa.com es de JVP Consultores S.A. (consultora de ingeniería de Buenos Aires, Argentina): NO es esta empresa y no se tomó ningún dato de ahí. Leído: nota de Infonegocios (WebFetch, versión normal y AMP); ABC y La Nación sobre la inauguración del MUVA (no mencionan a JVPSA); DNCP (probados jvpsa, jvpsa-s-a, jvpsa-constructora, jvpsa-constructora-s-a, jvpsa-s-r-l: sin resultados); 4 búsquedas (general, MUVA, DNCP, redes). No hallé web propia (jvpsa.com.py y www.jvpsa.com.py no resuelven). FALLÓ: Instagram (shell de login), LinkedIn 403, Facebook sin página hallada, Google Maps (shell JS), ArchDaily/Archello sin resultados. Discrepancia de superficie del MUVA: 6.500 m2 según JVPSA vs unos 5.300 m2 según La Nación. No se descartó porque no se pudo probar que esté inactiva, pero la actividad reciente propia no está confirmada."
+  },
+  {
+   "nombre": "Tecnoedil S.A. Constructora",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Santísimo Sacramento N° 2265 c/ Tte. 1ro. Silverio Molinas, Edificio DOT Sacramento, piso 7, Asunción (sitio propio). Sucursales: Mariano Roque Alonso (Gral. Bernardino Caballero), San Juan del Paraná (Itapúa, Ruta 1 km 7) y oficinas en Montevideo, Lima, Campo Grande y Orlando.",
+   "anio_fundacion": null,
+   "que_hacen": "Constructora con más de 50 años en obras viales, civiles, electromecánicas y portuarias para el Estado y privados (rutas, puentes, muelles, líneas de 220 kV, escuelas, viviendas sociales, shoppings, oficinas). Tiene empresas vinculadas: Tecnofund (perforación), Pretec (premoldeados de hormigón) e Isopanel (paneles térmicos). En 2022 dijo estar entrando al segmento de edificios privados.",
+   "tipo_proyectos": [
+    "vial",
+    "civil",
+    "portuario",
+    "electromecánico",
+    "edificios públicos y viviendas sociales",
+    "comercial (shoppings, oficinas)",
+    "hotelero"
+   ],
+   "estilo": "Obra pesada e infraestructura; en edificios, comercial y corporativo convencional.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Shopping del Sol (Shopping Centers Paraguay S.A.)",
+     "anio": null,
+     "link": "https://www.tecnoedil.com.py/obras"
+    },
+    {
+     "nombre": "Ruta 9, habilitación y mantenimiento, Tramo 1 Lote 3 (oct-2020 a oct-2026, en ejecución)",
+     "anio": 2020,
+     "link": "https://www.tecnoedil.com.py"
+    },
+    {
+     "nombre": "Barrio Defensores del Chaco, conjunto habitacional Mariano Roque Alonso",
+     "anio": 2020,
+     "link": "https://www.tecnoedil.com.py"
+    },
+    {
+     "nombre": "Edificio Universidad UNIDA; hotel en Encarnación; oficinas en calles Estados Unidos e Independencia Nacional",
+     "anio": null,
+     "link": "https://www.tecnoedil.com.py/obras"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Hormigón armado estructural, pilotes y premoldeados (Pretec); no hay evidencia de hormigón visto decorativo."
+   },
+   "tamano_aprox": "Grande: 99 obras viales, 137 civiles y 14 electromecánicas en su web; sucursales en 5 países; certificación Great Place to Work. Infobel estima unos 400 empleados y USD 18 M de ventas (directorio, no verificado)",
+   "decisores": [
+    {
+     "nombre": "Paul Sarubbi",
+     "cargo": "Presidente (La Nación, nov-2023, nota patrocinada) / director comercial (Infonegocios, jun-2022); en 2026 aparece como presidente de la Cámara Vial Paraguaya (Cavialpa)",
+     "fuente": "https://www.lanacion.com.py/negocios/2023/11/24/competencia-de-albaniles-tecnoedil-sa-apoya-la-calidad-del-trabajo-paraguayo/ ; cargo actual en Tecnoedil sin confirmar"
+    }
+   ],
+   "web": "https://www.tecnoedil.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "https://es-la.facebook.com/tecnoedilsa/",
+   "linkedin": null,
+   "email": "tecnoedil@tecnoedil.com.py",
+   "telefono": "+595 21 291947/8",
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.tecnoedil.com.py/",
+    "https://www.tecnoedil.com.py/contacto",
+    "https://www.tecnoedil.com.py/nosotros",
+    "https://www.tecnoedil.com.py/obras",
+    "https://www.contrataciones.gov.py/proveedor/tecnoedil-s-a-constructora/adjudicaciones.html",
+    "https://infonegocios.com.py/nota-principal/tecnoedil-busca-crecimiento-sostenido-y-diversificarse-en-el-segmento-proyecta-nuevo-edificio-corporativo",
+    "https://www.lanacion.com.py/negocios/2023/11/24/competencia-de-albaniles-tecnoedil-sa-apoya-la-calidad-del-trabajo-paraguayo/",
+    "https://infonegocios.com.py/infoconstruccion/paul-sarubbi-buscamos-un-presupuesto-2026-dinamico-que-de-previsibilidad-y-reactive-las-obras"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Gran contratista que ya construye edificios públicos, viviendas sociales y shoppings; su apuesta al edificio privado y su edificio corporativo DOT Sacramento abren la puerta a piezas de COCO en baños de oficinas o lobbies. Mejor entrada comercial por la central, pidiendo al área de obras privadas.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Contratista grande y activo con contactos verificados, pero de infraestructura y sin estética ni gama afín; entra en B por volumen."
+   },
+   "pendiente_verificar": "Instagram propio: la web solo enlaza una página de ubicación de Instagram, no un usuario; handle sin hallar. LinkedIn de la empresa sin hallar; Facebook pide login, sin seguidores ni posts. Reseñas de Google Maps sin datos. Cargo actual de Paul Sarubbi en Tecnoedil (2026) sin confirmar. Cifras de Infobel (400 empleados, USD 18 M) y mención de que sería constructora de edificios son de terceros, no verificadas. Ningún WhatsApp publicado.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "La web propia (leída hoy) lista la Ruta No. 9, Lote 3 (oct-2020 a oct-2026) en 'Obras en ejecución', es decir activa a la fecha; no hay post ni nota de la empresa con fecha. En 2026 Paul Sarubbi aparece en prensa como titular de Cavialpa, no de Tecnoedil.",
+    "url": "https://www.tecnoedil.com.py"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Habilitación y Mantenimiento de la Ruta No. 9 y accesos, Tramo 1 Lote 3",
+     "tipo": "vial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.tecnoedil.com.py"
+    },
+    {
+     "nombre": "Edificio corporativo DOT Sacramento (Av. Sacramento, sede propia)",
+     "tipo": "corporativo",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/nota-principal/tecnoedil-busca-crecimiento-sostenido-y-diversificarse-en-el-segmento-proyecta-nuevo-edificio-corporativo"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Portafolio dominado por rutas, puentes, muelles y líneas eléctricas; los edificios (oficinas, shopping, universidad, hotel) se listan sin detalle de baños."
+   },
+   "materiales_y_proveedores_visibles": "Premoldeados de hormigón (Pretec), paneles térmicos Isopanel y pilotes propios (Tecnofund); sin marcas de griferías ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 5,
+    "volumen": 22,
+    "gama": 8,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 4,
+    "total": 50
+   },
+   "puntaje_justificacion": {
+    "estetica": "5/30: infraestructura vial y obra pesada; en edificios solo comercial y corporativo convencional.",
+    "volumen": "22/25: 250 obras acumuladas en su web, más de 50 años, sucursales en 5 países, adjudicaciones DNCP de hasta G. 14.800 millones y USD 247 M (hospital IPS CDE).",
+    "gama": "8/20: clientes públicos y corporativos; shoppings y hotel, pero sin residencial premium.",
+    "accesibilidad": "11/15: teléfono, email, dirección y sucursales verificados en la web propia y presidente identificado en prensa, aunque su cargo actual está sin confirmar y no hay WhatsApp.",
+    "oportunidad_inmediata": "4/10: entra al segmento de edificios privados y construye su propia sede, pero sin proyecto con baños identificado."
+   },
+   "notas_investigacion": "Ronda 1 traía 'Asunción (a confirmar)' y el link de Devex; corregí la dirección: en ronda 1 (Devex/BNamericas) figuraba Tte. Demetrio Araujo Miño 107 esq. Sacramento, hoy la web propia pone Santísimo Sacramento 2265, Edificio DOT Sacramento, piso 7. La página de contacto da +595 21 291167 como oficina central y el pie de página +595 21 291947/8; se registró el del pie de página (con link tel:). Leído: web propia (home, /contacto, /nosotros, /negocios, /rse, /obras) con curl; DNCP /proveedor/tecnoedil-s-a-constructora/adjudicaciones (17 filas, hasta G. 247.000 M en el hospital de IPS CDE; la lista es parcial y de años anteriores); La Nación (nov-2023, patrocinada); Infonegocios (jun-2022 y entrevistas de 2026 a Sarubbi como titular de Cavialpa); 3 búsquedas de prensa. ALERTA: las páginas /nosotros, /negocios y /rse del sitio tienen texto spam inyectado ('replica watches', 'replique rolex'), señal de sitio hackeado; los datos de contacto igual coinciden con los del pie de página y con la prensa, pero conviene confirmar por teléfono. FALLÓ: Instagram (solo enlace a página de ubicación), Facebook (login), LinkedIn (no hallado), Google Maps (shell JS), ArchDaily/Archello sin resultados."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Somagec Inmobiliaria (Marlin Luque)",
+   "link": "https://infonegocios.com.py/infomicasa/edificio-marlin-luque-un-complejo-residencial-de-lujo-con-aislamiento-termico-y-acustico",
+   "ciudad": "Luque",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Pretec S.A. (premoldeados, vinculada a Tecnoedil)",
+   "link": "https://www.lanacion.com.py/negocios/2023/11/24/competencia-de-albaniles-tecnoedil-sa-apoya-la-calidad-del-trabajo-paraguayo/",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Fundación Viedma-Paoli / Museo Viedma (MUVA)",
+   "link": "https://www.lanacion.com.py/la-nacion-del-finde/2026/05/30/muva-aportar-este-legado-al-paraguay-es-un-acto-de-arraigo-coherencia-y-gratitud/",
+   "ciudad": "San Ignacio Guazú",
+   "segmento": "otro"
+  },
+  {
+   "nombre": "Achon Muebles (cliente de Alar y proveedor de cocinas en Marlin Luque)",
+   "link": "https://www.alarconstructora.com/?action=obras",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  }
+ ]
+}
