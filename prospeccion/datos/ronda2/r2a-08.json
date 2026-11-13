@@ -50,7 +50,7 @@
     "nivel": "C",
     "motivo": "Puntaje 33/100: estética melamínica, contacto no verificado, sin actividad visible desde 2023 y vigencia sin confirmar."
    },
-   "pendiente_verificar": "Instagram @buranomobiliari (bloqueado 429), web propia inexistente o inaccesible, Google Maps, vigencia de dirección y teléfonos (nota de 2023), actividad en últimos 18 meses.",
+   "pendiente_verificar": "Instagram @buranomobiliari (bloqueado 429), web propia inexistente o inaccesible, Google Maps, vigencia de dirección y teléfonos (nota de 2023), actividad en últimos 18 meses. Sin actividad hallada después de junio de 2023; confirmar por llamada o visita si sigue operando.",
    "actividad_reciente": {
     "fecha": "2023-06",
     "evidencia": "Nota Infonegocios sobre showroom nuevo en Carmelitas y objetivo de triplicar ventas; no hay evidencia posterior leída.",
@@ -87,7 +87,7 @@
     "accesibilidad": "3/15: sin contacto verificado en fuente propia; solo teléfonos de prensa 2023 y un director operativo citado por la nota.",
     "oportunidad_inmediata": "4/10: cocinas y baños a medida con mesadas de piedra técnica, pero sin obras ni lanzamientos recientes visibles."
    },
-   "notas_investigacion": "Leído: nota Infonegocios (2023-06-27, WebFetch) y 3 búsquedas (web propia, redes, Maps, LinkedIn). No se encontró web propia: buranomobiliario.com.py, burano.com.py y buranomobiliario.com sin respuesta (CONNECT tunnel failed 502 o sin resolver, posible bloqueo de red o dominio inexistente). Instagram https://www.instagram.com/buranomobiliari/ devuelve 429 por curl y WebFetch: sin seguidores ni posts. Facebook y LinkedIn: sin perfil hallado. Google Maps: sin resultados. Teléfonos (021) 332-033 y (0976) 264-514 y dirección Senador Long 789 solo aparecen en prensa de 2023: no_verificado, por eso se dejan en null. Ronda 1 decía fit B y teléfono cargado como dato: corregido a null/C. Año de fundación 2015 tomado de la misma nota. Sin presencia en ArchDaily/Divisare (no es estudio). Prensa: solo Infonegocios; sin hits en ABC, La Nación, Última Hora ni 5días."
+   "notas_investigacion": "Leído: nota Infonegocios (2023-06-27, WebFetch) y 3 búsquedas (web propia, redes, Maps, LinkedIn). No se encontró web propia: buranomobiliario.com.py, burano.com.py y buranomobiliario.com sin respuesta (CONNECT tunnel failed 502 o sin resolver, posible bloqueo de red o dominio inexistente). Instagram https://www.instagram.com/buranomobiliari/ devuelve 429 por curl y WebFetch: sin seguidores ni posts. Facebook y LinkedIn: sin perfil hallado. Google Maps: sin resultados. Teléfonos (021) 332-033 y (0976) 264-514 y dirección Senador Long 789 solo aparecen en prensa de 2023: no_verificado, por eso se dejan en null. Ronda 1 decía fit B y teléfono cargado como dato: corregido a null/C. Año de fundación 2015 tomado de la misma nota. Sin presencia en ArchDaily/Divisare (no es estudio). Prensa: solo Infonegocios; sin hits en ABC, La Nación, Última Hora ni 5días. RONDA DE AUDITORÍA: 2 búsquedas adicionales ('Burano Mobiliario' + facebook/instagram/'Senador Long'/2025/2026, y con ABC/La Nación/Última Hora/5días): ninguna ficha de Facebook ni Instagram con bio o teléfono, ningún resultado posterior a 2023 y ningún medio fuera de Infonegocios. El handle @buranomobiliari solo sale de la nota de 2023 (el buscador sospecha que podría estar truncado). No se encontró actividad después de 2023-06: se deja constancia y se mantiene fit C. Teléfonos y dirección siguen no_verificado (solo prensa 2023)."
   },
   {
    "nombre": "Wilson Tobal Decoraciones",
@@ -155,7 +155,7 @@
     "nivel": "C",
     "motivo": "Puntaje 29/100: su web propia (2026) lista solo Punta del Este, Manantiales, Buenos Aires y Rosario; la última nota paraguaya es de 2018. Probablemente sin operación en Paraguay."
    },
-   "pendiente_verificar": "Confirmar por Instagram/Facebook y Google Maps si la tienda de Senador Long y Lillo sigue abierta (Instagram 429, Facebook pide login); confirmar si hay presencia o representante en Paraguay.",
+   "pendiente_verificar": "La web propia (https://www.wilsontobal.com/ y /contacto) NO menciona Paraguay ni Asunción: solo Punta del Este, Manantiales, Buenos Aires y Rosario. Sin evidencia posterior a 2018 de la tienda de Senador Long esq. Lillo; confirmar cierre por Instagram/Facebook (429/login), Google Maps o llamada. Mientras tanto se asume probablemente cerrada en Paraguay.",
    "actividad_reciente": {
     "fecha": "2018-09",
     "evidencia": "Última nota paraguaya leída: seis showrooms en desarrollos de Asunción y línea Joven prevista para 2019. Sin actividad posterior hallada.",
@@ -192,13 +192,13 @@
     "accesibilidad": "2/15: no hay teléfono, email ni WhatsApp de Paraguay en la web propia; solo se publican canales de Uruguay y Argentina. Instagram de la marca figura en la web propia, pero no se pudo leer.",
     "oportunidad_inmediata": "0/10: sin obras ni showrooms vigentes visibles y la web no incluye Paraguay."
    },
-   "notas_investigacion": "Web propia leída por curl y WebFetch: https://www.wilsontobal.com/ y /contacto (Wix). Lista cuatro sedes: Punta del Este (Av. Italia y Pda. 4), Manantiales (Ruta 10 Km 164), Buenos Aires (Juana Manso 1705) y Rosario (Av. Caseros 189bis). Ninguna en Paraguay. Los emails y teléfonos de esas sedes (punta@, manantiales@, buenosaires@, rosario@wilsontobal.com; WhatsApp +598 93 640 212/219, +54 911 2838 9662, +549 341 505 4446) NO se registran como contacto de Paraguay. Instagram https://www.instagram.com/wilsontobal enlazado desde la web propia; devuelve 429, sin seguidores ni posts. Facebook wilsontobaldecoraciones solo muestra login. Prensa: 5 notas Infonegocios, todas de 2016-2018 (2016-07-15, 2017-08-30, 2018-05-08, 2018-09-21); sin cierre ni novedades posteriores y sin hits en ABC, La Nación, Última Hora ni 5días. Dominios wilsontobal.com.py sin respuesta. Dirección Senador Long esq. Lillo y horario (L-V 10-19, sáb 10-13, nota 2017) no verificados en fuente propia. Ronda 1 decía fit B y volumen grande: corregido a C por falta de presencia actual en Paraguay. Google Maps no accesible. LinkedIn de empresa no hallado (403 en el intento a otros perfiles)."
+   "notas_investigacion": "Web propia leída por curl y WebFetch: https://www.wilsontobal.com/ y /contacto (Wix). Lista cuatro sedes: Punta del Este (Av. Italia y Pda. 4), Manantiales (Ruta 10 Km 164), Buenos Aires (Juana Manso 1705) y Rosario (Av. Caseros 189bis). Ninguna en Paraguay. Los emails y teléfonos de esas sedes (punta@, manantiales@, buenosaires@, rosario@wilsontobal.com; WhatsApp +598 93 640 212/219, +54 911 2838 9662, +549 341 505 4446) NO se registran como contacto de Paraguay. Instagram https://www.instagram.com/wilsontobal enlazado desde la web propia; devuelve 429, sin seguidores ni posts. Facebook wilsontobaldecoraciones solo muestra login. Prensa: 5 notas Infonegocios, todas de 2016-2018 (2016-07-15, 2017-08-30, 2018-05-08, 2018-09-21); sin cierre ni novedades posteriores y sin hits en ABC, La Nación, Última Hora ni 5días. Dominios wilsontobal.com.py sin respuesta. Dirección Senador Long esq. Lillo y horario (L-V 10-19, sáb 10-13, nota 2017) no verificados en fuente propia. Ronda 1 decía fit B y volumen grande: corregido a C por falta de presencia actual en Paraguay. Google Maps no accesible. LinkedIn de empresa no hallado (403 en el intento a otros perfiles). RONDA DE AUDITORÍA: búsquedas 'Wilson Tobal' + Asunción/2024/2025/showroom/cerró y con ABC/La Nación/Última Hora/5días/MarketData: sin noticia de cierre ni de continuidad; la última nota es de septiembre de 2018 y ningún medio fuera de Infonegocios. Re-chequeo de https://www.wilsontobal.com/: no contiene las palabras Paraguay ni Asunción; solo lista sedes en Uruguay y Argentina."
   },
   {
    "nombre": "Florense Asunción (Mobiliarte)",
    "segmento": "interiorismo",
    "ciudad": "Asunción",
-   "direccion": "Avenida España 231 casi Sacramento, Asunción (según Infonegocios 2023-08-08; no verificada en fuente propia)",
+   "direccion": "Av. España 231 c/ Sacramento, Asunción, Paraguay (verificada en localizador oficial de Florense: https://www.florense.com.br/franquias/paraguay; coordenadas -25.28554, -57.58818)",
    "anio_fundacion": 1995,
    "que_hacen": "Mobiliarte Industrial y Comercial (fundada en 1995) es la franquicia paraguaya de Florense, marca brasileña de cocinas y muebles planificados de alta gama para cocina, dormitorio, vestidor, living, comedor y baño. Distribuye también Herman Miller, Belgotex y Caderode, y en 2026 ejecutó divisorias modulares en las nuevas oficinas del Gobierno.",
    "tipo_proyectos": [
@@ -243,28 +243,29 @@
      "fuente": "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos (nota 2026-08-20)"
     }
    ],
-   "web": null,
-   "instagram": null,
+   "web": "https://www.florense.com.br/franquias/paraguay",
+   "instagram": "https://www.instagram.com/florenseasuncion/",
    "seguidores_ig": null,
    "facebook": null,
    "linkedin": null,
-   "email": null,
-   "telefono": null,
+   "email": "marketing@mobiliarte.com.py (https://www.florense.com.br/franquias/paraguay)",
+   "telefono": "+595 972455108 (tienda Florense Asunción; https://www.florense.com.br/franquias/paraguay)",
    "whatsapp": null,
    "fuentes": [
+    "https://www.florense.com.br/franquias/paraguay",
     "https://infonegocios.com.py/infomicasa/florense-asuncion-crea-disenos-de-alta-gama-para-cada-espacio-y-renovo-su-iconica-tienda",
     "https://infonegocios.com.py/y-ademas/mobiliarte-ejecuto-mas-de-20-000-m2-de-cerramientos-modulares-en-las-oficinas-del-gobierno",
     "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos",
     "https://infonegocios.com.py/infobrand/mobiliario-de-estandar-internacional-a-precios-competitivos-la-propuesta-de-caderode-que-mobiliarte-desarrolla-a-medida-en-paraguay"
    ],
    "fecha_verificacion": "2026-11-13",
-   "confianza": "media",
+   "confianza": "alta",
    "angulo_venta_coco": "Venden cocinas y baños de alta gama y su socia Square Superficies ya provee las mesadas en Corian, así que COCO compite con ese servicio. Se puede plantear UHPC como alternativa más fina y de diseño, para proyectos donde un arquitecto o cliente pida hormigón, o como línea complementaria de bachas y lavatorios.",
    "fit_preliminar": {
     "nivel": "B",
-    "motivo": "Puntaje 53/100: gama alta y escala real, pero mesadas resueltas internamente con Corian y contactos solo en prensa. Ronda 1 decía A; se baja a B."
+    "motivo": "Puntaje 59/100: gama alta, escala y contacto verificado, pero las mesadas ya las cubre Square Superficies con Corian. Ronda 1 decía A; se baja a B."
    },
-   "pendiente_verificar": "Contacto verificado en fuente propia: la web mobiliarte.com.br y mobiliarte.com.py dan error de certificado (self-signed); Instagram @florenseasuncion y @mobiliarteparaguay (429), Facebook Mobiliarte Paraguay (login), Google Maps. Falta política de proveedores externos y portafolio de baños/cocinas.",
+   "pendiente_verificar": "Instagram @florenseasuncion/@mobiliarteparaguay (429), Facebook Mobiliarte Paraguay (login), Google Maps; web propia de Mobiliarte (mobiliarte.com.br/.com.py caídas); política de proveedores externos; portafolio de baños/cocinas; si existe WhatsApp comercial.",
    "actividad_reciente": {
     "fecha": "2026-08",
     "evidencia": "Notas InfoBrand de agosto 2026: Square Superficies socia de Mobiliarte (2026-08-20) y Caderode vía Mobiliarte (2026-08-10); licitación de oficinas del Gobierno (2026-05-13).",
@@ -281,27 +282,28 @@
     "nota": null
    },
    "contactos_verificados": {
-    "telefono": false,
-    "email": false,
+    "telefono": true,
+    "email": true,
     "whatsapp": false,
-    "instagram": false
+    "instagram": true
    },
    "puntaje": {
     "estetica": 14,
     "volumen": 15,
     "gama": 16,
-    "accesibilidad": 4,
+    "accesibilidad": 10,
     "oportunidad_inmediata": 4,
-    "total": 53
+    "total": 59
    },
    "puntaje_justificacion": {
     "estetica": "14/30: estilo contemporáneo y limpio con superficies sólidas (Corian), pero es mobiliario planificado de marca, sin hormigón visto.",
     "volumen": "15/25: franquicia con 30 años, tienda renovada, licitación de 20.000 m2 en 2026 y varias marcas; sin cifras de obras por año.",
     "gama": "16/20: Florense se vende como alta gama, trabaja con arquitectos y distribuye Herman Miller.",
-    "accesibilidad": "4/15: ningún contacto verificado en fuente propia (tel (021) 662-378 y IG solo en prensa); decisores identificados por notas, pero no confirmados por fuente propia.",
+    "accesibilidad": "10/15: teléfono, email e Instagram de la tienda publicados por la propia marca en su localizador oficial (florense.com.br/franquias/paraguay); decisores (Edson Koerich, Marian González) solo por prensa y sin contacto directo; WhatsApp no publicado.",
     "oportunidad_inmediata": "4/10: cocinas y baños en venta continuos, pero las mesadas ya las cubre Square Superficies con Corian y no hay obra puntual identificada."
    },
-   "notas_investigacion": "Leído: 4 notas Infonegocios (2023-08-08, 2026-05-13, 2026-08-10, 2026-08-20) y 5 búsquedas. El primer dato de ronda 1 daba 'Florense Asunción' sin dirección: ahora Av. España 231 casi Sacramento, según prensa 2023 (no_verificado). Teléfono (021) 662-378 e Instagram @florenseasuncion y @mobiliarteparaguay solo en prensa: no_verificado, por eso null. Webs: mobiliarte.com.br, www.mobiliarte.com.br y mobiliarte.com.py fallan con 'SSL certificate problem: self-signed certificate' (no se desactivó la verificación TLS) y WebFetch da 503; florense.com.br (marca matriz, sin datos de Paraguay) sí carga; florense.com.py y florenseasuncion.com sin respuesta. Instagram devuelve 429, Facebook mobiliarteparaguay solo login, LinkedIn 403. Una búsqueda mencionó que un PDF de DNCP (contrataciones.gov.py, CO-12005-19-178949 y LP-27001-18-152726) traería el domicilio Av. España 231 y un email asuncion@ del dominio mobiliarte.com.py; no pude leer el PDF (binario), así que NO registro ese email: es solo una pista a verificar. Prensa sin hits en ABC, La Nación, Última Hora ni 5días. Divisare, ArchDaily: solo catálogo global de Florense, nada de Paraguay."
+   "notas_investigacion": "Leído: 4 notas Infonegocios (2023-08-08, 2026-05-13, 2026-08-10, 2026-08-20) y 5 búsquedas. El primer dato de ronda 1 daba 'Florense Asunción' sin dirección: ahora Av. España 231 casi Sacramento, según prensa 2023 (no_verificado). Teléfono (021) 662-378 e Instagram @florenseasuncion y @mobiliarteparaguay solo en prensa: no_verificado, por eso null. Webs: mobiliarte.com.br, www.mobiliarte.com.br y mobiliarte.com.py fallan con 'SSL certificate problem: self-signed certificate' (no se desactivó la verificación TLS) y WebFetch da 503; florense.com.br (marca matriz, sin datos de Paraguay) sí carga; florense.com.py y florenseasuncion.com sin respuesta. Instagram devuelve 429, Facebook mobiliarteparaguay solo login, LinkedIn 403. Una búsqueda mencionó que un PDF de DNCP (contrataciones.gov.py, CO-12005-19-178949 y LP-27001-18-152726) traería el domicilio Av. España 231 y un email asuncion@ del dominio mobiliarte.com.py; no pude leer el PDF (binario), así que NO registro ese email: es solo una pista a verificar. Prensa sin hits en ABC, La Nación, Última Hora ni 5días. Divisare, ArchDaily: solo catálogo global de Florense, nada de Paraguay. RONDA DE AUDITORÍA: el localizador oficial de la marca (https://www.florense.com.br/franquias, ficha https://www.florense.com.br/franquias/paraguay, leído con curl; /onde-comprar, /lojas-florense, /encontre-uma-loja, /lojas y /sitemap.xml dan 404) publica la tienda de Asunción: Av. España 231 c/ Sacramento, tel +595 972455108, email marketing@mobiliarte.com.py, Instagram florenseasuncion y horario. Eso cuenta como fuente propia y verifica teléfono, email e Instagram; corrige el teléfono de prensa (021) 662-378, que queda como no_verificado/posiblemente desactualizado. Probado http://mobiliarte.com.py, http://www.mobiliarte.com.py y http://mobiliarte.com.br: devuelven 404 de 1249 bytes (sin TLS, sin contenido útil). DNCP: búsqueda de proveedor 'Mobiliarte' sin ficha; los PDF CO-12005-19-178949 y LP-27001-18-152726 son binarios ilegibles; el email asuncion@mobiliarte.com.py que mencionó un buscador queda no_verificado y no se usa. Prensa ABC/La Nación/Última Hora/5días/MarketData: 2 búsquedas adicionales, sin resultados de esos medios; solo Infonegocios.",
+   "horario": "Lun-Vie 8:00-12:30 y 14:00-18:30; sáb 8:30-12:30 (fuente: https://www.florense.com.br/franquias/paraguay)"
   }
  ],
  "candidatos_extra": [

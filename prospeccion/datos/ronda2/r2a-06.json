@@ -1,0 +1,609 @@
+{
+ "lote": "r2a-06",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Activo Estudio",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura de Asunción con una sola obra publicada: la Casa Juantana (vivienda unifamiliar de 240 m² en Loma Pyta, terminada en 2021). Su discurso de proyecto: eficiencia espacial, adaptación al terreno y soluciones de alto impacto y bajo costo.",
+   "tipo_proyectos": [
+    "residencial"
+   ],
+   "estilo": "Contemporáneo, pragmático, de bajo costo; estructura de hormigón armado con muros de ladrillo",
+   "proyectos_destacados": [
+    {
+     "nombre": "Juantana House (Loma Pyta, Asunción)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Archilovers indica estructura de hormigón armado, muros de ladrillo y bloques de suelo-cemento; ninguna fuente leída dice si el hormigón queda a la vista."
+   },
+   "tamano_aprox": "Estudio muy pequeño (2 arquitectos líderes acreditados); 1 obra publicada",
+   "decisores": [
+    {
+     "nombre": "Leticia Celma",
+     "cargo": "Arquitecta líder y paisajismo (Casa Juantana)",
+     "fuente": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"
+    },
+    {
+     "nombre": "Daniel Ojeda",
+     "cargo": "Arquitecto líder según ArchDaily; la misma ficha lo acredita también como fotógrafo (y figura como fotógrafo en Casu House), por lo que el rol está por confirmar",
+     "fuente": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/966517/juantana-house-activo-estudio/",
+    "https://www.archdaily.com/office/activo-estudio",
+    "https://www.archilovers.com/projects/291507/juantana-house.html"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Estudio joven de vivienda urbana de 200-250 m²; la ficha ArchDaily ya lista marcas de sanitarios y revestimientos (Deca, Portinari, Portobello), por lo que COCO entraría como alternativa de bachas/mesadas UHPC de diseño. Primero hay que encontrar un canal de contacto.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 21/100: una sola obra visible (2021), sin web, redes ni contactos localizables, sin actividad comprobada en 18 meses."
+   },
+   "pendiente_verificar": "Web, Instagram, teléfono/email y actividad 2025-26 (no se encontró ninguna fuente propia). Confirmar si Daniel Ojeda es arquitecto, fotógrafo o ambos. Archilovers acredita 'Rolando Ojeda' (con slug daniel-ojeda) como arquitecto principal.",
+   "actividad_reciente": {
+    "fecha": "2021-08",
+    "evidencia": "Publicación de Juantana House en ArchDaily (11/08/2021). No hay evidencia posterior.",
+    "url": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas leídas no describen baños ni cocinas; solo listan fabricantes (Deca, Portinari, Portobello, Klaukol, Blindex, Sika, Suvinil, Yguazú)."
+   },
+   "materiales_y_proveedores_visibles": "ArchDaily (Juantana House): Sika, Blindex, Deca, Klaukol, Portinari, Portobello, Suvinil, Yguazú. Estructura de hormigón armado, ladrillo, bloques de suelo-cemento y escalera de madera (Archilovers).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 2,
+    "gama": 8,
+    "accesibilidad": 1,
+    "oportunidad_inmediata": 0,
+    "total": 21
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: casa contemporánea con hormigón armado y ladrillo, pero sin evidencia de hormigón visto ni de un lenguaje minimalista sostenido; una sola obra.",
+    "volumen": "2/25: una obra publicada (240 m²) y estudio de 2 personas acreditadas; sin evidencia de obras por año.",
+    "gama": "8/20: vivienda urbana de clase media-alta en Loma Pyta, enfocada en bajo costo.",
+    "accesibilidad": "1/15: se identifican dos nombres en ArchDaily pero ningún contacto, web ni red social; un nombre con rol dudoso.",
+    "oportunidad_inmediata": "0/10: ninguna obra en curso ni anunciada visible."
+   },
+   "notas_investigacion": "Leído: ArchDaily Juantana House (vía http://www.archdaily.com/966517/juantana-house-activo-estudio), ArchDaily office/activo-estudio (1 proyecto, sin contacto), Archilovers (sin contacto ni web). Búsquedas web de 'Activo Estudio' + instagram/Asunción sin ningún resultado propio de la empresa. No se hallaron web, IG, FB, LinkedIn ni Google Maps; no se pudo probar IG/FB porque no existe handle publicado. Prensa: no se encontró cobertura en ABC/La Nación/Última Hora/5días/Infonegocios; Archilovers enlaza a thesocietypy.com y plataformaarquitectura.cl pero esas notas no se pudieron localizar vía buscador. Sin Archello/Divisare propios. Dato de ronda 1 confirmado (obra, 240 m², 2021, crédito Celma/Ojeda). Dato nuevo: ArchDaily acredita a Daniel Ojeda como fotógrafo de la misma obra."
+  },
+  {
+   "nombre": "Biocons Arquitectos",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": "Tte. Jara Troche 347, Asunción (confirmada en la web propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura y construcción de Asunción: proyecto, construcción y dirección de obra, reformas, ampliaciones y consultoría en patologías constructivas; ofrece también proyectos para créditos hipotecarios (AFD) y promete garantía de 5 años. Obras de vivienda de fin de semana en Cordillera (San Bernardino, Altos), edificio multifamiliar en Asunción y reformas, con discurso bioclimático.",
+   "tipo_proyectos": [
+    "residencial",
+    "vivienda de fin de semana",
+    "edificio multifamiliar mediano",
+    "reformas",
+    "consultoría"
+   ],
+   "estilo": "Bioclimático y austero: hormigón visto, ladrillo cerámico, piedra local y metal negro; formas compactas",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio Multifamiliar Brisas de Bahía 2 (Las Mercedes, Asunción, 1.360 m², cliente Intermedia Desarrolladora)",
+     "anio": null,
+     "link": "https://www.biocons.com.py/V1/edificio-multifamiliar-brisas-de-bahia-2/"
+    },
+    {
+     "nombre": "Triplex Yvapovõ (Asunción, 240 m²)",
+     "anio": 2021,
+     "link": "https://architectures.jidipi.com/j00090242/en/triplex-yvapovo"
+    },
+    {
+     "nombre": "Casa de fin de semana en Ciervo Kua, San Bernardino (170 m²)",
+     "anio": null,
+     "link": "https://www.biocons.com.py/V1/casa-de-fin-de-semana-en-ciervo-kua-san-bernardino/"
+    },
+    {
+     "nombre": "2 Chalets pareados en Altos (3 dorm. y 2 baños por unidad)",
+     "anio": null,
+     "link": "https://www.biocons.com.py/V1/2-chalets-pareados-en-altos/"
+    },
+    {
+     "nombre": "Straw Ranch, Itá (con Cinco Patas al Gato)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Web propia, Brisas de Bahía 2: paleta de 'hormigón visto, ladrillo y metal negro'. Jidipi/ArchDaily: Triplex Yvapovõ con estructura de hormigón armado visto, ladrillo y pisos cerámicos/calcáreos."
+   },
+   "tamano_aprox": "Estudio pequeño a mediano que también construye; 6 obras destacadas en la web, obra de hasta 1.360 m²",
+   "decisores": [
+    {
+     "nombre": "Nicolás Morales Saravia",
+     "cargo": "Arquitecto y CEO de Biocons Arquitectos",
+     "fuente": "https://infonegocios.com.py/infoconstruccion/queres-ahorrar-energia-con-paneles-solares-la-arquitectura-puede-hacer-la-diferencia-antes-de-instalarlos"
+    },
+    {
+     "nombre": "Cheli Sakoda",
+     "cargo": "Arquitecta del equipo de diseño (acreditada en las obras de la web)",
+     "fuente": "https://www.biocons.com.py/V1/casa-de-fin-de-semana-en-ciervo-kua-san-bernardino/"
+    }
+   ],
+   "web": "https://www.biocons.com.py/V1/",
+   "instagram": "https://www.instagram.com/bioconsarquitectos/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/biocons.arquitectos/",
+   "linkedin": null,
+   "email": null,
+   "telefono": "(595 21) 203 975 (telefax); celular (0991) 902 202",
+   "whatsapp": "+595 991 902 202 (https://wa.me/595991902202)",
+   "fuentes": [
+    "https://www.biocons.com.py/V1/",
+    "https://www.biocons.com.py/V1/contacte-con-nuestro-estudio-de-arquitectura-y-construccion",
+    "https://www.biocons.com.py/V1/edificio-multifamiliar-brisas-de-bahia-2/",
+    "https://www.biocons.com.py/V1/casa-de-fin-de-semana-en-ciervo-kua-san-bernardino/",
+    "https://www.biocons.com.py/V1/2-chalets-pareados-en-altos/",
+    "https://www.biocons.com.py/V1/construccion-y-bioconstruccion/",
+    "https://architectures.jidipi.com/j00090242/en/triplex-yvapovo",
+    "https://www.archdaily.com/1005050/triplex-yvapovo-biocons-arquitectos/",
+    "https://infonegocios.com.py/infoconstruccion/queres-ahorrar-energia-con-paneles-solares-la-arquitectura-puede-hacer-la-diferencia-antes-de-instalarlos",
+    "https://architectureprize.com/winners/winner.php?id=3460"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Estudio que proyecta y construye con hormigón visto y materiales honestos: mesadas y bachas UHPC finas y livianas encajan con su discurso de bajo material y confort. Entrada vía Nicolás Morales Saravia, con muestra para baños de los edificios multifamiliares (Intermedia Desarrolladora) y las casas de fin de semana.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 55/100: hormigón visto confirmado y contactos propios verificados (teléfono y WhatsApp), con volumen moderado y sin obra en curso confirmada."
+   },
+   "pendiente_verificar": "Instagram y Facebook: handles publicados en la web propia pero los perfiles no se pudieron leer (seguidores, fecha de último post, temas). Email no publicado. Años de las obras de la web. Reseñas de Google Maps. LinkedIn de Morales Saravia y Sakoda. Obras en curso reales.",
+   "actividad_reciente": {
+    "fecha": "2026-09",
+    "evidencia": "Entrevista a Nicolás Morales Saravia (CEO) en Infonegocios, publicada el 08/09/2026; además la web propia muestra © 2026 y fotos de obra subidas en enero y junio de 2026 (fecha de carga, no de proyecto).",
+    "url": "https://infonegocios.com.py/infoconstruccion/queres-ahorrar-energia-con-paneles-solares-la-arquitectura-puede-hacer-la-diferencia-antes-de-instalarlos"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Las páginas de obra leídas (Ciervo Kua, Altos, Brisas de Bahía 2) no mencionan baños ni cocinas más allá de 'galería con parrilla y mesada' y '2 baños por unidad' en Altos."
+   },
+   "materiales_y_proveedores_visibles": "Hormigón visto, ladrillo cerámico visto, piedra local, metal negro, pisos cerámicos y calcáreos. No se ven marcas de griferías, bachas ni mesadas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 10,
+    "gama": 10,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 4,
+    "total": 55
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: hormigón visto + ladrillo + metal negro declarados en su web, lenguaje austero y bioclimático; no es minimalista puro y usa también ladrillo y piedra.",
+    "volumen": "10/25: obras de 90 a 1.360 m², 6 obras destacadas y servicio de construcción propio, pero estudio pequeño y sin cifras de obras por año.",
+    "gama": "10/20: casas de fin de semana en San Bernardino/Altos y multifamiliar mediano; también vivienda económica y financiada por AFD, público medio.",
+    "accesibilidad": "13/15: teléfono fijo, celular, WhatsApp, dirección, IG y FB publicados en su web propia; decisor (CEO Nicolás Morales Saravia) identificado; falta email.",
+    "oportunidad_inmediata": "4/10: la web subió fotos de obra en 2026 y construye viviendas y edificios, pero no hay obra en curso identificada con bachas/mesadas."
+   },
+   "notas_investigacion": "Leído: web propia (home, contacto, construcción, blog y portfolio vacíos por 'Load More', y las páginas de Brisas de Bahía 2, Ciervo Kua y Altos), Jidipi y ArchDaily Triplex Yvapovõ, ArchDaily office (1 formulario de contacto, sin email), Infonegocios (sep 2026), Architecture Prize (Vivienda Mínima en San Bernardino, premio de vivienda social, año no visible). Falló: Instagram, Facebook, HypeAuditor, Archello (403/login) y Google Maps (la búsqueda no devolvió ficha). Conflicto de teléfono: la página de contacto muestra (0992) 902 202 en 'Oficina' y (0991) 902 202 en 'Dirección'; el WhatsApp wa.me/595991902202 coincide con 0991, que es el que se registra. Corrección a ronda 1: dirección vigente confirmada en web propia (ya no 'confirmar vigencia'); 'Un Bosque en la Casa' (San Bernardino, 2025) es de Equipo de Arquitectura, no de Biocons. El cliente de Brisas de Bahía 2 es Intermedia Desarrolladora (la web del estudio está hecha por Intermedia, vínculo no confirmado). Prensa: solo Infonegocios; las búsquedas en ABC, La Nación, Última Hora y 5días no devolvieron notas de Biocons. Sin email publicado: no se infiere."
+  },
+  {
+   "nombre": "Mínimo Común Arquitectura",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": 2016,
+   "que_hacen": "Estudio de Asunción fundado en 2016 por Verónica Villate, Solanito Benítez y Sergei Jermolieff. Hacen vivienda, oficinas y obra rural con construcción sustentable (tierra, ladrillo, reúso de demolición) y diseño colaborativo con los oficios locales.",
+   "tipo_proyectos": [
+    "residencial",
+    "oficinas",
+    "rural",
+    "reformas",
+    "espacio público"
+   ],
+   "estilo": "Ecológico y experimental: tierra vertida, ladrillo y escombro reciclado; envolventes sin cemento",
+   "proyectos_destacados": [
+    {
+     "nombre": "Luce and Pablo Residence (Mariano Roque Alonso)",
+     "anio": 2021,
+     "link": "https://archcod.com/luce-and-pablo-residence-minimo-comun-arquitectura"
+    },
+    {
+     "nombre": "Nordeste Curuguaty Offices",
+     "anio": 2021,
+     "link": "https://arquitecturaviva.com/works/oficinas-nordeste-en-curuguaty-8"
+    },
+    {
+     "nombre": "Oficinas Nordeste (Mariano Roque Alonso)",
+     "anio": 2018,
+     "link": "https://www.archdaily.com/915859/oficinas-nordeste-minimo-comun-arquitectura/"
+    },
+    {
+     "nombre": "Casa María Emilia (Asunción)",
+     "anio": 2017,
+     "link": "https://www.archdaily.com/916188/maria-emilia-house-minimo-comun-arquitectura/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Roca Gallery (abril 2025) y la nota de Infonegocios (junio 2025) citan tierra, ladrillo y escombro reciclado; Curuguaty se construyó explícitamente sin cemento. No se vio hormigón visto."
+   },
+   "tamano_aprox": "Estudio pequeño de 3 socios; unas 20 obras terminadas según Infonegocios (2021)",
+   "decisores": [
+    {
+     "nombre": "Verónica Villate",
+     "cargo": "Socia fundadora, arquitecta líder (finalista Moira Gemmill Prize 2021)",
+     "fuente": "https://infonegocios.com.py/amp/default/minimo-comun-arquitectura-el-estudio-paraguayo-reconocido-internacionalmente-por-implementar-nuevas-formas-de-construir"
+    },
+    {
+     "nombre": "Solanito Benítez",
+     "cargo": "Socio fundador, arquitecto líder",
+     "fuente": "https://infonegocios.com.py/infomicasa/no-repetimos-modelos-abrimos-nuevas-formas-de-vida-la-propuesta-arquitectonica-de-minimo-comun-para-disenar-de-forma-consciente"
+    },
+    {
+     "nombre": "Sergei Jermolieff",
+     "cargo": "Socio fundador, arquitecto líder",
+     "fuente": "https://infonegocios.com.py/infomicasa/no-repetimos-modelos-abrimos-nuevas-formas-de-vida-la-propuesta-arquitectonica-de-minimo-comun-para-disenar-de-forma-consciente"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/minimocomun.arq/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/no-repetimos-modelos-abrimos-nuevas-formas-de-vida-la-propuesta-arquitectonica-de-minimo-comun-para-disenar-de-forma-consciente",
+    "https://infonegocios.com.py/amp/default/minimo-comun-arquitectura-el-estudio-paraguayo-reconocido-internacionalmente-por-implementar-nuevas-formas-de-construir",
+    "https://www.laufenrocagallery.com/articles/building-with-what-we-have",
+    "https://designboom.com/?p=851895",
+    "https://www.archdaily.com/office/minimo-comun-arquitectura"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Prescriptor de estética mínima y materiales naturales con prensa internacional; UHPC fino y reciclable como contraste en baños y cocinas sin romper el discurso de bajo impacto. Requiere llegar por Instagram, ya que no hay otro canal publicado.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 41/100: afinidad estética media, pero sin hormigón visto (su postura es sin cemento), sin web ni contactos verificados y volumen pequeño."
+   },
+   "pendiente_verificar": "Web (designboom menciona minimocomun.com pero el dominio no cargó), perfil de Instagram (el handle minimocomun.arq figura en Designboom, ArchDaily e Infonegocios 2021, no en fuente propia; no se pudo abrir), contactos, dirección de la oficina (una fuente de segunda mano la sitúa en la Chacarita) y obras 2025-26.",
+   "actividad_reciente": {
+    "fecha": "2025-06",
+    "evidencia": "Nota de Infonegocios del 03/06/2025 sobre su propuesta, y artículo de Verónica Villate en Roca Gallery (abril 2025). No se vio obra nueva de 2025-26.",
+    "url": "https://infonegocios.com.py/infomicasa/no-repetimos-modelos-abrimos-nuevas-formas-de-vida-la-propuesta-arquitectonica-de-minimo-comun-para-disenar-de-forma-consciente"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Ningún texto leído describe baños o cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Tierra local (ladrillos y muros vertidos), escombro de demolición reciclado, ladrillo, chapa metálica y agua de lluvia para enfriamiento pasivo. Sin marcas visibles.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 8,
+    "gama": 10,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 2,
+    "total": 41
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: arquitectura mínima y de materiales nobles y naturales (tierra, ladrillo), muy cuidada, pero declaradamente sin cemento ni hormigón visto.",
+    "volumen": "8/25: unas 20 obras en 5 años según prensa de 2021, estudio de 3 socios, obras de 200 m².",
+    "gama": "10/20: vivienda y oficinas para clientes con interés en construcción consciente; perfil medio-alto no confirmado, con obras rurales.",
+    "accesibilidad": "4/15: 3 socios identificados en prensa y un handle de IG de segunda mano; ningún teléfono, email, web ni WhatsApp propios.",
+    "oportunidad_inmediata": "2/10: sin obra en curso ni anunciada visible; actividad solo de prensa en 2025."
+   },
+   "notas_investigacion": "Leído: Infonegocios 2025 y 2021, Roca Gallery (Laufen), Designboom (créditos, handle de IG y web), ArchDaily office (6 proyectos, formulario de contacto, IG minimocomun.arq, sin web ni email). Falló: minimocomun.com (http y https devolvieron contenido vacío), Instagram (429), Facebook y LinkedIn (no hay handle publicado), Google Maps (sin ficha en buscador). Búsquedas de prensa: Infonegocios; ABC/La Nación/Última Hora/5días sin resultados. Divisare, Metalocus, Arquitectura Viva, Archcod y ArchDaily listan sus obras. Correcciones a ronda 1: la nota de Infonegocios sí se pudo abrir; Nordeste Offices (2018) está en Mariano Roque Alonso, no solo Curuguaty (2021). 'Un Bosque en la Casa' (2025) pertenece a Equipo de Arquitectura, no a este estudio. Ficha de ArchDaily lista 'Jota House' como imagen destacada. No se infieren datos de contacto."
+  },
+  {
+   "nombre": "Arkstudio / Arkhaus",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "direccion": "Cruz del Defensor 860 casi Souza, Asunción (web propia, página de contacto; es el showroom Arkhaus)",
+   "anio_fundacion": 2014,
+   "que_hacen": "Estudio de arquitectura, interiorismo y diseño industrial con carpintería y herrería propias (Arkstudio S.A. desde 2018) y showroom Arkhaus. Diseñan, construyen y equipan: viviendas, locales gastronómicos y comerciales (La Quesería y Koggi en Shopping Mariscal, Starbucks, Panera Rosa), oficinas corporativas y áreas comunes de edificios (Feel Asunción, 2021). Fabrican mobiliario y cocinas a medida.",
+   "tipo_proyectos": [
+    "residencial",
+    "corporativo",
+    "retail",
+    "gastronómico",
+    "equipamiento de edificios",
+    "mobiliario y cocinas a medida",
+    "paisajismo"
+   ],
+   "estilo": "Contemporáneo, con madera maciza (timbó, paraíso, lapacho) y metal; no es minimalista puro",
+   "proyectos_destacados": [
+    {
+     "nombre": "Casu House (Mariano Roque Alonso, 820 m², cliente PS Line)",
+     "anio": 2018,
+     "link": "http://www.archdaily.com/916464/casu-house-arkstudio"
+    },
+    {
+     "nombre": "Feel Asunción (revestidos y equipamiento de lobby y terraza)",
+     "anio": 2021,
+     "link": "https://www.arkstudio.com.py/feel-asuncion-tc34"
+    },
+    {
+     "nombre": "La Quesería, Shopping Mariscal",
+     "anio": null,
+     "link": "https://archello.com/project/la-queseria-mariscal-2"
+    },
+    {
+     "nombre": "Koggi, Shopping Mariscal",
+     "anio": null,
+     "link": "https://www.arkstudio.com.py/trazos-contemporaneos-y-sabor-coreano-en-asuncion-koggi-n4"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "ArchDaily (Casu House) etiqueta Concrete y Brick y dice que 'el techo se apoya en tres pilares de hormigón'; no dice que el hormigón quede a la vista. Sus locales usan madera, metal y vidrio."
+   },
+   "tamano_aprox": "Mediano: más de 45 empleados permanentes (web propia, página nosotros) entre arquitectura, interiorismo, diseño industrial, carpintería y herrería",
+   "decisores": [
+    {
+     "nombre": "Jessica Castillo",
+     "cargo": "Arquitecta, fundadora y directora de Arkstudio S.A. y Arkhaus",
+     "fuente": "https://www.arkstudio.com.py/nosotros"
+    }
+   ],
+   "web": "https://www.arkstudio.com.py/",
+   "instagram": "https://www.instagram.com/arkstudiopy/ ; showroom: https://www.instagram.com/arkhauspy/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/arkstudiopy/",
+   "linkedin": null,
+   "email": null,
+   "telefono": "0981 145 444",
+   "whatsapp": "+595 981 145 444 (https://api.whatsapp.com/send?phone=595981145444)",
+   "fuentes": [
+    "https://www.arkstudio.com.py/",
+    "https://www.arkstudio.com.py/contacto",
+    "https://www.arkstudio.com.py/nosotros",
+    "https://www.arkstudio.com.py/feel-asuncion-tc34",
+    "https://www.arkstudio.com.py/vivienda-casu-ta6",
+    "https://infonegocios.com.py/infomicasa/el-unico-estudio-que-disena-y-construye-no-solo-el-proyecto-sino-tambien-todo-el-equipamiento-y-mobiliario",
+    "https://infonegocios.com.py/infomicasa/muebles-de-autor",
+    "http://www.archdaily.com/916464/casu-house-arkstudio"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Hacen diseño, obra y mobiliario propio, incluidas cocinas y mesadas a medida, y terminaciones para constructoras y desarrolladoras: COCO puede ser proveedor de mesadas y bachas UHPC para cocinas, baños de sus obras residenciales, retail y gastronomía. Contacto por WhatsApp/teléfono con Jessica Castillo.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 58/100: tamaño y modelo integral (obra + mobiliario + cocinas) y contactos propios verificados; estética más madera que hormigón y actividad posterior a 2021 sin confirmar."
+   },
+   "pendiente_verificar": "Actividad en los últimos 18 meses: la web propia muestra © 2019, lo más reciente fechado es 2021 (Feel, Real, nota de Infonegocios de agosto de 2021); revisar IG/FB. Email no publicado. Seguidores y últimos posts de IG @arkstudiopy y @arkhauspy (429 al abrirlos). Discrepancia de ArchDaily PT (993 m², 2015) no se pudo revisar. Google Maps. LinkedIn de Jessica Castillo.",
+   "actividad_reciente": {
+    "fecha": "2021-08",
+    "evidencia": "Nota de Infonegocios (10/08/2021) con el equipamiento de Feel en curso; web propia con proyectos 'Real 2021' y 'Feel Asunción – 2021'. Sin evidencia posterior leída.",
+    "url": "https://infonegocios.com.py/infomicasa/el-unico-estudio-que-disena-y-construye-no-solo-el-proyecto-sino-tambien-todo-el-equipamiento-y-mobiliario"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Catálogo propio con categoría 'Cocinas' (Peterevy macizo, Paraíso, Infinit XL, Arctic, Roth) y obra Casu con 'mesada cocina' en su descripción. Los baños no figuran."
+   },
+   "materiales_y_proveedores_visibles": "Madera maciza (timbó, paraíso, lapacho, eucalipto), enchapados, metal negro, lustre italiano y herrajes importados. Casu House (ArchDaily): Porcelanosa Grupo, Decortiles, Eliane.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 15,
+    "gama": 12,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 4,
+    "total": 58
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: contemporáneo con madera y metal; Casu tiene pilares de hormigón y cubierta curva, pero sin hormigón visto confirmado ni minimalismo.",
+    "volumen": "15/25: más de 45 empleados, 26 obras de arquitectura y 11 corporativas listadas, carpintería e industria propias, equipamiento de edificios.",
+    "gama": "12/20: restaurantes de Shopping Mariscal, Starbucks, oficinas corporativas y una vivienda de 820 m²; público medio-alto.",
+    "accesibilidad": "13/15: teléfono, WhatsApp, dirección, IG y FB en su web propia; decisora Jessica Castillo identificada; falta email.",
+    "oportunidad_inmediata": "4/10: hacen cocinas con mesada y terminaciones para constructoras, pero no se verificó ninguna obra en curso ni actividad reciente."
+   },
+   "notas_investigacion": "Fichas fusionadas: 'Arkstudio' (estudio_arquitectura) y 'Arkstudio / Arkhaus' (interiorismo) son la misma empresa; segmento principal interiorismo. Leído: web propia (home, nosotros, contacto, Feel, Casu, Koggi, catálogo de cocinas y 2 productos), Infonegocios 2021 y 2015, ArchDaily Casu House. Falló: Instagram (429 en @arkstudiopy y @arkhauspy), Facebook (login), HypeAuditor (403), Archello (403), LinkedIn y Google Maps (sin ficha en buscador). Los handles de IG salen de la web propia (arkstudiopy) y de Infonegocios (arkhauspy). Corrección a ronda 1: Casu House es de 2018 (publicada en mayo 2019), 820 m², cliente PS Line (que figura también en su lista corporativa); el estudio sí tiene web. Phone: la web da 0981145444 y wa.me 595981145444, coherentes. Prensa: solo Infonegocios; ABC/La Nación/Última Hora/5días no devolvieron notas. El año de fundación (2014) y la S.A. (2018) salen de la nota de Infonegocios. Cocinas del catálogo: no se encontró el material de la mesada. No se infiere email."
+  },
+  {
+   "nombre": "Gabinete de Arquitectura (Solano Benítez)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": 1987,
+   "que_hacen": "Estudio fundado por Solano Benítez en 1987 en Asunción, referente internacional (León de Oro en la Bienal de Venecia 2016, según resúmenes de Domus y Metalocus no abiertos) en ladrillo, economía de material y arquitectura social. Obras de oficinas, equipamiento social, vivienda y espacios públicos.",
+   "tipo_proyectos": [
+    "residencial",
+    "oficinas",
+    "espacios públicos",
+    "social",
+    "equipamiento institucional"
+   ],
+   "estilo": "Ladrillo estructural y experimentación material; arquitectura social y de reducción de materiales",
+   "proyectos_destacados": [
+    {
+     "nombre": "Quincho de tía Coral (Asunción)",
+     "anio": 2017,
+     "link": "https://arquitecturaviva.com/etiqueta/gabinete-de-arquitectura"
+    },
+    {
+     "nombre": "Centro de Rehabilitación Infantil Teletón (CRIT)",
+     "anio": 2013,
+     "link": "https://arquitecturaviva.com/etiqueta/gabinete-de-arquitectura"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Su sello es el ladrillo y la tierra; no se leyó ninguna fuente que describa hormigón visto en sus obras."
+   },
+   "tamano_aprox": "Estudio consolidado de tamaño desconocido; Gloria Cabral integró el estudio hasta 2023 según Wikipedia",
+   "decisores": [
+    {
+     "nombre": "Solano Benítez",
+     "cargo": "Arquitecto, miembro de Gabinete de Arquitectura (fundador según resúmenes de Domus/Metalocus, páginas no abiertas)",
+     "fuente": "https://infonegocios.com.py/amp/y-ademas/tres-paraguayos-son-reconocidos-mundialmente-por-su-compromiso-con-la-arquitectura-sostenible"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://arquitecturaviva.com/etiqueta/gabinete-de-arquitectura",
+    "https://en.wikipedia.org/wiki/Gloria_Cabral",
+    "https://infonegocios.com.py/amp/y-ademas/tres-paraguayos-son-reconocidos-mundialmente-por-su-compromiso-con-la-arquitectura-sostenible",
+    "https://www.ultimahora.com/nos-estamos-muriendo-exito-n963405"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Prestigio y prescripción: una pieza UHPC en un proyecto de alta visibilidad serviría de vitrina, aunque su ética es reducir material y usar ladrillo y tierra. Si se avanza, el canal sería institucional (web gabdearq.com por confirmar) y no ventas directas.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 37/100: gran prestigio pero estética de ladrillo y obra social, sin contactos verificados, sin obra en curso visible y sin hormigón visto confirmado."
+   },
+   "pendiente_verificar": "La web gabdearq.com figura en Arquitectura Viva pero devolvió HTTP 525; un resumen de buscador menciona contacto@gabdearq.com en Arquitectura Viva, pero la página leída lo muestra ofuscado: no_verificado y no se registra. Actividad 2025-26, dirección, Instagram, composición actual (Cabral salió en 2023; Alberto Marinoni figura como socio en un texto antiguo). Pompidou de Foz de Iguazú y UIA 2026 vienen solo de resúmenes de buscador, no leídos.",
+   "actividad_reciente": {
+    "fecha": "2022-01",
+    "evidencia": "Nota de Infonegocios (28/01/2022) con declaraciones de Solano Benítez sobre su línea de trabajo. No hay obra ni nota del estudio con fecha 2025-26 leída; Última Hora es de 2016.",
+    "url": "https://infonegocios.com.py/amp/y-ademas/tres-paraguayos-son-reconocidos-mundialmente-por-su-compromiso-con-la-arquitectura-sostenible"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Obras leídas: quincho, centro de rehabilitación y oficinas; ningún baño ni cocina como protagonista."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo y tierra como materiales locales promovidos por Benítez, con meta de reducir el peso del material en el costo de obra (Infonegocios 2022). Sin marcas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 8,
+    "gama": 12,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 0,
+    "total": 37
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: experimentación material de alto nivel, pero centrada en ladrillo y tierra; hormigón visto sin confirmar.",
+    "volumen": "8/25: estudio consolidado pero de obra puntual y sin cifras; la socia Gloria Cabral salió en 2023.",
+    "gama": "12/20: prestigio internacional y clientes institucionales/corporativos, con fuerte foco en obra social y económica.",
+    "accesibilidad": "3/15: decisor claro (Solano Benítez) pero sin contacto propio verificado; el email visto en un resumen no es verificable.",
+    "oportunidad_inmediata": "0/10: sin proyectos en curso ni anunciados verificados."
+   },
+   "notas_investigacion": "Leído: Arquitectura Viva (tag Gabinete: web gabdearq.com, ubicación Asunción, 2 obras, email ofuscado), Wikipedia de Gloria Cabral (miembro 2004-2023), Infonegocios 2022, Última Hora (entrevista de 2016, no menciona el estudio). Falló: gabdearq.com (HTTP 525 en http, https y /contacto), Domus (403), Metalocus y Designboom no abiertos (solo resúmenes de buscador), Instagram/Facebook/LinkedIn (sin handle publicado), Google Maps (sin ficha en buscador). Búsquedas de prensa: Infonegocios y Última Hora; ABC/La Nación/5días sin resultados. Datos de ronda 1 corregidos: Quincho de tía Coral figura 2017 en Arquitectura Viva (ronda 1 decía 2015); no se confirmó el rol de Gloria Cabral hoy (salió en 2023 según Wikipedia). El año 1987 y el León de Oro 2016 salen de resúmenes de buscador. No se registran emails ni teléfonos."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Equipo de Arquitectura",
+   "link": "https://arquitecturaviva.com/obras/un-bosque-en-la-casa-san-bernardino",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Cinco Patas al Gato",
+   "link": "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos/",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Casal Arquitectos",
+   "link": "https://infonegocios.com.py/infomicasa/un-proyecto-que-cambiara-el-paisaje-residencial-de-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Escala Desarrollos (proyecto Feel Asunción)",
+   "link": "https://infonegocios.com.py/infomicasa/un-proyecto-que-cambiara-el-paisaje-residencial-de-asuncion",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Intermedia Desarrolladora",
+   "link": "https://www.biocons.com.py/V1/edificio-multifamiliar-brisas-de-bahia-2/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "OMCM Arquitectos",
+   "link": "https://www.archdaily.com/972904/alas-paraguayas-house-omcm-arquitectos/",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Penta Arquitectura",
+   "link": "https://www.archdaily.com/973492/naked-house-penta-arquitectura/",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Estudio Mantero Risch",
+   "link": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}

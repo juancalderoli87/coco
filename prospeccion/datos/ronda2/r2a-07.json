@@ -1,0 +1,540 @@
+{
+ "lote": "r2a-07",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Möbel (Mobel Dekor S.A.)",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "direccion": "Washington esq. Juan de Salazar, Piso 5, Edificio Itasa, Asunción (Mobel Dekor S.A.)",
+   "anio_fundacion": 2018,
+   "que_hacen": "Estudio de arquitectura de interiores que diseña y ejecuta proyectos a medida con mobiliario propio: dormitorios, quinchos y cocinas, livings, baños y oficinas/consultorios. Equipo de 6 arquitectas, equipo de montaje, administrativo y marketing; además vende objetos de decoración en un Deco Market online.",
+   "tipo_proyectos": [
+    "residencial",
+    "casas de verano (Aqua Village)",
+    "quinchos y cocinas",
+    "baños",
+    "consultorios y oficinas",
+    "mobiliario a medida"
+   ],
+   "estilo": "Elegante y sofisticado, mezcla minimalista y maximalista; mármol, piedra onyx, madera natural, detalles en negro/gold. No es estrictamente minimalista.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Baño Social AF (minimalismo, elegancia)",
+     "anio": null,
+     "link": "https://mobel.com.py/proyecto/bano-social-af/"
+    },
+    {
+     "nombre": "Baño Social AD (bacha de mármol, estilo maximalista)",
+     "anio": null,
+     "link": "https://mobel.com.py/proyecto/bano-social-ad/"
+    },
+    {
+     "nombre": "Cocina OV (minimalista, mármol negro y madera)",
+     "anio": null,
+     "link": "https://mobel.com.py/proyecto/cocina-ov/"
+    },
+    {
+     "nombre": "Quincho SS (placa de piedra Onyx translúcida)",
+     "anio": null,
+     "link": "https://mobel.com.py/proyecto/quincho-ss/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "En los proyectos publicados en mobel.com.py (baños, cocinas, quinchos) los materiales citados son mármol, onyx, madera, vidrio; no se menciona hormigón/microcemento."
+   },
+   "tamano_aprox": "Pequeño-mediano: 6 arquitectas más equipo de montaje, administración y marketing (según /sobre-nosotros).",
+   "decisores": [
+    {
+     "nombre": "María Thereza Orué Guanes (Cuca)",
+     "cargo": "Directora; arquitecta UNA, especialista en arquitectura inmobiliaria residencial, gerente de proyectos de Itasa",
+     "fuente": "https://mobel.com.py/sobre-nosotros/"
+    },
+    {
+     "nombre": "Luciana Orué Guanes (Lu)",
+     "cargo": "Directora Creativa; arquitecta UNA, especialización en interiores en Florencia, participó en Casacor 2019",
+     "fuente": "https://mobel.com.py/sobre-nosotros/"
+    }
+   ],
+   "web": "https://mobel.com.py",
+   "instagram": "https://www.instagram.com/mobel_py/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/mobelpy",
+   "linkedin": null,
+   "email": "equipo.mobel@gmail.com",
+   "telefono": null,
+   "whatsapp": "+595 981 228 688",
+   "fuentes": [
+    "https://mobel.com.py/contacto/",
+    "https://mobel.com.py/sobre-nosotros/",
+    "https://mobel.com.py/banos/",
+    "https://mobel.com.py/quinchosycocinas/",
+    "https://infonegocios.com.py/infomicasa/el-2024-segun-moebel-un-viaje-a-la-autenticidad-de-la-arquitectura-de-interiores"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Hacen baños y cocinas a medida con bachas y mesadas de mármol/onyx; COCO UHPC como alternativa liviana y contemporánea a la bacha de mármol, con piezas a medida para sus proyectos de quinchos, baños y casas de verano.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Estudio activo (web actualizada dic 2025), baños y cocinas protagonistas, gama media-alta; sin evidencia de hormigón visto."
+   },
+   "pendiente_verificar": "Seguidores y últimos posts de Instagram (429/login), Facebook (login), reseñas de Google Maps (no cargó), LinkedIn no consultado con éxito. Dirección: razón social Mobel Dekor S.A. en Edificio Itasa; confirmar si hay showroom.",
+   "actividad_reciente": {
+    "fecha": "2025-12",
+    "evidencia": "Proyectos publicados en la web con fecha 2025-12-29 (Living NA), 2025-12-23 (Living VS, Living MP); footer ©2025",
+    "url": "https://mobel.com.py/proyecto/living-na/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Categorías propias 'Baños' (4 proyectos) y 'Quinchos y Cocinas' (~17 proyectos) en https://mobel.com.py/banos/ y /quinchosycocinas/"
+   },
+   "materiales_y_proveedores_visibles": "Mármol (bacha de mármol, mármol negro), piedra Onyx translúcida, madera natural, vidrio; mural de Oz Montania en un quincho. Sin marcas de grifería/sanitarios identificadas en texto.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 12,
+    "gama": 14,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 6,
+    "total": 59
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: baños/cocinas con mármol, onyx y madera, algunos minimalistas (Baño AF, Cocina OV) pero otros maximalistas; sin hormigón visto.",
+    "volumen": "12/25: 6 arquitectas + montaje + admin + marketing; ~25 proyectos publicados entre dormitorios, cocinas, quinchos, baños; empresa S.A. con 7+ años.",
+    "gama": "14/20: casas de verano en Aqua Village, onyx, mármol, oficina en Edificio Itasa; público medio-alto.",
+    "accesibilidad": "13/15: web con WhatsApp y email verificados y dos directoras con nombre y cargo; falta teléfono fijo.",
+    "oportunidad_inmediata": "6/10: ingresan proyectos de baños y cocinas todo el año (últimas publicaciones dic 2025), pero no hay obra en curso identificada."
+   },
+   "notas_investigacion": "Leídos: mobel.com.py (home, /sobre-nosotros, /contacto, /proyectos, /banos, /quinchosycocinas, fichas de proyecto, API WP para fechas) y la nota de Infonegocios (2024-01-02) con curl. Ronda 1 decía web null y fundación 2018 'dos fundadoras': corregido, existe web propia, hay equipo de 6 arquitectas, razón social Mobel Dekor S.A. y la nota decía Luciana 'finalizando la carrera' pero la web la presenta como arquitecta recibida. Instagram: la página devolvió login/429 (WebFetch 429; curl 200 solo con pantalla de login), no se leyó. Facebook: login. Google Maps: la búsqueda devolvió solo shell de Maps, sin ficha. No se probó LinkedIn (403 conocido). Prensa: 2 búsquedas WebSearch, solo aparece Infonegocios. Portales de arquitectura: Divisare Asunción sin mención. ArchDaily/Plataforma: sin resultados. Contactos: email y WhatsApp verificados en https://mobel.com.py/contacto/ (el email es una cuenta gmail publicada por la empresa)."
+  },
+  {
+   "nombre": "La Solana Interiores",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": 2017,
+   "que_hacen": "Estudio de interiorismo de la arquitecta María José Peña Baumann: diseño interior residencial y comercial (casas, locales gastronómicos, atelier de moda), proyectos integrales y fabricación de muebles; ofrece Asesoría Express. Participó en Casa Cor Paraguay 2019.",
+   "tipo_proyectos": [
+    "residencial",
+    "comercial",
+    "locales gastronómicos",
+    "interiorismo"
+   ],
+   "estilo": "Diseño equilibrado, arte combinado con interior, materiales nobles (madera, vegetación), identidad por cliente; no se define como minimalista.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Atelier del diseñador Carlos Burró",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infomicasa/maria-jose-pena-baumann-el-arte-combinado-con-el-interior-se-convertira-en-tendencia-importante"
+    },
+    {
+     "nombre": "Entre Nous (comedor diario, Casa Cor Paraguay 2019)",
+     "anio": 2019,
+     "link": "https://infonegocios.com.py/infomicasa/arquitecta-maria-jose-pena-baumann-la-mano-de-obra-paraguaya-vale-muchisimo"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las notas hablan de madera, vegetación y materiales nobles; no mencionan hormigón."
+   },
+   "tamano_aprox": "Pequeño: la titular más tres colaboradores en 2019 (según nota).",
+   "decisores": [
+    {
+     "nombre": "María José Peña Baumann",
+     "cargo": "Arquitecta, propietaria/directora",
+     "fuente": "https://infonegocios.com.py/infomicasa/maria-jose-pena-baumann-el-arte-combinado-con-el-interior-se-convertira-en-tendencia-importante"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/lasolanainteriores/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/maria-jose-pena-baumann-el-arte-combinado-con-el-interior-se-convertira-en-tendencia-importante",
+    "https://infonegocios.com.py/infomicasa/arquitecta-maria-jose-pena-baumann-la-mano-de-obra-paraguaya-vale-muchisimo",
+    "https://infonegocios.com.py/infomicasa/en-busqueda-de-lo-funcional-cinco-espacios-de-la-casa-que-pueden-volverse-mas-versatiles"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Mirada de arte y objeto en locales y casas; COCO podría entrar con piezas UHPC escultóricas (bachas, mesadas, mobiliario) en locales gastronómicos y residencias.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin web ni contacto verificado, última evidencia de actividad en prensa de 2022 (la nota de Infonegocios 'en búsqueda de lo funcional' es de 2020); actividad actual no confirmada."
+   },
+   "pendiente_verificar": "Instagram (seguidores, últimos posts, link de bio, contacto): no se pudo leer. No se encontró web, Facebook ni LinkedIn. Confirmar si sigue activa en 2025-2026.",
+   "actividad_reciente": {
+    "fecha": "2022-05",
+    "evidencia": "Última nota de prensa encontrada (Infonegocios 2022-05-17, atelier Carlos Burró); no hay evidencia posterior",
+    "url": "https://infonegocios.com.py/infomicasa/maria-jose-pena-baumann-el-arte-combinado-con-el-interior-se-convertira-en-tendencia-importante"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las notas no mencionan baños ni cocinas específicamente."
+   },
+   "materiales_y_proveedores_visibles": "Madera, vegetación, iluminación indirecta; desarrolló el catálogo de una marca de muebles no identificada (nota 2019).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 6,
+    "gama": 10,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 3,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: materiales nobles y ambientes sencillos/acogedores, arte; sin hormigón ni minimalismo confirmado.",
+    "volumen": "6/25: estudio pequeño (titular + 3 personas en 2019), pocos proyectos conocidos.",
+    "gama": "10/20: Casa Cor 2019, atelier de un diseñador de moda y casas; gama media-alta probable pero sin portafolio visto.",
+    "accesibilidad": "3/15: decisora identificada (nombre y cargo en prensa); ningún contacto verificado y Instagram no leído.",
+    "oportunidad_inmediata": "3/10: en 2022 mencionaba 2 locales gastronómicos y casas en curso; no hay evidencia reciente."
+   },
+   "notas_investigacion": "Leídas con curl 3 notas de Infonegocios (2019-11-27, 2022-05-17, 2020-06-10). Corrección ronda 1: la nota de 2022 es de mayo 2022 (no 'sin fecha') y la de 2019 indica que La Solana se fundó con su hermana Julia; el handle de Instagram figura en un enlace de esas notas (https://www.instagram.com/lasolanainteriores/). Instagram: WebFetch 429 y curl solo devuelve login; Facebook devuelve login; Google Maps sin ficha; búsquedas web (2) solo devuelven las notas de Infonegocios y homónimos españoles. No se encontró web propia (probados dominios .com/.com.py sin respuesta). Sin portafolio en ArchDaily/Divisare. Actividad posterior a 2022 no verificada."
+  },
+  {
+   "nombre": "Dieztudio",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "direccion": "Hipólito Medina 7441 casi Capitán Morice, Asunción (según nota de prensa, no verificado en fuente propia)",
+   "anio_fundacion": 2018,
+   "que_hacen": "Estudio de diseño interior, arquitectura, amoblamiento y decoración para residencial, comercial y espacios públicos; pertenece a una constructora con 30 años en Paraguay (Grupo Las Cumbres según ronda 1). Trabaja con artesanos locales sin taller propio y en 2024 lanzó los azulejos autoadhesivos Muriglass.",
+   "tipo_proyectos": [
+    "residencial",
+    "comercial",
+    "espacios públicos",
+    "equipamiento de casas y departamentos",
+    "revestimientos"
+   ],
+   "estilo": "Ecléctico, tonos neutros con acentos terracota y verde, texturas naturales (madera, lino); incluye granitos y mármoles. No minimalista.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La nota menciona granitos, mármoles y azulejos autoadhesivos; sin referencias a hormigón."
+   },
+   "tamano_aprox": "Fundada 'hace seis años' (nota 2024-09); respaldo de empresa constructora; tamaño de equipo sin confirmar.",
+   "decisores": [
+    {
+     "nombre": "Andrea Pereira Sarquis",
+     "cargo": "Encargada de ventas y administración",
+     "fuente": "https://infonegocios.com.py/infomicasa/dieztudio-lanza-innovacion-azulejos-autoadhesivos-sin-obra-y-listos-en-un-dia"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/dieztudio/",
+   "seguidores_ig": 1135,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/dieztudio-lanza-innovacion-azulejos-autoadhesivos-sin-obra-y-listos-en-un-dia",
+    "https://www.instagram.com/dieztudio/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Equipan casas y departamentos y venden revestimientos para cocinas y baños; COCO puede sumar bachas y mesadas UHPC como pieza premium en sus proyectos de amoblamiento.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Estudio con respaldo constructor y foco cocina/baño, pero estilo ecléctico, accesible en precio y sin portafolio ni contacto verificado en fuente propia."
+   },
+   "pendiente_verificar": "Contenido y último post de Instagram (solo se obtuvieron meta datos: 1.135 seguidores, 57 posts); teléfono (0971) 992-381 solo en prensa: confirmar vigencia; web y Facebook no hallados; confirmar vínculo con 'Grupo Las Cumbres' (la nota no lo nombra en el texto extraído; el nombre viene de ronda 1 y no se pudo corroborar en buscador).",
+   "actividad_reciente": {
+    "fecha": "2024-09",
+    "evidencia": "Nota de Infonegocios del 2024-09-03 sobre el lanzamiento de Muriglass y obras de equipamiento en curso; Instagram con 57 posts sin fecha legible",
+    "url": "https://infonegocios.com.py/infomicasa/dieztudio-lanza-innovacion-azulejos-autoadhesivos-sin-obra-y-listos-en-un-dia"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Obras de equipamiento de casas y departamentos (sin detalle)",
+     "tipo": "interiorismo/amoblamiento",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infomicasa/dieztudio-lanza-innovacion-azulejos-autoadhesivos-sin-obra-y-listos-en-un-dia"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "El producto Muriglass se promociona para 'cocina, baño, tienda, boutique' (nota 2024-09-03)."
+   },
+   "materiales_y_proveedores_visibles": "Granitos y mármoles para espacios de trabajo; azulejos autoadhesivos Muriglass (propios/importados); madera y lino; proveedores locales e internacionales sin nombrar.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 9,
+    "volumen": 9,
+    "gama": 9,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 5,
+    "total": 36
+   },
+   "puntaje_justificacion": {
+    "estetica": "9/30: estilo ecléctico/cálido, revestimiento autoadhesivo de precio accesible; poca afinidad con hormigón visto.",
+    "volumen": "9/25: varias obras de equipamiento y respaldo de constructora, pero equipo y obra/año sin dato.",
+    "gama": "9/20: mezcla granitos/mármoles con producto 'al alcance de todos'; gama media.",
+    "accesibilidad": "4/15: Instagram propio existe (1.135 seguidores) y hay decisora de ventas nombrada en prensa; teléfono solo en prensa (no verificado).",
+    "oportunidad_inmediata": "5/10: obras de equipamiento de casas y departamentos en curso en 2024; sin proyectos concretos ni fechas recientes."
+   },
+   "notas_investigacion": "Leída la nota de Infonegocios (2024-09-03) con curl. Corrección: año de fundación aprox. 2018 ('hace seis años' en nota de 2024); se agregó la decisora Andrea Pereira Sarquis (ventas y administración). Instagram: curl a https://www.instagram.com/dieztudio/ devolvió metadatos públicos (1,135 followers, 263 following, 57 posts); WebFetch 429; no se pudo leer bio ni posts. Teléfono (0971) 992-381 y dirección Hipólito Medina 7441 aparecen solo en prensa -> no_verificado, por eso telefono=null. Probados dominios dieztudio.com y .com.py (sin respuesta), Facebook y Maps (login/sin ficha). No se halló vínculo explícito con 'Grupo Las Cumbres' en el texto leído (la nota dice 'una constructora con 30 años' con el nombre en enlace no extraído). Búsquedas de prensa (2) solo devuelven esta nota."
+  },
+  {
+   "nombre": "Mobideco",
+   "segmento": "interiorismo",
+   "ciudad": "Limpio",
+   "direccion": null,
+   "anio_fundacion": 2018,
+   "que_hacen": "Fábrica de mobiliario diseñado a medida (cocinas, quinchos y espacios integrados) con materia prima importada de Brasil; fábrica y centro logístico en Limpio. Referente en home staging y desarrollos inmobiliarios y con estudio propio de diseño de interiores. Entregas en Central, Alto Paraná, Cordillera, Caaguazú, Itapúa y Ñeembucú.",
+   "tipo_proyectos": [
+    "residencial",
+    "comercial",
+    "oficinas",
+    "home staging",
+    "desarrollos inmobiliarios",
+    "cocinas y quinchos a medida"
+   ],
+   "estilo": "Mobiliario a medida con maderados, formas orgánicas, colores neutros con toques de color; no se identifica como minimalista ni de concreto.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "La nota solo cita maderados, colores neutros y tecnología en mobiliario."
+   },
+   "tamano_aprox": "Fábrica propia con entregas en 6 departamentos y alianzas con entidades financieras; cantidad de empleados sin dato.",
+   "decisores": [
+    {
+     "nombre": "Luz Méndez Schatp",
+     "cargo": "Propietaria; economista y diseñadora de interiores",
+     "fuente": "https://infonegocios.com.py/infomicasa/mobideco-el-arte-de-transformar-espacios-con-distincion-y-proposito-mobiliarios-disenados-a-medida"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/mobidecopy/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/mobideco-el-arte-de-transformar-espacios-con-distincion-y-proposito-mobiliarios-disenados-a-medida"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Las cocinas y quinchos a medida son su producto más pedido y trabajan con desarrollos inmobiliarios; COCO podría proveer mesadas y bachas UHPC como línea premium.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Fabricante con volumen y salida a desarrolladoras, pero gama no confirmada, estilo madera/neutro y sin ningún contacto verificado en fuente propia."
+   },
+   "pendiente_verificar": "Instagram @mobidecopy (seguidores y posts: no se pudo leer), URL de Facebook, teléfono (0982) 880-077 publicado solo en la nota de prensa (el texto lo da como contacto general, no como WhatsApp), web, dirección en Limpio, actividad posterior a sept 2024.",
+   "actividad_reciente": {
+    "fecha": "2024-09",
+    "evidencia": "Nota de Infonegocios 2024-09-17 (lanzamiento de estudio de diseño de interiores, entregas 2024); sin evidencia posterior",
+    "url": "https://infonegocios.com.py/infomicasa/mobideco-el-arte-de-transformar-espacios-con-distincion-y-proposito-mobiliarios-disenados-a-medida"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "'Las cocinas y los quinchos personalizados, así como los espacios integrados son los productos más solicitados' (nota 2024-09-17)."
+   },
+   "materiales_y_proveedores_visibles": "Materia prima importada de Brasil (marca no nombrada); maderados y colores neutros.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 11,
+    "gama": 8,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 5,
+    "total": 36
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: maderados, orgánico y neutros; sin minimalismo ni hormigón evidente, mobiliario de melamina/MDF típico.",
+    "volumen": "11/25: fábrica y centro logístico, entregas en 6 departamentos, home staging y desarrollos inmobiliarios.",
+    "gama": "8/20: se presenta con 'distinción' y alianzas de financiación para el hogar, lo que sugiere gama media; sin precios.",
+    "accesibilidad": "4/15: propietaria identificada por nombre en prensa; ningún contacto en fuente propia ni Instagram leído.",
+    "oportunidad_inmediata": "5/10: cocinas y quinchos son lo más vendido y trabajan con desarrolladoras, sin obras concretas identificadas."
+   },
+   "notas_investigacion": "Leída con curl la nota de Infonegocios (2024-09-17). Corrección ronda 1: el contacto (0982) 880-077 se publica como teléfono de contacto, no como WhatsApp; la fundación es 2018 (la nota dice 'nació en el 2018'); se agregó la propietaria Luz Méndez Schatp (nombre completo viene del texto de la nota). Instagram y Facebook: WebFetch 429/login; curl devuelve login. Dominios mobideco.com y mobideco.com.py sin respuesta; no se halló web ni Facebook por buscador. Búsquedas de prensa: solo esta nota. Teléfono no verificado en fuente propia, por eso telefono y whatsapp quedan null."
+  },
+  {
+   "nombre": "Azioni Mobili",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": 2015,
+   "que_hacen": "Fabricante de muebles personalizados de alta gama para hogar (cocinas, placares, aberturas), comercio y área corporativa, con revestimientos y cielorrasos en madera/MDF y más de 50 colores y texturas. Trabaja con estudios de arquitectura y clientes finales.",
+   "tipo_proyectos": [
+    "residencial",
+    "cocinas",
+    "comercial",
+    "corporativo",
+    "revestimientos"
+   ],
+   "estilo": "Diseño europeo/italiano moderno, práctico y funcional; maderados con combinaciones de mármol. No minimalista estricto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Cocina Abu Roga",
+     "anio": null,
+     "link": "https://azionimobili.com/index.html"
+    },
+    {
+     "nombre": "Cocina Surubi'i RyB",
+     "anio": null,
+     "link": "https://azionimobili.com/index.html"
+    },
+    {
+     "nombre": "Cocina para casa de verano",
+     "anio": null,
+     "link": "https://azionimobili.com/index.html"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Sitio y nota hablan de MDF, madera y mármol; sin mención de hormigón."
+   },
+   "tamano_aprox": "Empresa con producción propia, 'nació hace siete años' al momento de la nota de nov 2022 (fundación aprox. 2015); sin dato de empleados.",
+   "decisores": [
+    {
+     "nombre": "Martín Prieto",
+     "cargo": "CEO",
+     "fuente": "https://infonegocios.com.py/infomicasa/azioni-mobili-muebles-personalizados-de-alta-gama-para-el-hogar-el-comercio-y-el-area-corporativa"
+    }
+   ],
+   "web": "https://azionimobili.com",
+   "instagram": "https://www.instagram.com/azionimobili/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/azionimobili/",
+   "linkedin": null,
+   "email": "info@azionimobili.com",
+   "telefono": "+595 981 835 430",
+   "whatsapp": null,
+   "fuentes": [
+    "https://azionimobili.com/",
+    "https://azionimobili.com/linea-hogar.html",
+    "https://infonegocios.com.py/infomicasa/azioni-mobili-muebles-personalizados-de-alta-gama-para-el-hogar-el-comercio-y-el-area-corporativa"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Cocinas a medida que ya se especifican con estudios de arquitectura: canal para ofrecer mesadas y bachas UHPC como complemento premium en sus cocinas.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Contacto verificado, cocinas como producto estrella y relación con estudios; pero sitio sencillo, estilo clásico-europeo y sin proyectos en obra identificados. Baja de A (ronda 1) a B."
+   },
+   "pendiente_verificar": "Instagram y Facebook (seguidores, posts: login/429), dirección y showroom (solo 'Asunción, Paraguay'), reseñas Google (no cargó), actividad reciente en redes. La nota de prensa es de nov 2022.",
+   "actividad_reciente": {
+    "fecha": "2022-11",
+    "evidencia": "Última fecha concreta: nota de Infonegocios 2022-11-15. El sitio azionimobili.com muestra footer © 2026 (año de copyright, no prueba de actividad); redes no leídas.",
+    "url": "https://azionimobili.com/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Las cocinas son 'el corazón del hogar' y producto estrella (nota 2022-11-15); la galería del home muestra 3 cocinas y un mueble maderado con mármol."
+   },
+   "materiales_y_proveedores_visibles": "MDF y madera con más de 50 colores y texturas, combinaciones con mármol; diseño italiano como referencia; la nota cita una visita a una feria internacional de arquitectura y diseño. Sin marcas de grifería.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 11,
+    "gama": 14,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 6,
+    "total": 55
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: maderados con mármol y líneas modernas; estilo 'clásico europeo' en línea hogar; sin hormigón.",
+    "volumen": "11/25: fábrica propia con tres líneas (hogar, comercial, corporativa) y cocinas recurrentes; sin cifras.",
+    "gama": "14/20: se posiciona como alta gama y trabaja con 'los mejores estudios de arquitectura del país' (según nota).",
+    "accesibilidad": "12/15: teléfono y email verificados en web propia, CEO nombrado en prensa; sin WhatsApp ni dirección.",
+    "oportunidad_inmediata": "6/10: cocinas permanentes y relación con estudios, pero ninguna obra concreta en curso identificada."
+   },
+   "notas_investigacion": "Leídos: azionimobili.com (home y /linea-hogar.html; comercial, corporativa y colores descargadas) y nota de Infonegocios (2022-11-15) con curl. Corrección ronda 1: tiene web propia (null en ronda 1), Instagram @azionimobili y Facebook enlazados desde el sitio, teléfono y email publicados en el sitio; fit bajado de A a B por puntaje 55. Instagram/Facebook devolvieron login o 429; Google Maps sin ficha; búsquedas de prensa (2) solo devuelven la nota de Infonegocios. Contactos verificados en https://azionimobili.com/ (footer y cabecera). La fundación 2015 es una estimación a partir de 'nació hace siete años' en nov 2022."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Burano Mobiliario",
+   "link": "https://infonegocios.com.py/infomicasa/burano-mobiliario-la-fabrica-paraguaya-de-muebles-personalizados-quiere-triplicar-sus-ventas",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Italínea (muebles planeados)",
+   "link": "https://infonegocios.com.py/default/italinea-la-marca-de-muebles-planeados-que-brinda-una-solucion-integral",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Florense Asunción",
+   "link": "https://infonegocios.com.py/infomicasa/florense-asuncion-crea-disenos-de-alta-gama-para-cada-espacio-y-renovo-su-iconica-tienda",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Cima Muebles",
+   "link": "https://infonegocios.com.py/default/cima-muebles-disena-y-fabrica-muebles-a-medida-para-el-hogar-o-la-oficina",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "MC Arquitectura Interior & Comercial",
+   "link": "https://infonegocios.com.py/infomicasa/mc-arquitectura-interior-comercial-es-sinonimo-de-muebles-a-medida-especial-para-tiendas",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Square Superficies",
+   "link": "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  }
+ ]
+}
