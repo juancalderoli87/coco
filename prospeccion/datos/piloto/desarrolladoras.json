@@ -1,0 +1,672 @@
+{
+  "segmento": "desarrolladora",
+  "empresas": [
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Fortaleza Inmuebles (Fortaleza S.A.)",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora con sistema de ahorro e inversion respaldado en inmuebles (el cliente aporta mientras la empresa construye departamentos). Segun prensa tiene mas de 30 anos en Paraguay y su obra mas grande es Fortaleza Carmelitas, en Molas Lopez y Pastor Filartiga.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura"
+      ],
+      "estilo": "Torres residenciales de gran escala, orientadas a inversion; no minimalista de diseno",
+      "proyectos_destacados": [
+        {
+          "nombre": "Fortaleza Carmelitas (Torre 1 proxima a inaugurarse; obra iniciada ago-2023, construye AGB Constructora, arq. Julia Galanti)",
+          "anio": 2023,
+          "link": "https://www.lanacion.com.py/negocios/2023/08/30/fortaleza-carmelitas-se-erige-como-la-obra-mas-grande-de-fortaleza-inmuebles/"
+        },
+        {
+          "nombre": "Fortaleza San Martin (nota Ultima Hora 2026)",
+          "anio": 2026,
+          "link": "https://www.ultimahora.com/fortaleza-san-martin-redefine-la-inversion-en-una-zona-privilegiada"
+        },
+        {
+          "nombre": "Torre Molas Lopez (inaugurada, ~US$20 M)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/fortaleza-inaugura-su-torre-molas-lopez-un-nuevo-icono-inmobiliario-en-asuncion-con-una-inversion-cercana-a-los-us-20-millones"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes consultadas."
+      },
+      "tamano_aprox": "Grande: proyecta ~600 construcciones; obra mas grande de su historia con 60.000 m2 (La Nacion 2023).",
+      "fuentes": [
+        "https://www.lanacion.com.py/negocios/2023/08/30/fortaleza-carmelitas-se-erige-como-la-obra-mas-grande-de-fortaleza-inmuebles/",
+        "https://infonegocios.com.py/nota-principal/fortaleza-cumple-23-anos-con-mas-de-us-16-m-invertidos-y-nuevos-proyectos-en-puerta",
+        "https://www.ultimahora.com/fortaleza-san-martin-redefine-la-inversion-en-una-zona-privilegiada"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Volumen: Carmelitas (60.000 m2) llega a etapa de terminaciones; COCO puede proponer bachas/mesadas UHPC como upgrade o linea premium para unidades tipo y penthouses.",
+      "fit_preliminar": {
+        "nivel": "B",
+        "motivo": "Gran volumen y obra en curso, pero perfil de inversion masiva, no diseno boutique."
+      },
+      "pendiente_verificar": "Estado actual de Torre 1 y contacto comercial. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": "urbandomus.com.py (mencionada por el buscador; no verificada)",
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Mario Cuevas",
+          "cargo": "Director",
+          "fuente": "https://infonegocios.com.py/amp/infomicasa/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Urban Domus",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora paraguaya con capital chileno. Segun Infonegocios lleva 11 anos, con 8 proyectos terminados y 4 en ejecucion; separa edificios de inversion de los de vivienda.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura",
+        "inversion"
+      ],
+      "estilo": "Edificios residenciales contemporaneos de mediana escala (Villa Morra, Mburucuya, Las Carmelitas)",
+      "proyectos_destacados": [
+        {
+          "nombre": "Urban Mburucuya (11 pisos, 77 unidades, cerca de delSol)",
+          "anio": 2024,
+          "link": "https://infonegocios.com.py/amp/infomicasa/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores"
+        },
+        {
+          "nombre": "Torres C y D de Urban Cumbres",
+          "anio": null,
+          "link": "https://infonegocios.com.py/infomicasa/urban-domus-presento-con-exito-las-torres-c-y-d-de-cumbres-durante-su-primer-urban-after"
+        },
+        {
+          "nombre": "Urban Molas",
+          "anio": null,
+          "link": "https://infonegocios.com.py/amp/infomicasa/urban-molas-y-urban-cumbres-dos-emprendimientos-de-urban-domus-que-suman-mas-de-us-20-millones-de-inversion"
+        },
+        {
+          "nombre": "Bosques de Villa Morra (entregado, US$4,5 M)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/urban-domus-inauguro-el-edificio-bosques-de-villa-morra-us-4-5-millones-de-inversion"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Mediana: 4 proyectos en ejecucion, 8 terminados (segun nota de Infonegocios).",
+      "fuentes": [
+        "https://infonegocios.com.py/amp/infomicasa/urban-domus-presento-urban-mburucuya-un-edificio-pensado-para-inversores",
+        "https://infonegocios.com.py/default/urban-domus-inauguro-el-edificio-bosques-de-villa-morra-us-4-5-millones-de-inversion"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Serie repetible de edificios: COCO puede ofrecer paquete de bachas y mesadas para departamentos de 2-3 dormitorios como diferencial en preventa.",
+      "fit_preliminar": {
+        "nivel": "B",
+        "motivo": "Varios proyectos en curso y repetibles; segmento medio, no ultra premium."
+      },
+      "pendiente_verificar": "Estado actual de Urban Mburucuya y Urban Cumbres; fecha de las notas. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": 2016,
+      "web": "petraurbana.com (indicada por una fuente; no verificada)",
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Carlos Guasti",
+          "cargo": "Director",
+          "fuente": "https://infonegocios.com.py/default/petra-urbana-lanza-otro-proyecto-mas-en-villa-morra"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Petra Urbana",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora joven (entro al mercado en 2016 segun prensa) creadora de la serie de edificios Life y de torres como Forvm Molas Lopez y Petra Imperiale. Buen posicionamiento de marca y enfoque urbano/aspiracional.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura"
+      ],
+      "estilo": "Contemporaneo, aspiracional, urbano; Life con enfoque green & pet friendly",
+      "proyectos_destacados": [
+        {
+          "nombre": "Petra Imperiale (anunciada como 4ta torre mas alta de Sudamerica)",
+          "anio": 2024,
+          "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2024/07/02/petra-imperiale-sera-la-cuarta-torre-mas-alta-de-america-del-sur/"
+        },
+        {
+          "nombre": "Forvm Molas Lopez (primer rascacielos)",
+          "anio": 2023,
+          "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2023/09/10/petra-urbana-revelo-el-deslumbrante-rascacielos-forvm-molas-en-asuncion/"
+        },
+        {
+          "nombre": "Forum Villa Morra / Life Bruselas (completados segun nota)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/petra-urbana-lanza-otro-proyecto-mas-en-villa-morra"
+        },
+        {
+          "nombre": "Life Villa Morra (100% vendido)",
+          "anio": 2018,
+          "link": "https://infonegocios.com.py/default/life-villa-morra-realizo-su-apertura-oficial-con-el-100-de-sus-unidades-vendidas"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Mediana-grande: >35.000 m2 desarrollados; segun La Nacion 11 proyectos entregados y 9 en curso (a fecha de esa nota).",
+      "fuentes": [
+        "https://www.lanacion.com.py/negocios_edicion_impresa/2024/07/02/petra-imperiale-sera-la-cuarta-torre-mas-alta-de-america-del-sur/",
+        "https://www.lanacion.com.py/negocios_edicion_impresa/2023/09/10/petra-urbana-revelo-el-deslumbrante-rascacielos-forvm-molas-en-asuncion/",
+        "https://infonegocios.com.py/default/petra-urbana-lanza-otro-proyecto-mas-en-villa-morra"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Marca con pipeline grande y cuidado de imagen: COCO puede proponerse como proveedor de bachas/mesadas de diseno para unidades premium y showrooms de torres como Imperiale.",
+      "fit_preliminar": {
+        "nivel": "A",
+        "motivo": "Pipeline grande y activo (torres en curso) con marca de diseno aspiracional."
+      },
+      "pendiente_verificar": "Avance actual de Petra Imperiale y Forvm; contactos comerciales. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": 2019,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Matías Aquino",
+          "cargo": "Director ejecutivo",
+          "fuente": "https://infonegocios.com.py/hay-equipo/el-equipo-de-av-desarrolladora"
+        },
+        {
+          "nombre": "César Aquino",
+          "cargo": "Lider de Aquino+ (estudio de arquitectura y construccion)",
+          "fuente": "https://infonegocios.com.py/hay-equipo/el-equipo-de-av-desarrolladora"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "AV Desarrolladora (marca Aquino+)",
+      "ciudad": "Asunción",
+      "que_hacen": "Surgio en 2019 para formalizar los desarrollos inmobiliarios del estudio de arquitectura y construccion Aquino+. Desarrolla edificios residenciales boutique en Villa Morra y Mburucuya (lineas Margarita y MIO).",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura (baja/mediana)"
+      ],
+      "estilo": "Edificios boutique contemporaneos con amenities; desarrollador integrado con estudio de arquitectura",
+      "proyectos_destacados": [
+        {
+          "nombre": "MIO Ykua Sati (segundo edificio MIO, en preparacion/obra segun nota)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/mio-home-tiene-el-87-de-las-unidades-vendidas-y-ya-se-prepara-mio-ycua-sati"
+        },
+        {
+          "nombre": "MIO Home (Villa Morra, 37 unidades)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/mio-home-el-tercer-edificio-residencial-de-la-av-desarrolladora-inmobiliaria-ya-tiene-vendido-el-50"
+        },
+        {
+          "nombre": "Edificio Margarita (10 deptos, casi vendido)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/edificio-margarita-a-pasos-de-la-avenida-primer-presidente-con-casi-todas-las-unidades-vendidas-queda-el-penthouse-de-161-m2"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Pequena-mediana: al menos 3 edificios de 10-40 unidades.",
+      "fuentes": [
+        "https://infonegocios.com.py/hay-equipo/el-equipo-de-av-desarrolladora",
+        "https://infonegocios.com.py/default/mio-home-tiene-el-87-de-las-unidades-vendidas-y-ya-se-prepara-mio-ycua-sati"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Al ser desarrollador-arquitecto, decide terminaciones internamente: COCO puede ser proveedor directo de bachas y mesadas en cada nuevo edificio MIO.",
+      "fit_preliminar": {
+        "nivel": "A",
+        "motivo": "Boutique con diseno propio, decision centralizada y nuevo edificio en curso."
+      },
+      "pendiente_verificar": "Fechas de las notas y estado actual de MIO Ykua Sati. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Mateo Fadul",
+          "cargo": "Director",
+          "fuente": "https://infonegocios.com.py/default/venire-villamorra-apuesta-a-la-vida-urbana-inteligente-y-apunta-a-inversores-jovenes-en-el-corazon-de-asuncion"
+        },
+        {
+          "nombre": "Víctor Torras",
+          "cargo": "Gerente general",
+          "fuente": "https://infonegocios.com.py/default/venire-villamorra-apuesta-a-la-vida-urbana-inteligente-y-apunta-a-inversores-jovenes-en-el-corazon-de-asuncion"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Creo Inmuebles (linea Venire / Ventura)",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora de la linea Venire (lanzada en 2023) y Ventura Hassler. Venire Villamorra es el segundo edificio de la linea, con enfoque tecnologico, vida urbana y publico inversor joven.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura",
+        "alquiler temporario/inversion"
+      ],
+      "estilo": "Urbano, tecnologico, cosmopolita",
+      "proyectos_destacados": [
+        {
+          "nombre": "Venire Villamorra (Guido Spano esq. Senador Long)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/venire-villamorra-apuesta-a-la-vida-urbana-inteligente-y-apunta-a-inversores-jovenes-en-el-corazon-de-asuncion"
+        },
+        {
+          "nombre": "Ventura Hassler (preventa, US$5,6 M)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/ventura-hassler-se-encuentra-en-preventa-un-proyecto-de-creo-inmuebles-con-us-5-6-millones-de-inversion"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Mediana: al menos 3 edificios (Venire 1 y 2, Ventura Hassler).",
+      "fuentes": [
+        "https://infonegocios.com.py/default/venire-villamorra-apuesta-a-la-vida-urbana-inteligente-y-apunta-a-inversores-jovenes-en-el-corazon-de-asuncion",
+        "https://infonegocios.com.py/default/ventura-hassler-se-encuentra-en-preventa-un-proyecto-de-creo-inmuebles-con-us-5-6-millones-de-inversion"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Ventura Hassler en preventa y nuevas lineas: COCO puede ofrecer bachas y mesadas de diseno como terminacion distintiva para departamentos de renta temporal y venta.",
+      "fit_preliminar": {
+        "nivel": "A",
+        "motivo": "Proyecto en preventa, ubicacion Villa Morra, publico joven valora diseno."
+      },
+      "pendiente_verificar": "Fechas de las notas, estado de Ventura Hassler y Venire; ubicacion de Ventura Hassler no confirmada. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Civis Soluciones Inmobiliarias",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora con lineas Flats y Civis Alpha. Entrego Villa Morra Flats con todas las unidades vendidas y desarrolla Soho Flats (uso mixto, Villa Morra) y City Mariscal.",
+      "tipo_proyectos": [
+        "residencial",
+        "uso mixto",
+        "edificios en altura"
+      ],
+      "estilo": "Contemporaneo urbano, edificios de departamentos compactos",
+      "proyectos_destacados": [
+        {
+          "nombre": "Soho Flats (uso mixto, ~170 unidades, inicio de obra jun-2024)",
+          "anio": 2024,
+          "link": "https://www.lanacion.com.py/negocios/2024/06/19/soho-flats-dan-palada-inicial-al-nuevo-proyecto-de-civis-en-el-corazon-de-villa-morra/"
+        },
+        {
+          "nombre": "City Mariscal",
+          "anio": null,
+          "link": "https://infonegocios.com.py/infomicasa/real-estate-civis-entrego-el-villa-morra-flats-con-todas-las-unidades-vendidas-firma-ya-trabaja-en-dos-nuevos-desarrollos-en-esa-zona"
+        },
+        {
+          "nombre": "Civis Alpha (16 pisos, inaugurado abr-2024, US$9 M)",
+          "anio": 2024,
+          "link": "https://www.lanacion.com.py/negocios/2024/04/18/inauguran-edificio-civis-alpha-un-icono-en-el-corazon-del-barrio-herrera"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Mediana: al menos 6 edificios entregados; Soho Flats de ~170 unidades.",
+      "fuentes": [
+        "https://www.lanacion.com.py/negocios/2024/06/19/soho-flats-dan-palada-inicial-al-nuevo-proyecto-de-civis-en-el-corazon-de-villa-morra/",
+        "https://infonegocios.com.py/infomicasa/real-estate-civis-entrego-el-villa-morra-flats-con-todas-las-unidades-vendidas-firma-ya-trabaja-en-dos-nuevos-desarrollos-en-esa-zona"
+      ],
+      "confianza": "media",
+      "angulo_venta_coco": "Soho Flats (~170 unidades) es volumen interesante; COCO puede ofrecer mesadas/bachas UHPC livianas como opcion de upgrade en unidades compactas.",
+      "fit_preliminar": {
+        "nivel": "B",
+        "motivo": "Buen volumen y obra activa, producto de departamentos compactos de precio medio."
+      },
+      "pendiente_verificar": "Estado actual de Soho Flats y City Mariscal; sin decisores publicados en lo consultado. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": "Teniente Rivas 844, Mburucuyá (segun nota de Infonegocios)",
+      "anio_fundacion": null,
+      "web": "concor.com.py y lumiere.com.py (indicadas por el buscador; no verificadas)",
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Emilio González",
+          "cargo": "Gerente de proyecto",
+          "fuente": "https://infonegocios.com.py/default/concor-desarrollos-una-empresa-multidisciplinaria-dedicada-al-desarrollo-inmobiliario-con-intencion-de-continuar-creciendo"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Concor Desarrollos",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora paraguaya con capital coreano (Concor = constructora coreana) con la linea Lumiere. Apuesta a detalle y terminacion cuidada, edificios boutique.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios boutique"
+      ],
+      "estilo": "Boutique, terminacion cuidada",
+      "proyectos_destacados": [
+        {
+          "nombre": "Lumiere del Sol (Las Lomas, US$3,5 M, unidades US$45.682-148.964)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/lumiere-del-sol-un-edificio-boutique-en-el-barrio-las-lomas-unidades-desde-us-45-682-hasta-us-148-964"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Pequena: planea 1-2 edificios mas (nota ~2024).",
+      "fuentes": [
+        "https://infonegocios.com.py/default/concor-desarrollos-una-empresa-multidisciplinaria-dedicada-al-desarrollo-inmobiliario-con-intencion-de-continuar-creciendo",
+        "https://infonegocios.com.py/default/lumiere-del-sol-un-edificio-boutique-en-el-barrio-las-lomas-unidades-desde-us-45-682-hasta-us-148-964"
+      ],
+      "confianza": "baja",
+      "angulo_venta_coco": "Su discurso de detalle y terminacion se alinea con piezas UHPC finas; COCO puede ofrecer bachas y mesadas a medida para Lumiere.",
+      "fit_preliminar": {
+        "nivel": "B",
+        "motivo": "Boutique y cuidado de terminaciones, pero actividad reciente y proyectos en curso no confirmados."
+      },
+      "pendiente_verificar": "Actividad reciente y nuevos proyectos Lumiere. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Live In S.A. (marca Haus)",
+      "ciudad": "Asunción",
+      "que_hacen": "Desarrolladora de la marca Haus: Villa Morra Haus (calle 23 de Octubre y Guido Spano, arq. Gustavo Masi, construye JCA) y anuncio un segundo edificio, Brasilia Haus. Posiciona el producto como lujo y confort.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios boutique"
+      ],
+      "estilo": "Boutique, lujo y confort",
+      "proyectos_destacados": [
+        {
+          "nombre": "Villa Morra Haus (17 deptos, USD 115.000-195.000 segun nota)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion"
+        },
+        {
+          "nombre": "Brasilia Haus (anunciado)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Pequena: edificios de menos de 20 unidades.",
+      "fuentes": [
+        "https://infonegocios.com.py/default/villa-morra-haus-el-nuevo-edificio-residencial-que-se-suma-a-las-opciones-de-asuncion",
+        "https://infonegocios.com.py/default/villa-morra-haus-lujo-y-confort-en-plena-ciudad"
+      ],
+      "confianza": "baja",
+      "angulo_venta_coco": "Edificios chicos con precios altos (USD 115-195 mil): bachas y mesadas UHPC pueden reforzar el relato de lujo en Brasilia Haus.",
+      "fit_preliminar": {
+        "nivel": "B",
+        "motivo": "Perfil premium boutique, pero sin fecha confirmada de actividad en 18 meses."
+      },
+      "pendiente_verificar": "Fecha de las notas (posiblemente antiguas) y estado de Brasilia Haus. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [
+        {
+          "nombre": "Víctor González Acosta",
+          "cargo": "Presidente de Habitalis / desarrollador principal",
+          "fuente": "https://infonegocios.com.py/default/habitalis-representa-la-nueva-generacion-de-edificios-residenciales"
+        }
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Habitalis (Grupo Capitalis / González Acosta & Wood)",
+      "ciudad": "Asunción",
+      "que_hacen": "Marca residencial de Grupo Capitalis; diseno y construccion a cargo de Gonzalez Acosta y Wood. Edificios en Felix Bogado, Las Mercedes, Sajonia y Molas Lopez.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura"
+      ],
+      "estilo": "Nueva generacion de edificios residenciales (concepto propio)",
+      "proyectos_destacados": [
+        {
+          "nombre": "Habitalis Molas Lopez (4to edificio, inaugurado segun nota patrocinada)",
+          "anio": null,
+          "link": "https://infonegocios.com.py/y-ademas/habitalis-inaugura-nuevo-edificio-en-molas-lopez"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Mediana: 6 edificios en 7 anos (segun nota, 4 completados).",
+      "fuentes": [
+        "https://infonegocios.com.py/default/habitalis-representa-la-nueva-generacion-de-edificios-residenciales",
+        "https://infonegocios.com.py/y-ademas/habitalis-inaugura-nuevo-edificio-en-molas-lopez"
+      ],
+      "confianza": "baja",
+      "angulo_venta_coco": "Si lanzan nuevos edificios, COCO puede proponer terminaciones UHPC integradas con su constructora propia.",
+      "fit_preliminar": {
+        "nivel": "C",
+        "motivo": "Informacion disponible es de 2016-2019; no se confirmo actividad en los ultimos 18 meses."
+      },
+      "pendiente_verificar": "Si sigue activa y si tiene proyectos nuevos. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    },
+    {
+      "direccion": null,
+      "anio_fundacion": null,
+      "web": null,
+      "instagram": null,
+      "seguidores_ig": null,
+      "facebook": null,
+      "linkedin": null,
+      "email": null,
+      "telefono": null,
+      "whatsapp": null,
+      "decisores": [],
+      "fecha_verificacion": "2026-11-13",
+      "segmento": "desarrolladora",
+      "nombre": "Propay (Grupo Villanueva)",
+      "ciudad": "Asunción",
+      "que_hacen": "Filial argentina del Grupo Villanueva. Segun Infonegocios planeaba construir 10 edificios en altura en Asuncion hasta 2032; su primer proyecto fue Villanueva 1.",
+      "tipo_proyectos": [
+        "residencial",
+        "edificios en altura"
+      ],
+      "estilo": "Desconocido",
+      "proyectos_destacados": [
+        {
+          "nombre": "Villanueva 1 (inicio de obra y venta previsto 2023)",
+          "anio": 2023,
+          "link": "https://infonegocios.com.py/nota-principal/llega-otro-jugador-al-mercado-inmobiliario-propay-se-propone-levantar-10-edificios-para-el-2032"
+        }
+      ],
+      "usa_concreto_visto": {
+        "valor": "desconocido",
+        "evidencia": "No hay informacion en las fuentes."
+      },
+      "tamano_aprox": "Plan declarado de 10 edificios; avance real desconocido.",
+      "fuentes": [
+        "https://infonegocios.com.py/nota-principal/llega-otro-jugador-al-mercado-inmobiliario-propay-se-propone-levantar-10-edificios-para-el-2032"
+      ],
+      "confianza": "baja",
+      "angulo_venta_coco": "Si el plan de 10 edificios avanza, COCO podria ser proveedor en una serie larga.",
+      "fit_preliminar": {
+        "nivel": "C",
+        "motivo": "Solo se ubico una nota de prensa; avance y actividad reciente sin confirmar."
+      },
+      "pendiente_verificar": "Avance de Villanueva 1 y del plan a 2032. Web propia, Instagram, Facebook y LinkedIn no pudieron consultarse (WebFetch bloqueado por red en esta sesion; solo se uso WebSearch). Datos de contacto, direccion, seguidores y estado actual de obra sin verificar."
+    }
+  ],
+  "candidatos_extra": [
+    {
+      "nombre": "Tierra Alta S.A.",
+      "link": "https://infonegocios.com.py/default/tierra-alta-s-a-inicia-su-sexto-emprendimiento",
+      "ciudad": "Asunción"
+    },
+    {
+      "nombre": "AZ Inversiones",
+      "link": "https://infonegocios.com.py/default/desarrollo-en-altura-az-inversiones-se-propone-reemplazar-las-cuotas-de-alquiler-por-las-del-departamento-propio-en-asuncion",
+      "ciudad": "Asunción"
+    },
+    {
+      "nombre": "Grupo ECIPSA / INMO Desarrollos",
+      "link": "https://www.cronista.com/contenido-patrocinado/grupo-ecipsa-consolida-su-presencia-en-paraguay-y-acelera-su-expansion-regional",
+      "ciudad": "Asunción"
+    },
+    {
+      "nombre": "Acostruir",
+      "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2022/11/13/acostruir-y-sus-apuestas-al-desarrollo-inmobiliario/",
+      "ciudad": "Asunción"
+    },
+    {
+      "nombre": "Karmar Inmobiliaria (Arbórea Hills)",
+      "link": "https://infonegocios.com.py/amp/default/san-bernardino-suma-un-hito-inmobiliario-con-el-primer-barrio-cerrado-de-chacras-del-pais",
+      "ciudad": "Luque / San Bernardino (ruta Luque-San Bernardino)"
+    },
+    {
+      "nombre": "Schenk Desarrollos Inmobiliarios (Altos del Salado)",
+      "link": "https://infonegocios.com.py/infomicasa/altos-del-salado-el-barrio-cerrado-sobre-ruta-que-apuesta-a-vivir-en-san-bernardino-todo-el-ano",
+      "ciudad": "San Bernardino"
+    },
+    {
+      "nombre": "Raíces Real Estate (Aquaterra)",
+      "link": "https://infonegocios.com.py/default/una-isla-urbana-en-luque-aquaterra-ya-comercializo-el-60-de-la-totalidad-del-barrio-cerrado",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "Sibaris S.A. (Terra Viva)",
+      "link": "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "GAO Desarrollos Inmobiliarios (Tavamay Mora Cue)",
+      "link": "https://infonegocios.com.py/amp/default/barrio-cerrado-tavamay-mora-cue-ofrece-seguridad-naturaleza-y-tranquilidad-para-la-familia",
+      "ciudad": "Luque / Limpio"
+    },
+    {
+      "nombre": "PMP85 SA / SudEste Desarrollos (Alaia)",
+      "link": "https://infonegocios.com.py/default/alaia-barrio-cerrado-una-buena-opcion-para-la-familia-us-1-3-millones-de-inversion",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "Grupo Alex SA (La Soñada)",
+      "link": "https://www.lanacion.com.py/negocios/2025/01/20/barrio-cerrado-la-sonada-cerca-de-todo-lo-importante-rodeado-de-todo-lo-esencial/",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "Inmobiliaria 5Z (Monte Alto)",
+      "link": "https://www.infocasas.com.uy/blog/?p=1252",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "Nativus (barrio cerrado)",
+      "link": "https://infonegocios.com.py/amp/infomicasa/nativus-el-barrio-del-futuro-ubicado-en-luque-que-generara-plusvalia-desde-el-dia-uno",
+      "ciudad": "Luque"
+    },
+    {
+      "nombre": "Ámbar (barrio cerrado, ruta Luque-San Bernardino)",
+      "link": "https://www.lanacion.com.py/negocios/2024/11/28/ambar-el-precio-por-metro-cuadrado-mas-ventajoso-de-la-ruta-luque-san-bernardino/",
+      "ciudad": "Luque / San Bernardino"
+    },
+    {
+      "nombre": "Highlands (barrio cerrado)",
+      "link": "https://infonegocios.com.py/default/highlands-el-barrio-cerrado-que-rompio-records-de-venta-en-san-bernardino-con-170-lotes-comercializados",
+      "ciudad": "San Bernardino"
+    },
+    {
+      "nombre": "Madre Selva (barrio cerrado)",
+      "link": "https://infonegocios.com.py/default/madre-selva-un-barrio-cerrado-exclusivo-en-san-bernardino-67-lotes-con-vista-al-lago",
+      "ciudad": "San Bernardino"
+    },
+    {
+      "nombre": "Cumbres de San Bernardino (barrio cerrado)",
+      "link": "https://infonegocios.com.py/infomicasa/cumbres-de-san-bernardino-el-barrio-cerrado-con-vista-al-lago-ypacarai-supera-el-50-de-ventas",
+      "ciudad": "San Bernardino"
+    }
+  ]
+}

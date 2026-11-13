@@ -1,0 +1,343 @@
+{
+  "segmento": "estudio_arquitectura",
+  "empresas": [
+    {
+      "nombre": "BAUEN (Aldo Cristaldo Kegler)",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de arquitectura residencial liderado por Aldo Cristaldo Kegler. Casas contemporáneas en Asunción y en el área de San Bernardino/Altos, con estructura expuesta y fuerte lenguaje formal.",
+      "tipo_proyectos": ["residencial"],
+      "estilo": "Contemporáneo, estructura y hormigón expuestos, grandes aperturas al paisaje",
+      "proyectos_destacados": [
+        {"nombre": "Horizon House (San Bernardino)", "anio": 2019, "link": "https://www.archilovers.com/projects/290760/horizon-house.html"},
+        {"nombre": "Levitate House (Ycuá Satí, Asunción)", "anio": 2020, "link": "https://www.archdaily.com/944655/levitate-house-bauen/"}
+      ],
+      "usa_concreto_visto": {"valor": "si", "evidencia": "Horizon House descrita como casa casi enteramente de hormigón; Dwell la titula 'Concrete-and-Glass House in Paraguay'; Levitate House se define por 8 pórticos estructurales (resultado de búsqueda web, no verificado en la página original)."},
+      "tamano_aprox": "Estudio pequeño (boutique); desconocido",
+      "decisores": [{"nombre": "Aldo Cristaldo Kegler", "cargo": "Arquitecto principal", "fuente": "https://www.archilovers.com/projects/290760/horizon-house.html"}],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.archilovers.com/projects/290760/horizon-house.html",
+        "https://www.archdaily.com/944655/levitate-house-bauen/",
+        "https://www.dwell.com/article/horizon-house-bauen-architects-904fa14f"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Estudio con hormigón como lenguaje central: mesadas y bachas UHPC finas encajan con su estética de líneas puras. Ofrecer piezas a medida para sus casas residenciales.",
+      "fit_preliminar": {"nivel": "A", "motivo": "Residencial contemporáneo de alto nivel con hormigón visto comprobado y proyectos en Asunción."},
+      "pendiente_verificar": "Web propia, Instagram y contactos no encontrados (WebFetch bloqueado para ArchDaily/Dwell; solo datos de resultados de búsqueda). Actividad posterior a 2020 no confirmada: verificar en Instagram."
+    },
+    {
+      "nombre": "Grupo Culata Jovái",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Colectivo de arquitectos de Asunción con obra residencial, reformas y espacio público. Trabaja con hormigón armado y ladrillo, y colabora con otros estudios (Tekoha, ArquitecTava, uno3arq).",
+      "tipo_proyectos": ["residencial", "reformas", "espacio público", "vivienda con taller"],
+      "estilo": "Contemporáneo, materiales honestos (hormigón y ladrillo), soluciones adaptables",
+      "proyectos_destacados": [
+        {"nombre": "Vivienda GT (Asunción)", "anio": 2021, "link": "https://www.arquimaster.com.ar/web/?p=69505"},
+        {"nombre": "Casa Serbia (reforma, Asunción)", "anio": 2019, "link": "https://www.archidiaries.com/casa-serbia-grupo-culata-jovai/"},
+        {"nombre": "Vivienda Los Mangos (Lambaré)", "anio": 2015, "link": "https://divisare.com/projects/395255-grupo-culata-jovai-federico-cairoli-vivienda-los-mangos-i"},
+        {"nombre": "El Caparazón House & Workshop (Areguá)", "anio": 2020, "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos"}
+      ],
+      "usa_concreto_visto": {"valor": "si", "evidencia": "Vivienda GT parte de hormigón armado y ladrillo como base según descripción publicada (resultado de búsqueda, Arquimaster)."},
+      "tamano_aprox": "Colectivo de varios socios y colaboradores; equipo de Vivienda GT lista 7 personas",
+      "decisores": [
+        {"nombre": "Miguel Ángel González Merlo (Miky González Merlo)", "cargo": "Integrante del estudio", "fuente": "https://www.arquimaster.com.ar/web/?p=69505"},
+        {"nombre": "Emmerick Braun Enciso", "cargo": "Integrante del estudio", "fuente": "https://www.arquimaster.com.ar/web/?p=69505"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.arquimaster.com.ar/web/?p=69505",
+        "https://www.archidiaries.com/casa-serbia-grupo-culata-jovai/",
+        "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Estudio prolífico en Asunción con hormigón y ladrillo a la vista; bachas y mesadas UHPC encajan con su paleta material en viviendas y reformas.",
+      "fit_preliminar": {"nivel": "A", "motivo": "Alta presencia en vivienda y reformas en Asunción/Lambaré, uso de hormigón armado visto, cartera publicada amplia."},
+      "pendiente_verificar": "Web, redes y contactos no confirmados (un artículo menciona Web/Facebook/Instagram pero sin URL visible). Actividad reciente (2025-26) por confirmar."
+    },
+    {
+      "nombre": "Equipo de Arquitectura",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": 2017,
+      "que_hacen": "Estudio fundado en 2017 y dirigido por Horacio Cherniavsky, Viviana Pozzoli y Roque Fanego. Reconocido internacionalmente por viviendas con tierra y bóvedas (Casa Intermedia, Caja de Tierra) y casas contemporáneas como Me House y Patios House.",
+      "tipo_proyectos": ["residencial"],
+      "estilo": "Esencial, matérico, tierra compactada y bóvedas; arquitectura de carácter primitivo",
+      "proyectos_destacados": [
+        {"nombre": "Casa Intermedia (Asunción)", "anio": 2021, "link": "https://arquitecturaviva.com/obras/la-casa-intermedia-en-asuncion"},
+        {"nombre": "Caja de Tierra", "anio": null, "link": "https://www.archdaily.mx/mx/898828/whatsapp:/send"},
+        {"nombre": "Me House", "anio": null, "link": "https://www.archdaily.com/1013101/me-house-equipo-de-arquitectura/"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Obra emblemática en tierra compactada con bóvedas reforzadas con poco hormigón; no se confirmó hormigón visto en el resto de la obra."},
+      "tamano_aprox": "Estudio pequeño con tres socios; desconocido",
+      "decisores": [
+        {"nombre": "Horacio Cherniavsky", "cargo": "Director / socio fundador", "fuente": "https://www.floornature.com/allgoodvibes/horacio-cherniavsky-equipo-de-arquitectura-17217/"},
+        {"nombre": "Viviana Pozzoli", "cargo": "Directora / socia fundadora", "fuente": "https://wallpaper.com/architecture/wallpaper-architects-directory-2022-equipo-de-arquitectura-paraguay"},
+        {"nombre": "Roque Fanego", "cargo": "Director", "fuente": "https://www.metalocus.es/es/autor/equipo-de-arquitectura"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.metalocus.es/es/autor/equipo-de-arquitectura",
+        "https://wallpaper.com/architecture/wallpaper-architects-directory-2022-equipo-de-arquitectura-paraguay",
+        "https://arquitecturaviva.com/obras/la-casa-intermedia-en-asuncion",
+        "https://issuu.com/horaciocherniavsky/docs/booklet_equipo_2022"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Estudio de gran visibilidad internacional y prescriptor de estética sobria; piezas UHPC finas podrían complementar interiores de tierra/mampostería como contraste material. Entrada por prestigio más que por volumen.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Alta reputación y residencial cuidado, pero su lenguaje es tierra/ladrillo y no hormigón visto; fit material menos directo."},
+      "pendiente_verificar": "Web/Instagram/contactos no confirmados. Un booklet 2022 en Issuu podría traer datos de contacto. ArchDaily, Metalocus y Arquitectura Viva no se pudieron abrir con WebFetch."
+    },
+    {
+      "nombre": "Meraki Arquitectura + Diseño",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de arquitectura y diseño con viviendas unifamiliares de superficie importante en Asunción, Mariano Roque Alonso y San Bernardino. Combina arquitectura con interiorismo ('Arquitectura + Diseño').",
+      "tipo_proyectos": ["residencial", "casas de fin de semana", "casa piloto"],
+      "estilo": "Contemporáneo, juego de volúmenes y sombras, modulación",
+      "proyectos_destacados": [
+        {"nombre": "Three³ House (Asunción, 703 m²)", "anio": 2021, "link": "https://www.archdaily.com/968155/three3-house-meraki-arquitectura-plus-diseno/"},
+        {"nombre": "Stone House (Mariano Roque Alonso)", "anio": 2020, "link": "https://www.archdaily.com/945345/stone-house-meraki-arquitectura-plus-diseno/"},
+        {"nombre": "Twin Houses (San Bernardino)", "anio": null, "link": "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"},
+        {"nombre": "Casa Piloto (Asunción)", "anio": 2018, "link": "https://architectures.jidipi.com/j00025985/en/casa-piloto"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No se encontró descripción de materiales de sus obras en los resultados."},
+      "tamano_aprox": "Equipo de diseño de Three³ House: 5 personas más paisajista; estudio pequeño-mediano",
+      "decisores": [{"nombre": "Violeta Pérez", "cargo": "Arquitecta a cargo (Three³ House)", "fuente": "https://architectures.jidipi.com/j00058573/en/three-house"}],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.archdaily.com/968155/three3-house-meraki-arquitectura-plus-diseno/",
+        "https://www.archdaily.com/office/meraki-arquitectura-diseno",
+        "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Viviendas amplias con interiores integrados al diseño: oportunidad de especificar bachas, mesadas y mobiliario UHPC como paquete para baños y cocinas de casas de 500+ m².",
+      "fit_preliminar": {"nivel": "A", "motivo": "Casas grandes y premium (703 m²), diseño integral, publicación reciente (Twin Houses, ID ArchDaily 2025+ a confirmar)."},
+      "pendiente_verificar": "Web, redes, contactos y materiales no confirmados. Año de Twin Houses por confirmar (indicio de publicación reciente en ArchDaily)."
+    },
+    {
+      "nombre": "OMCM arquitectos",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": "Waldino Ramón Lovera 5775, Asunción 001416 (según ficha de proyecto en Jidipi; confirmar vigencia)",
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de Asunción con 7 proyectos publicados en ArchDaily, principalmente viviendas y reformas. Lideran Matías Ortiz y María Paz Chamorro.",
+      "tipo_proyectos": ["residencial", "reformas"],
+      "estilo": "Contemporáneo, vivienda y rehabilitación con soluciones constructivas particulares",
+      "proyectos_destacados": [
+        {"nombre": "Rodor House", "anio": 2024, "link": "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos/"},
+        {"nombre": "Alas Paraguayas House (reforma 512 m²)", "anio": null, "link": "https://www.archdaily.com/972904/alas-paraguayas-house-omcm-arquitectos/"},
+        {"nombre": "Yvyraju House", "anio": null, "link": "https://www.archdaily.com/995284/yvyraju-house-omcm-arquitectos/"},
+        {"nombre": "Hornero Roga House (200 m²)", "anio": 2019, "link": "https://www.archdaily.com/930203/hornero-roga-house-omcm-arquitectos/"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No se obtuvo descripción de materiales."},
+      "tamano_aprox": "Estudio pequeño; desconocido",
+      "decisores": [
+        {"nombre": "Matías Ortiz", "cargo": "Arquitecto líder", "fuente": "https://www.archdaily.com/995284/yvyraju-house-omcm-arquitectos/"},
+        {"nombre": "María Paz Chamorro", "cargo": "Arquitecta líder", "fuente": "https://www.archdaily.com/995284/yvyraju-house-omcm-arquitectos/"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null,
+      "telefono": "+595 992 265542 (publicado en ficha de proyecto Jidipi; confirmar si es del estudio vigente)",
+      "whatsapp": null,
+      "fuentes": [
+        "https://www.archdaily.com/es/office/omcm-arquitectos",
+        "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos/",
+        "https://architectures.jidipi.com/j00066484/en/fuelle-roga-house"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Estudio activo con reformas y viviendas (Rodor House 2024): UHPC aporta piezas livianas para reformas donde el peso y el espesor importan.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Residencial contemporáneo activo en Asunción con datos de contacto; falta evidencia de hormigón visto y de segmento premium."},
+      "pendiente_verificar": "Teléfono y dirección provienen de una ficha de terceros, no del estudio. Web e Instagram no encontrados."
+    },
+    {
+      "nombre": "Activo Estudio",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de arquitectura con vivienda unifamiliar en Asunción; su obra publicada principal es Casa Juantana, en Loma Pyta (240 m², 2021).",
+      "tipo_proyectos": ["residencial"],
+      "estilo": "Contemporáneo, vivienda unifamiliar urbana",
+      "proyectos_destacados": [
+        {"nombre": "Juantana House (Loma Pyta, Asunción)", "anio": 2021, "link": "https://www.archilovers.com/projects/291507/juantana-house.html"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No se confirmó materialidad."},
+      "tamano_aprox": "Estudio pequeño; desconocido",
+      "decisores": [{"nombre": "Leticia Celma", "cargo": "Arquitecta líder (según ArchDaily)", "fuente": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"}, {"nombre": "Daniel Ojeda", "cargo": "Arquitecto líder (según ArchDaily; también aparece como fotógrafo en otras fichas, por verificar)", "fuente": "https://www.archdaily.com/966517/juantana-house-activo-estudio/"}],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.archdaily.com/966517/juantana-house-activo-estudio/",
+        "https://www.archilovers.com/projects/291507/juantana-house.html"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Estudio joven de vivienda urbana; entrada vía muestra de bachas y mesadas para casas de 200-250 m².",
+      "fit_preliminar": {"nivel": "C", "motivo": "Poca información, una sola obra visible y de 2021; actividad reciente no comprobada."},
+      "pendiente_verificar": "Actividad en los últimos 18 meses, web, Instagram, contactos y materialidad. Discrepancia de crédito: Archilovers dice 'Rolando Ojeda'."
+    },
+    {
+      "nombre": "Biocons Arquitectos",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": "Tte. Jara Troche 347, Asunción (según ficha de proyecto en Jidipi; confirmar vigencia)",
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de Asunción enfocado en vivienda y reformas con criterio de sostenibilidad y clima. Obra publicada: Triplex Yvapovõ (240 m²), Reforma Casa Camilo (210 m²), Straw Ranch en Itá, MS Residence Reform.",
+      "tipo_proyectos": ["residencial", "reformas", "vivienda multifamiliar pequeña"],
+      "estilo": "Bioclimático, sostenible, compacto",
+      "proyectos_destacados": [
+        {"nombre": "Triplex Yvapovõ", "anio": null, "link": "https://archdaily.com/1005050/triplex-yvapovo-biocons-arquitectos"},
+        {"nombre": "Straw Ranch (Itá), con Cinco Patas al Gato", "anio": null, "link": "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos/"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No se confirmó."},
+      "tamano_aprox": "Estudio pequeño; desconocido",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://archdaily.com/1005050/triplex-yvapovo-biocons-arquitectos",
+        "https://architectures.jidipi.com/j00090242/en/triplex-yvapovo",
+        "https://www.archdaily.mx/mx/office/biocons-arquitectos"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Perfil sostenible: el argumento UHPC liviano y de bajo material encaja con su discurso ambiental para baños y cocinas de sus viviendas compactas.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Residencial urbano cuidado en Asunción, con dirección publicada; materialidad y actividad reciente sin confirmar."},
+      "pendiente_verificar": "Fundadores, web, redes, contactos, año de Triplex Yvapovõ y actividad reciente."
+    },
+    {
+      "nombre": "Mínimo Común Arquitectura",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Estudio de Asunción con foco en construcción ecológica, vivienda, oficinas y reformas. Obras con tierra y ladrillo, como Luce and Pablo (200 m², 2021) y Oficinas Nordeste en Curuguaty.",
+      "tipo_proyectos": ["residencial", "oficinas", "reformas"],
+      "estilo": "Ecológico, tierra vertida y ladrillo, mínimo",
+      "proyectos_destacados": [
+        {"nombre": "Luce and Pablo Residence (Mariano Roque Alonso / Limpio)", "anio": 2021, "link": "https://archcod.com/luce-and-pablo-residence-minimo-comun-arquitectura"},
+        {"nombre": "Oficinas Nordeste (Curuguaty)", "anio": 2021, "link": "https://arquitecturaviva.com/works/oficinas-nordeste-en-curuguaty-8"},
+        {"nombre": "María Emilia House (Asunción)", "anio": 2017, "link": "https://www.archdaily.com/916188/maria-emilia-house-minimo-comun-arquitectura/"}
+      ],
+      "usa_concreto_visto": {"valor": "no", "evidencia": "Obra publicada en tierra vertida y ladrillo; no se vio hormigón visto."},
+      "tamano_aprox": "Estudio pequeño con 3 socios; desconocido",
+      "decisores": [
+        {"nombre": "Verónica Villate", "cargo": "Arquitecta líder", "fuente": "https://architecturelab.net/vivienda-luce-y-pablo-minimo-comun-arquitectura"},
+        {"nombre": "Solanito Benítez", "cargo": "Arquitecto líder", "fuente": "https://architecturelab.net/vivienda-luce-y-pablo-minimo-comun-arquitectura"},
+        {"nombre": "Sergei Jermolieff", "cargo": "Arquitecto líder", "fuente": "https://architecturelab.net/vivienda-luce-y-pablo-minimo-comun-arquitectura"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://architecturelab.net/vivienda-luce-y-pablo-minimo-comun-arquitectura",
+        "https://www.archdaily.com/office/minimo-comun-arquitectura",
+        "https://infonegocios.com.py/infomicasa/no-repetimos-modelos-abrimos-nuevas-formas-de-vida-la-propuesta-arquitectonica-de-minimo-comun-para-disenar-de-forma-consciente"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Prescriptor de estética mínima y materiales naturales; UHPC como contraste fino en baños y cocinas sin romper su discurso de bajo impacto.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Mínimo y cuidado, residencial, pero con línea ecológica de tierra; el hormigón no es su recurso habitual."},
+      "pendiente_verificar": "Web, Instagram, contactos y actividad 2025-26. La nota de Infonegocios no se pudo abrir (dominio bloqueado)."
+    },
+    {
+      "nombre": "Arkstudio",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción (obra en Mariano Roque Alonso)",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Estudio con vivienda de gran superficie y paisajismo propio. Su obra publicada principal es la Vivienda Casu (Mariano Roque Alonso, 820 m², 2018), con cubierta curva sin apoyos intermedios.",
+      "tipo_proyectos": ["residencial", "paisajismo"],
+      "estilo": "Contemporáneo, estructura expresiva",
+      "proyectos_destacados": [
+        {"nombre": "Vivienda Casu (Mariano Roque Alonso)", "anio": 2018, "link": "https://www.archdaily.com/es/916348/vivienda-casu-arkstudio"}
+      ],
+      "usa_concreto_visto": {"valor": "si", "evidencia": "Resumen de búsqueda: techo apoyado en tres pilares de hormigón y cubierta curva; alcance del hormigón visto sin verificar."},
+      "tamano_aprox": "Desconocido",
+      "decisores": [{"nombre": "Jessica Castillo", "cargo": "Arquitecta a cargo (Vivienda Casu)", "fuente": "https://www.archdaily.com/916464/casu-house-arkstudio/"}],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.archdaily.com/es/916348/vivienda-casu-arkstudio",
+        "https://www.archdaily.com/916464/casu-house-arkstudio/"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Vivienda de gran superficie con hormigón estructural: mesadas y bachas UHPC como acabado premium de baños y cocinas en casas de gran escala.",
+      "fit_preliminar": {"nivel": "C", "motivo": "Una sola obra conocida de 2018 y sin evidencia de actividad en los últimos 18 meses; discrepancias entre fichas ArchDaily."},
+      "pendiente_verificar": "Actividad actual, web, redes, contactos y discrepancia de datos (820 m²/2018 vs 993 m²/2015 en versión PT)."
+    },
+    {
+      "nombre": "Gabinete de Arquitectura (Solano Benítez)",
+      "segmento": "estudio_arquitectura",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": 1987,
+      "que_hacen": "Estudio fundado por Solano Benítez en 1987, con arquitectura e interiorismo/diseño industrial. Referente internacional (León de Oro Bienal de Venecia 2016) en ladrillo y construcciones económicas.",
+      "tipo_proyectos": ["residencial", "oficinas", "espacios públicos", "social"],
+      "estilo": "Ladrillo estructural y experimentación material; arquitectura social",
+      "proyectos_destacados": [
+        {"nombre": "Quincho de Tía Coral (Asunción)", "anio": 2015, "link": "https://arquitecturaviva.com/works/qincho-de-tia-coral-1"},
+        {"nombre": "Oficina a medida en Asunción", "anio": 2016, "link": "https://www.designboom.com/architecture/gabinete-de-arquitectura-office-in-asuncion-02-06-2016/"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Su sello es el ladrillo; el uso de hormigón visto no se confirmó."},
+      "tamano_aprox": "Estudio consolidado; desconocido",
+      "decisores": [
+        {"nombre": "Solano Benítez", "cargo": "Fundador", "fuente": "https://www.metalocus.es/es/noticias/solano-benitez-arquitectura-social"},
+        {"nombre": "Solanito Benítez", "cargo": "Arquitecto (participó en Quincho de Tía Coral)", "fuente": "https://www.designboom.com/architecture/gabinete-de-arquitectura-quincho-tia-coral-asuncion-paraguay-07-25-2016/"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null,
+      "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.metalocus.es/es/noticias/solano-benitez-arquitectura-social",
+        "https://www.domusweb.it/en/speciali/best-architecture-firms/2019/gabinete-de-arquitectura.html",
+        "https://www.designboom.com/architecture/gabinete-de-arquitectura-office-in-asuncion-02-06-2016/"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Prestigio y prescripción: entrar con piezas UHPC como complemento material a su ladrillo en proyectos de alta visibilidad.",
+      "fit_preliminar": {"nivel": "C", "motivo": "Muy reconocido pero centrado en ladrillo y proyectos sociales; sin fuentes recientes de 2025-26 ni contactos."},
+      "pendiente_verificar": "Actividad 2025-26, web, contactos y composición actual del estudio (el rol de Gloria Cabral no se pudo confirmar)."
+    }
+  ],
+  "candidatos_extra": [
+    {"nombre": "Javier Corvalán + Laboratorio de Arquitectura (Casa Yvapovó)", "link": "https://www.area-arch.it/wp-content/uploads/sites/6/2020/07/itinerario-asuncion.pdf", "ciudad": "Asunción / Luque"},
+    {"nombre": "-=+X- Arquitectura (Equals Plus X)", "link": "https://www.archdaily.com/894097/house-between-trees-equals-plus-x/", "ciudad": "Asunción"},
+    {"nombre": "Oficina de Arquitectura X (Casa 9x9)", "link": "https://es.mchap.co/mchap-2024-projects/casa-9x9", "ciudad": "Asunción"},
+    {"nombre": "José Cubilla (Patios House, Ara Pytu, Edificio Valois)", "link": "https://divisare.com/projects/392888-equipo-de-arquitectura-jose-cubilla-federico-cairoli-lauro-rocha-patios-house", "ciudad": "Asunción"},
+    {"nombre": "ArquitecTava (Villa Cerro Corá House)", "link": "https://www.archdaily.com/930200/villa-cerro-cora-house-arquitectava-plus-grupo-culata-jovai/", "ciudad": "Asunción"},
+    {"nombre": "Tekoha Arquitectos", "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos", "ciudad": "Asunción / Areguá"},
+    {"nombre": "Cinco Patas al Gato", "link": "https://www.archdaily.com/950830/straw-ranch-house-in-ita-cinco-patas-al-gato-plus-biocons-arquitectos/", "ciudad": "Itá"},
+    {"nombre": "Penta Arquitectura (Naked House)", "link": "https://www.archdaily.com/973492/naked-house-penta-arquitectura/", "ciudad": "Asunción (por confirmar)"},
+    {"nombre": "OCA (Vivienda Lui)", "link": "https://www.archdaily.com/es/804905/vivienda-lui-oca", "ciudad": "Mariano Roque Alonso"},
+    {"nombre": "Kike Martínez + Marcos Martínez (Lomas Verdes House)", "link": "https://www.archdaily.com/1011118/lomas-verdes-house-kike-martinez-plus-marcos-martinez/", "ciudad": "Gran Asunción (por confirmar)"},
+    {"nombre": "Báez + Ruiz Díaz (Life Villa Morra)", "link": "https://infonegocios.com.py/amp/default/tercer-edificio-life-en-villa-morra", "ciudad": "Asunción"},
+    {"nombre": "Jasper Architects (Palmanova Villa Morra)", "link": "https://www.jasperarchitects.com/news/palmanova-pacheco-awarded-2025-iada-platinum.php", "ciudad": "Asunción"}
+  ]
+}

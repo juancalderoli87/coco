@@ -1,0 +1,314 @@
+{
+  "segmento": "constructora",
+  "nota_metodologica": "WebFetch no pudo resolver ningun host externo en esta sesion (infonegocios.com.py, lanacion.com.py, sitios propios): solo se uso WebSearch. Todos los datos provienen de resumenes de busqueda de notas de prensa; ninguna web propia ni red social fue leida. Confianza global media-baja. Pendiente: ronda de verificacion con WebFetch habilitado.",
+  "empresas": [
+    {
+      "nombre": "Concremaq",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora joven respaldada por socios fundadores con más de 15 años en el rubro. Ejecuta edificios en altura en Asunción y también centros logísticos, barrios cerrados y obras viales.",
+      "tipo_proyectos": ["edificios en altura", "residencial", "logístico", "barrios cerrados", "obras viales"],
+      "estilo": "Obras de alta complejidad estructural; estilo arquitectónico no determinado (construye proyectos de desarrolladoras).",
+      "proyectos_destacados": [
+        {"nombre": "Park Lofts Tower (quinto edificio de la desarrolladora Park Lofts, ~7.000 m2, más de 100 m de altura)", "anio": null, "link": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "8 edificios en altura en ejecución simultánea según la nota (fecha de la nota no verificada).",
+      "decisores": [
+        {"nombre": "Sebastián Viveros", "cargo": "Director", "fuente": "https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": ["https://infonegocios.com.py/infoconstruccion/concremaq-se-consolida-en-el-segmento-de-obras-de-alta-complejidad"],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Con 8 torres en ejecución, un contrato marco de bachas/mesadas UHPC livianas para unidades premium podría darle volumen; la compra la define la desarrolladora de cada torre, por lo que conviene entrar vía ambas partes.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Volumen alto en altura residencial, pero no hay evidencia de gama ni de quién decide terminaciones."},
+      "pendiente_verificar": "Fecha de la nota, web propia, Instagram, contactos, años de fundación, lista actual de edificios y desarrolladoras clientes."
+    },
+    {
+      "nombre": "Katuete SRL (Grupo Palmanova)",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Empresa familiar con más de 25 años en el mercado que construye y desarrolla los edificios Palmanova en Asunción (Las Mercedes, Villa Morra, Pacheco). Emitió bonos en la bolsa de valores de Paraguay.",
+      "tipo_proyectos": ["edificios en altura", "residencial premium", "uso mixto", "comercial", "corporativo"],
+      "estilo": "Torres residenciales de gama alta/boutique con amenities; arquitectura de Jasper Architects en Palmanova Villa Morra.",
+      "proyectos_destacados": [
+        {"nombre": "Palmanova Las Mercedes (torre premium, unidades vendidas)", "anio": null, "link": "https://infonegocios.com.py/infomicasa/grupo-palmanova-inaugura-torre-premium-en-las-mercedes-con-todas-las-unidades-vendidas-y-una-propuesta-integral-de-amenities"},
+        {"nombre": "Palmanova Villa Morra (edificio boutique, entrega prevista dic. 2025)", "anio": 2025, "link": "https://infonegocios.com.py/infomicasa/palada-inicial-de-palmanova-villa-morra-un-edificio-boutique-que-propone-un-nuevo-estandar-de-lujo"},
+        {"nombre": "Palmanova Pacheco (Recoleta, US$ 15 millones, entrega prevista 1er semestre 2027)", "anio": 2027, "link": "https://infonegocios.com.py/default/vanguardista-y-con-eficiencia-energetica-palmanova-pacheco-invierte-us-15-millones-en-su-tercer-proyecto-inmobiliario"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Mediana-grande: tres torres premium en secuencia y un megaproyecto de uso mixto (Palmanova Center); emisión de bonos bursátiles.",
+      "decisores": [],
+      "web": "edificiopalmanova.com", "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infomicasa/palada-inicial-de-palmanova-villa-morra-un-edificio-boutique-que-propone-un-nuevo-estandar-de-lujo",
+        "https://infonegocios.com.py/conosur/katuete-srl-celebra-su-debut-en-la-bolsa-de-valores-de-paraguay-con-su-primera-emision-de-bonos",
+        "https://infonegocios.com.py/infomicasa/grupo-palmanova-inaugura-torre-premium-en-las-mercedes-con-todas-las-unidades-vendidas-y-una-propuesta-integral-de-amenities"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Torres boutique de lujo con pipeline continuo (Pacheco 2027): COCO puede ofrecer bachas y mesadas UHPC como upgrade distintivo de terminaciones en cada nuevo edificio, al ser constructora y desarrolladora a la vez.",
+      "fit_preliminar": {"nivel": "A", "motivo": "Constructora-desarrolladora de residencial premium con proyectos consecutivos y decisión de terminaciones integrada."},
+      "pendiente_verificar": "Web edificiopalmanova.com (no leída; dominio citado por un resumen de búsqueda), Instagram, contactos, decisores de compras, fecha de fundación, estado real de entrega de Villa Morra."
+    },
+    {
+      "nombre": "Jiménez Gaona y Lima S.A. (JGL)",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora de gran escala con más de 58 años de experiencia según una nota de prensa. Construyó las tres torres de Jade Park Asunción y en 2025-2026 se asoció con Saphira Business (JGL & Saphira Capital) para su primer proyecto inmobiliario, LYV, en Ciudad del Este.",
+      "tipo_proyectos": ["edificios en altura", "residencial de lujo", "desarrollo inmobiliario"],
+      "estilo": "Obras residenciales de lujo con diseño de autor (Jade Park: torres diseñadas por Carlos Ott).",
+      "proyectos_destacados": [
+        {"nombre": "Jade Park Asunción (3 torres, 122 unidades, ~US$ 100 millones, desarrollo de Fortune International Group)", "anio": 2021, "link": "https://www.lanacion.com.py/negocios_edicion_impresa/2021/12/19/jade-park-asuncion-megaproyecto-construido-por-jimenez-gaona-y-lima/"},
+        {"nombre": "LYV (Ciudad del Este, con Saphira Capital)", "anio": null, "link": "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Grande: megaproyectos de US$ 100 millones; décadas de trayectoria.",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://www.lanacion.com.py/negocios_edicion_impresa/2021/12/19/jade-park-asuncion-megaproyecto-construido-por-jimenez-gaona-y-lima/",
+        "https://infonegocios.com.py/y-ademas/jgl-saphira-capital-nace-con-lyv-su-primer-proyecto-inmobiliario-en-ciudad-del-este"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Referente de obras de lujo (Jade Park): COCO puede presentarse como proveedor de piezas UHPC premium para próximos proyectos con diseño de autor, tanto como constructora como en su rol creciente de desarrolladora.",
+      "fit_preliminar": {"nivel": "A", "motivo": "Experiencia en residencial de lujo de gran escala y ahora desarrolla proyectos propios."},
+      "pendiente_verificar": "Web oficial (no hallada), contactos, decisores, obras activas en Gran Asunción en los últimos 18 meses (Jade Park terminó ~2022; LYV está en Ciudad del Este, fuera de zona piloto)."
+    },
+    {
+      "nombre": "AGB Constructora",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora socia fundadora del Consejo Paraguayo de Construcción Sostenible y miembro del World Green Building Council. Presentó una casa prototipo sostenible en CASACOR Paraguay y figura como constructora de las Torres de Altea en Asunción.",
+      "tipo_proyectos": ["residencial", "edificios en altura", "construcción sostenible"],
+      "estilo": "Construcción sostenible con materiales reciclados y eficiencia hídrica; casa prototipo premiada entre los 'Mejores Ambientes de Casacor Paraguay 2017'.",
+      "proyectos_destacados": [
+        {"nombre": "Casa prototipo sostenible en CASACOR Paraguay", "anio": 2017, "link": "https://infonegocios.com.py/infomicasa/casa-prototipo-de-agb-es-premiada-como-uno-de-los-mejores-ambientes-de-casacor"},
+        {"nombre": "Torres de Altea (50 departamentos, 2 torres, Santa Teresa y Denis Roa; diseño Bracco Arquitectos)", "anio": null, "link": "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Mediana-grande (no cuantificado).",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infomicasa/casa-prototipo-de-agb-es-premiada-como-uno-de-los-mejores-ambientes-de-casacor",
+        "https://infonegocios.com.py/default/el-prototipo-de-vivienda-sostenible-de-agb",
+        "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Perfil sostenible y de showroom (CASACOR): el UHPC usa menos material y es liviano, encaja con su discurso de construcción sostenible; participar en una futura edición de CASACOR podría abrir la puerta.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Afinidad de discurso (sostenibilidad, diseño) y obras residenciales en altura; fuentes antiguas (2017) y sin evidencia de actividad reciente."},
+      "pendiente_verificar": "Actividad en los últimos 18 meses, web, redes, contactos, decisores, fecha de Torres de Altea."
+    },
+    {
+      "nombre": "Estudio Mantero Risch",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": "Barrio Hipódromo, Asunción (según nota de prensa; dirección exacta no publicada en lo consultado)",
+      "anio_fundacion": null,
+      "que_hacen": "Estudio-constructora que diseña y construye casas y dúplex, con remodelaciones, proyecto, dirección de obra y diseño de interiores. Acompaña al cliente desde la elección del terreno con diseño a medida.",
+      "tipo_proyectos": ["residencial", "casas llave en mano", "dúplex", "remodelaciones", "interiorismo"],
+      "estilo": "Casas modernas a medida; enfoque declarado en clase media, con diseño de interiores integrado.",
+      "proyectos_destacados": [],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Más de 100 empleados y unos 20.000 m2 construidos según notas de prensa (fechas no verificadas).",
+      "decisores": [
+        {"nombre": "Juan Francisco Mantero", "cargo": "Diseño, proyectos y construcción (fundador)", "fuente": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos"},
+        {"nombre": "Melanie Risch", "cargo": "Diseñadora de interiores (fundadora)", "fuente": "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infomicasa/estudio-mantero-risch-no-construye-casas-construye-suenos",
+        "https://infonegocios.com.py/infomicasa/la-clase-media-un-sector-olvidado-por-la-construccion"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Hacen interiorismo y construcción juntos: Melanie Risch, como diseñadora de interiores, es la figura natural para especificar bachas y mesadas UHPC como upgrade en casas a medida en Asunción, Luque, Lambaré y Villa Elisa.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Llave en mano con interiorismo integrado y volumen de casas, pero apuntan a clase media, no alta gama."},
+      "pendiente_verificar": "Web, Instagram (vitrina principal), proyectos concretos con nombre, contactos, fechas de las notas, si hay línea de gama alta."
+    },
+    {
+      "nombre": "DE Constructora S.A.",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora de edificios de departamentos en Asunción: construyó Manantiales Azalea (18 departamentos, Las Mercedes) y supervisó Manantiales de Asunción. Aparece también como constructora de Grand Chelsea.",
+      "tipo_proyectos": ["edificios en altura", "residencial"],
+      "estilo": "Edificios residenciales de gama media-alta; Manantiales Azalea con diseño de DH Díaz Herranz Arquitectos (Montevideo).",
+      "proyectos_destacados": [
+        {"nombre": "Edificio Manantiales Azalea (Las Mercedes, 18 departamentos, 6 pisos residenciales)", "anio": null, "link": "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades"},
+        {"nombre": "Grand Chelsea (US$ 6 millones, 38 unidades de 1-2 dormitorios + 2 penthouses; Primer Presidente y Auditores de la Guerra del Chaco)", "anio": null, "link": "https://infonegocios.com.py/default/grand-chelsea-el-estilo-de-manhattan-se-replica-en-un-nuevo-rincon-de-asuncion-con-inversion-de-us-6-millones"},
+        {"nombre": "Edificio Manantiales de Asunción (5 niveles; obra supervisada por la arq. Nathalie Elías de Constructora DE)", "anio": null, "link": "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Mediana: edificios boutique de 14 a 40 unidades.",
+      "decisores": [
+        {"nombre": "Nathalie Elías", "cargo": "Arquitecta, supervisión de obra (Manantiales de Asunción)", "fuente": "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infomicasa/edificio-manantiales-azalea-combina-materiales-de-primera-y-ubicacion-estrategica-quedan-8-unidades",
+        "https://infonegocios.com.py/default/grand-chelsea-el-estilo-de-manhattan-se-replica-en-un-nuevo-rincon-de-asuncion-con-inversion-de-us-6-millones",
+        "https://www.hoy.com.py/comercio-e-industrias/el-grand-chelsea-un-rincon-neoyorquino-en-asuncion"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Edificios boutique con penthouses y unidades de 1-3 dormitorios: COCO puede ofrecer paquetes de bachas y mesadas UHPC para penthouses como diferencial de venta del desarrollador.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Obras residenciales medias-altas en Asunción con pipeline activo, pero sin datos de gama ni de decisores."},
+      "pendiente_verificar": "Relación exacta entre DE Constructora y Constructora DE (posible misma empresa), web, redes, contactos, fechas de las notas, estado actual de Grand Chelsea."
+    },
+    {
+      "nombre": "Grillón Alvarenga (constructora)",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora identificada en notas de prensa como la ejecutora de los proyectos de Building Innovations: edificio San Clemente en Fernando de la Mora (7 pisos), San Clemente Santa Teresa (13 niveles con penthouse dúplex) y casas tipo dúplex en Morada Capiatá y Morada Areguá.",
+      "tipo_proyectos": ["edificios en altura", "residencial", "dúplex en barrios cerrados"],
+      "estilo": "Residencial contemporáneo de gama media-alta; Building Innovations usa diseño BIM y promociona espacios de casa con seguridad de edificio.",
+      "proyectos_destacados": [
+        {"nombre": "San Clemente Fernando (Fernando de la Mora, 7 pisos)", "anio": 2022, "link": "https://www.lanacion.com.py/negocios/2022/12/01/constructora-building-innovations-cierra-el-ano-con-inauguracion-de-su-primer-edificio-san-clemente/"},
+        {"nombre": "San Clemente Santa Teresa (13 niveles, penthouse dúplex)", "anio": null, "link": "https://infonegocios.com.py/infomicasa/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio"},
+        {"nombre": "Morada Capiatá / Morada Areguá (dúplex en barrios cerrados)", "anio": 2022, "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Mediana (no cuantificado).",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios",
+        "https://infonegocios.com.py/infomicasa/building-innovations-proyectos-que-cuentan-con-espacios-de-una-casa-pero-con-la-seguridad-de-un-edificio",
+        "https://www.lanacion.com.py/negocios/2022/12/01/constructora-building-innovations-cierra-el-ano-con-inauguracion-de-su-primer-edificio-san-clemente/"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Constructora de dúplex y edificios con unidades de tamaño casa en varias ciudades de Gran Asunción; el volumen repetible de baños y cocinas por unidad favorece una oferta de piezas UHPC estandarizadas.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Volumen residencial repetible en Gran Asunción, pero notas de 2022 y sin datos propios de la empresa."},
+      "pendiente_verificar": "Existencia de web y redes propias, actividad en los últimos 18 meses (las notas son de 2022), contactos, decisores, relación con Building Innovations (desarrolladora, listada en extras)."
+    },
+    {
+      "nombre": "Itasa S.A.",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": null,
+      "anio_fundacion": 1977,
+      "que_hacen": "Constructora y desarrolladora fundada en 1977, con unos 300 empleados según una nota. Edificó torres y edificios de departamentos en Asunción y desarrolla condominios tipo parque (Parque Pinar, Parque Venezuela, Torre Georgia) y una inversión inmobiliaria en Ñemby.",
+      "tipo_proyectos": ["edificios en altura", "residencial", "corporativo", "institucional"],
+      "estilo": "Residencial de gama media-alta y obra institucional; no se determinó estilo minimalista.",
+      "proyectos_destacados": [
+        {"nombre": "Torre Georgia (18 departamentos, barrio San Pablo; inaugurada con 90% vendido)", "anio": null, "link": "https://infonegocios.com.py/infomicasa/el-condominio-torre-georgia-se-inauguro-con-el-90-de-las-unidades-vendidas"},
+        {"nombre": "Parque Pinar (en construcción al 30% según la nota)", "anio": null, "link": "https://infonegocios.com.py/plus/la-construccion-del-parque-pinar-avanza-sobre-ruedas-esta-edificado-en-un-30"},
+        {"nombre": "Facultad de la UCA (obra en construcción)", "anio": null, "link": "https://infonegocios.com.py/infomicasa/itasa-sa-construye-el-futuro-moderno-edificio-de-facultad-de-la-uca"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Grande: unos 300 empleados, más de 45 años de trayectoria.",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/hay-equipo/el-equipo-de-itasa",
+        "https://infonegocios.com.py/infomicasa/el-condominio-torre-georgia-se-inauguro-con-el-90-de-las-unidades-vendidas",
+        "https://infonegocios.com.py/default/itasa-apuesta-por-la-ciudad-de-nemby-para-una-millonaria-inversion-inmobiliaria",
+        "https://www.infrapppworld.com/company/itasa-sa"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "media",
+      "angulo_venta_coco": "Empresa grande con desarrollos residenciales propios en curso (Parque Pinar, Ñemby): volumen de baños y cocinas para una línea UHPC estandarizada y piezas premium para penthouses.",
+      "fit_preliminar": {"nivel": "B", "motivo": "Gran volumen residencial y desarrollos propios activos, pero gama y estilo no confirmados."},
+      "pendiente_verificar": "Web propia, redes, contactos, directivos nombrados (nota 'El Equipo de Itasa' no leída), fechas de las notas, número de empleados vigente."
+    },
+    {
+      "nombre": "A4 Constructora (A4 Arquitectura)",
+      "segmento": "constructora",
+      "ciudad": "Luque",
+      "direccion": null,
+      "anio_fundacion": null,
+      "que_hacen": "Constructora a cargo de las Eco Casas de Terra Viva Residencias (barrio Maramburé, Luque), desarrollo de Sibaris SA. El arquitecto Miguel Alberto Lopatiuk de A4 Arquitectura lidera las obras.",
+      "tipo_proyectos": ["residencial", "casas en barrio cerrado", "casas en barrio abierto"],
+      "estilo": "Casas modernas con detalles rústicos e interiores cálidos (Eco Casas, tipologías Eco 2, 4, 7, 8, 10).",
+      "proyectos_destacados": [
+        {"nombre": "Terra Viva Residencias (Luque; 28 lotes cerrados + 24 abiertos; inversión ~US$ 4 millones)", "anio": 2024, "link": "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/"}
+      ],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "No hay evidencia en las fuentes consultadas."},
+      "tamano_aprox": "Pequeña-mediana (un desarrollo de 52 lotes; no cuantificado).",
+      "decisores": [
+        {"nombre": "Miguel Alberto Lopatiuk", "cargo": "Arquitecto, A4 Arquitectura (líder de obras de Terra Viva)", "fuente": "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda"}
+      ],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": null, "whatsapp": null,
+      "fuentes": [
+        "https://infonegocios.com.py/infomicasa/terra-viva-residencias-barrio-cerrado-en-luque-presenta-las-ecocasas-nuevo-concepto-de-vivienda",
+        "https://www.lanacion.com.py/negocios/2024/09/24/lanzan-el-desarrollo-residencial-terra-viva-un-lugar-seguro-natural-y-tranquilo-para-vivir-en-familia/"
+      ],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Tipologías de casas repetibles en un barrio cerrado: COCO podría ofrecer un kit de baño/cocina UHPC como opcional de personalización para los compradores.",
+      "fit_preliminar": {"nivel": "C", "motivo": "Proyecto de casas de gama media con financiación AFD y estilo rústico; menor ticket y menor afinidad estética."},
+      "pendiente_verificar": "Web de A4, relación con el estudio A4 Estudio de Luque (posible mismo equipo), contactos (el teléfono publicado pertenece a la desarrolladora Sibaris, no a A4), estado de ventas."
+    },
+    {
+      "nombre": "Ricardo Díaz Martínez Constructora S.A.",
+      "segmento": "constructora",
+      "ciudad": "Asunción",
+      "direccion": "John F. Kennedy 1.083, Asunción (según resumen de nota de prensa)",
+      "anio_fundacion": null,
+      "que_hacen": "Constructora con más de 27 años de experiencia y más de 100 obras entregadas, que impulsa la construcción de edificios con sistema monolítico de hormigón. Opera en obras civiles como hospitales y edificios.",
+      "tipo_proyectos": ["edificios en altura", "obras civiles", "salud", "residencial"],
+      "estilo": "Construcción industrializada en hormigón monolítico; no se determinó estilo arquitectónico.",
+      "proyectos_destacados": [],
+      "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Trabaja con sistema monolítico de hormigón (según el título de la nota), pero no hay evidencia de hormigón visto como terminación."},
+      "tamano_aprox": "Mediana-grande: más de 100 obras entregadas.",
+      "decisores": [],
+      "web": null, "instagram": null, "seguidores_ig": null, "facebook": null, "linkedin": null,
+      "email": null, "telefono": "(021) 207-699 / (0981) 225-489 (según resumen de búsqueda de la nota de prensa; sin confirmar en fuente primaria)", "whatsapp": null,
+      "fuentes": ["https://infonegocios.com.py/infoconstruccion/ricardo-diaz-martinez-constructora-sa-impulsa-construccion-de-edificios-con-el-sistema-monolitico-de-hormigon"],
+      "fecha_verificacion": "2026-11-13",
+      "confianza": "baja",
+      "angulo_venta_coco": "Su sistema monolítico en hormigón es afín al universo del concreto; COCO podría proponer piezas UHPC como complemento de terminaciones de baños y cocinas en sus edificios.",
+      "fit_preliminar": {"nivel": "C", "motivo": "Afinidad con el hormigón y volumen, pero sin evidencia de gama premium ni de proyectos concretos."},
+      "pendiente_verificar": "Teléfonos y dirección (confirmar en fuente primaria), web, redes, proyectos concretos, decisores, fecha de la nota."
+    }
+  ],
+  "candidatos_extra": [
+    {"nombre": "Viaplan", "link": "https://infonegocios.com.py/amp/default/viaplan-la-constructora-que-se-dedica-a-ejecutar-obras-industriales-y-comerciales-de-forma-exclusiva", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Alar Constructora", "link": "https://infonegocios.com.py/infoconstruccion?page=16", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Somagec Paraguay", "link": "https://infonegocios.com.py/default/somagec-paraguay-una-constructora-especializada-en-megaproyectos-de-infraestructura-cuenta-con-una-cantera-ubicada-en-pirayu", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "JVPSA Constructora", "link": "https://infonegocios.com.py/infobrand/jvpsa-constructora-estreno-nueva-imagen-corporativa-fresca-e-innovadora", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Tecnoedil S.A. Constructora", "link": "https://www.devex.com/organizations/tecnoedil-s-a-constructora-26308", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "CDD Construcciones S.A.", "link": "https://www.devex.com/organizations/cdd-construcciones-s-a-130466", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Caldetec Ingeniería S.R.L.", "link": "https://www.devex.com/organizations/caldetec-ingenieria-s-r-l-106768", "ciudad": "Asunción"},
+    {"nombre": "CIA S.A. (Construcciones e Ingeniería, adherida a CAPACO)", "link": "https://connectamericas.com/sites/default/files/company_files/Presentacion-Institucional-CIA-SA_0.pdf", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Obrasur", "link": "https://infonegocios.com.py/amp/infomicasa?page=66", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Hormetal (obras industriales/logísticas, llave en mano)", "link": "https://infonegocios.com.py/amp/infomicasa?page=66", "ciudad": "a confirmar"},
+    {"nombre": "Ecoldesa EAS (Condominio Cádiz, Surubí'í)", "link": "https://infonegocios.com.py/default/arquitectura-premium-y-vida-de-campo-asi-es-el-condominio-cadiz-que-combina-diseno-seguridad-y-naturaleza-en-surubi-i", "ciudad": "Surubí'í (Gran Asunción, a confirmar)"},
+    {"nombre": "Building Innovations (desarrolladora; también segmento desarrolladora)", "link": "https://infonegocios.com.py/infobrand/building-innovations-inauguro-su-primer-edificio-san-clemente-y-presento-proximos-proyectos-inmobiliarios", "ciudad": "Asunción"},
+    {"nombre": "Altius Group (More Mariscal 3; desarrolladora)", "link": "https://infonegocios.com.py/infomicasa/altius-pisa-fuerte-en-asuncion-lanza-more-mariscal-3-y-apuesta-a-transformar-el-corazon-urbano", "ciudad": "Asunción"},
+    {"nombre": "TEDEC SRL (edificio de US$ 3,6 millones, Primer Presidente casi Julio Correa)", "link": "https://infonegocios.com.py/default/el-edificio-de-los-usd-3-6-millones-habilita-su-departamento-modelo", "ciudad": "Asunción"},
+    {"nombre": "Creativa S.A. (edificio Santorini, Pitiantuta casi Boggiani)", "link": "https://infonegocios.com.py/plus/asuncion-sigue-acogiendo-emprendimientos-inmobiliarios-santorini-se-suma-a-la-oferta", "ciudad": "Asunción"},
+    {"nombre": "La Fábrica Social (viviendas prefabricadas, gama económica)", "link": "https://luquenoticias.com.py/2020/08/27/la-fabrica-social-ofrece-viviendas-premium/?print=pdf", "ciudad": "Luque"},
+    {"nombre": "Aveiro Construcciones S.A.", "link": "https://infonegocios.com.py/amp/infoconstruccion/aveiro-construcciones-sa-pisa-fuerte-en-la-ingenieria-vial-y-suma-servicio-de-impermeabilizacion-de-techos-con-poliuretano-expandido", "ciudad": "a confirmar"},
+    {"nombre": "Constructora Isacio Vallejos S.A. (CIVSA)", "link": "https://www.infrapppworld.com/company/constructora-isacio-vallejos-sa-civsa-1", "ciudad": "a confirmar"},
+    {"nombre": "Dianel Inmobiliaria y Constructora S.A.", "link": "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza", "ciudad": "Asunción (a confirmar)"},
+    {"nombre": "Skyterra (Wave Houses, San Bernardino; fuera de zona piloto)", "link": "https://infonegocios.com.py/infobrand/la-ola-de-la-rentabilidad-llega-a-san-bernardino-con-las-wave-houses-de-skyterra", "ciudad": "San Bernardino"},
+    {"nombre": "Equipo de Arquitectura (estudio que proyecta casas contemporáneas; segmento estudio_arquitectura)", "link": "https://architizer.com/projects/patios-house", "ciudad": "Asunción (a confirmar)"}
+  ]
+}
