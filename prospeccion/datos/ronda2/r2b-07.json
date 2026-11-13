@@ -17,20 +17,63 @@
    ],
    "estilo": "Contemporáneo de amenities, pensado para usuario final e inversor. Rango de producto amplio: desde departamentos accesibles (Veralta desde US$ 44.000, según prensa) hasta edificios premium en Ycuá Satí (Alzara Plaza). No se observa hormigón visto; foco en funcionalidad, sostenibilidad y vida de club.",
    "proyectos_destacados": [
-    {"nombre": "Alzara Plaza (Barrio Ycuá Satí, Asunción; terminado 2023)", "anio": 2023, "link": "https://altamiragroup.com.py/"},
-    {"nombre": "Parque Alcántara (Barrio Carmelitas, Asunción; entrega nov-2025)", "anio": 2025, "link": "https://altamiragroup.com.py/"},
-    {"nombre": "Altamira Surubi'i (Mariano Roque Alonso; complejo de +600 viviendas, torres 1-6)", "anio": 2021, "link": "https://altamiragroup.com.py/"},
-    {"nombre": "Altavida Norte (Limpio; en pozo, inicio de obras ene-2026, entrega proyectada jul-2027)", "anio": 2027, "link": "https://infonegocios.com.py/amp/y-ademas/con-una-inversion-de-us-16-millones-altavida-norte-impulsa-un-nuevo-capitulo-residencial-en-limpio"},
-    {"nombre": "Veralta Los Laureles (Barrio Los Laureles, Asunción; en pozo con Creo Inmuebles, entrega torre 1 dic-2027)", "anio": 2027, "link": "https://www.veralta.com.py/"}
+    {
+     "nombre": "Alzara Plaza (Barrio Ycuá Satí, Asunción; terminado 2023)",
+     "anio": 2023,
+     "link": "https://altamiragroup.com.py/"
+    },
+    {
+     "nombre": "Parque Alcántara (Barrio Carmelitas, Asunción; entrega nov-2025)",
+     "anio": 2025,
+     "link": "https://altamiragroup.com.py/"
+    },
+    {
+     "nombre": "Altamira Surubi'i (Mariano Roque Alonso; complejo de +600 viviendas, torres 1-6)",
+     "anio": 2021,
+     "link": "https://altamiragroup.com.py/"
+    },
+    {
+     "nombre": "Altavida Norte (Limpio; en pozo, inicio de obras ene-2026, entrega proyectada jul-2027)",
+     "anio": 2027,
+     "link": "https://infonegocios.com.py/amp/y-ademas/con-una-inversion-de-us-16-millones-altavida-norte-impulsa-un-nuevo-capitulo-residencial-en-limpio"
+    },
+    {
+     "nombre": "Veralta Los Laureles (Barrio Los Laureles, Asunción; en pozo con Creo Inmuebles, entrega torre 1 dic-2027)",
+     "anio": 2027,
+     "link": "https://www.veralta.com.py/"
+    }
    ],
-   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Ni la web propia (altamiragroup.com.py) ni las notas de prensa (Infonegocios, ABC) especifican acabados; solo describen amenities y tipologías. No se menciona hormigón visto."},
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web propia (altamiragroup.com.py) ni las notas de prensa (Infonegocios, ABC) especifican acabados; solo describen amenities y tipologías. No se menciona hormigón visto."
+   },
    "tamano_aprox": "Grande: +91.000 m2 construidos en Paraguay, 7 proyectos entre terminados, en entrega y en pozo; equipo de construcción propio con +20 años de experiencia (web /nosotros/).",
    "decisores": [
-    {"nombre": "Eduardo Pérez", "cargo": "CEO", "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"},
-    {"nombre": "Víctor Gill", "cargo": "Director", "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"},
-    {"nombre": "Rafael Gill (Ramírez)", "cargo": "Director / fundador", "fuente": "https://altamiragroup.com.py/nosotros/ (web propia); también citado por Infonegocios sobre Veralta"},
-    {"nombre": "Marcos Guareschi", "cargo": "Director", "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"},
-    {"nombre": "Luis Guareschi", "cargo": "Director", "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"}
+    {
+     "nombre": "Eduardo Pérez",
+     "cargo": "CEO",
+     "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"
+    },
+    {
+     "nombre": "Víctor Gill",
+     "cargo": "Director",
+     "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"
+    },
+    {
+     "nombre": "Rafael Gill (Ramírez)",
+     "cargo": "Director / fundador",
+     "fuente": "https://altamiragroup.com.py/nosotros/ (web propia); también citado por Infonegocios sobre Veralta"
+    },
+    {
+     "nombre": "Marcos Guareschi",
+     "cargo": "Director",
+     "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"
+    },
+    {
+     "nombre": "Luis Guareschi",
+     "cargo": "Director",
+     "fuente": "https://altamiragroup.com.py/nosotros/ (web propia)"
+    }
    ],
    "web": "https://altamiragroup.com.py/",
    "instagram": "https://www.instagram.com/altamiragroup.py/",
@@ -52,18 +95,55 @@
    "fecha_verificacion": "2026-11-13",
    "confianza": "alta",
    "angulo_venta_coco": "Desarrolladora grande con construcción propia y flujo constante de obra (Altavida Norte y Veralta en pozo): volumen recurrente de baños y cocinas donde COCO puede proveer bachas y mesadas UHPC. Punto de contacto comercial claro (email + WhatsApp en web).",
-   "fit_preliminar": {"nivel": "A", "motivo": "Volumen alto y continuidad de obra, contacto verificado y decisores identificados; estética más de amenities que minimalista."},
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Volumen alto y continuidad de obra, contacto verificado y decisores identificados; estética más de amenities que minimalista."
+   },
    "pendiente_verificar": "Seguidores de Instagram (no se pudo leer IG). Teléfono fijo: la web solo publica WhatsApp y email verificados.",
-   "actividad_reciente": {"fecha": "2026-01", "evidencia": "Inicio de obras de Altavida Norte (Limpio) en enero 2026 según timeline de /nosotros/; entrega de Parque Alcántara nov-2025 y torre 6 de Surubi'i dic-2025", "url": "https://altamiragroup.com.py/nosotros/"},
+   "actividad_reciente": {
+    "fecha": "2026-01",
+    "evidencia": "Inicio de obras de Altavida Norte (Limpio) en enero 2026 según timeline de /nosotros/; entrega de Parque Alcántara nov-2025 y torre 6 de Surubi'i dic-2025",
+    "url": "https://altamiragroup.com.py/nosotros/"
+   },
    "proyectos_en_curso": [
-    {"nombre": "Altavida Norte", "tipo": "residencial", "etapa": "en obra", "unidades": null, "link": "https://altamiragroup.com.py/"},
-    {"nombre": "Veralta Los Laureles", "tipo": "residencial en altura", "etapa": "en obra", "unidades": null, "link": "https://www.veralta.com.py/"}
+    {
+     "nombre": "Altavida Norte",
+     "tipo": "residencial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://altamiragroup.com.py/"
+    },
+    {
+     "nombre": "Veralta Los Laureles",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.veralta.com.py/"
+    }
    ],
-   "banos_cocinas_protagonistas": {"valor": "desconocido", "evidencia": "Las páginas de proyecto no muestran interiores de baño/cocina en detalle; foco en amenities y plantas."},
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas de proyecto no muestran interiores de baño/cocina en detalle; foco en amenities y plantas."
+   },
    "materiales_y_proveedores_visibles": "No se mencionan marcas de griferías, bachas ni mesadas en la web ni en prensa.",
-   "resenas_google": {"cantidad": null, "nota": null},
-   "contactos_verificados": {"telefono": false, "email": true, "whatsapp": true, "instagram": true},
-   "puntaje": {"estetica": 17, "volumen": 23, "gama": 15, "accesibilidad": 14, "oportunidad_inmediata": 9, "total": 78},
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 23,
+    "gama": 15,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 9,
+    "total": 78
+   },
    "puntaje_justificacion": {
     "estetica": "Contemporáneo de amenities, sin hormigón visto ni sello minimalista; afinidad media con COCO.",
     "volumen": "+91.000 m2 construidos, 7 proyectos y complejos de +600 viviendas: escala alta y sostenida.",
@@ -87,16 +167,43 @@
    ],
    "estilo": "Arquitectura moderna de alta gama con terminaciones 'high end' (preinstalación domótica, pisos laminados, cerraduras electrónicas); la línea Home del Sol se describe con 'diseño minimalista'. Fuerte en amenities (piscinas infinity, wellness, rooftop).",
    "proyectos_destacados": [
-    {"nombre": "Acro Home 43 (10º proyecto; 43 pisos, 3 torres interconectadas; entrega 2030)", "anio": 2030, "link": "https://phurban.com/acro-home-43/"},
-    {"nombre": "Sun Palace Tower (8º proyecto, Barrio Manorá / San Martín; 104 deptos, terminaciones high end; entrega oct-2026, 98% vendido)", "anio": 2026, "link": "https://phurban.com/sun-palace-tower/"},
-    {"nombre": "Home Stay San Martín (apart con servicios 5 estrellas, rooftop; entrega oct-2027, 80% vendido)", "anio": 2027, "link": "https://phurban.com/home-stay-san-martin/"},
-    {"nombre": "Home Villa Morra (DE Constructora; ~US$4M; entregado, última unidad)", "anio": 2024, "link": "https://infonegocios.com.py/infomicasa/home-villa-morra-esta-listo-y-solo-queda-una-ultima-unidad-disponible"},
-    {"nombre": "Home Palace Tower / Home del Sol / Home Ycua Sati / Home Studio Herrera (proyectos 100% entregados)", "anio": null, "link": "https://phurban.com/"}
+    {
+     "nombre": "Acro Home 43 (10º proyecto; 43 pisos, 3 torres interconectadas; entrega 2030)",
+     "anio": 2030,
+     "link": "https://phurban.com/acro-home-43/"
+    },
+    {
+     "nombre": "Sun Palace Tower (8º proyecto, Barrio Manorá / San Martín; 104 deptos, terminaciones high end; entrega oct-2026, 98% vendido)",
+     "anio": 2026,
+     "link": "https://phurban.com/sun-palace-tower/"
+    },
+    {
+     "nombre": "Home Stay San Martín (apart con servicios 5 estrellas, rooftop; entrega oct-2027, 80% vendido)",
+     "anio": 2027,
+     "link": "https://phurban.com/home-stay-san-martin/"
+    },
+    {
+     "nombre": "Home Villa Morra (DE Constructora; ~US$4M; entregado, última unidad)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infomicasa/home-villa-morra-esta-listo-y-solo-queda-una-ultima-unidad-disponible"
+    },
+    {
+     "nombre": "Home Palace Tower / Home del Sol / Home Ycua Sati / Home Studio Herrera (proyectos 100% entregados)",
+     "anio": null,
+     "link": "https://phurban.com/"
+    }
    ],
-   "usa_concreto_visto": {"valor": "no", "evidencia": "Las páginas de proyecto enfatizan terminaciones 'high end', pisos laminados y domótica; no mencionan hormigón visto. Estética más 'lujo clásico-contemporáneo' que brutalista."},
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Las páginas de proyecto enfatizan terminaciones 'high end', pisos laminados y domótica; no mencionan hormigón visto. Estética más 'lujo clásico-contemporáneo' que brutalista."
+   },
    "tamano_aprox": "Mediana-grande: 10 proyectos bajo la marca Home, varios 100% entregados y 3 en obra/pozo simultáneos (Acro Home 43, Sun Palace, Home Stay). Contadores de m2/departamentos en home sin cifra publicada (en 0).",
    "decisores": [
-    {"nombre": "Marcos Hong", "cargo": "socio gerente", "fuente": "https://infonegocios.com.py/infomicasa/sun-palace-tower-un-edificio-preparado-para-el-futuro-contara-con-terminaciones-high-end (prensa, no verificado en web propia)"}
+    {
+     "nombre": "Marcos Hong",
+     "cargo": "socio gerente",
+     "fuente": "https://infonegocios.com.py/infomicasa/sun-palace-tower-un-edificio-preparado-para-el-futuro-contara-con-terminaciones-high-end (prensa, no verificado en web propia)"
+    }
    ],
    "web": "https://phurban.com/",
    "instagram": "https://www.instagram.com/edificioshome",
@@ -118,19 +225,62 @@
    "fecha_verificacion": "2026-11-13",
    "confianza": "alta",
    "angulo_venta_coco": "Desarrolladora activa con 3 torres en obra y terminaciones 'high end' declaradas: segmento premium donde una bacha/mesada UHPC agrega valor diferencial. Contacto directo (teléfono + WhatsApp + email) publicado en su web.",
-   "fit_preliminar": {"nivel": "A", "motivo": "Volumen de obra premium en marcha, contacto verificado; decisor solo por prensa y sin hormigón visto."},
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Volumen de obra premium en marcha, contacto verificado; decisor solo por prensa y sin hormigón visto."
+   },
    "pendiente_verificar": "Nombre legal/razón social completa (P&H), año de fundación, seguidores IG; decisor Marcos Hong figura solo en prensa.",
-   "actividad_reciente": {"fecha": "2026-10", "evidencia": "Sun Palace Tower con entrega oct-2026 y 98% vendido; Acro Home 43 (10º proyecto) en comercialización con 40% vendido", "url": "https://phurban.com/"},
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Sun Palace Tower con entrega oct-2026 y 98% vendido; Acro Home 43 (10º proyecto) en comercialización con 40% vendido",
+    "url": "https://phurban.com/"
+   },
    "proyectos_en_curso": [
-    {"nombre": "Acro Home 43", "tipo": "residencial en altura", "etapa": "en venta", "unidades": null, "link": "https://phurban.com/acro-home-43/"},
-    {"nombre": "Sun Palace Tower", "tipo": "residencial en altura", "etapa": "en obra", "unidades": 104, "link": "https://phurban.com/sun-palace-tower/"},
-    {"nombre": "Home Stay San Martín", "tipo": "apart residencial", "etapa": "en obra", "unidades": null, "link": "https://phurban.com/home-stay-san-martin/"}
+    {
+     "nombre": "Acro Home 43",
+     "tipo": "residencial en altura",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://phurban.com/acro-home-43/"
+    },
+    {
+     "nombre": "Sun Palace Tower",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": 104,
+     "link": "https://phurban.com/sun-palace-tower/"
+    },
+    {
+     "nombre": "Home Stay San Martín",
+     "tipo": "apart residencial",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://phurban.com/home-stay-san-martin/"
+    }
    ],
-   "banos_cocinas_protagonistas": {"valor": "desconocido", "evidencia": "Las fichas destacan terminaciones high end y amenities pero no muestran detalle de baños/cocinas ni mesadas."},
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas destacan terminaciones high end y amenities pero no muestran detalle de baños/cocinas ni mesadas."
+   },
    "materiales_y_proveedores_visibles": "Se mencionan pisos laminados, preinstalación de domótica y cerraduras electrónicas; no se nombran marcas de bachas, griferías ni mesadas.",
-   "resenas_google": {"cantidad": null, "nota": null},
-   "contactos_verificados": {"telefono": true, "email": true, "whatsapp": true, "instagram": true},
-   "puntaje": {"estetica": 18, "volumen": 21, "gama": 17, "accesibilidad": 12, "oportunidad_inmediata": 9, "total": 77},
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 21,
+    "gama": 17,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 9,
+    "total": 77
+   },
    "puntaje_justificacion": {
     "estetica": "Moderna y de alta gama, con línea 'minimalista' (Home del Sol) pero sin hormigón visto: afinidad media-alta.",
     "volumen": "10 proyectos de la marca Home, varios entregados y 3 en obra/pozo a la vez.",
@@ -154,14 +304,33 @@
    ],
    "estilo": "Contemporáneo con estándares internacionales y certificaciones (GoTower es LEED + NFPA). Residencial Feel orientado a primera vivienda / inversor con amenities; corporativo de alta tecnología.",
    "proyectos_destacados": [
-    {"nombre": "GoTower (Av. Artigas, Distrito Costanera; business center 24 pisos, LEED+NFPA; +US$33M; inaugurado oct-2025)", "anio": 2025, "link": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/"},
-    {"nombre": "Feel Asunción (Av. Santísima Trinidad; 3 torres, 23 niveles, cowork; deptos de 1-3 dorm. desde US$121.000)", "anio": null, "link": "https://feelasuncion.com.py/"},
-    {"nombre": "Sky Tower (torre residencial; unidad modelo visitable)", "anio": null, "link": "https://www.escaladesarrollos.com/"}
+    {
+     "nombre": "GoTower (Av. Artigas, Distrito Costanera; business center 24 pisos, LEED+NFPA; +US$33M; inaugurado oct-2025)",
+     "anio": 2025,
+     "link": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/"
+    },
+    {
+     "nombre": "Feel Asunción (Av. Santísima Trinidad; 3 torres, 23 niveles, cowork; deptos de 1-3 dorm. desde US$121.000)",
+     "anio": null,
+     "link": "https://feelasuncion.com.py/"
+    },
+    {
+     "nombre": "Sky Tower (torre residencial; unidad modelo visitable)",
+     "anio": null,
+     "link": "https://www.escaladesarrollos.com/"
+    }
    ],
-   "usa_concreto_visto": {"valor": "desconocido", "evidencia": "Las webs (escaladesarrollos.com, feelasuncion.com.py) y la nota de La Nación sobre GoTower describen certificaciones y amenities, no acabados interiores ni hormigón visto."},
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las webs (escaladesarrollos.com, feelasuncion.com.py) y la nota de La Nación sobre GoTower describen certificaciones y amenities, no acabados interiores ni hormigón visto."
+   },
    "tamano_aprox": "Mediana-grande: 3 proyectos de gran porte en simultáneo (uno de ellos de +US$33M); grupo con presencia regional (Uruguay y Paraguay).",
    "decisores": [
-    {"nombre": "Juan José Moratorio", "cargo": "director de Escala Desarrollos", "fuente": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/ (prensa, no verificado en web propia)"}
+    {
+     "nombre": "Juan José Moratorio",
+     "cargo": "director de Escala Desarrollos",
+     "fuente": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/ (prensa, no verificado en web propia)"
+    }
    ],
    "web": "https://www.escaladesarrollos.com/",
    "instagram": "https://www.instagram.com/escaladesarrollos/",
@@ -181,18 +350,55 @@
    "fecha_verificacion": "2026-11-13",
    "confianza": "alta",
    "angulo_venta_coco": "Residencial Feel Asunción (3 torres, cientos de unidades) y Sky Tower en venta/obra: demanda recurrente de bachas y mesadas. Empresa con estándares internacionales y contacto verificado (tel + email + IG en web propia).",
-   "fit_preliminar": {"nivel": "A", "motivo": "Varios proyectos de escala en marcha, contacto verificado; estética contemporánea sin sello minimalista marcado y decisor solo por prensa."},
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Varios proyectos de escala en marcha, contacto verificado; estética contemporánea sin sello minimalista marcado y decisor solo por prensa."
+   },
    "pendiente_verificar": "Razón social y año de fundación; seguidores IG; confirmar número de unidades de Feel. Decisor Juan José Moratorio solo por prensa.",
-   "actividad_reciente": {"fecha": "2025-10", "evidencia": "Inauguración de GoTower en octubre 2025 (La Nación); Feel Asunción con unidad modelo visitable y comercialización activa", "url": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/"},
+   "actividad_reciente": {
+    "fecha": "2025-10",
+    "evidencia": "Inauguración de GoTower en octubre 2025 (La Nación); Feel Asunción con unidad modelo visitable y comercialización activa",
+    "url": "https://www.lanacion.com.py/negocios/2025/10/10/escala-inauguro-go-tower-el-primer-business-center-con-doble-certificacion-internacional/"
+   },
    "proyectos_en_curso": [
-    {"nombre": "Feel Asunción", "tipo": "residencial en altura", "etapa": "en venta", "unidades": null, "link": "https://feelasuncion.com.py/"},
-    {"nombre": "Sky Tower", "tipo": "residencial en altura", "etapa": "en obra", "unidades": null, "link": "https://www.escaladesarrollos.com/"}
+    {
+     "nombre": "Feel Asunción",
+     "tipo": "residencial en altura",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://feelasuncion.com.py/"
+    },
+    {
+     "nombre": "Sky Tower",
+     "tipo": "residencial en altura",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.escaladesarrollos.com/"
+    }
    ],
-   "banos_cocinas_protagonistas": {"valor": "desconocido", "evidencia": "Feel muestra tipologías y amenities pero no detalle de baños/cocinas ni mesadas."},
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Feel muestra tipologías y amenities pero no detalle de baños/cocinas ni mesadas."
+   },
    "materiales_y_proveedores_visibles": "No se nombran marcas de griferías, bachas ni mesadas; Feel habla de 'materiales de calidad' genéricos.",
-   "resenas_google": {"cantidad": null, "nota": null},
-   "contactos_verificados": {"telefono": true, "email": true, "whatsapp": true, "instagram": true},
-   "puntaje": {"estetica": 18, "volumen": 18, "gama": 17, "accesibilidad": 13, "oportunidad_inmediata": 9, "total": 75},
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 18,
+    "gama": 17,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 9,
+    "total": 75
+   },
    "puntaje_justificacion": {
     "estetica": "Estándares internacionales y certificaciones; contemporáneo cuidado pero sin hormigón visto ni minimalismo explícito.",
     "volumen": "3 proyectos de gran porte (uno de +US$33M) pero cartera acotada frente a desarrolladoras masivas.",
@@ -217,11 +423,26 @@
    ],
    "estilo": "Contemporáneo sobrio y 'honesto': HORMIGÓN VISTO, ladrillo y metal negro como identidad (proyecto Brisas de la Bahía). Estética atemporal, materiales nobles, fuerte relación interior-exterior. Es el perfil estético más afín a COCO del lote.",
    "proyectos_destacados": [
-    {"nombre": "Edificio Brisas de la Bahía (Barrio Jara; 16 deptos: monoambientes, 1 y 2 dorm.; hormigón visto, ladrillo, metal negro)", "anio": 2025, "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-bahia/"},
-    {"nombre": "Edificio Brisas de la Bahía II (Las Mercedes; en venta)", "anio": 2026, "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-la-bahia-ii/"},
-    {"nombre": "Seis dúplex unifamiliares (Loma Merlo, Luque; en venta)", "anio": 2026, "link": "https://www.intermedia.com.py/proyectos/seis-duplex-unifamiliares-en-venta-loma-merlo-luque/"}
+    {
+     "nombre": "Edificio Brisas de la Bahía (Barrio Jara; 16 deptos: monoambientes, 1 y 2 dorm.; hormigón visto, ladrillo, metal negro)",
+     "anio": 2025,
+     "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-bahia/"
+    },
+    {
+     "nombre": "Edificio Brisas de la Bahía II (Las Mercedes; en venta)",
+     "anio": 2026,
+     "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-la-bahia-ii/"
+    },
+    {
+     "nombre": "Seis dúplex unifamiliares (Loma Merlo, Luque; en venta)",
+     "anio": 2026,
+     "link": "https://www.intermedia.com.py/proyectos/seis-duplex-unifamiliares-en-venta-loma-merlo-luque/"
+    }
    ],
-   "usa_concreto_visto": {"valor": "si", "evidencia": "La ficha de Brisas de la Bahía describe explícitamente: 'Hormigón visto, ladrillo y metal negro construyen una identidad contemporánea con reminiscencias náuticas'. (intermedia.com.py)"},
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "La ficha de Brisas de la Bahía describe explícitamente: 'Hormigón visto, ladrillo y metal negro construyen una identidad contemporánea con reminiscencias náuticas'. (intermedia.com.py)"
+   },
    "tamano_aprox": "Pequeña/boutique: 15 años, +30.000 m2 de vivienda, 3 proyectos actuales de baja cantidad de unidades (16 deptos y 6 dúplex).",
    "decisores": [],
    "web": "https://www.intermedia.com.py/",
@@ -242,18 +463,55 @@
    "fecha_verificacion": "2026-11-13",
    "confianza": "media",
    "angulo_venta_coco": "Es el candidato estéticamente ideal: usa hormigón visto, materiales nobles y discurso minimalista/atemporal. Sus departamentos ya detallan 'mesada de granito' en cocina: COCO puede ofrecer mesadas y bachas UHPC como upgrade premium y coherente con su lenguaje. Proyectos chicos pero en venta/obra ahora.",
-   "fit_preliminar": {"nivel": "B", "motivo": "Máxima afinidad estética (hormigón visto) y oportunidad concreta, pero volumen chico y contacto limitado (solo WhatsApp, sin decisor nominado)."},
-   "pendiente_verificar": "Email, teléfono fijo, razón social, año de fundación, Instagram/Facebook/LinkedIn (iconos presentes en la web pero sin enlace href legible) y nombres de socios/decisores.",
-   "actividad_reciente": {"fecha": "2025-12", "evidencia": "Posts de blog y lanzamiento de Brisas de la Bahía fechados 29-dic-2025 en el feed del sitio; proyectos II y dúplex marcados 'en venta' en 2026", "url": "https://www.intermedia.com.py/feed/"},
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Máxima afinidad estética (hormigón visto) y oportunidad concreta, pero volumen chico y contacto limitado (solo WhatsApp, sin decisor nominado)."
+   },
+   "pendiente_verificar": "Email, teléfono fijo, razón social, año de fundación, Instagram/Facebook/LinkedIn (iconos presentes en la web pero sin enlace href legible) y nombres de socios/decisores. Confirmar vínculo societario con Biocons Arquitectos.",
+   "actividad_reciente": {
+    "fecha": "2025-12",
+    "evidencia": "Posts de blog y lanzamiento de Brisas de la Bahía fechados 29-dic-2025 en el feed del sitio; proyectos II y dúplex marcados 'en venta' en 2026",
+    "url": "https://www.intermedia.com.py/feed/"
+   },
    "proyectos_en_curso": [
-    {"nombre": "Edificio Brisas de la Bahía II", "tipo": "residencial", "etapa": "en venta", "unidades": null, "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-la-bahia-ii/"},
-    {"nombre": "Seis dúplex unifamiliares Loma Merlo", "tipo": "dúplex", "etapa": "en venta", "unidades": 6, "link": "https://www.intermedia.com.py/proyectos/seis-duplex-unifamiliares-en-venta-loma-merlo-luque/"}
+    {
+     "nombre": "Edificio Brisas de la Bahía II",
+     "tipo": "residencial",
+     "etapa": "en venta",
+     "unidades": null,
+     "link": "https://www.intermedia.com.py/proyectos/edificio-aires-de-la-bahia-ii/"
+    },
+    {
+     "nombre": "Seis dúplex unifamiliares Loma Merlo",
+     "tipo": "dúplex",
+     "etapa": "en venta",
+     "unidades": 6,
+     "link": "https://www.intermedia.com.py/proyectos/seis-duplex-unifamiliares-en-venta-loma-merlo-luque/"
+    }
    ],
-   "banos_cocinas_protagonistas": {"valor": "si", "evidencia": "Las fichas describen cocina 'equipada con muebles de melamina y mesada de granito' y detallan baños por tipología (2 baños en 2 dorm.): baños y cocinas tienen protagonismo en la comunicación."},
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Las fichas describen cocina 'equipada con muebles de melamina y mesada de granito' y detallan baños por tipología (2 baños en 2 dorm.): baños y cocinas tienen protagonismo en la comunicación."
+   },
    "materiales_y_proveedores_visibles": "Mesada de granito y muebles de melamina en cocina; hormigón visto, ladrillo y metal negro en fachada. No se nombran marcas de griferías ni bachas.",
-   "resenas_google": {"cantidad": null, "nota": null},
-   "contactos_verificados": {"telefono": false, "email": false, "whatsapp": true, "instagram": false},
-   "puntaje": {"estetica": 24, "volumen": 12, "gama": 14, "accesibilidad": 10, "oportunidad_inmediata": 9, "total": 69},
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 24,
+    "volumen": 12,
+    "gama": 14,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 9,
+    "total": 69
+   },
    "puntaje_justificacion": {
     "estetica": "Hormigón visto, ladrillo y metal negro, materiales nobles y discurso atemporal: máxima afinidad con COCO del lote.",
     "volumen": "Boutique: +30.000 m2 en 15 años, 3 proyectos chicos (16 deptos, 6 dúplex) a la vez.",
@@ -261,7 +519,7 @@
     "accesibilidad": "Dos WhatsApp verificados en la web; sin email/teléfono ni decisor nominado.",
     "oportunidad_inmediata": "Brisas II y dúplex Luque en venta/obra, con mesadas y baños en el centro de la propuesta."
    },
-   "notas_investigacion": "Se leyó la web propia completa (home, /sobre-nosotros/, /proyectos/ y fichas de Brisas de la Bahía y dúplex Luque) vía curl. Contacto verificado: dos WhatsApp en links wa.me (+595 991 902202 asesor y +595 993 094017). No publica email ni teléfono fijo. Los iconos de Facebook/Instagram/LinkedIn están en el footer como SVG pero sin atributo href (no se pudo extraer el handle); búsquedas web no devolvieron su IG. Feed WordPress con posts de dic-2025: empresa activa. Nota: en el sitio el proyecto aparece tanto como 'Brisas de la Bahía' como 'Aires de la Bahía' (slug /edificio-aires-de-bahia/) — parecen el mismo edificio renombrado. Sin cobertura de prensa relevante encontrada."
+   "notas_investigacion": "Se leyó la web propia completa (home, /sobre-nosotros/, /proyectos/ y fichas de Brisas de la Bahía y dúplex Luque) vía curl. Contacto verificado: dos WhatsApp en links wa.me (+595 991 902202 asesor y +595 993 094017). No publica email ni teléfono fijo. Los iconos de Facebook/Instagram/LinkedIn están en el footer como SVG pero sin atributo href (no se pudo extraer el handle); búsquedas web no devolvieron su IG. Feed WordPress con posts de dic-2025: empresa activa. Nota: en el sitio el proyecto aparece tanto como 'Brisas de la Bahía' como 'Aires de la Bahía' (slug /edificio-aires-de-bahia/) — parecen el mismo edificio renombrado. Sin cobertura de prensa relevante encontrada. | AUDITOR: el WhatsApp +595 991 902202 es el mismo que publica Biocons Arquitectos (ID 022, r2a-06) y Brisas de la Bahía II figura como obra de ambos: probablemente Intermedia es el brazo desarrollador de Biocons (Nicolás Morales Saravia). Abordar como una sola cuenta."
   },
   {
    "nombre": "Capital de Mandatos y Servicios (Parque Pinar, Ñemby)",
@@ -271,12 +529,21 @@
    "direccion": null,
    "anio_fundacion": null,
    "que_hacen": "Figura en prensa únicamente como la entidad 'a cargo del desarrollo' (mandato/fideicomiso comercial) del condominio Parque Pinar en Ñemby (~86-88 deptos de 2-3 dorm. en 5 bloques, inversión US$8-10M). El proyecto fue proyectado y construido por Constructora Itasa S.A. y comercializado por A Estrenar, con fideicomiso administrado por Banco Atlas. Parque Pinar se terminó/inauguró hacia 2017-2018.",
-   "tipo_proyectos": ["residencial (un único proyecto: Parque Pinar)"],
+   "tipo_proyectos": [
+    "residencial (un único proyecto: Parque Pinar)"
+   ],
    "estilo": "Condominio residencial de clase media, departamentos estándar de 2-3 dormitorios; sin sello de diseño destacable.",
    "proyectos_destacados": [
-    {"nombre": "Parque Pinar (Av. Eduardo Vasconcellos, Ñemby; ~88 deptos en 5 bloques; terminado)", "anio": 2017, "link": "https://infonegocios.com.py/infomicasa/el-polo-residencial-migra-hacia-las-ciudades-satelites-de-asuncion"}
+    {
+     "nombre": "Parque Pinar (Av. Eduardo Vasconcellos, Ñemby; ~88 deptos en 5 bloques; terminado)",
+     "anio": 2017,
+     "link": "https://infonegocios.com.py/infomicasa/el-polo-residencial-migra-hacia-las-ciudades-satelites-de-asuncion"
+    }
    ],
-   "usa_concreto_visto": {"valor": "no", "evidencia": "Condominio residencial económico de clase media; la prensa no menciona hormigón visto."},
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Condominio residencial económico de clase media; la prensa no menciona hormigón visto."
+   },
    "tamano_aprox": "Indeterminado: sin estructura ni cartera propia identificable; aparece solo asociada a un proyecto ya ejecutado.",
    "decisores": [],
    "web": null,
@@ -295,15 +562,40 @@
    "fecha_verificacion": "2026-11-13",
    "confianza": "baja",
    "angulo_venta_coco": "Prácticamente nulo: no es una desarrolladora activa con obra en curso, sino una entidad de mandato ligada a un único proyecto ya entregado. El actor real (Itasa S.A.) ya está perfilado en r2a-02.",
-   "fit_preliminar": {"nivel": "C", "motivo": "Entidad de mandato/fideicomiso sin empresa desarrolladora activa identificable ni actividad reciente; proyecto único ya terminado."},
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Entidad de mandato/fideicomiso sin empresa desarrolladora activa identificable ni actividad reciente; proyecto único ya terminado."
+   },
    "pendiente_verificar": "Razón social, registro y si 'Capital de Mandatos y Servicios' sigue operando como desarrolladora independiente (no se halló evidencia).",
-   "actividad_reciente": {"fecha": null, "evidencia": "No se encontró actividad en los últimos 18 meses; la única mención es Parque Pinar (2015-2018), ya inaugurado", "url": "https://infonegocios.com.py/infomicasa/el-polo-residencial-migra-hacia-las-ciudades-satelites-de-asuncion"},
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "No se encontró actividad en los últimos 18 meses; la única mención es Parque Pinar (2015-2018), ya inaugurado",
+    "url": "https://infonegocios.com.py/infomicasa/el-polo-residencial-migra-hacia-las-ciudades-satelites-de-asuncion"
+   },
    "proyectos_en_curso": [],
-   "banos_cocinas_protagonistas": {"valor": "desconocido", "evidencia": "Sin información visible de interiores."},
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin información visible de interiores."
+   },
    "materiales_y_proveedores_visibles": "No disponible.",
-   "resenas_google": {"cantidad": null, "nota": null},
-   "contactos_verificados": {"telefono": false, "email": false, "whatsapp": false, "instagram": false},
-   "puntaje": {"estetica": 5, "volumen": 5, "gama": 6, "accesibilidad": 0, "oportunidad_inmediata": 0, "total": 16},
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 5,
+    "volumen": 5,
+    "gama": 6,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 16
+   },
    "puntaje_justificacion": {
     "estetica": "Condominio de clase media sin diseño destacable; nula afinidad con COCO.",
     "volumen": "Un solo proyecto conocido, ya terminado; sin cartera ni estructura propia.",
@@ -317,11 +609,41 @@
   }
  ],
  "candidatos_extra": [
-  {"nombre": "Creo Inmuebles", "link": "https://www.veralta.com.py/", "ciudad": "Asunción", "segmento": "desarrolladora"},
-  {"nombre": "Casal Arquitectos (Casal Arquitectura)", "link": "https://casalarquitectos.com/", "ciudad": "Asunción", "segmento": "estudio_arquitectura"},
-  {"nombre": "Espacio Paraguay S.A. (SPV de Feel Asunción)", "link": "https://feelasuncion.com.py/", "ciudad": "Asunción", "segmento": "desarrolladora"},
-  {"nombre": "A Estrenar (inmobiliaria / comercializadora)", "link": "https://www.aestrenar.com.py/", "ciudad": "Asunción", "segmento": "inmobiliaria"},
-  {"nombre": "CCI S.A. (constructora de Sun Palace Tower y Es Hit)", "link": "https://infonegocios.com.py/infomicasa/sun-palace-tower-un-edificio-preparado-para-el-futuro-contara-con-terminaciones-high-end", "ciudad": "Asunción", "segmento": "constructora"},
-  {"nombre": "Grupo Azeta (co-desarrolla Altavida Norte con Altamira)", "link": "https://infonegocios.com.py/amp/y-ademas/con-una-inversion-de-us-16-millones-altavida-norte-impulsa-un-nuevo-capitulo-residencial-en-limpio", "ciudad": "Limpio", "segmento": "desarrolladora"}
+  {
+   "nombre": "Creo Inmuebles",
+   "link": "https://www.veralta.com.py/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Casal Arquitectos (Casal Arquitectura)",
+   "link": "https://casalarquitectos.com/",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "Espacio Paraguay S.A. (SPV de Feel Asunción)",
+   "link": "https://feelasuncion.com.py/",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "A Estrenar (inmobiliaria / comercializadora)",
+   "link": "https://www.aestrenar.com.py/",
+   "ciudad": "Asunción",
+   "segmento": "inmobiliaria"
+  },
+  {
+   "nombre": "CCI S.A. (constructora de Sun Palace Tower y Es Hit)",
+   "link": "https://infonegocios.com.py/infomicasa/sun-palace-tower-un-edificio-preparado-para-el-futuro-contara-con-terminaciones-high-end",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Grupo Azeta (co-desarrolla Altavida Norte con Altamira)",
+   "link": "https://infonegocios.com.py/amp/y-ademas/con-una-inversion-de-us-16-millones-altavida-norte-impulsa-un-nuevo-capitulo-residencial-en-limpio",
+   "ciudad": "Limpio",
+   "segmento": "desarrolladora"
+  }
  ]
 }
