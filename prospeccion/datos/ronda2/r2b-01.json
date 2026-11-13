@@ -1,0 +1,596 @@
+{
+ "lote": "r2b-01",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Altius Group Paraguay (Altius Group Paraguay S.R.L.)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Oficina administrativa y showroom: Nuestra Señora del Carmen y César López Moreira, Asunción (la página /avance-de-obras/ del mismo sitio consigna 'Nstra. Sra. del Carmen esq. San Martín')",
+   "anio_fundacion": 2008,
+   "que_hacen": "Desarrolladora inmobiliaria de origen uruguayo (grupo fundado en 2008; opera en Paraguay desde 2019, además de Panamá y México) respaldada por el fondo Península Investments Group. En Asunción desarrolla las torres residenciales de la marca MORE (More del Sol, More Mariscal 1-3, More Plaza), Nostrum Trinidad y el barrio de campo Los Pingos en Surubí'í; la prensa habla de 6 a 9 proyectos en Asunción. Comercializa con showroom propio y Keller Williams Paraguay.",
+   "tipo_proyectos": [
+    "residencial en altura",
+    "usos mixtos (oficinas + comercio + vivienda)",
+    "corporativo",
+    "barrio de campo / lotes y town houses"
+   ],
+   "estilo": "Contemporáneo corporativo-inversor, monoambientes y 1-3 dormitorios con amenities (piscina, gimnasio, cowork, rooftop). Arquitectura de estudios BMA (Argentina), Julia Galanti y Gómez Platero (Uruguay) y paisajismo de Graciela Bo. Posicionamiento 'mercado premium' según la propia empresa y la prensa.",
+   "proyectos_destacados": [
+    {
+     "nombre": "More Plaza (Ntra. Sra. del Carmen esq. César López Moreira; 130 deptos, uso mixto, 22.000 m2)",
+     "anio": 2025,
+     "link": "https://www.altius.com.py/more/more-plaza/"
+    },
+    {
+     "nombre": "Central Mariscal / More Mariscal 1 y 2 (complejo de usos mixtos, BMA Arquitectos)",
+     "anio": 2022,
+     "link": "https://www.altius.com.py/central/"
+    },
+    {
+     "nombre": "More Mariscal 3 (80 deptos, 8 pisos + rooftop)",
+     "anio": 2026,
+     "link": "https://www.altius.com.py/more-mariscal-3"
+    },
+    {
+     "nombre": "Nostrum Trinidad (Av. Santísima Trinidad, Mburucuyá; 144 deptos, 23 pisos según prensa)",
+     "anio": 2023,
+     "link": "https://www.altius.com.py/proyectos/nostrum/"
+    },
+    {
+     "nombre": "More del Sol (entregado 2024)",
+     "anio": 2024,
+     "link": "https://www.altius.com.py/more/more-del-sol/"
+    },
+    {
+     "nombre": "Los Pingos Club de Campo (Surubí'í, ~200 lotes, town houses y club)",
+     "anio": 2024,
+     "link": "https://infonegocios.com.py/infobrand/altius-group-refuerza-su-presencia-en-asuncion-con-un-nuevo-showroom-y-nueve-proyectos-en-desarrollo"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas de proyecto (altius.com.py) y las notas de prensa no especifican acabados ni mencionan hormigón visto; solo listan amenities. El showroom tiene una 'sala de materialidades' (Infonegocios, 13-mar-2026) sin detalle de materiales."
+   },
+   "tamano_aprox": "Grande: ~9 proyectos entre terminados, en obra y prelanzamiento en Asunción (Infonegocios 13-mar-2026); inversión declarada ~US$ 80 millones en Paraguay (Infonegocios, nota de Nostrum); proyectos de 80 a 144 unidades.",
+   "decisores": [
+    {
+     "nombre": "Francisco Jorge",
+     "cargo": "CEO / gerente general de Altius Group Paraguay",
+     "fuente": "https://infonegocios.com.py/infobrand/altius-group-refuerza-su-presencia-en-asuncion-con-un-nuevo-showroom-y-nueve-proyectos-en-desarrollo (fuente de prensa, no la web propia)"
+    },
+    {
+     "nombre": "Luciano García Sáez",
+     "cargo": "gerente de proyectos de Altius Group Paraguay",
+     "fuente": "https://infonegocios.com.py/infobrand/altius-group-refuerza-su-presencia-en-asuncion-con-un-nuevo-showroom-y-nueve-proyectos-en-desarrollo (prensa)"
+    },
+    {
+     "nombre": "Emanuel Oviedo",
+     "cargo": "director ejecutivo de Altius Group y director regional de Keller Williams Paraguay",
+     "fuente": "https://infonegocios.com.py/amp/infomicasa/more-plaza-el-proyecto-de-altius-group-que-impulsa-el-futuro-de-la-capital-paraguaya (prensa, abr-2025)"
+    }
+   ],
+   "web": "https://www.altius.com.py/",
+   "instagram": "https://www.instagram.com/ALTIUS.GROUP.PY/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/altiusgrouppy/",
+   "linkedin": "https://www.linkedin.com/company/altius-group-paraguay/",
+   "email": "info@altius.com.py",
+   "telefono": "+595 976 127729",
+   "whatsapp": "+595 976 127729 (https://wa.me/595976127729); segundo número +595 972 150 100 (tel: y https://wa.me/595972150100)",
+   "fuentes": [
+    "https://www.altius.com.py/",
+    "https://www.altius.com.py/contacto/",
+    "https://www.altius.com.py/nosotros/",
+    "https://www.altius.com.py/avance-de-obras/",
+    "https://www.altius.com.py/proyectos/nostrum/",
+    "https://www.altius.com.py/more/more-plaza/",
+    "https://www.altius.com.py/central/",
+    "https://www.altius.com.py/more-mariscal-3",
+    "https://infonegocios.com.py/infobrand/altius-group-refuerza-su-presencia-en-asuncion-con-un-nuevo-showroom-y-nueve-proyectos-en-desarrollo",
+    "https://infonegocios.com.py/amp/infomicasa/altius-group-dio-inicio-a-la-construccion-de-more-mariscal-3-en-el-corazon-del-barrio-mariscal",
+    "https://infonegocios.com.py/infomicasa/altius-pisa-fuerte-en-asuncion-lanza-more-mariscal-3-y-apuesta-a-transformar-el-corazon-urbano",
+    "https://www.ultimahora.com/altius-impulsa-more-mariscal-3-y-consolida-el-crecimiento-de-central-mariscal",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2026/04/18/con-more-mariscal-3-altius-group-reafirma-expansion/",
+    "https://infonegocios.com.py/amp/infomicasa/more-plaza-el-proyecto-de-altius-group-que-impulsa-el-futuro-de-la-capital-paraguaya"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Desarrolla ~400+ unidades en obra o por arrancar (More Plaza, Nostrum Trinidad, More Mariscal 3) con sala de materialidades propia: oportunidad de proponer bachas/mesadas UHPC como upgrade en unidades modelo, lobbies, baños de amenities (vestuarios, sauna) y líneas premium de Los Pingos. Entrada por el gerente de proyectos / showroom.",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Gran desarrolladora activa (palada de More Mariscal 3 el 27-oct-2026), varios proyectos en obra, contactos verificados en la web propia; estética contemporánea de inversión más que de hormigón visto."
+   },
+   "pendiente_verificar": "Seguidores y últimos posts de Instagram (HTTP 429/login), seguidores de Facebook (login), LinkedIn (403), reseñas Google Maps (no cargó). Fecha de entrega y avance real de Nostrum Trinidad. Quién decide acabados de baño/cocina (proveedor de mesadas/bachas) en More Plaza y Nostrum.",
+   "actividad_reciente": {
+    "fecha": "2026-10",
+    "evidencia": "Palada inicial de More Mariscal 3 el 27-oct-2026 (80 deptos, venta abierta, entrega est. 3T 2028); web con newsletter de julio 2026.",
+    "url": "https://infonegocios.com.py/amp/infomicasa/altius-group-dio-inicio-a-la-construccion-de-more-mariscal-3-en-el-corazon-del-barrio-mariscal"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "More Mariscal 3",
+     "tipo": "residencial en altura (80 deptos: monoambientes desde 28,75 m2 y lock-off 57-77 m2)",
+     "etapa": "en obra / en venta (palada 27-oct-2026, entrega est. 3T 2028)",
+     "unidades": 80,
+     "link": "https://infonegocios.com.py/amp/infomicasa/altius-group-dio-inicio-a-la-construccion-de-more-mariscal-3-en-el-corazon-del-barrio-mariscal"
+    },
+    {
+     "nombre": "More Plaza",
+     "tipo": "uso mixto: residencial + oficinas + comercio, 12 pisos",
+     "etapa": "en obra / en venta (inicio mayo 2025 previsto, entrega est. 4T 2027)",
+     "unidades": 130,
+     "link": "https://infonegocios.com.py/amp/infomicasa/more-plaza-el-proyecto-de-altius-group-que-impulsa-el-futuro-de-la-capital-paraguaya"
+    },
+    {
+     "nombre": "Nostrum Trinidad",
+     "tipo": "residencial en altura (mono y 1-3 dorm)",
+     "etapa": "en obra, etapa muy avanzada (objetivo: terminar antes de fin de 2026 según nota de mar-2026)",
+     "unidades": 144,
+     "link": "https://www.altius.com.py/proyectos/nostrum/"
+    },
+    {
+     "nombre": "Central Mariscal - segunda torre More Mariscal",
+     "tipo": "residencial en altura",
+     "etapa": "entrega prevista a partir de oct-2026 (primeras dos torres ~90% vendidas)",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/infomicasa/altius-pisa-fuerte-en-asuncion-lanza-more-mariscal-3-y-apuesta-a-transformar-el-corazon-urbano"
+    },
+    {
+     "nombre": "Los Pingos Club de Campo (Surubí'í)",
+     "tipo": "barrio de campo: ~200 lotes, town houses, club",
+     "etapa": "en obra (amenities)",
+     "unidades": 200,
+     "link": "https://infonegocios.com.py/infobrand/altius-group-refuerza-su-presencia-en-asuncion-con-un-nuevo-showroom-y-nueve-proyectos-en-desarrollo"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas listan plantas y amenities; no muestran ni describen griferías, bachas ni mesadas."
+   },
+   "materiales_y_proveedores_visibles": "No se mencionan marcas de grifería, bachas o mesadas. Solo: showroom con 'sala de materialidades' (More Plaza); paisajismo Graciela Bo; comercializadora Keller Williams Paraguay.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 17,
+    "volumen": 22,
+    "gama": 15,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 9,
+    "total": 76
+   },
+   "puntaje_justificacion": {
+    "estetica": "17/30: arquitectura contemporánea de estudios reconocidos (BMA, Galanti, Gómez Platero) y paisajismo cuidado, pero sin evidencia de hormigón visto ni materiales nobles específicos; perfil inversor/corporativo.",
+    "volumen": "22/25: 6 a 9 proyectos en Asunción, ~354 deptos en obra o venta (80+130+144) más lotes de Los Pingos, ~US$ 80 M invertidos declarados.",
+    "gama": "15/20: se posiciona como 'mercado premium' pero con muchos monoambientes/lock-off orientados a inversión; sin precios publicados.",
+    "accesibilidad": "13/15: teléfono, 2 WhatsApp y email verificados en la web propia y CEO + gerente de proyectos identificados (prensa); email genérico info@, sin contacto nominal.",
+    "oportunidad_inmediata": "9/10: tres edificios en obra o recién arrancados (More Mariscal 3, More Plaza, Nostrum) y entregas 2026-2028 donde se definen terminaciones."
+   },
+   "notas_investigacion": "Leídos con curl (WebFetch no necesario): altius.com.py home, /nosotros/, /contacto/, /proyectos/, /avance-de-obras/, /prensa/, /central/, /more/more-plaza/, /proyectos/nostrum/, /more-mariscal-3 (enlaces tel:, mailto:, wa.me, redes extraídos del HTML). Dato de ronda 1 corregido: la ficha de entrada apuntaba a 'More Mariscal 3' como si fuera la empresa; la empresa es Altius Group Paraguay S.R.L. (razón social en /avance-de-obras/). Prensa leída: Infonegocios (13-mar-2026 showroom; abr-2026 lanzamiento; oct-2026 palada), Última Hora y La Nación (abr-2026), nota More Plaza (24-abr-2025). El primer artículo de Infonegocios sobre More Mariscal 3 dice 'construcción entre sept-oct 2026', coherente con la palada del 27-oct. FALLÓ: Instagram (200 con pantalla de login vía curl y 429 vía WebFetch; seguidores no leídos), Facebook (login), LinkedIn company (403), Google Maps (no cargó; búsqueda sin reseñas), ArchDaily/Archello (sin resultados de Altius/More Mariscal), InfoCasas (sin fichas indexadas). DNCP no aplica (desarrolladora). Direcciones: oficina/showroom en Nuestra Señora del Carmen y César López Moreira (contacto y prensa); /avance-de-obras/ dice esq. San Martín (discrepancia menor). Decisores salen de prensa, no de la web de la empresa. Dos números en la web: +595 972 150 100 (cabecera 'Llamanos') y +595 976 127 729 (pie, contacto y enlaces de WhatsApp de proyectos)."
+  },
+  {
+   "nombre": "Ecoldesa EAS",
+   "segmento": "desarrolladora",
+   "ciudad": "Surubí'í, Mariano Roque Alonso",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Empresa de desarrollo inmobiliario que se presenta con 'más de 30 años de experiencia en Latinoamérica' en diseño, desarrollo y construcción de viviendas de lujo en condominios rodeados de naturaleza. Su único proyecto visible en Paraguay es el Condominio Cádiz: 9 residencias premium en el Club de Campo Surubí'í, con 'avance de proyecto 50%' en su web. Liderada por el arquitecto colombiano Humberto Vallejo (según Infonegocios).",
+   "tipo_proyectos": [
+    "residencial premium (casas en condominio cerrado)"
+   ],
+   "estilo": "Casas contemporáneas de lujo con doble altura de acceso, escalera escultórica, puertas de 2,30 m con marcos sin dilatación, mamparas de baño piso a techo y tres suites por casa (Infonegocios, 27-ene-2026).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Condominio Cádiz (9 residencias, Club de Campo Surubí'í, frente a Maple Bear)",
+     "anio": 2026,
+     "link": "https://ecoldesa.com/proyecto/cadiz/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ni la web ni la nota de Infonegocios nombran materiales de terminación; solo puertas, mamparas, escalera escultórica."
+   },
+   "tamano_aprox": "Pequeño: un único proyecto de 9 casas en Paraguay, Facebook con 11 seguidores; empresa recién llegada al país (sitio y redes de 2024-2025).",
+   "decisores": [
+    {
+     "nombre": "Humberto Vallejo",
+     "cargo": "Arquitecto, lidera Ecoldesa EAS (40 años en construcción, origen colombiano)",
+     "fuente": "https://infonegocios.com.py/default/arquitectura-premium-y-vida-de-campo-asi-es-el-condominio-cadiz-que-combina-diseno-seguridad-y-naturaleza-en-surubi-i (prensa, 27-ene-2026)"
+    }
+   ],
+   "web": "https://ecoldesa.com/",
+   "instagram": "https://www.instagram.com/ecoldesa_eas/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/profile.php?id=61576935527201",
+   "linkedin": null,
+   "email": "comercial@ecoldesa.com (también publicados en la web: h.vallejo@ecoldesa.com y gerencia@ecoldesa.com en enlaces mailto)",
+   "telefono": "+595 991 209079",
+   "whatsapp": "+595 991 209079 (https://api.whatsapp.com/send?phone=595991209079)",
+   "fuentes": [
+    "https://ecoldesa.com/",
+    "https://ecoldesa.com/nosotros/",
+    "https://ecoldesa.com/contacto/",
+    "https://ecoldesa.com/proyecto/cadiz/",
+    "https://infonegocios.com.py/default/arquitectura-premium-y-vida-de-campo-asi-es-el-condominio-cadiz-que-combina-diseno-seguridad-y-naturaleza-en-surubi-i",
+    "https://infonegocios.com.py/amp/y-ademas/a-orillas-del-rio-en-surubi-i-proyectan-la-construccion-de-un-condominio-nautico-de-30-hectareas (Surubí'í en Mariano Roque Alonso)",
+    "https://www.facebook.com/profile.php?id=61576935527201"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Nueve casas premium con 3 suites + baños sociales y de servicio y cocina equipada en construcción (50%): ideal para un paquete de bachas y mesadas de baño/cocina UHPC en las 9 unidades y casa modelo. Contacto directo y corto con el arquitecto-gerente.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Proyecto premium chico pero en obra, con contacto directo verificado; bajo volumen y sin evidencia de afinidad con concreto."
+   },
+   "pendiente_verificar": "Seguidores y posts de Instagram (429/login), contenido y fechas de Facebook (solo se leyó el encabezado: 11 seguidores), LinkedIn de Humberto Vallejo (búsqueda sin resultado), Google Maps (sin ficha encontrada), precio y m2 por casa, constructora ejecutora, quién compra terminaciones, si Ecoldesa es filial del grupo 'Created by 3 Angels Group' (solo diseñador web).",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Páginas /nosotros/ y /contacto/ modificadas en jul-2026 (API WordPress); web con 'Avance Proyecto 50%'; nota de Infonegocios del 27-ene-2026.",
+    "url": "https://ecoldesa.com/proyecto/cadiz/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Condominio Cádiz",
+     "tipo": "9 residencias premium en condominio, 3 suites + dormitorio de servicio, quincho y piscina",
+     "etapa": "en obra (avance 50% según la web)",
+     "unidades": 9,
+     "link": "https://ecoldesa.com/proyecto/cadiz/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Infonegocios: cada casa tiene baño en suite en los tres dormitorios, baño social y de servicio, mamparas piso a techo y cocina grande equipada; no hay detalle de bachas/mesadas."
+   },
+   "materiales_y_proveedores_visibles": "Ninguna marca de grifería, bachas o mesadas mencionada en la web ni en la prensa leída.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 15,
+    "volumen": 4,
+    "gama": 15,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 8,
+    "total": 54
+   },
+   "puntaje_justificacion": {
+    "estetica": "15/30: casas de lujo contemporáneas con detalles cuidados (doble altura, mamparas, escalera escultórica) pero sin evidencia de concreto visto ni materiales nobles.",
+    "volumen": "4/25: un solo proyecto de 9 casas, empresa nueva en Paraguay con 11 seguidores en Facebook.",
+    "gama": "15/20: posicionamiento premium en Club de Campo Surubí'í; sin precios publicados.",
+    "accesibilidad": "12/15: teléfono, WhatsApp y emails verificados en su web; decisor (Humberto Vallejo) identificado solo por prensa y sin LinkedIn.",
+    "oportunidad_inmediata": "8/10: obra al 50% con 9 casas donde entran 3+ baños y cocina por unidad; falta saber si las terminaciones ya están contratadas."
+   },
+   "notas_investigacion": "Leídos con curl: ecoldesa.com (home), /nosotros/, /contacto/, /proyecto/cadiz/, más wp-json para fechas de modificación. Prensa: Infonegocios 27-ene-2026 (leída con WebFetch) y nota de 2020 sobre Pueblo del Río para ubicar Surubí'í en Mariano Roque Alonso. Dato de ronda 1 corregido: la ciudad 'Surubí'í (Gran Asunción, a confirmar)' queda confirmada como Mariano Roque Alonso (Gran Asunción). ATENCIÓN: la página /contacto/ de la web tiene erratas ('+55 991 209079' y 'h.vallejo@ecodelsa.com'); se registran solo los datos correctos del resto del sitio (tel +595 991 209079, h.vallejo@ecoldesa.com). Las direcciones de la web (comercial@, h.vallejo@, gerencia@) aparecen como mailto/texto en el sitio. Sin dirección física publicada. FALLÓ: Instagram (200 con login por curl, 429 por WebFetch), Facebook (solo encabezado: 'Ecoldesa. 11 followers. Construction Company'; WebFetch no devolvió posts), LinkedIn y Google Maps (no hay ficha encontrada), ArchDaily/Archello (búsqueda sin resultados), InfoCasas (búsqueda sin resultados para Cádiz). Solo hay UN artículo de prensa independiente, de tipo publirreportaje; no hay registros que confirmen la trayectoria 'más de 30 años' (búsqueda en Colombia sin resultados)."
+  },
+  {
+   "nombre": "Dianel Inmobiliaria y Constructora S.A. (Dianel S.A.)",
+   "segmento": "constructora",
+   "ciudad": "No consignada en DNCP; indicios apuntan a Caazapá (prefijo telefónico 0542 y contratos con la Gobernación de Caazapá)",
+   "region": "Resto del país (Caazapá; fuera del piloto Gran Asunción)",
+   "direccion": "Domicilio legal declarado ante DNCP: 'Avenida Aeropuerto a 200 metros de la Fiscalía, camino al aeropuerto' (sin ciudad; no verificado en fuente propia)",
+   "anio_fundacion": null,
+   "que_hacen": "Empresa constructora registrada en el Estado (RUC 80078069-8) que gana obras públicas menores para gobernaciones y ministerios: escuelas y obras diversas en Caazapá e Itapúa, remodelación de oficinas del MAG (PYG 2.418 millones, 2021) y plazas y canchas en Guairá (2024). No se encontró web, redes ni proyectos residenciales premium propios.",
+   "tipo_proyectos": [
+    "obra pública (escuelas, espacios públicos, remodelaciones)",
+    "público"
+   ],
+   "estilo": "Obra pública funcional; sin portafolio estético publicado.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Remodelación y adecuación de oficinas del MAG (CDA-ALAT'S), PYG 2.418.117.963",
+     "anio": 2021,
+     "link": "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-12010-21-210185.pdf"
+    },
+    {
+     "nombre": "Construcciones varias y mejoramiento de espacios públicos, Gobernación de Caazapá, PYG 1.621 millones",
+     "anio": 2023,
+     "link": "https://contrataciones.gov.py/reporte/codigo-contratacion/CE-22006-23-235129.pdf"
+    },
+    {
+     "nombre": "Construcción en instituciones escolares de Caazapá, PYG 984 millones",
+     "anio": 2022,
+     "link": "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-22006-22-221970.pdf"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portafolio fotográfico ni web."
+   },
+   "tamano_aprox": "Mediana-chica en obra pública: contratos de PYG 0,4 a 2,4 mil millones (aprox. US$ 55 mil a 330 mil) entre 2020 y 2023; siguió activa en 2024 (reconsideración DNCP del 27-09-2024).",
+   "decisores": [
+    {
+     "nombre": "Luz Virginia Larramendia de Bernardou",
+     "cargo": "Representante legal (consta en contratos DNCP)",
+     "fuente": "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-22006-22-221970.pdf"
+    },
+    {
+     "nombre": "César David Julián Balcazar",
+     "cargo": "Representante legal (consta en contrato DNCP 2023)",
+     "fuente": "https://contrataciones.gov.py/reporte/codigo-contratacion/CE-22006-23-235129.pdf"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-22006-22-221970.pdf",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/CE-22006-23-235129.pdf",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-22007-20-196694.pdf",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/LP-12010-21-210185.pdf",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/CO-22007-21-209322.pdf",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/CO-22006-20-196993.pdf",
+    "https://contrataciones.gov.py/licitaciones/convocatoria/402927-construccion-8-aulas-2-niveles-esc-basica-joaquin-gomez-distrito-yatytay-plurianual-1/protestas-denuncias.html",
+    "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Perfil de obra pública de bajo costo: COCO encaja solo si surge una obra institucional con baños/mesadas especificadas; no es prioridad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Constructora de obra pública fuera de Gran Asunción, sin web, redes ni obra residencial premium; contactos solo en DNCP (no verificados)."
+   },
+   "pendiente_verificar": "Ciudad real de la sede (¿Caazapá?), web o redes (no se encontraron), si realmente participó en algún edificio de Asunción (la nota de Infonegocios de 2016 sobre Manantiales de Asunción Plaza NO nombra a Dianel).",
+   "actividad_reciente": {
+    "fecha": "2024-09",
+    "evidencia": "Reconsideración presentada por Dianel resuelta el 27-09-2024 en licitación de 8 aulas en Yatytay (DNCP); contratos 2023 con Gobernación de Caazapá.",
+    "url": "https://contrataciones.gov.py/licitaciones/convocatoria/402927-construccion-8-aulas-2-niveles-esc-basica-joaquin-gomez-distrito-yatytay-plurianual-1/protestas-denuncias.html"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin portafolio."
+   },
+   "materiales_y_proveedores_visibles": "Ninguno visible.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 3,
+    "volumen": 8,
+    "gama": 2,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 1,
+    "total": 17
+   },
+   "puntaje_justificacion": {
+    "estetica": "3/30: obra pública funcional; sin portafolio estético.",
+    "volumen": "8/25: 6 contratos DNCP de PYG 0,4-2,4 mil millones entre 2020 y 2023, activa en 2024.",
+    "gama": "2/20: público institucional, no premium.",
+    "accesibilidad": "3/15: representantes legales nombrados y datos de contacto solo en DNCP (tercero), ninguno verificado en fuente propia.",
+    "oportunidad_inmediata": "1/10: sin obras residenciales en curso conocidas."
+   },
+   "notas_investigacion": "Dato de ronda 1 corregido: la candidata venía de la nota de Infonegocios sobre Manantiales de Asunción Plaza (feb-2016), pero esa nota NO menciona a Dianel: dice que el proyecto es del grupo 'Álvarez y Asociados', proyectado por Verónica Díaz y con enlace a deconstructora.com.py (DE Constructora, ya perfilada en r2a-02). La empresa existe y es activa pero es un perfil distinto: constructora de obra pública, datos extraídos de 6 PDF de DNCP (contratos 2020-2023) y de la ficha de protestas de 2024. Contacto publicado SOLO en DNCP (NO VERIFICADO, por eso no se cargan en los campos): tel/fax 0542/232-170 y correo dianel_s.a@hotmail.com. El prefijo 0542 y los contratos sugieren Caazapá pero la ciudad no está declarada. Búsquedas de web/Facebook/Instagram de 'Dianel' sin resultados. No se leyó Instagram/Facebook/LinkedIn/Google Maps por no encontrarse perfiles. Sin ArchDaily/portales. Una búsqueda mencionó una observación/sanción en 2025 en un documento de comité del MEC, no confirmada (no se abrió el documento)."
+  },
+  {
+   "nombre": "TEDEC SRL",
+   "segmento": "constructora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Constructora a cargo del Edificio La Castalia (24 deptos de 2 dormitorios, Av. Primer Presidente casi Julio Correa, barrio Mburucuyá; obra iniciada oct-2015, promotor Miaterra Negocios Inmobiliarios; nota de dic-2016). No se encontró ninguna otra obra, web ni presencia.",
+   "tipo_proyectos": [
+    "residencial edificio de departamentos"
+   ],
+   "estilo": "",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio La Castalia (24 deptos, Mburucuyá)",
+     "anio": 2016,
+     "link": "https://infonegocios.com.py/default/el-edificio-de-los-usd-3-6-millones-habilita-su-departamento-modelo"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "tamano_aprox": "",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/default/el-edificio-de-los-usd-3-6-millones-habilita-su-departamento-modelo",
+    "https://infonegocios.com.py/default/edificio-la-castalia",
+    "https://infonegocios.com.py/infomicasa/miaterra-presento-su-primer-edificio-corporativo"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Descartada por inactividad / sin presencia identificable."
+   },
+   "pendiente_verificar": "",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "",
+    "url": ""
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "materiales_y_proveedores_visibles": "",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 3,
+    "gama": 10,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 19
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: la nota habla de 'alto nivel de terminación y elegancia' pero sin evidencia propia.",
+    "volumen": "3/25: una obra de 24 deptos (US$ 3,6 M) en 2015-2017.",
+    "gama": "10/20: US$ 1.500/m2 en 2016, segmento medio-alto.",
+    "accesibilidad": "0/15: sin ningún contacto propio.",
+    "oportunidad_inmediata": "0/10: sin obras actuales."
+   },
+   "notas_investigacion": "Leída la nota de Infonegocios (WebFetch, dic-2016) y la ficha 'Edificio La Castalia' vía búsqueda (fuente secundaria: arquitecto Fabrizio Bibolini e ingeniero Francisco Scorza, sin confirmar). Búsquedas web de 'TEDEC SRL', 'Tedec constructora Paraguay' y con los nombres del equipo: cero resultados propios de la empresa; solo homónimos (Tecnoedil, Teco SRL, Caldetec) que NO son la misma. Miaterra (promotor) tuvo una nota en abr-2017 (Ellis Office, Capitán Brizuela 650); no se encontró actividad posterior, por eso no se perfila. No se hizo recorrido completo (descartada). Corrección de ronda 1: el segmento 'desarrolladora' era erróneo; TEDEC figura como constructora.",
+   "descartada": true,
+   "motivo_descarte": "Sin actividad visible en los últimos ~18 meses: la única mención es una nota de Infonegocios de dic-2016 sobre un edificio ya terminado; sin web, redes, contactos ni registros DNCP encontrados. En el artículo TEDEC es solo la constructora; el desarrollador del edificio es Miaterra Negocios Inmobiliarios (se agrega a candidatos_extra, sin evidencia de actividad actual)."
+  },
+  {
+   "nombre": "Creativa S.A. (edificio Santorini)",
+   "segmento": "desarrolladora",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "'Grupo inversionista' que en 2015 construía el edificio Santorini (15 deptos de 2 y 3 dormitorios, RI18 Pitiantuta casi Boggiani, Asunción), vendido por la inmobiliaria Cristina Osnaghi. No hay otra información de la empresa.",
+   "tipo_proyectos": [
+    "residencial edificio de departamentos"
+   ],
+   "estilo": "",
+   "proyectos_destacados": [
+    {
+     "nombre": "Edificio Santorini (15 deptos)",
+     "anio": 2015,
+     "link": "https://infonegocios.com.py/plus/asuncion-sigue-acogiendo-emprendimientos-inmobiliarios-santorini-se-suma-a-la-oferta"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "tamano_aprox": "",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/plus/asuncion-sigue-acogiendo-emprendimientos-inmobiliarios-santorini-se-suma-a-la-oferta"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Descartada: inactiva / sin presencia verificable."
+   },
+   "pendiente_verificar": "",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "",
+    "url": ""
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "materiales_y_proveedores_visibles": "",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 3,
+    "volumen": 2,
+    "gama": 8,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 13
+   },
+   "puntaje_justificacion": {
+    "estetica": "3/30: sin evidencia estética.",
+    "volumen": "2/25: un edificio chico de 15 unidades en 2015.",
+    "gama": "8/20: deptos de 2-3 dormitorios en barrio residencial, sin datos de precio.",
+    "accesibilidad": "0/15: ningún contacto propio.",
+    "oportunidad_inmediata": "0/10: obra terminada hace una década."
+   },
+   "notas_investigacion": "Leída la nota de Infonegocios (WebFetch, feb-2015) y 3 búsquedas web ('Creativa S.A. Santorini', con Cristina Osnaghi, con Los Laureles). Aparece otro 'Santorini' en Los Laureles inaugurado y comercializado por RE/MAX Ideas, sin vínculo comprobado con Creativa S.A.; y un brochure Santorini en Webflow sin relación comprobada. No se hizo recorrido completo (descartada). Sin DNCP porque es desarrolladora.",
+   "descartada": true,
+   "motivo_descarte": "No existe empresa identificable activa: única mención es una nota de Infonegocios del 23-feb-2015 (obra con culminación prevista dic-2015); sin web, redes, contactos ni DNCP. Los homónimos hallados (Creativa Group S.A.S. Argentina, Creativa Diseño y Construcción S.A.S. Colombia, Kausa Central Creativa SRL) no se relacionan."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Miaterra Negocios Inmobiliarios (desarrolladora de La Castalia y Ellis Office)",
+   "link": "https://infonegocios.com.py/infomicasa/miaterra-presento-su-primer-edificio-corporativo",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Los Pingos Club de Campo (Altius Group, Surubí'í)",
+   "link": "https://infonegocios.com.py/infobrand/descubri-un-estilo-de-vida-unico-en-los-pingos-club-de-campo-surubi-i",
+   "ciudad": "Surubí'í (Mariano Roque Alonso)",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Pueblo del Río (condominio náutico de 30 ha en Surubí'í; desarrolladora no identificada)",
+   "link": "https://infonegocios.com.py/amp/y-ademas/a-orillas-del-rio-en-surubi-i-proyectan-la-construccion-de-un-condominio-nautico-de-30-hectareas",
+   "ciudad": "Surubí'í (Mariano Roque Alonso)",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Penta S.A. (inversor/administrador de Shopping Mariscal, socio de Central Mariscal)",
+   "link": "https://infonegocios.com.py/infobrand/central-mariscal-la-nueva-inversion-de-penta-sa-que-apuesta-al-desarrollo-y-crecimiento-del-barrio-mariscal",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  },
+  {
+   "nombre": "Álvarez y Asociados (grupo promotor de Manantiales de Asunción Plaza, 2016)",
+   "link": "https://infonegocios.com.py/amp/infomicasa/edificio-manantiales-de-asuncion-plaza",
+   "ciudad": "Asunción",
+   "segmento": "desarrolladora"
+  }
+ ]
+}

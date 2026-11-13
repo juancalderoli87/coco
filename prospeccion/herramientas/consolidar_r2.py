@@ -67,7 +67,7 @@ json.dump(ids, open(IDS_PATH, "w"), ensure_ascii=False, indent=1)
 def proyectos(c):
     p = c.get("proyectos_en_curso") or []
     return cut("; ".join(f'{x.get("nombre")} ({x.get("etapa") or "?"}{", " + str(x["unidades"]) + " u." if x.get("unidades") else ""})'
-                         for x in p if x.get("nombre")), 250)
+                         for x in p if x.get("nombre")), 170)
 
 
 def contactos(c):
@@ -87,16 +87,16 @@ for pid in sorted(emp):
     segs = SEG.get(c.get("segmento"), c.get("segmento") or "")
     det = f'Est {pt.get("estetica", 0)} · Vol {pt.get("volumen", 0)} · Gama {pt.get("gama", 0)} · Acc {pt.get("accesibilidad", 0)} · Op {pt.get("oportunidad_inmediata", 0)}'
     rows.append([f"'{pid}", cut(c["nombre"], 80), segs, cut(c.get("ciudad"), 40),
-                 val(fit.get("nivel")), cut(fit.get("motivo"), 200), cut(c.get("que_hacen"), 260),
+                 val(fit.get("nivel")), cut(fit.get("motivo"), 140), cut(c.get("que_hacen"), 170),
                  cut(", ".join(c.get("tipo_proyectos") or []), 120), cut(c.get("estilo"), 80),
-                 val(uc.get("valor")), cut(dec, 150),
-                 cut(c.get("web"), 90), cut(c.get("instagram"), 60), cut(c.get("telefono"), 90),
+                 val(uc.get("valor")), cut(dec, 110),
+                 cut(c.get("web"), 90), cut(c.get("instagram"), 60), cut(c.get("telefono"), 60),
                  cut(c.get("email"), 60), cut(c.get("whatsapp"), 60),
-                 cut(c.get("angulo_venta_coco"), 220), val(c.get("confianza")),
-                 cut(c.get("pendiente_verificar"), 220), cut(fuentes[0] if fuentes else "", 150),
+                 cut(c.get("angulo_venta_coco"), 170), val(c.get("confianza")),
+                 cut(c.get("pendiente_verificar"), 130), cut(fuentes[0] if fuentes else "", 150),
                  val(c.get("fecha_verificacion")),
                  pt.get("total", ""), proyectos(c),
-                 cut(f'{ar.get("fecha") or "?"}: {ar.get("evidencia") or ""}', 160) if ar else "",
+                 cut(f'{ar.get("fecha") or "?"}: {ar.get("evidencia") or ""}', 110) if ar else "",
                  contactos(c), c["_region"], det])
 
 # Extra: candidatas sin perfilar (sin duplicar las ya perfiladas) + descartadas con motivo

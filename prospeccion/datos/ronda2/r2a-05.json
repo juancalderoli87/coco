@@ -1,0 +1,664 @@
+{
+ "lote": "r2a-05",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "BAUEN (Aldo Cristaldo Kegler)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": "Avda. Primer Presidente 2973 casi Julio Correa, Asunción (https://bauen.com.py/contactos/)",
+   "anio_fundacion": 2005,
+   "que_hacen": "Estudio de arquitectura de Asunción dirigido por Aldo Cristaldo Kegler (propietario). Combina casas contemporáneas de autor en hormigón, acero y ladrillo (San Bernardino, Altos, Villa Hayes, Guairá) con edificios en altura, oficinas corporativas y sucursales bancarias; también construye (figura en DNCP).",
+   "tipo_proyectos": [
+    "residencial",
+    "casas de fin de semana",
+    "edificios en altura",
+    "comercial",
+    "corporativo",
+    "sucursales bancarias"
+   ],
+   "estilo": "Contemporáneo experimental ('Ensayos'): hormigón en crudo, estructura expuesta, acero, grandes aperturas al paisaje; ladrillo en obras recientes",
+   "proyectos_destacados": [
+    {
+     "nombre": "Ensayo Ameba - sucursal bancaria, Asunción (408 m2)",
+     "anio": 2025,
+     "link": "https://www.archdaily.com/1040446/ameba-branch-bauen"
+    },
+    {
+     "nombre": "Ensayo Focus, Villa Hayes (657 m2, hormigón)",
+     "anio": 2023,
+     "link": "https://www.archdaily.com/1062722/focus-essay-bauen"
+    },
+    {
+     "nombre": "Ensayo Squalo, Altos (388 m2)",
+     "anio": 2022,
+     "link": "https://bauen.com.py/proyectos/ensayo-squalo/"
+    },
+    {
+     "nombre": "Ensayo Ladera, San Bernardino (hormigón en crudo)",
+     "anio": 2018,
+     "link": "https://bauen.com.py/proyectos/ensayo-ladera/"
+    },
+    {
+     "nombre": "Horizon House, San Bernardino (casi toda de hormigón)",
+     "anio": 2019,
+     "link": "https://www.archilovers.com/projects/290760/horizon-house.html"
+    },
+    {
+     "nombre": "Levitate House (Ensayo Levita)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/944655/levitate-house-bauen"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Archilovers (leído): Horizon House 'made almost entirely of concrete' con dos placas de hormigón; web propia Ensayo Ladera: 'El hormigón en crudo provee la textura y la estética del volumen'; ArchDaily Focus Essay (leído) con etiqueta Material: Concrete."
+   },
+   "tamano_aprox": "Estudio boutique/mediano: 15 proyectos listados en su web y 12 publicados en ArchDaily; entre 2 y 3 obras publicadas por año; sin cifra de personal publicada",
+   "decisores": [
+    {
+     "nombre": "Aldo Cristaldo (Kegler)",
+     "cargo": "Arquitecto, propietario/director (Aldo Fabián Cristaldo Kegler figura como representante legal en DNCP)",
+     "fuente": "https://bauen.com.py/contactos/"
+    }
+   ],
+   "web": "https://bauen.com.py/",
+   "instagram": "https://www.instagram.com/bauen.py/",
+   "seguidores_ig": 17000,
+   "facebook": "https://www.facebook.com/bauenpy",
+   "linkedin": null,
+   "email": "info@bauen.com.py",
+   "telefono": "+595 21 326 0790",
+   "whatsapp": null,
+   "fuentes": [
+    "https://bauen.com.py/contactos/",
+    "https://bauen.com.py/proyectos/",
+    "https://bauen.com.py/nosotros/",
+    "https://www.instagram.com/bauen.py/",
+    "https://www.archdaily.com/office/bauen",
+    "https://www.archdaily.com/1040446/ameba-branch-bauen",
+    "https://www.archdaily.com/1062722/focus-essay-bauen",
+    "https://www.archdaily.com/1015143/squalo-house-bauen",
+    "https://infonegocios.com.py/default/bauen-pasion-por-hacer-visible-lo-invisible-en-13-anos",
+    "https://www.archilovers.com/projects/290760/horizon-house.html",
+    "https://contrataciones.gov.py/reporte/codigo-contratacion/CD-12013-18-161779.pdf"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "El hormigón visto es el lenguaje central del estudio: bachas y mesadas UHPC finas a medida para sus casas de autor y para baños/cocinas de edificios y sucursales. Entrar por Aldo Cristaldo con muestras de pieza para una obra concreta (Salaskin o próxima casa).",
+   "fit_preliminar": {
+    "nivel": "A",
+    "motivo": "Puntaje 79: afinidad material máxima (hormigón en crudo), casas grandes premium, actividad 2026 y contactos directos verificados en su web."
+   },
+   "pendiente_verificar": "Instagram: bio, link de bio, fecha del último post y temas de posts no legibles (la página pública solo expuso 17K seguidores / 30 publicaciones en la metadata). Facebook y Google Maps no legibles. WhatsApp no publicado. Estado de obra del Edificio Salaskin (solo anteproyecto en su web).",
+   "actividad_reciente": {
+    "fecha": "2026-04",
+    "evidencia": "ArchDaily publicó 'Ensayo Ameba Branch / BAUEN' el 28-abr-2026 (proyecto 2025, sucursal bancaria 408 m2)",
+    "url": "https://www.archdaily.com/1040446/ameba-branch-bauen"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Edificio Salaskin (anteproyecto, dos bloques)",
+     "tipo": "edificio de departamentos/uso mixto",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://bauen.com.py/proyectos/edificio-salaskin/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las descripciones se centran en estructura y paisaje; solo se ve equipamiento en fichas de ArchDaily (Squalo House: Duravit, Florense, Docol, Portinari)."
+   },
+   "materiales_y_proveedores_visibles": "Squalo House (ArchDaily): Duravit, Florense, Docol, Portinari, Eurocable, Vidriocar. Materiales: hormigón en crudo, acero, ladrillo (Ameba), piedra (Umbra).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 28,
+    "volumen": 14,
+    "gama": 17,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 6,
+    "total": 79
+   },
+   "puntaje_justificacion": {
+    "estetica": "28/30: hormigón en crudo comprobado en 3 fuentes leídas (Archilovers, web propia Ladera, ArchDaily Focus); estética minimalista de autor; baja medio punto por obras recientes en ladrillo/acero.",
+    "volumen": "14/25: estudio boutique pero con 15 proyectos en web, incluidos edificios en altura y sucursales; 2-3 obras publicadas por año; equipo sin cifra publicada.",
+    "gama": "17/20: casas de 388-1180 m2 en San Bernardino, Altos y Villa Hayes con fotografía y publicación internacional; público alto.",
+    "accesibilidad": "14/15: teléfono, email general, dirección y email personal del director publicados en su web (contactos); IG y FB propios; falta WhatsApp.",
+    "oportunidad_inmediata": "6/10: actividad 2026 y Edificio Salaskin en anteproyecto; no hay obra en curso confirmada con baños/cocinas."
+   },
+   "notas_investigacion": "Leído con curl (WebFetch bloquea ArchDaily/Dwell): bauen.com.py home, /contactos/, /nosotros/, /proyectos/ y fichas Squalo/Ladera/Salaskin/Umbra; ArchDaily office BAUEN (12 proyectos), Ameba Branch, Focus Essay, Squalo; Archilovers Horizon House; Infonegocios (2019, 13 años de Bauen: de ahí fundación c. 2005); DNCP vía resultado de búsqueda (domicilio, tel. 3260790 y dominio bauen.com.py coinciden, no abierto). Corrección ronda 1: web sí existe (bauen.com.py); Instagram es @bauen.py (ojo: @bauen.arq y @bauenarquitectos son otras empresas). Fallaron: Dwell (403), Facebook (sin contenido), Google Maps (sin datos en buscador), LinkedIn no buscado con éxito, Instagram bio/posts. Prensa: Infonegocios, La Nación (perfil 2018) en resultados; ABC y Última Hora sin notas halladas. El email personal aldocristaldokegler@bauen.com.py figura en la web pero es de un directivo: se registra solo el general info@. Teléfono: la web también tiene un tel: +59521603657 en un enlace vacío (no visible), se descartó."
+  },
+  {
+   "nombre": "Equipo de Arquitectura",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": "Zanotti Cavazzoni 160 casi Mcal. López, Asunción (https://equipodearquitectura.com/contacto/)",
+   "anio_fundacion": 2017,
+   "que_hacen": "Estudio de Asunción fundado en 2017 por Horacio Cherniavsky y Viviana Pozzoli, con Roque Fanego en el equipo (según su web). Viviendas, oficinas, concursos de edificios institucionales, workshops y gestión de obra; reconocido internacionalmente por tierra compactada, bóvedas de ladrillo y la Sinagoga UHP en hormigón.",
+   "tipo_proyectos": [
+    "residencial",
+    "institucional",
+    "oficinas",
+    "educacional",
+    "religioso",
+    "concursos"
+   ],
+   "estilo": "'Primitivo y esencial': trabajo con materia (tierra, ladrillo, hormigón, madera de encofrado), luz como material, planta legible",
+   "proyectos_destacados": [
+    {
+     "nombre": "Un Bosque en la Casa, San Bernardino (260 m2)",
+     "anio": 2025,
+     "link": "https://www.archdaily.com/1038450/a-forest-in-the-house-equipo-de-arquitectura"
+    },
+    {
+     "nombre": "Casa NoFe, Luque (430 m2)",
+     "anio": 2022,
+     "link": "https://www.archdaily.com/1018772/nofe-house-equipo-de-arquitectura"
+    },
+    {
+     "nombre": "Casa ME, Asunción (390 m2, ladrillo)",
+     "anio": 2022,
+     "link": "https://equipodearquitectura.com/proyectos/casa-me/"
+    },
+    {
+     "nombre": "La Casa Intermedia, Asunción (115 m2)",
+     "anio": 2021,
+     "link": "https://equipodearquitectura.com/proyectos/la-casa-intermedia/"
+    },
+    {
+     "nombre": "Sinagoga UHP, Asunción (375 m2, hormigón encofrado)",
+     "anio": 2019,
+     "link": "https://equipodearquitectura.com/proyectos/sinagoga-uhp/"
+    },
+    {
+     "nombre": "Casa Patios (450 m2)",
+     "anio": 2017,
+     "link": "https://equipodearquitectura.com/proyectos/casa-patios/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "Web propia: Sinagoga UHP ganó concurso internacional y su sitio destaca la nota de Dezeen 'updates synagogue in Paraguay with board-marked concrete'; resultado de búsqueda de Dezeen (14-may-2020) describe hormigón encofrado visto con madera. En el resto de la obra predominan tierra compactada y ladrillo."
+   },
+   "tamano_aprox": "Equipo de 7 personas listado en su web (Cherniavsky, Pozzoli, Fanego, Godoy, Riera, Callizo, Egüez); ~20 proyectos en portfolio, 2-3 viviendas publicadas por año",
+   "decisores": [
+    {
+     "nombre": "Horacio Cherniavsky",
+     "cargo": "Socio fundador/director",
+     "fuente": "https://equipodearquitectura.com/equipo/"
+    },
+    {
+     "nombre": "Viviana Pozzoli",
+     "cargo": "Socia fundadora/directora",
+     "fuente": "https://equipodearquitectura.com/equipo/"
+    },
+    {
+     "nombre": "Roque Fanego",
+     "cargo": "Integrante del equipo (cargo exacto no publicado en su web; Metalocus lo menciona como director)",
+     "fuente": "https://equipodearquitectura.com/equipo/"
+    }
+   ],
+   "web": "https://equipodearquitectura.com/",
+   "instagram": "https://www.instagram.com/equipodearquitectura",
+   "seguidores_ig": 32000,
+   "facebook": "https://www.facebook.com/arquitecturaorevolucion",
+   "linkedin": null,
+   "email": "info@equipodearquitectura.com",
+   "telefono": "+595 981 916439",
+   "whatsapp": null,
+   "fuentes": [
+    "https://equipodearquitectura.com/",
+    "https://equipodearquitectura.com/contacto/",
+    "https://equipodearquitectura.com/equipo/",
+    "https://equipodearquitectura.com/proyectos/",
+    "https://equipodearquitectura.com/premios/",
+    "https://equipodearquitectura.com/publicaciones/",
+    "https://www.instagram.com/equipodearquitectura/",
+    "https://www.archdaily.com/office/equipo-de-arquitectura",
+    "https://www.archdaily.com/1038450/a-forest-in-the-house-equipo-de-arquitectura",
+    "https://www.dezeen.com/2020/05/14/synagogue-hebraic-union-of-paraguay-equipo-de-arquitectura/amp/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Prescriptor de gran visibilidad internacional (Dezeen, ArchDaily, NYT, Guardian). Ofrecer piezas UHPC como contraste fino con tierra y ladrillo, y para el hormigón encofrado de obras institucionales; entrada por prestigio y por casas de 390-450 m2.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 69 (borde de A): prestigio y contactos verificados altos, pero el hormigón visto es minoritario frente a tierra/ladrillo y el volumen es de estudio pequeño."
+   },
+   "pendiente_verificar": "Instagram: bio, link de bio, fecha del último post y temas de posts (solo metadata: 32K seguidores, 43 publicaciones). Facebook (título sin contenido), LinkedIn y Google Maps no legibles. WhatsApp no publicado. Proyectos en obra actuales no declarados.",
+   "actividad_reciente": {
+    "fecha": "2026-02",
+    "evidencia": "ArchDaily publicó 'A Forest in the House / Equipo de Arquitectura' el 9-feb-2026 (casa de 260 m2 en San Bernardino, terminada 2025); web propia con copyright 2026",
+    "url": "https://www.archdaily.com/1038450/a-forest-in-the-house-equipo-de-arquitectura"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sus descripciones hablan de materia, luz y estructura; no destacan baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "La Casa Intermedia (web propia): mesa y sillas Saccaro, herrería Gabriel González, carpintería Marcial Careaga. Materiales: tierra compactada, ladrillo semiprensado, hormigón encofrado, madera de encofrado reciclada. No se ven marcas de grifería.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 22,
+    "volumen": 12,
+    "gama": 17,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 5,
+    "total": 69
+   },
+   "puntaje_justificacion": {
+    "estetica": "22/30: filosofía de materia honesta y minimalismo muy afines, hormigón visto en Sinagoga UHP, pero el lenguaje dominante es tierra y ladrillo, no hormigón.",
+    "volumen": "12/25: equipo de 7, ~20 proyectos en portfolio y 2-3 casas publicadas por año; muchos son concursos no construidos.",
+    "gama": "17/20: viviendas de 390-450 m2 y clientes institucionales, premios y portadas internacionales; sin precios publicados.",
+    "accesibilidad": "13/15: teléfono, email, dirección y horario publicados en su web, tres socios nombrados; falta WhatsApp y el email/teléfono tienen enlaces mal armados en la web.",
+    "oportunidad_inmediata": "5/10: casa terminada en 2025 y publicación 2026; no hay obra en curso declarada ni proyectos en venta."
+   },
+   "notas_investigacion": "Leído con curl: equipodearquitectura.com home, /contacto/, /equipo/, /servicios/, /premios/, /publicaciones/, /proyectos/ y fichas Sinagoga, Casa ME, Casa Patios, Casa Intermedia, Caja de Tierra, Centro de Convenciones; ArchDaily office, NoFe (jul-2024), ME (feb-2024) y Forest (feb-2026). Corrección ronda 1: sí tienen web propia; teléfono, email y dirección están en /contacto/ (el enlace tel: está mal armado y el mailto apunta a contact@example.com, por eso se tomó el texto visible). El +595 981 916439 es celular publicado por el estudio en su web; no está rotulado como WhatsApp, por eso whatsapp=null. Instagram: solo metadata (32K seguidores). Fallaron: Facebook (sin contenido), LinkedIn, Google Maps (sin datos en buscador), Dezeen/Metalocus no abiertos (solo resultados de búsqueda). Prensa: búsquedas sin notas de ABC, La Nación, Última Hora ni 5días; sí cobertura internacional (Dezeen, Domus, Metropolis, NYT/Guardian listados en su web). Roque Fanego aparece en el listado de equipo de su web sin cargo."
+  },
+  {
+   "nombre": "Meraki Arquitectura + Diseño",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio paraguayo de Asunción a cargo de la arquitecta Violeta Pérez; diseño residencial contemporáneo con integración interior-naturaleza, luz y sombra, y combinación de piedra, hormigón y ladrillo. Viviendas de 300-750 m2 en Asunción, Mariano Roque Alonso, Surubi'i y San Bernardino.",
+   "tipo_proyectos": [
+    "residencial",
+    "casas de fin de semana",
+    "casa piloto",
+    "oficinas"
+   ],
+   "estilo": "Contemporáneo, volúmenes y sombras, modulación, hormigón/piedra/ladrillo",
+   "proyectos_destacados": [
+    {
+     "nombre": "Twin Houses, San Bernardino (750 m2, hormigón)",
+     "anio": 2024,
+     "link": "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"
+    },
+    {
+     "nombre": "Casa Atalaya, Surubi'i, Mariano Roque Alonso",
+     "anio": 2025,
+     "link": "https://arquitectos.com.py/2025/10/casa-atalaya/"
+    },
+    {
+     "nombre": "House for Chiquita, San Bernardino",
+     "anio": null,
+     "link": "https://www.archdaily.com/1001108/house-for-chiquita-meraki-arquitectura-plus-diseno"
+    },
+    {
+     "nombre": "Three3 House, Asunción (703 m2)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/968155/three3-house-meraki-arquitectura-plus-diseno"
+    },
+    {
+     "nombre": "Stone House, Mariano Roque Alonso (305 m2)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/945345/stone-house-meraki-arquitectura-plus-diseno"
+    },
+    {
+     "nombre": "Casa Piloto, Asunción",
+     "anio": 2018,
+     "link": "https://archdaily.com/907582/casa-piloto-meraki-arquitectura-plus-diseno"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily Twin Houses (leído, publicado 25-mar-2026): Material: Concrete; Guía de la Construcción (leída): 'combinación armónica de materiales como la piedra, el hormigón y el ladrillo'. Three3 House en ladrillo perforado."
+   },
+   "tamano_aprox": "Estudio pequeño-mediano: equipo de Three3 House y Casa Atalaya con 5-8 colaboradores; 6 proyectos en ArchDaily; Instagram con 617 publicaciones",
+   "decisores": [
+    {
+     "nombre": "Violeta Pérez",
+     "cargo": "Arquitecta a cargo / Lead architect",
+     "fuente": "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/merakipy/",
+   "seguidores_ig": 9206,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/office/meraki-arquitectura-plus-diseno",
+    "https://www.instagram.com/merakipy/",
+    "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno",
+    "https://www.archdaily.com/968155/three3-house-meraki-arquitectura-plus-diseno",
+    "https://www.archdaily.com/945345/stone-house-meraki-arquitectura-plus-diseno",
+    "https://arquitectos.com.py/2025/10/casa-atalaya/",
+    "https://guia-construccion.com/agente/meraki-arquitectura-diseno/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Casas grandes (700+ m2) con interiorismo integral y mezcla de hormigón, piedra y ladrillo: proponer bachas, mesadas y mobiliario UHPC como paquete para baños y cocinas, especificable por Violeta Pérez en las próximas casas de fin de semana de San Bernardino.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 60: encaje de gama y materiales alto y actividad 2025-26, pero el único contacto verificado es Instagram y no hay web, teléfono ni email."
+   },
+   "pendiente_verificar": "No tiene web propia hallada (arquitectos.com.py cita el Instagram como 'Sitio Web'). Bio, link de bio, fecha del último post y temas de posts de Instagram no legibles. Facebook (Guía de la Construcción lista 'Violeta-Pérez-DiseñoArquitectura-1484426215189122', no verificable), LinkedIn y Google Maps no legibles. Teléfono, email y dirección no publicados en fuentes halladas. Obras en curso desconocidas.",
+   "actividad_reciente": {
+    "fecha": "2026-03",
+    "evidencia": "ArchDaily publicó 'Twin Houses / Meraki Arquitectura + Diseño' el 25-mar-2026 (obra 2024); Casa Atalaya publicada en arquitectos.com.py el 21-oct-2025",
+    "url": "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Las fichas listan proveedores de baños/cocinas pero no los muestran como protagonistas en el texto."
+   },
+   "materiales_y_proveedores_visibles": "Twin Houses: Achon Muebles, Docol, FV, Sanycer. Three3 House: Porcelanosa, Deca, Dell Anno, Docol, FV, Faguma. Stone House: Deca, Dell Anno, Docol, FV, Pamesa, Tau Cerámica. Habitual: Docol y FV (griferías).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 20,
+    "volumen": 13,
+    "gama": 18,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 5,
+    "total": 60
+   },
+   "puntaje_justificacion": {
+    "estetica": "20/30: hormigón, piedra y ladrillo con volúmenes limpios (Twin Houses en hormigón), pero sin hormigón visto como signo central.",
+    "volumen": "13/25: estudio pequeño-mediano con casas de 700+ m2 y ritmo de 1-2 obras publicadas por año; 617 publicaciones de IG.",
+    "gama": "18/20: casas de 703 y 750 m2 en Asunción y San Bernardino con interiorismo integral; público alto.",
+    "accesibilidad": "4/15: solo Instagram verificado; sin teléfono, email ni web; decisora identificada por créditos de ArchDaily.",
+    "oportunidad_inmediata": "5/10: actividad 2025-26 pero sin obra en curso conocida."
+   },
+   "notas_investigacion": "Leído con curl: ArchDaily office (6 proyectos; único canal enlazado: Instagram @merakipy), Twin Houses (mar-2026), Three3, Stone House; Guía de la Construcción (descripción del estudio, sin teléfono; correo ofuscado no recuperado); arquitectos.com.py Casa Atalaya; Novarq Casa Piloto (solo enlace a IG). Instagram: metadata pública (9,206 seguidores, 617 publicaciones). Corrección ronda 1: 'Twin Houses' sí es reciente (obra 2024, publicada 2026). Los números de WhatsApp que aparecen en arquitectos.com.py y Guía de la Construcción son de esos portales, no del estudio; se descartaron. Resultados con 'Meraki' (Grupo Meraki Paraguay, merakipy.store) son otras empresas. Fallaron: Facebook, LinkedIn, Google Maps. Prensa: La Nación 2023 (columna con Violeta Pérez, no leída entera) y sin notas de ABC/Última Hora/5días."
+  },
+  {
+   "nombre": "OMCM arquitectos",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": "Waldino Ramón Lovera 5775, Asunción (NO VERIFICADO: figura solo en perfil de Jidipi)",
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de Asunción liderado por Matías Ortiz y María Paz Chamorro (graduados de FADA-UNA). Diseñan y construyen viviendas y reformas, con foco en construcción sostenible; 7-8 proyectos en ArchDaily desde 2019.",
+   "tipo_proyectos": [
+    "residencial",
+    "reformas",
+    "casas de verano"
+   ],
+   "estilo": "Contemporáneo y sostenible; hormigón, piedra y ladrillo; soluciones constructivas particulares (pantallas cerámicas, reciclaje de escombros)",
+   "proyectos_destacados": [
+    {
+     "nombre": "Rodor House, Asunción (2000 m2 en 3 ha junto al Jardín Botánico, hormigón)",
+     "anio": 2023,
+     "link": "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos"
+    },
+    {
+     "nombre": "Reforma TA, Asunción",
+     "anio": 2022,
+     "link": "https://www.archdaily.com/es/985373/reforma-ta-omcm-arquitectos"
+    },
+    {
+     "nombre": "Yvyraju House, Altos (696 m2, piedra y hormigón)",
+     "anio": 2022,
+     "link": "https://www.archdaily.com/995284/yvyraju-house-omcm-arquitectos"
+    },
+    {
+     "nombre": "Alas Paraguayas House, reforma 512 m2",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/972904/alas-paraguayas-house-omcm-arquitectos"
+    },
+    {
+     "nombre": "Hornero Roga House",
+     "anio": 2019,
+     "link": "https://www.archdaily.com/930203/hornero-roga-house-omcm-arquitectos"
+    },
+    {
+     "nombre": "Fuelle Roga House (205 m2)",
+     "anio": 2019,
+     "link": "https://architectures.jidipi.com/j00066484/en/fuelle-roga-house"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily (leído): Rodor House etiqueta Material: Concrete; Alas Paraguayas House Concrete + Brick; Yvyraju House Stone + Concrete."
+   },
+   "tamano_aprox": "Estudio pequeño (dos socios, equipos de 3 colaboradores en Fuelle Roga); diseña y construye obras de hasta 2000 m2",
+   "decisores": [
+    {
+     "nombre": "Matías Ortiz",
+     "cargo": "Arquitecto líder / socio",
+     "fuente": "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos"
+    },
+    {
+     "nombre": "María Paz Chamorro",
+     "cargo": "Arquitecta líder / socia",
+     "fuente": "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos"
+    }
+   ],
+   "web": "https://omcmarquitectos.com/",
+   "instagram": "https://www.instagram.com/omcm_arquitectos",
+   "seguidores_ig": 6778,
+   "facebook": "https://www.facebook.com/profile.php?id=100045842197697",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/es/office/omcm-arquitectos",
+    "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos",
+    "https://www.archdaily.com/995284/yvyraju-house-omcm-arquitectos",
+    "https://www.archdaily.com/972904/alas-paraguayas-house-omcm-arquitectos",
+    "https://interiors.jidipi.com/j00068578/en/ta-rehabilitation",
+    "https://www.instagram.com/omcm_arquitectos",
+    "https://www.facebook.com/profile.php?id=100045842197697"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Viviendas grandes en hormigón y piedra (Rodor 2000 m2, Yvyraju 696 m2) y reformas donde el peso y el espesor importan: ofrecer bachas y mesadas UHPC livianas a medida. Como diseñan y construyen, pueden decidir proveedor directamente.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Puntaje 55: hormigón y gama alta confirmados, pero web caída, sin contactos verificados en fuente propia y última obra publicada en 2024."
+   },
+   "pendiente_verificar": "omcmarquitectos.com devuelve HTTP 500 (error de servidor, probado con http/https/www): podría estar caída temporalmente o abandonada; reintentar y buscar su contacto. Teléfono +595 992 265542, email omcmarquitectos@gmail.com y dirección figuran en el perfil de empresa de Jidipi (portal de terceros, enviados por el estudio): NO VERIFICADOS en fuente propia. Fecha del último post de Instagram, bio y temas no legibles. Google Maps no legible. WhatsApp no publicado.",
+   "actividad_reciente": {
+    "fecha": "2024-02",
+    "evidencia": "ArchDaily publicó 'Rodor House / OMCM arquitectos' el 17-feb-2024 (obra 2023, 2000 m2); página de Facebook y de Instagram existen (231 publicaciones) pero no se pudo leer la fecha del último post",
+    "url": "https://www.archdaily.com/1013315/rodor-house-omcm-arquitectos"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin descripciones de baños o cocinas; solo listados de proveedores en fichas."
+   },
+   "materiales_y_proveedores_visibles": "Rodor House: Hansgrohe, Duravit, Portobello, Blindex, Knauf, Carrier, Savant, Toshiba. Yvyraju: Deca, Eliane, FV, Fumagalli, Klaukol. Alas Paraguayas: Roca. Fuelle Roga: Deca, Eliane, FV, Sika.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 19,
+    "volumen": 11,
+    "gama": 17,
+    "accesibilidad": 5,
+    "oportunidad_inmediata": 3,
+    "total": 55
+   },
+   "puntaje_justificacion": {
+    "estetica": "19/30: hormigón en 3 fichas ArchDaily leídas, combinado con piedra y ladrillo y enfoque sostenible; no hay evidencia de minimalismo UHPC central.",
+    "volumen": "11/25: dos socios, 7-8 proyectos en ArchDaily; pero obras grandes (2000 m2) y diseñan y construyen.",
+    "gama": "17/20: Rodor House 2000 m2 con Hansgrohe/Duravit y Yvyraju 696 m2; público alto, con reformas de menor escala.",
+    "accesibilidad": "5/15: Instagram y Facebook propios existen; web caída y teléfono/email solo en Jidipi (no verificado); decisores identificados.",
+    "oportunidad_inmediata": "3/10: sin obra en curso conocida y última publicación en feb-2024."
+   },
+   "notas_investigacion": "Leído con curl: ArchDaily office OMCM (7-8 proyectos, enlaza omcmarquitectos.com), Rodor (feb-2024), Alas Paraguayas (dic-2021), Yvyraju (ene-2023), Fuelle Roga (Jidipi) y perfil de empresa Jidipi (teléfono, email descifrado, dirección, enlaces a IG y FB). Instagram: @omcm_arquitectos (6,778 seguidores, 231 publicaciones; handle tomado del perfil Jidipi; otros handles probados como omcm.arq no existen). Facebook: perfil 'OMCM Arquitectos', 188 seguidores, 'Diseño y construcción sostenible'. Corrección ronda 1: la web propia sí existe (omcmarquitectos.com) pero devuelve error 500 en todas las variantes, y el Instagram sí existe. Teléfono y dirección de ronda 1 provienen de Jidipi y quedan como no_verificado. Fallaron: web propia (500), Google Maps, LinkedIn. Prensa: Dezeen 2022 (Reforma Alas) en resultados; sin notas en medios paraguayos."
+  },
+  {
+   "nombre": "Grupo Culata Jovái",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Colectivo de arquitectos de Asunción con obra residencial, reformas y estudios de grabación; colabora con Tekoha, ArquitecTava y uno3arq. ArchDaily lista 10 proyectos (2013-2022). No se encontró actividad posterior a 2022.",
+   "tipo_proyectos": [
+    "residencial",
+    "reformas",
+    "vivienda con taller",
+    "estudio de grabación",
+    "hostel"
+   ],
+   "estilo": "Contemporáneo, hormigón armado, ladrillo y madera; reciclaje de materiales",
+   "proyectos_destacados": [
+    {
+     "nombre": "Vivienda GT, Asunción (hormigón y ladrillo)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/976094/vivienda-gt-grupo-culata-jovai"
+    },
+    {
+     "nombre": "El Caparazón House & Workshop, Areguá (250 m2)",
+     "anio": 2020,
+     "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos"
+    },
+    {
+     "nombre": "Casa Serbia, reforma, Asunción",
+     "anio": 2019,
+     "link": "https://www.archdaily.com/971636/casa-serbia-grupo-culata-jovai"
+    },
+    {
+     "nombre": "Ciudad Nueva Recording Studio (300 m2)",
+     "anio": 2017,
+     "link": "https://www.archdaily.com/918541/ciudad-nueva-recording-studio-grupo-culata-jovai"
+    },
+    {
+     "nombre": "Vivienda Los Mangos, Lambaré",
+     "anio": 2015,
+     "link": "https://divisare.com/projects/395255-grupo-culata-jovai-federico-cairoli-vivienda-los-mangos-i"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "si",
+    "evidencia": "ArchDaily Vivienda GT (leído, 2-feb-2022): etiquetas Materials: Concrete, Brick; Revista Plot describe vigas y columnas de hormigón con muros de mampostería (resultado de búsqueda)."
+   },
+   "tamano_aprox": "Colectivo pequeño; equipo de Vivienda GT lista 7 personas (2021); sin evidencia de actividad reciente",
+   "decisores": [
+    {
+     "nombre": "Miguel Ángel (Miky) González Merlo",
+     "cargo": "Integrante del equipo de proyecto (cargo societario no publicado)",
+     "fuente": "https://www.archdaily.com/976094/vivienda-gt-grupo-culata-jovai"
+    },
+    {
+     "nombre": "Emmerick Braun Enciso",
+     "cargo": "Integrante del equipo de proyecto (cargo societario no publicado)",
+     "fuente": "https://www.archdaily.com/976094/vivienda-gt-grupo-culata-jovai"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/grupoculatajovai",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/office/grupo-culata-jovai",
+    "https://www.archdaily.com/976094/vivienda-gt-grupo-culata-jovai",
+    "https://www.archdaily.com/971636/casa-serbia-grupo-culata-jovai",
+    "https://divisare.com/authors/2144735346-grupo-culata-jovai/projects/built",
+    "https://hypeandhyper.com/extraordinary-home-from-the-former-consulate-of-serbia-in-paraguay/",
+    "https://grupoculatajovai.com/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Si siguen activos, bachas y mesadas UHPC encajan con su paleta de hormigón y ladrillo en viviendas y reformas; primero hay que confirmar que el estudio opera (por Facebook).",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Puntaje 34: afinidad material buena, pero sin contactos, web caída, Instagram inexistente y sin actividad visible desde 2022."
+   },
+   "pendiente_verificar": "Confirmar si el estudio sigue activo: Facebook existe (título 'grupo Q-lata jovái | Asunción') pero no se pudo leer contenido ni fechas. Sin teléfono, email ni WhatsApp. Instagram desconocido (el handle de 2022 ya no existe).",
+   "actividad_reciente": {
+    "fecha": "2022-02",
+    "evidencia": "Última publicación hallada: Vivienda GT en ArchDaily (2-feb-2022); Revista Plot la describe como obra más reciente. Facebook no legible",
+    "url": "https://www.archdaily.com/976094/vivienda-gt-grupo-culata-jovai"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin información de baños o cocinas en las fichas leídas."
+   },
+   "materiales_y_proveedores_visibles": "No se hallaron marcas visibles; materiales: hormigón armado, ladrillo, madera, materiales de demolición reutilizados.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 18,
+    "volumen": 6,
+    "gama": 8,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "18/30: hormigón armado y ladrillo vistos en Vivienda GT y materiales honestos, pero obra más cruda/económica que el minimalismo de alta gama de COCO.",
+    "volumen": "6/25: colectivo pequeño, 10 proyectos en ArchDaily en casi una década, nada después de 2022.",
+    "gama": "8/20: viviendas y reformas en lotes de 12x30 m y presupuestos acotados; clientes medios.",
+    "accesibilidad": "2/15: solo una página de Facebook ilegible; web caída, sin contactos; nombres salen de créditos de proyecto.",
+    "oportunidad_inmediata": "0/10: sin obra en curso ni actividad reciente."
+   },
+   "notas_investigacion": "Leído con curl: ArchDaily office Grupo Culata Jovai (10 proyectos; enlaza grupoculatajovai.com), Vivienda GT, Casa Serbia; Divisare (enlaza Facebook); Hype&Hyper (2022, enlaza web, Facebook e Instagram). Corrección ronda 1: grupoculatajovai.com está caída/aparcada (redirige a /lander de parking de GoDaddy, sin contenido); instagram.com/grupoculatajovai devuelve página de error (cuenta inexistente o renombrada); @culatajovai es una cuenta ajena de 9 seguidores. Facebook devolvió solo el título. Proyectos 'Vivienda Los Mangos' y 'Ciudad Nueva' son anteriores. Fallaron: Facebook, Google Maps, LinkedIn. Prensa: Hype&Hyper 2022, Novarq/Plot citados; sin notas en ABC/La Nación/Última Hora/5días. Estudio posiblemente inactivo: se deja en C con baja evidencia reciente, no confirmado."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Tekoha Arquitectos",
+   "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "uno3arq",
+   "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  },
+  {
+   "nombre": "ArquitecTava",
+   "link": "https://www.archdaily.com/971861/el-caparazon-house-and-workshop-grupo-culata-jovai-plus-tekoha-arquitectos",
+   "ciudad": "Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
