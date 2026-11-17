@@ -1,0 +1,509 @@
+{
+ "lote": "r2b-18",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Qenqo Estudio",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Lima (Perú)",
+   "region": "Fuera de Paraguay (Lima, Perú)",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura y diseño de interiores con sede en Lima, Perú (según su propio sitio). Ofrece diseño residencial y comercial, mobiliario, remodelación, visualización 3D y ejecución/supervisión de obra. No tiene presencia en Paraguay.",
+   "tipo_proyectos": [
+    "residencial",
+    "comercial",
+    "interiorismo"
+   ],
+   "estilo": "Declara 'simplicidad a través de la racionalidad'; sin proyectos visibles en las páginas leídas.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "tamano_aprox": "",
+   "decisores": [],
+   "web": "https://sites.google.com/view/qenqoestudio",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://sites.google.com/view/qenqoestudio/servicios",
+    "https://sites.google.com/view/qenqoestudio/nosotros",
+    "https://sites.google.com/view/qenqoestudio/contactanos"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Sin ángulo: fuera del mercado objetivo (Perú).",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Empresa de Lima, Perú; fuera de zona. Descartada."
+   },
+   "pendiente_verificar": "Nada: descartada por geografía.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "",
+    "url": ""
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "materiales_y_proveedores_visibles": "",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 0,
+    "volumen": 0,
+    "gama": 0,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 0
+   },
+   "puntaje_justificacion": {
+    "estetica": "0: no se evalúa; sin proyectos visibles y fuera de mercado.",
+    "volumen": "0: sin datos.",
+    "gama": "0: sin datos.",
+    "accesibilidad": "0: los contactos publicados son peruanos y no sirven a COCO.",
+    "oportunidad_inmediata": "0: fuera de Paraguay."
+   },
+   "notas_investigacion": "PASO 0. Leídos con WebFetch/curl: /servicios, /nosotros, /contactanos, /proyectos (esta última sin proyectos en el HTML; es contenido dinámico). La página de contacto publica dirección 'LIMA, PERÚ', teléfonos +51 y un correo Gmail, más enlaces a Instagram (qenqo.estudio) y Facebook; no se copian aquí por ser de otro país. Búsqueda web 'Qenqo Estudio Paraguay' y 'qenqo.estudio': solo devuelve el sitio arqueológico Qenqo (Cusco) y no hay nada en Paraguay. Instagram qenqo.estudio devuelve página de login (no se leyó). Corrige el dato de ronda 1 (ciudad null, origen piloto): la empresa no es de Paraguay.",
+   "descartada": true,
+   "motivo_descarte": "No es una empresa paraguaya: el sitio de Qenqo Estudio dice 'estudio de arquitectura creado en Lima-Perú' y su página de contacto indica 'LIMA, PERÚ' con teléfonos +51. El nombre llegó como candidato del piloto solo por un link de Google Sites sin ciudad."
+  },
+  {
+   "nombre": "Hostpy (grupo Civis)",
+   "segmento": "otro: gestión de alojamientos temporales y administración de condominios",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Operador de alojamientos temporales (casas y departamentos, plataformas tipo Airbnb) y desde marzo de 2026 administrador de condominios, integrado al ecosistema de Civis. Nació en la pandemia por el matrimonio Mateu-Cáceres, empezó con casas en San Bernardino y hoy opera también departamentos premium en Las Lomas (Asunción). Es administración y hospitalidad: no diseña ni construye, y no es la empresa de equipamiento de departamentos de Civis (esa función corresponde a Better, según la ficha de Civis).",
+   "tipo_proyectos": [
+    "alojamientos temporales",
+    "administración de condominios",
+    "residencial"
+   ],
+   "estilo": "Hospitalidad y servicio; departamentos modernos en torres de Las Lomas; casas familiares en San Bernardino.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Administración del edificio Civis Mariscal (inauguración prevista marzo 2026)",
+     "anio": 2026,
+     "link": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/"
+    },
+    {
+     "nombre": "Taia Roga, casa en San Bernardino (primer alojamiento)",
+     "anio": 2022,
+     "link": "https://infonegocios.com.py/infoviajes/hostpy-un-emprendimiento-turistico-basado-en-la-hospitalidad-y-en-las-familias"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ninguna fuente describe terminaciones; no es constructora ni estudio."
+   },
+   "tamano_aprox": "Pequeña-mediana: el anfitrión 'Manuel - Hostpy' figura en Airbnb como Superhost con 403 reseñas (4,87) en la ficha leída; sin cifra oficial de unidades.",
+   "decisores": [
+    {
+     "nombre": "Manuel Mateu",
+     "cargo": "Propietario y director comercial (La Nación 2026-03-11 lo llama 'director de Hostpy'; El Inmobiliario: propietario y director comercial)",
+     "fuente": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/ (prensa; no_verificado en fuente propia)"
+    },
+    {
+     "nombre": "Belén Cáceres",
+     "cargo": "Cofundadora (habla en nombre de HostPy en la nota de 2022)",
+     "fuente": "https://infonegocios.com.py/infoviajes/hostpy-un-emprendimiento-turistico-basado-en-la-hospitalidad-y-en-las-familias (prensa 2022; no_verificado)"
+    }
+   ],
+   "web": "https://hostpy.com.py",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/",
+    "https://infonegocios.com.py/infomicasa/civis-soluciones-inmobiliarias-integra-a-hostpy-a-su-ecosistema-para-profesionalizar-la-gestion-de-alojamientos-y-la-administracion-de-condominios",
+    "https://www.elinmobiliario.com.py/post/civis-integra-a-hostpy-y-ampl%C3%ADa-su-ecosistema-de-gesti%C3%B3n-para-propietarios-e-inversores",
+    "https://infonegocios.com.py/infoviajes/hostpy-un-emprendimiento-turistico-basado-en-la-hospitalidad-y-en-las-familias",
+    "https://es.airbnb.com/rooms/1603025395982550045",
+    "https://hostpy.com.py"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Valor indirecto: administra unidades Civis y podría influir en el estándar de bachas/mesadas en departamentos que se alquilan por temporada, pero no especifica ni compra terminaciones. Mejor entrar por Civis (desarrolladora), no por Hostpy.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Operador de alquiler/administración: no especifica ni compra terminaciones; relación con Civis ya perfilada en r2a-04."
+   },
+   "pendiente_verificar": "Teléfono/email/WhatsApp oficiales de Hostpy (el sitio hostpy.com.py es una app de reservas de Hostfully sin contactos legibles por WebFetch/curl); Instagram: la nota de 2022 cita instagram.com/host_py pero devolvió login y no se confirmó; cantidad de unidades administradas.",
+   "actividad_reciente": {
+    "fecha": "2026-03",
+    "evidencia": "Integración a Civis y administración de Civis Mariscal (notas del 11-12/03/2026).",
+    "url": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Administración de condominio Civis Mariscal (Recoleta)",
+     "tipo": "administración de condominios",
+     "etapa": "en obra / inauguración prevista marzo 2026",
+     "unidades": null,
+     "link": "https://www.lanacion.com.py/negocios/2026/03/11/civis-integra-a-hostpy-para-profesionalizar-gestion-de-alojamientos-y-administracion-de-condominios/"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Anuncio de Airbnb leído: 'cocina totalmente equipada', 2 baños; sin descripción de materiales."
+   },
+   "materiales_y_proveedores_visibles": "No visibles. Productos de amenities ecológicos de marcas nacionales (Wembé, Oiko, Eco Shopping) en la nota de 2022.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 6,
+    "gama": 10,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 3,
+    "total": 28
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: unidades modernas en Las Lomas pero sin evidencia de hormigón visto ni diseño de baños; es un operador.",
+    "volumen": "6/25: no hay cifra oficial; Superhost con 403 reseñas sugiere decenas de estancias, equipo pequeño.",
+    "gama": "10/20: departamentos premium en torres de Las Lomas y administración de Civis (alta gama), pero casas familiares de precio medio (G. 1,5-4 M por fin de semana en 2022).",
+    "accesibilidad": "3/15: decisor identificado solo por prensa; ningún contacto verificado en fuente propia.",
+    "oportunidad_inmediata": "3/10: administrará Civis Mariscal, pero no compra bachas/mesadas; solo posible renovación de unidades."
+   },
+   "notas_investigacion": "Recorrido: web propia https://hostpy.com.py (200, es una SPA de Hostfully de reservas; sin teléfono, email ni dirección legibles; hostpy.com y www.hostpy.com dan 406; hostpy.civis.com.py no existe); WebSearch x4; notas La Nación 2026-03-11, Infonegocios 2026-03-12 e infoviajes 2022-07-27, El Inmobiliario 2026-03; ficha de Airbnb de 'Manuel - Hostpy'. Instagram: probados hostpy, hostpy.py, hostpypy, hostpy_py y host_py (este último citado por la nota de 2022): todos devuelven página de login; Facebook /hostpy login; LinkedIn 403. El sitio civis.com.py no menciona Hostpy en el HTML leído. Contactos de Civis (comercial@civis.com.py, WhatsApp +595 992 286 661) pertenecen a Civis, no a Hostpy: no se asignan. LinkedIn de Manuel Mateu aparece en un buscador pero no se pudo leer ni confirmar que sea la misma persona: no se registra. Corrige la ronda 2a: el segmento 'interiorismo' y 'equipamiento de departamentos' no corresponden a Hostpy (equipamiento = Better, ver r2a-04); Hostpy es gestión de alojamientos. Relación: parte del ecosistema de Civis Soluciones Inmobiliarias (r2a-04). Sin DNCP (no es constructora). Google Maps no cargó.",
+   "relacion_con_otras_fichas": {
+    "Civis Soluciones Inmobiliarias": "parte del ecosistema; administra condominios y alojamientos de Civis (r2a-04)"
+   }
+  },
+  {
+   "nombre": "MC Arquitectura Interior & Comercial",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción (no_verificado; la nota no indica la ciudad)",
+   "region": "Gran Asunción (tentativa)",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Empresa paraguaya de diseño y fabricación de mobiliario a medida para tiendas comerciales (farmacias, boutiques, multitiendas, estaciones de servicio), oficinas, hoteles, hogar y restaurantes. Tiene fábrica sobre la calle Lillo con herrería, pintura electrostática, laqueado y carpintería, más un showroom. Dirigida por Mónica Canessa con sus hijos Nicolás y Martín (nota de 2019).",
+   "tipo_proyectos": [
+    "comercial",
+    "retail",
+    "corporativo",
+    "residencial (placares, cocinas)"
+   ],
+   "estilo": "Funcional-comercial; madera, melamina, vidrio, acrílico y acero inoxidable.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Materiales declarados en la nota de 2019: madera, melamina, vidrios, acrílicos y acero inoxidable."
+   },
+   "tamano_aprox": "Pequeña-mediana: fábrica propia y empresa familiar; sin cifras de personal.",
+   "decisores": [
+    {
+     "nombre": "Mónica Canessa",
+     "cargo": "Fundadora y directora",
+     "fuente": "https://infonegocios.com.py/infomicasa/mc-arquitectura-interior-comercial-es-sinonimo-de-muebles-a-medida-especial-para-tiendas (prensa 2019-09-02; no_verificado en fuente propia)"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/mcarquitecturacomercial/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/mc-arquitectura-interior-comercial-es-sinonimo-de-muebles-a-medida-especial-para-tiendas",
+    "https://www.instagram.com/mcarquitecturacomercial/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Posible aliado menor: sus muebles de cocina/baño y mostradores para tiendas podrían incorporar tapas o lavatorios de UHPC en proyectos de retail premium. Prioridad baja hasta confirmar que sigue activa.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Mobiliario comercial funcional, sin evidencia de actividad reciente ni de gama alta."
+   },
+   "pendiente_verificar": "Actividad en los últimos 18 meses (única fuente de contenido es una nota de 2019); teléfono, email y dirección; seguidores y últimos posts de Instagram (bloqueado por login); ciudad exacta.",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Sin actividad fechada posterior a la nota de Infonegocios del 2019-09-02. Un buscador indexa el perfil de Instagram @mcarquitecturacomercial con la bio '+20 años renovando espacios', pero no se pudo leer ni fechar.",
+    "url": "https://infonegocios.com.py/infomicasa/mc-arquitectura-interior-comercial-es-sinonimo-de-muebles-a-medida-especial-para-tiendas"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "La nota menciona placares, cocinas y módulos de TV, sin detalle."
+   },
+   "materiales_y_proveedores_visibles": "Madera, melamina, vidrios, acrílicos, acero inoxidable (nota 2019). Sin marcas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 4,
+    "volumen": 5,
+    "gama": 5,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 2,
+    "total": 18
+   },
+   "puntaje_justificacion": {
+    "estetica": "4/30: mobiliario comercial funcional en melamina y madera, sin afinidad visible con hormigón.",
+    "volumen": "5/25: fábrica propia pero empresa familiar; actividad actual no confirmada.",
+    "gama": "5/20: foco en farmacias, minimercados y estaciones de servicio, segmento medio.",
+    "accesibilidad": "2/15: decisora nombrada solo en prensa de 2019; sin teléfono ni email; Instagram sin leer.",
+    "oportunidad_inmediata": "2/10: sin proyectos en curso conocidos."
+   },
+   "notas_investigacion": "Recorrido: Infonegocios (WebFetch) y 3 búsquedas web. Probados mcarquitectura.com.py y www.mcarquitectura.com.py: no resuelven (código 000); el buscador devolvió mc-arquitectura.com (España), mcmobiliariocomercial.com y grupomc.com.py, que son otras empresas y no se usan. Instagram @mcarquitecturacomercial: el handle sale en la nota (con un error de tipeo) y el buscador indexa el perfil, pero WebFetch/curl devuelven el login; Facebook /mcarquitecturacomercial solo login. El perfil @mc.mobiliario.comercial que aparece en buscadores no se asoció a esta empresa. Nota única de 2019: la ficha de ronda 2a (r2a-07) la listaba con ciudad 'Paraguay'; la nota no menciona ciudad, 'Lillo' es solo la calle de la fábrica. No se marca como descartada porque no hay prueba de cierre, pero la actividad reciente NO está confirmada. Sin DNCP (no es constructora); sin ArchDaily/Archello."
+  },
+  {
+   "nombre": "Saccaro Paraguay",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Av. España 1261 esq. Melvin Jones, Asunción (prensa 2018; no_verificado en fuente propia)",
+   "anio_fundacion": 2018,
+   "que_hacen": "Franquicia en Asunción de Saccaro, fabricante brasileño de muebles de alta gama (Caxias do Sul, +7 décadas). Inauguró su showroom en octubre de 2018 como primera franquicia en Paraguay, con colecciones de interior, exterior y sombra, y apunta al segmento A y a proyectos corporativos (hoteles, oficinas, clínicas).",
+   "tipo_proyectos": [
+    "residencial",
+    "hotelero",
+    "corporativo",
+    "mobiliario de diseño"
+   ],
+   "estilo": "Contemporáneo-lujo, mobiliario de diseño de autor (poltronas, outdoor); cocinas y baños no mencionados.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Las notas describen mobiliario de interior y exterior; no mencionan hormigón."
+   },
+   "tamano_aprox": "Tienda única (showroom) de una franquicia; sin cifras.",
+   "decisores": [
+    {
+     "nombre": "Enrique Franco",
+     "cargo": "Propietario/socio de Saccaro Asunción",
+     "fuente": "https://infonegocios.com.py/infomicasa/saccaro-inauguran-primera-franquicia-de-la-firma-brasilena-en-el-pais (prensa 2018)"
+    },
+    {
+     "nombre": "Miguel Franco",
+     "cargo": "Propietario/socio",
+     "fuente": "https://infonegocios.com.py/infomicasa/saccaro-uno-de-los-mejores-fabricantes-de-muebles-de-brasil-pisa-fuerte-en-paraguay (prensa 2019)"
+    },
+    {
+     "nombre": "Fernando Kersting",
+     "cargo": "Propietario/socio (también franquiciado Saccaro en Curitiba)",
+     "fuente": "https://infonegocios.com.py/infomicasa/saccaro-uno-de-los-mejores-fabricantes-de-muebles-de-brasil-pisa-fuerte-en-paraguay (prensa 2019)"
+    }
+   ],
+   "web": "https://saccaro.com.br",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/saccaro-inauguran-primera-franquicia-de-la-firma-brasilena-en-el-pais",
+    "https://infonegocios.com.py/infomicasa/saccaro-uno-de-los-mejores-fabricantes-de-muebles-de-brasil-pisa-fuerte-en-paraguay",
+    "https://saccaro.com.br/stores",
+    "https://www.bancoatlas.com.py/web/admin/web/sites/default/files/2021-08/Comercios%20adheridos%20-%20Renov%C3%A1%20tu%20hogar.pdf"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Si la tienda sigue abierta, podría usar piezas de UHPC (mesas ratonas, consolas, bachas) como complemento de mobiliario de gama A; baja prioridad hasta confirmar actividad.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Showroom de mobiliario sin actividad reciente comprobada; no trabaja bachas ni mesadas."
+   },
+   "pendiente_verificar": "Si el showroom sigue abierto (última fuente: lista de comercios adheridos de Banco Atlas de 2021-08, además de notas de 2018 y 2019); teléfono vigente (la nota de 2019 dio (0974) 100-312, no_verificado); Instagram/Facebook oficiales (se citan @saccaropy y facebook.com/saccaro.py, solo login); email.",
+   "actividad_reciente": {
+    "fecha": "2021-08",
+    "evidencia": "Último registro hallado: listado de comercios adheridos de Banco Atlas (2021-08) con Saccaro Paraguay en Av. España 1261. Sin notas ni posts fechados en los últimos 18 meses.",
+    "url": "https://www.bancoatlas.com.py/web/admin/web/sites/default/files/2021-08/Comercios%20adheridos%20-%20Renov%C3%A1%20tu%20hogar.pdf"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Colecciones de poltronas, living y outdoor; cocinas y baños no mencionados."
+   },
+   "materiales_y_proveedores_visibles": "Marca propia Saccaro y diseñadores externos (Wentz, Faucz, Del Savio, Bernardo).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 4,
+    "gama": 15,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 1,
+    "total": 31
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: mobiliario de diseño contemporáneo, pero sin hormigón ni foco en baño/cocina.",
+    "volumen": "4/25: una sola tienda, actividad reciente no comprobada.",
+    "gama": "15/20: posiciona al segmento A, marca de lujo brasileña.",
+    "accesibilidad": "3/15: propietarios nombrados en prensa 2018-2019; ningún contacto verificado en fuente propia.",
+    "oportunidad_inmediata": "1/10: sin proyectos en curso conocidos."
+   },
+   "notas_investigacion": "Recorrido: Infonegocios (2018-10-11 y 2019-11-11), 5 búsquedas (incluida una extendida 2025-2026 sin resultados), localizador oficial de la marca https://saccaro.com.br/stores (Paraguay existe como filtro de país pero no lista ninguna tienda en Asunción; los datos cargados eran de Brasil), saccaro.com.br (tel/WhatsApp/email son de Brasil, no se usan), saccaro.com.py (página por defecto de hosting, sin contenido; www igual). Instagram @saccaropy, @saccaroparaguay, @saccaro.py: login; Facebook saccaro.py y SaccaroParaguay: login; hypeauditor.com/instagram/saccaropy: 403; Google Maps no carga. Una búsqueda atribuyó la ficha a 'Grupo LG S.A.' (Banco Atlas 2021) y otra a 'Grupo MovDecor' para los Kersting: no se confirma ninguna, se anota como pista. Corrige la ronda 2a (Asunción, link de prensa de 2019): la dirección Av. España 1261 viene de la nota de 2018. NO se marca como descartada porque no hay prueba de cierre, pero NO hay actividad confirmada en 18 meses: el auditor puede reclasificarla."
+  },
+  {
+   "nombre": "Square Superficies (Mobiliarte Superficies SRL)",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Procesador de Corian (superficie sólida de DuPont) en Paraguay: mesadas, lavatorios, revestimientos, barras y mostradores a medida, con corte, mecanizado y termoformado con maquinaria CNC (según nota de agosto de 2026). Nombre comercial de Mobiliarte Superficies SRL; socio estratégico de Mobiliarte Paraguay / Florense Asunción (muebles y electrodomésticos). También comercializa la línea Tramontina Design Collection. Apunta a arquitectos, diseñadores, desarrolladores y clientes finales en proyectos residenciales, comerciales y corporativos.",
+   "tipo_proyectos": [
+    "residencial (cocinas, quinchos, baños)",
+    "hotelero",
+    "retail",
+    "oficinas",
+    "gastronómico"
+   ],
+   "estilo": "Contemporáneo-continuo: superficies sin juntas, curvas y formas orgánicas termoformadas; paleta mineral-sintética.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Su material es Corian (acrílico-mineral), no hormigón; la nota del 2026-08-20 no menciona concreto."
+   },
+   "tamano_aprox": "Pequeña: Instagram con 353 seguidores y 56 publicaciones en el fetch del 2026-11-17; respaldo del grupo Mobiliarte (desde 1995).",
+   "decisores": [
+    {
+     "nombre": "Fabio Zwarycz",
+     "cargo": "CEO de Superficies",
+     "fuente": "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos (prensa 2026-08-20; no_verificado en fuente propia)"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/squaresuperficies/",
+   "seguidores_ig": 353,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos",
+    "https://www.instagram.com/squaresuperficies/",
+    "https://www.florense.com.br/franquias/paraguay",
+    "https://infonegocios.com.py/y-ademas/mobiliarte-ejecuto-mas-de-20-000-m2-de-cerramientos-modulares-en-las-oficinas-del-gobierno"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Posible aliado y a la vez competidor puntual. Competidor: Corian compite con UHPC en mesadas, lavatorios, barras y mostradores. Aliado: no hacen hormigón y venden por el canal Mobiliarte/Florense a arquitectos; COCO puede ofrecerse como alternativa mineral/texturada (bachas esculpidas, piezas exteriores o de textura) que complemente su portafolio, o proveer piezas UHPC para proyectos donde el cliente pida hormigón.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Por puntaje es C; su valor estratégico (canal Florense/Mobiliarte y competencia directa en mesadas) es mayor que el del puntaje."
+   },
+   "pendiente_verificar": "Teléfono, email, dirección y web propios (no hay sitio; el contacto del grupo está en la ficha de Florense Asunción, que es de Mobiliarte, no de Square); fecha del último post y temas de los 12 últimos posts de Instagram (el bio no se leyó); si es distribuidor oficial de Corian; precios; proyectos concretos entregados; vínculo exacto entre Mobiliarte Superficies SRL y Mobiliarte Industrial y Comercial SRL; que Fabio Zwarycz sea la misma persona que perfiles en Foz de Iguaçu (no confirmado, no se usa).",
+   "actividad_reciente": {
+    "fecha": "2026-08",
+    "evidencia": "Nota InfoBrand de Infonegocios del 2026-08-20 sobre el lanzamiento de su propuesta Corian + Tramontina con Mobiliarte; perfil de Instagram activo (56 publicaciones).",
+    "url": "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Alianza Mobiliarte + Square: cocinas con mesada Corian y mobiliario Florense/Caderode",
+     "tipo": "cocinas y baños residenciales/comerciales",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://infonegocios.com.py/y-ademas/square-superficies-apuesta-por-integrar-corian-y-tramontina-design-collection-a-proyectos-arquitectonicos"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Su negocio es la mesada y el lavatorio de Corian para cocinas, quinchos y baños (nota 2026-08-20)."
+   },
+   "materiales_y_proveedores_visibles": "Corian (DuPont), Tramontina Design Collection; socio Mobiliarte/Florense, Caderode, Herman Miller.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 8,
+    "gama": 14,
+    "accesibilidad": 5,
+    "oportunidad_inmediata": 5,
+    "total": 42
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: superficies continuas y curvas contemporáneas afines al minimalismo, pero material sintético y sin hormigón.",
+    "volumen": "8/25: empresa pequeña (353 seguidores), pero respaldada por Mobiliarte y su canal de arquitectos.",
+    "gama": "14/20: Corian, Tramontina Design Collection y alianza con Florense posicionan medio-alto/alto.",
+    "accesibilidad": "5/15: Instagram propio confirmado (perfil cargó con nombre y @) y CEO nombrado en prensa; sin teléfono, email ni web.",
+    "oportunidad_inmediata": "5/10: lanzamiento comercial en agosto 2026 de mesadas y lavatorios; es demanda que COCO puede disputar o complementar."
+   },
+   "notas_investigacion": "Recorrido: nota Infonegocios 2026-08-20 (WebFetch + HTML por curl; confirma nombre comercial, socio Mobiliarte, @squaresuperficies, @mobiliarteparaguay; el enlace del nombre en la nota apunta por error a @florenseasuncion), 6 búsquedas (Corian Paraguay, Mobiliarte Superficies SRL, Fabio Zwarycz, distribuidores Corian, proyectos Corian), nota Mobiliarte 2026-05-13 (no menciona Square), ficha oficial de Florense Paraguay (https://www.florense.com.br/franquias/paraguay: tel +595 972455108, marketing@mobiliarte.com.py; pertenecen a la tienda Florense/Mobiliarte y no se asignan a Square porque la página no menciona a Square). Instagram: en un fetch de curl el perfil devolvió 'Square Superficies (@squaresuperficies)' con 353 seguidores, 101 seguidos y 56 publicaciones; los reintentos devolvieron el login y no se pudieron leer bio, link ni posts. Facebook login; LinkedIn no se probó (sin página conocida). Dominios squaresuperficies.com/.com.py/.com.br/.com.ar, square.com.py y mobiliarte.com.py: no resuelven. Corian.com no tiene localizador de distribuidor accesible (404). Archello/ArchDaily/Divisare: solo catálogo global de Corian, ningún proyecto paraguayo. Sin DNCP (no es constructora); un PDF de DNCP del grupo Mobiliarte no se leyó. Prensa: solo Infonegocios; ABC, La Nación, Última Hora, 5días y MarketData sin resultados sobre Square. Relaciones: socio comercial de Mobiliarte/Florense Asunción (perfilada en r2a-08, que ya registra a Square como candidata extra y a Fabio Zwarycz como CEO); también aparece como candidata extra en r2a-07. Estrategia: ver angulo_venta_coco.",
+   "rol_estrategico": "competidor_y_aliado_potencial",
+   "relacion_con_otras_fichas": {
+    "Florense Asunción (Mobiliarte)": "socio comercial (r2a-08)"
+   }
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Arkstudio / Arkhaus (Jessica Castillo)",
+   "link": "https://infonegocios.com.py/infomicasa/el-unico-estudio-que-disena-y-construye-no-solo-el-proyecto-sino-tambien-todo-el-equipamiento-y-mobiliario",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Grama Superficies",
+   "link": "https://infonegocios.com.py/default/grama-superficies-recibira-el-2022-con-nueva-tecnologia-que-sera-operada-por-mano-de-obra-paraguaya-unica-en-el-pais",
+   "ciudad": "Paraguay",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Better (equipamiento y domotica, grupo Civis)",
+   "link": "https://www.civis.com.py/en",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  }
+ ]
+}
