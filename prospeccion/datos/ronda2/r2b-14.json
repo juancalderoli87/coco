@@ -1,0 +1,540 @@
+{
+ "lote": "r2b-14",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "OCA (Oficina Comunitaria de Arquitectura) - Vivienda Lui",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Melgarejo 336, Asunción (según https://oca.com.py/)",
+   "anio_fundacion": null,
+   "que_hacen": "Oficina de arquitectura social y comunitaria: planificación estratégica abierta, equipamiento comunitario (centros de desarrollo comunitario, casa de cultura Toba Qom), espacio público y diseño urbano, con procesos participativos y co-construcción. La Vivienda Lui (Mariano Roque Alonso, 2016, 35 m2) fue una vivienda social financiada por un grupo solidario; la ciudad tentativa del lote era el sitio de la obra, no la sede.",
+   "tipo_proyectos": [
+    "comunitario",
+    "educativo",
+    "salud",
+    "cultural",
+    "espacio público",
+    "vivienda social"
+   ],
+   "estilo": "Arquitectura social, ladrillo y madera, bajo presupuesto; sin línea minimalista premium.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Vivienda Lui (Mariano Roque Alonso)",
+     "anio": 2016,
+     "link": "https://www.archdaily.com/es/804905/vivienda-lui-oca"
+    },
+    {
+     "nombre": "Casa de la cultura Toba Qom (Villa del Rosario)",
+     "anio": 2021,
+     "link": "https://www.archdaily.com/966548/house-of-culture-toba-qom-oca"
+    },
+    {
+     "nombre": "Centro de Desarrollo Comunitario Cerro Corá (Luque)",
+     "anio": 2015,
+     "link": "https://oca.com.py/proyectos/centro-de-desarrollo-comunitario-cerro-cora/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Obras publicadas en ladrillo y madera (ArchDaily Vivienda Lui y Toba Qom: ladrillo/madera, sin mención de concreto)."
+   },
+   "tamano_aprox": "Equipo de 4 personas listadas en la web (2 arquitectos socios, 1 administradora, 1 arquitecto).",
+   "decisores": [
+    {
+     "nombre": "Luis Godoy Bonini",
+     "cargo": "Arquitecto (equipo OCA)",
+     "fuente": "https://oca.com.py/#equipo"
+    },
+    {
+     "nombre": "María Liz Gulino",
+     "cargo": "Arquitecta (equipo OCA)",
+     "fuente": "https://oca.com.py/#equipo"
+    }
+   ],
+   "web": "https://oca.com.py/",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/OCAparaguay",
+   "linkedin": null,
+   "email": "hola@oca.com.py",
+   "telefono": "+595 972 605539",
+   "whatsapp": "https://wa.link/i95b52",
+   "fuentes": [
+    "https://oca.com.py/",
+    "https://oca.com.py/proyectos/",
+    "https://oca.com.py/sitemap_index.xml",
+    "https://www.archdaily.com/es/804905/vivienda-lui-oca",
+    "https://www.archdaily.com/office/oca",
+    "https://www.archdaily.com/966548/house-of-culture-toba-qom-oca",
+    "https://divisare.com/projects/336349-oca-oficina-comunitaria-de-arquitectura-federico-cairoli-development-and-computing-resource-center"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Poco encaje: trabajan obra social de bajo presupuesto. Solo como contacto de prescripción para mobiliario urbano/equipamiento si algún proyecto lo pidiera.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Arquitectura social, sin baños/cocinas premium ni concreto visto; total 27/100."
+   },
+   "pendiente_verificar": "Instagram propio de OCA no hallado en la web; actividad de los últimos 18 meses no confirmada; Facebook exige login.",
+   "actividad_reciente": {
+    "fecha": "2026-06",
+    "evidencia": "La página de política de privacidad de oca.com.py figura modificada 2026-06-10 en el sitemap Yoast (señal débil de web mantenida); último proyecto publicado en ArchDaily: 2021; proyectos del sitio con lastmod 2020-12.",
+    "url": "https://oca.com.py/sitemap_index.xml"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Proyectos comunitarios/públicos; no se ven baños ni cocinas de diseño."
+   },
+   "materiales_y_proveedores_visibles": "Ladrillo, paneles prefabricados de ladrillo, madera; sin marcas de sanitarios. Aliados en web: Fundación Moisés Bertoni, Cervepar, CIRD, Dequeni, KOGA, MOPC, PNUD, TECHO, Teletón, UE, Municipalidad de Ypané, etc.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": true,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 7,
+    "volumen": 5,
+    "gama": 2,
+    "accesibilidad": 13,
+    "oportunidad_inmediata": 0,
+    "total": 27
+   },
+   "puntaje_justificacion": {
+    "estetica": "7/30: honestidad de materiales (ladrillo, madera) pero estética social y sin concreto visto ni minimalismo premium.",
+    "volumen": "5/25: equipo de 4 y obras comunitarias puntuales; sin obras en curso visibles.",
+    "gama": "2/20: público de bajos recursos y ONG/organismos; no premium.",
+    "accesibilidad": "13/15: email, teléfono y WhatsApp publicados en la web propia, dirección y 2 arquitectos nombrados; sin Instagram propio verificado.",
+    "oportunidad_inmediata": "0/10: no hay obras en curso visibles ni proyectos con bachas/mesadas."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: la candidata era 'Vivienda Lui' (ArchDaily, 2016, Mariano Roque Alonso = sitio de la obra); la empresa real es OCA, con sede en Asunción (Melgarejo 336) y web oca.com.py (leída por curl: home, /proyectos/, sitemap). Contactos leídos en la home: mailto con href gabinete@oca.com.py pero texto visible hola@oca.com.py (discrepancia; se registra el texto visible hola@oca.com.py y se advierte); teléfono visible '(+595) 9 72 605539' con href tel:+595994255202 (discrepancia entre texto y enlace, se registra el texto visible; confirmar al llamar); botón WhatsApp wa.link/i95b52 (destino no resuelto). Los enlaces de Instagram de la home son de iniciativas aliadas (encomun.py, reddeapoyo_py), no de OCA. Facebook facebook.com/OCAparaguay (de la web) pide login por WebFetch. Instagram y LinkedIn no leídos. Google Maps no cargó. Prensa: 2 búsquedas (ArchDaily/MCHAP/Floornature; sin notas 2024-2026). Sin presencia en 'Portales': ArchDaily (2 proyectos), Divisare (autor OCA). No es constructora ni desarrolladora (DNCP/InfoCasas no aplican). Buscadores bloquean consultas automáticas (DuckDuckGo captcha, Brave/Startpage/Ecosia bloqueados)."
+  },
+  {
+   "nombre": "Kike Martínez + Marcos Martínez (Lomas Verdes House)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Caapucú (Paraguarí) - sede no confirmada",
+   "region": "Paraguarí (obra); sede desconocida",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Dupla de arquitectos (Kike y Marcos Martínez) con una sola obra publicada: Casa Lomas Verdes, vivienda de 210 m2 en Caapucú, 2022, publicada en ArchDaily en diciembre de 2023. No se encontró web, ficha de contacto ni actividad posterior.",
+   "tipo_proyectos": [
+    "residencial"
+   ],
+   "estilo": "Vivienda rural contemporánea en ladrillo (etiquetas de fotos); sin descripción de proyecto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Casa Lomas Verdes (Caapucú)",
+     "anio": 2022,
+     "link": "https://www.archdaily.com/es/1011117/casa-lomas-verdes-kike-martinez-plus-marcos-martinez"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "ArchDaily no lista materiales; solo etiquetas de foto 'ladrillo', 'pilares'."
+   },
+   "tamano_aprox": "Estudio pequeño; colaboradores citados: Julio Gomez, Ramon Arguello, Don Sanabria, Gustavo Liuzzi, Oshua Ramos.",
+   "decisores": [
+    {
+     "nombre": "Kike Martínez",
+     "cargo": "Arquitecto (autor)",
+     "fuente": "https://www.archdaily.com/es/1011117/casa-lomas-verdes-kike-martinez-plus-marcos-martinez"
+    },
+    {
+     "nombre": "Marcos Martínez",
+     "cargo": "Arquitecto (autor)",
+     "fuente": "https://www.archdaily.com/es/1011117/casa-lomas-verdes-kike-martinez-plus-marcos-martinez"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/nave_arq.py/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.archdaily.com/es/1011117/casa-lomas-verdes-kike-martinez-plus-marcos-martinez",
+    "https://www.archdaily.com/office/kike-martinez-plus-marcos-martinez",
+    "https://uni.xyz/journal/sustainable-architecture-in-paraguay-l-1"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Sin datos de contacto ni actividad reciente; no accionable hoy.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin actividad visible en 18 meses ni contactos; total 20/100."
+   },
+   "pendiente_verificar": "Instagram nave_arq.py (link en ficha ArchDaily del estudio, no verificado como de ellos): WebFetch devolvió 429 y curl solo el shell de login. Facebook/LinkedIn no hallados.",
+   "descartada": true,
+   "motivo_descarte": "Una sola obra publicada (ArchDaily dic-2023), sin web ni contactos propios ni actividad visible en los últimos ~18 meses; no se pudo confirmar que esté activa.",
+   "actividad_reciente": {
+    "fecha": "2023-12",
+    "evidencia": "Publicación de Casa Lomas Verdes en ArchDaily (18-dic-2023).",
+    "url": "https://www.archdaily.com/es/1011117/casa-lomas-verdes-kike-martinez-plus-marcos-martinez"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin descripción ni fotos interpretables."
+   },
+   "materiales_y_proveedores_visibles": "No listados.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 2,
+    "gama": 6,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 20
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: vivienda contemporánea en ladrillo, sin evidencia de concreto visto.",
+    "volumen": "2/25: una sola obra publicada.",
+    "gama": "6/20: casa rural de campo de 210 m2; gama media, sin datos.",
+    "accesibilidad": "2/15: solo un handle de Instagram sugerido por ArchDaily, no verificado; sin email/teléfono.",
+    "oportunidad_inmediata": "0/10: sin obras en curso conocidas."
+   },
+   "notas_investigacion": "Datos de ronda 1 corregidos: la ciudad 'Gran Asunción (por confirmar)' era errónea; la obra está en Caapucú (Paraguarí), no en Gran Asunción, y la sede del estudio no figura. Leído: ArchDaily EN y ES del proyecto y la ficha de oficina (único proyecto, sin web). Búsquedas web (3) sin web/nota propia. uni.xyz es contenido secundario sin fuentes. arquitectos.com.py: búsqueda sin resultados. Instagram nave_arq.py: 429 (WebFetch) y shell de login (curl). Facebook, LinkedIn y Google Maps no hallados."
+  },
+  {
+   "nombre": "Báez + Ruiz Díaz (Estudio de Arquitectura)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio de arquitectura de Asunción que, según prensa, diseñó edificios residenciales de Petra Urbana en Villa Morra: Life Villa Morra (25 deptos, 6 niveles, 2018-2019) y Fovrm Villa Morra (10 pisos, desde julio 2018). No tiene web ni redes localizables.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial"
+   ],
+   "estilo": "Edificios residenciales de mercado medio/joven (departamentos 1-2 dormitorios, desde USD 46.000-54.900).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Life Villa Morra (Petra Urbana)",
+     "anio": 2019,
+     "link": "https://infonegocios.com.py/amp/default/tercer-edificio-life-en-villa-morra"
+    },
+    {
+     "nombre": "Fovrm Villa Morra (Petra Urbana)",
+     "anio": 2018,
+     "link": "https://infonegocios.com.py/default/petra-urbana-lanza-otro-proyecto-mas-en-villa-morra"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Prensa no describe materiales."
+   },
+   "tamano_aprox": "Desconocido; dos edificios de 25 y ~80 unidades conocidos.",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/amp/default/tercer-edificio-life-en-villa-morra",
+    "https://www.lanacion.com.py/negocios/2018/03/17/inician-construccion-del-tercer-edificio-life/",
+    "https://infonegocios.com.py/default/petra-urbana-lanza-otro-proyecto-mas-en-villa-morra",
+    "https://infonegocios.com.py/infomicasa/life-villa-morra-realizo-su-apertura-oficial-con-el-100-de-sus-unidades-vendidas"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Si se identifica el estudio, podría prescribir mesadas/bachas en edificios de Petra Urbana (ya perfilada en r2a-03); hoy es más útil ir directo a Petra Urbana.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin presencia propia ni actividad desde 2019; total 22/100."
+   },
+   "pendiente_verificar": "Web, redes y contactos del estudio no hallados.",
+   "descartada": true,
+   "motivo_descarte": "Sin web, redes ni contactos propios localizables y sin actividad visible desde 2018-2019 (solo menciones en prensa de Petra Urbana).",
+   "actividad_reciente": {
+    "fecha": "2019-05",
+    "evidencia": "Apertura oficial de Life Villa Morra (Infonegocios, 22-may-2019); la nota no nombra al estudio, la de 2018 sí.",
+    "url": "https://infonegocios.com.py/infomicasa/life-villa-morra-realizo-su-apertura-oficial-con-el-100-de-sus-unidades-vendidas"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No hay material visual leído."
+   },
+   "materiales_y_proveedores_visibles": "No listados (constructor: Benítez Bittar; financiación Sudameris; seguro Sancor).",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 6,
+    "gama": 10,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 22
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: sin evidencia visual ni de materiales nobles.",
+    "volumen": "6/25: dos edificios de Petra Urbana conocidos (25 y ~80 unidades).",
+    "gama": "10/20: deptos de entrada USD 46.000-89.800, mercado medio.",
+    "accesibilidad": "0/15: no hay contactos ni decisores publicados.",
+    "oportunidad_inmediata": "0/10: obras de 2018-2019 ya entregadas; sin proyectos nuevos conocidos."
+   },
+   "notas_investigacion": "Dato de ronda 1 corregido: el link del lote (nota de Infonegocios) es de Life Villa Morra (Petra Urbana, 2018); el estudio aparece citado en esa nota y en La Nación (2018) y en Fovrm (julio 2018), no en la apertura 2019. Prensa leída: Infonegocios (3 notas), La Nación. Búsquedas WebSearch (3) 'Báez Ruiz Díaz arquitectura Asunción' sin resultados; arquitectos.com.py sin resultados; dominios probados (baezruizdiaz.com/.com.py, brdarquitectos.com.py) no resuelven. ArchDaily/Divisare/Archello sin ficha del estudio. Instagram, Facebook, LinkedIn y Maps no hallados."
+  },
+  {
+   "nombre": "Jasper Architects (oficina Asunción)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Agustin Pio Barrios 1239, Asunción (oficina; sede principal en Berlín)",
+   "anio_fundacion": 2008,
+   "que_hacen": "Estudio internacional fundado por Martin Jasper con oficinas en Berlín, Buenos Aires, Asunción y Nueva York (además de oficinas regionales en Viena, Panamá, Quito y Santo Domingo). En Asunción diseña Palmanova Pacheco y Palmanova Center, grandes proyectos de uso mixto y torres con enfoque biofílico y sostenible.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "uso mixto",
+    "residencial",
+    "corporativo"
+   ],
+   "estilo": "Contemporáneo, biofílico y sostenible; volúmenes escalonados, jardines verticales; premiado (IADA 2025, LADI 2026).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Palmanova Pacheco (Villa Morra, 12.000 m2, en obra)",
+     "anio": 2023,
+     "link": "https://www.jasperarchitects.com/projects/palmanova-pacheco.php"
+    },
+    {
+     "nombre": "Palmanova Center (200.000 m2, 2 torres residenciales y 2 de oficinas; LADI Award 2026)",
+     "anio": null,
+     "link": "https://www.jasperarchitects.com/news/ladi-award-2026.php"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Las páginas de proyecto leídas no especifican materiales (solo vegetación y jardines verticales)."
+   },
+   "tamano_aprox": "Equipo global de 16 personas listadas en la web; 4 oficinas principales y 7 regionales.",
+   "decisores": [
+    {
+     "nombre": "Martin Jasper",
+     "cargo": "Founding Director",
+     "fuente": "https://www.jasperarchitects.com/profile.php"
+    }
+   ],
+   "web": "https://www.jasperarchitects.com/",
+   "instagram": "https://www.instagram.com/jasperarchitects/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/jasperarchitects/",
+   "linkedin": "https://www.linkedin.com/company/jasperarchitects/",
+   "email": "info@asu.jasperarchitects.com",
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://www.jasperarchitects.com/contact.php",
+    "https://www.jasperarchitects.com/profile.php",
+    "https://www.jasperarchitects.com/projects.php",
+    "https://www.jasperarchitects.com/projects/palmanova-pacheco.php",
+    "https://www.jasperarchitects.com/news/expo-real-estate-paraguay-2026.php",
+    "https://www.jasperarchitects.com/news/ladi-award-2026.php",
+    "https://www.jasperarchitects.com/news/palmanova-pacheco-awarded-2025-iada-platinum.php",
+    "https://ad-c.org/winner/palmanova-pacheco-platinum-winner-high-rise-skyscraper-architecture-category-iada-2025/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Prescriptor de torres residenciales y de oficinas de alta gama en Asunción (Palmanova, desarrollo de Grupo Palmanova/Katuete, ya perfilada en r2a-01); ofrecer COCO como línea de bachas y mesadas UHPC finas y livianas para unidades premium y áreas comunes.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Gran escala y gama alta en Asunción, contacto verificado; estética sin evidencia de concreto visto; total 69/100."
+   },
+   "pendiente_verificar": "Instagram: seguidores y últimos posts no legibles (WebFetch 429; curl devuelve shell sin datos). LinkedIn 403. Facebook y Google Maps no leídos. Teléfono propio de Asunción no publicado (solo el de Berlín). Estado de obra de Palmanova Center no confirmado en fuente propia.",
+   "actividad_reciente": {
+    "fecha": "2026-06",
+    "evidencia": "Martin Jasper en panel Expo Real Estate Paraguay 2026 (23-jun); LADI Award 2026 para Palmanova Center (gala 21-may-2026).",
+    "url": "https://www.jasperarchitects.com/news/expo-real-estate-paraguay-2026.php"
+   },
+   "proyectos_en_curso": [
+    {
+     "nombre": "Palmanova Pacheco",
+     "tipo": "uso mixto/residencial, 12.000 m2",
+     "etapa": "en obra",
+     "unidades": null,
+     "link": "https://www.jasperarchitects.com/projects/palmanova-pacheco.php"
+    },
+    {
+     "nombre": "Palmanova Center",
+     "tipo": "2 torres residenciales + 2 de oficinas, 200.000 m2",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://www.jasperarchitects.com/news/ladi-award-2026.php"
+    }
+   ],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "No se vieron interiores de baños/cocinas en las páginas leídas."
+   },
+   "materiales_y_proveedores_visibles": "No hay marcas visibles; gimnasio de 276 m2, pista elevada de 120 m y jardines verticales en Palmanova Pacheco.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": true,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 20,
+    "gama": 17,
+    "accesibilidad": 12,
+    "oportunidad_inmediata": 8,
+    "total": 69
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: diseño contemporáneo, biofílico y premiado, pero sin evidencia de concreto visto ni de materiales nobles.",
+    "volumen": "20/25: Palmanova Center de 200.000 m2 y Pacheco de 12.000 m2; equipo de 16 y 4 oficinas.",
+    "gama": "17/20: torres premium en Villa Morra y proyectos premiados en gala latinoamericana.",
+    "accesibilidad": "12/15: email de la oficina de Asunción y decisor (Martin Jasper) en la web propia; sin teléfono ni WhatsApp de Asunción ni Instagram legible.",
+    "oportunidad_inmediata": "8/10: Palmanova Pacheco en obra y Palmanova Center por arrancar; entra equipamiento de baños/cocinas."
+   },
+   "notas_investigacion": "Datos de ronda 1 confirmados: 'Palmanova Villa Morra' = Palmanova Pacheco (Pacheco y Tte. Zotti). Leído por WebFetch: home, /contact.php, /profile.php, /projects.php, páginas de Palmanova Pacheco, noticias IADA 2025, LADI 2026 y Expo Real Estate Paraguay 2026. Email de Asunción info@asu.jasperarchitects.com y dirección en contact.php; el único teléfono publicado es el de Berlín +49 30 97002593 (no se registra como contacto en PY). Instagram jasperarchitects: 429 por WebFetch, curl 200 pero solo shell sin bio; LinkedIn 403; Facebook no abierto. Prensa: 2 búsquedas (WebSearch + notas del sitio); ABC aporta datos de Matter (otro desarrollo, no Jasper). Portales: ad-c.org (IADA); world-architects tiene ficha de Berlín. La web describe el LADI como Palmanova Center del developer 'Grupo Palanova' (ortografía de la fuente). No es constructora/desarrolladora."
+  },
+  {
+   "nombre": "Bracco Arquitectos (Bracco Orlando Bracco Arquitectos; Leonardo Bracco)",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Estudio citado por prensa como autor de Torres de Altea (50 deptos en 2 torres, Av. Santa Teresa y Capitán Denis Roa) y de Torre de las Américas (corporativa, 18 pisos, Villa Morra, con Andrés Lauw), ambas de FANAL. No se halló web, redes ni actividad posterior a 2018.",
+   "tipo_proyectos": [
+    "edificios en altura",
+    "residencial",
+    "corporativo"
+   ],
+   "estilo": "Edificios de alta densidad; premium según prensa (Torres de Altea).",
+   "proyectos_destacados": [
+    {
+     "nombre": "Torres de Altea",
+     "anio": null,
+     "link": "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano"
+    },
+    {
+     "nombre": "Torre de las Américas",
+     "anio": 2018,
+     "link": "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin material de proyecto leído."
+   },
+   "tamano_aprox": "Desconocido.",
+   "decisores": [
+    {
+     "nombre": "Leonardo Bracco",
+     "cargo": "Arquitecto (Bracco Orlando Bracco Arquitectos)",
+     "fuente": "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra (prensa 2018, no verificado en fuente propia)"
+    }
+   ],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra",
+    "https://infonegocios.com.py/amp/infomicasa/torres-de-altea-vacaciones-en-tu-hogar-365-dias-al-ano"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "baja",
+   "angulo_venta_coco": "Sin canal propio localizable; mejor llegar a través de la desarrolladora/constructora de sus edificios.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Sin presencia ni actividad visible desde 2018; total 24/100."
+   },
+   "pendiente_verificar": "Web, redes y contactos no hallados.",
+   "descartada": true,
+   "motivo_descarte": "Sin web, redes ni contactos propios; última actividad visible en prensa 2018. No se puede confirmar que esté activa.",
+   "actividad_reciente": {
+    "fecha": "2018-04",
+    "evidencia": "Nota Infonegocios de Torre de las Américas (16-abr-2018).",
+    "url": "https://infonegocios.com.py/amp/default/torre-de-las-americas-sofisticado-edificio-corporativo-en-el-eje-de-villa-morra"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Sin material."
+   },
+   "materiales_y_proveedores_visibles": "No listados.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 6,
+    "gama": 12,
+    "accesibilidad": 0,
+    "oportunidad_inmediata": 0,
+    "total": 24
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: sin material visual propio.",
+    "volumen": "6/25: dos edificios grandes conocidos (50 deptos; 18 pisos), de 2017-2018.",
+    "gama": "12/20: Torres de Altea y torre corporativa en Villa Morra, gama media-alta según prensa.",
+    "accesibilidad": "0/15: sin contactos publicados; decisor solo en prensa.",
+    "oportunidad_inmediata": "0/10: sin obras en curso conocidas."
+   },
+   "notas_investigacion": "Sin link de entrada. Ya figura como candidato en r2a-01 y r2b-06 (donde FANAL/Torre de las Américas se marcó descartada). No se creó duplicada_de porque no está perfilada como empresa en r2a. Búsquedas: WebSearch (3 variantes) y Bing por curl solo devuelven el grupo médico Bracco y homónimos; dominios braccoarquitectos.com(.py), bracco.com.py, bobarquitectos.com(.py) no resuelven (curl 000); arquitectos.com.py sin resultados. Prensa leída: Infonegocios (Torre de las Américas, Torres de Altea). Instagram, Facebook, LinkedIn y Maps no hallados."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Benítez Bittar Constructora",
+   "link": "https://infonegocios.com.py/infomicasa/life-villa-morra-realizo-su-apertura-oficial-con-el-100-de-sus-unidades-vendidas",
+   "ciudad": "Asunción",
+   "segmento": "constructora"
+  },
+  {
+   "nombre": "Bonini Arquitectos (colaboró con OCA en Luque)",
+   "link": "https://www.archdaily.com/770901/centro-de-desenvolvimento-comunitario-oca-plus-bonini",
+   "ciudad": "Gran Asunción",
+   "segmento": "estudio_arquitectura"
+  }
+ ]
+}
