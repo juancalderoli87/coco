@@ -1,0 +1,523 @@
+{
+ "lote": "r2b-17",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "nombre": "Maya Mac Lean Design",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "direccion": "Showroom Asunción: Julio Correa 469 (https://mayamacleandesign.com/sobre-nosotros/). También La Paz (Enrique Peñaranda N1034) y Cochabamba (Parque Fidel Anze esq. pje. Las Brisas, Edif. 929), Bolivia.",
+   "anio_fundacion": null,
+   "que_hacen": "Marca boliviana de interiorismo y mobiliario exclusivo a medida, de fabricación artesanal (fábrica en Cochabamba), con más de 30 años de trayectoria según su web. Abrió presencia en Asunción (showroom en Julio Correa 469, anunciado para marzo 2025) liderada desde Asunción por Clarissa Cingolani Mac Lean; ~80% de sus proyectos son residenciales y también hace lobbies y líneas para tiendas, restaurantes y hoteles.",
+   "tipo_proyectos": [
+    "residencial",
+    "lobbies de edificios",
+    "mobiliario a medida",
+    "comercial/hotelero"
+   ],
+   "estilo": "Contemporáneo cálido y atemporal: tonos neutros, maderas nobles (roble), formas orgánicas, texturas y tapices. No minimalista-industrial; no hormigón visible en lo leído.",
+   "proyectos_destacados": [
+    {
+     "nombre": "CASACOR Bolivia 2026 - Etérea (loft)",
+     "anio": 2026,
+     "link": "https://mayamacleandesign.com/departamentos-modelo/"
+    },
+    {
+     "nombre": "Central Park Classic III (departamento modelo)",
+     "anio": null,
+     "link": "https://mayamacleandesign.com/residenciales/"
+    },
+    {
+     "nombre": "Lobby Central Park",
+     "anio": null,
+     "link": "https://mayamacleandesign.com/bosque-norte-i/"
+    },
+    {
+     "nombre": "Estilo & Espacios 2025 - Ukiyo",
+     "anio": 2025,
+     "link": "https://mayamacleandesign.com/lobbies/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Las páginas de proyectos de mayamacleandesign.com describen madera, roble, textiles y tonos neutros; no hay hormigón ni microcemento mencionado."
+   },
+   "tamano_aprox": "Pequeña-mediana: fábrica propia en Cochabamba, 3 locales (La Paz, Cochabamba, Asunción); equipo no publicado.",
+   "decisores": [
+    {
+     "nombre": "Clarissa Cingolani Mac Lean",
+     "cargo": "Fundadora y Directora Creativa; lidera la expansión desde Asunción",
+     "fuente": "https://mayamacleandesign.com/sobre-nosotros/"
+    },
+    {
+     "nombre": "Maya Mac Lean",
+     "cargo": "Fundadora y Directora Creativa (Bolivia)",
+     "fuente": "https://mayamacleandesign.com/sobre-nosotros/"
+    }
+   ],
+   "web": "https://mayamacleandesign.com/",
+   "instagram": "https://www.instagram.com/mayamacleandesign/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/mayamacleandesignbolivia",
+   "linkedin": null,
+   "email": "cicsm.mmd@gmail.com (Bolivia/general; https://mayamacleandesign.com/nuestros-servicios/)",
+   "telefono": "+595 982 400 017 y +595 982 900 983 (Paraguay; https://mayamacleandesign.com/sobre-nosotros/)",
+   "whatsapp": null,
+   "fuentes": [
+    "https://mayamacleandesign.com/",
+    "https://mayamacleandesign.com/sobre-nosotros/",
+    "https://mayamacleandesign.com/nuestros-servicios/",
+    "https://mayamacleandesign.com/residenciales/",
+    "https://mayamacleandesign.com/lobbies/",
+    "https://mayamacleandesign.com/departamentos-modelo/",
+    "https://mayamacleandesign.com/bosque-norte-i/",
+    "https://infonegocios.com.py/infomicasa/maya-mac-lean-design-firma-de-mobiliario-con-inspiracion-europea-llega-a-paraguay-con-su-primer-showroom-en-asuncion"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Mobiliario a medida de alta gama con lobbies y línea comercial: COCO puede proveer tapas de mesa, mesas de centro/laterales y piezas de acento en UHPC para sumar una categoría en piedra/concreto liviano a sus colecciones. No trabajan baños ni cocinas, así que es canal de mobiliario, no de bachas.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "48/100: gama alta y contacto Paraguay verificado, pero estilo cálido-madera, sin baños/cocinas y volumen pequeño en Paraguay."
+   },
+   "pendiente_verificar": "Instagram bloqueado (HTTP 429/login): seguidores, último post y temas sin leer. Facebook y Google Maps no cargan: reseñas sin dato. No se confirmó que el showroom de Julio Correa 469 esté abierto (solo anuncio de feb-2025 y dirección en su web). WhatsApp de Paraguay no publicado (los wa.me de la web son números de Bolivia).",
+   "actividad_reciente": {
+    "fecha": "2026-07",
+    "evidencia": "Web propia con © 2026, archivos subidos en 2026/07 y proyecto CASACOR Bolivia 2026; presencia en Asunción descrita en la web.",
+    "url": "https://mayamacleandesign.com/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Su oferta es living, comedor, terraza, dormitorio y accesorios; no hay baños ni cocinas en el sitio."
+   },
+   "materiales_y_proveedores_visibles": "Maderas nobles (roble), textiles, tapices; en la nota de prensa también mármol. Sin marcas de grifería o bachas.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 6,
+    "gama": 15,
+    "accesibilidad": 11,
+    "oportunidad_inmediata": 2,
+    "total": 48
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: líneas orgánicas, tonos neutros y madera afinan con lo contemporáneo, pero no hay hormigón visto ni minimalismo duro.",
+    "volumen": "6/25: fábrica en Cochabamba y un showroom en Asunción; sin cifras de obras ni equipo publicadas.",
+    "gama": "15/20: marca de lujo según la nota de Infonegocios y su propia web (mobiliario exclusivo, CASACOR).",
+    "accesibilidad": "11/15: dos teléfonos de Paraguay y email en la web propia, decisora (Clarissa Cingolani) nombrada en la web; falta WhatsApp de Paraguay.",
+    "oportunidad_inmediata": "2/10: sin proyectos en curso visibles ni baños/cocinas; solo posibles piezas de mobiliario."
+   },
+   "notas_investigacion": "Leídos con curl (WebFetch no usado en la web): mayamacleandesign.com home, /sobre-nosotros/, /nuestros-servicios/, /residenciales/, /lobbies/, /departamentos-modelo/, /bosque-norte-i/, /calacoto-12/, /arvore-ii/. /contacto/ da 404. Teléfonos de Paraguay (+595 982 400 017, +595 982 900 983) y dirección de Asunción salen de /sobre-nosotros/. El email cicsm.mmd@gmail.com figura en el footer de /nuestros-servicios/ junto a la fábrica de Cochabamba (es contacto general, no específico de Paraguay). Los enlaces wa.me de la web son +591 78007230 (Bolivia, uno mal formado como wa.me/78007230) y un wa.me/message/H4SEXFTOS5YMJ1 sin número visible: no se registra WhatsApp. La nota de Infonegocios (18-feb-2025, firmada LA) no trae teléfonos ni web. Fallaron: Instagram (429 en WebFetch; con curl devuelve la página de login sin datos), Facebook (login), LinkedIn (403), Google Maps (no carga), wp-json (406). Búsquedas de prensa: 2 en WebSearch sin notas posteriores a feb-2025; ArchDaily/Archello/Divisare sin resultados. Los proyectos publicados son sobre todo de Bolivia (CASACOR Bolivia 2026, Central Park); no se vio una obra paraguaya concreta. No aplica DNCP ni portales inmobiliarios (no es constructora ni desarrolladora)."
+  },
+  {
+   "nombre": "U Decora Py",
+   "segmento": "interiorismo",
+   "ciudad": "Lambaré",
+   "region": "Gran Asunción",
+   "direccion": "Casa central y fábrica: Manuel González c/ Gabino Mendoza, Lambaré (no_verificado: solo en prensa, Infonegocios 2023 y Última Hora 2022). Sucursales según prensa 2025: Encarnación, Ciudad del Este, San Bernardino y Coronel Oviedo.",
+   "anio_fundacion": null,
+   "que_hacen": "Fabricante paraguayo de muebles de ratán y cuerda náutica para jardín, piscina y exterior (juegos de living, hamacas, camastros), más líneas U Vital (parques infantiles) y U Decora Eventos. Nació en la pandemia sobre la base metalúrgica de la familia Uldera (desde 1990); vende por tiendas propias y envíos a todo el país.",
+   "tipo_proyectos": [
+    "mobiliario exterior residencial",
+    "piscinas y jardines",
+    "eventos",
+    "instituciones (escuelas)"
+   ],
+   "estilo": "Mobiliario de exterior en ratán y cuerda náutica, comercial y masivo; sin afinidad con minimalismo o concreto.",
+   "proyectos_destacados": [],
+   "usa_concreto_visto": {
+    "valor": "no",
+    "evidencia": "Las notas de prensa solo mencionan ratán, cuerda náutica, tricot náutico y estructuras metálicas."
+   },
+   "tamano_aprox": "Mediana: fábrica propia (reconstruida tras un incendio, Popular 8-oct-2025), casa central más 4 sucursales; 50 empleados en dic-2022 (40 en fábrica, 10 en sucursales).",
+   "decisores": [
+    {
+     "nombre": "Junior Uldera",
+     "cargo": "Propietario",
+     "fuente": "https://infonegocios.com.py/infomicasa/u-decora-py-se-prepara-para-lanzar-su-linea-de-mobiliarios-para-interior-y-abrir-mas-sucursales (prensa, no_verificado en fuente propia)"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/udecorapy/",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/u-decora-py-se-prepara-para-lanzar-su-linea-de-mobiliarios-para-interior-y-abrir-mas-sucursales",
+    "https://www.popular.com.py/2025/10/08/joven-emprendedor-resurgio-de-las-cenizas-tras-incendio-de-su-fabrica/",
+    "https://www.ultimahora.com/u-decora-apuesta-mano-obra-paraguaya-y-abre-nueva-sucursal-n3041269",
+    "https://www.ultimahora.com/u-decora-py-innova-nuevos-muebles-cuerda-nautica-n2999053",
+    "https://www.instagram.com/udecorapy/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Encaje débil: sus muebles son de ratán para exterior. Solo tendría sentido como cliente de mesas de exterior en UHPC (mesas de centro, tapas para juegos de jardín) si lanza una línea nueva.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "30/100: activa y con escala, pero producto masivo de ratán, sin contacto verificado en fuente propia y sin baños/cocinas."
+   },
+   "pendiente_verificar": "Instagram bloqueado: el handle @udecorapy existe (aparece en los resultados del buscador) pero no se leyó bio, teléfono, link ni posts. Un resultado de buscador indica ~127K seguidores, no verificado. Sin web propia encontrada. Teléfono (0982) 331-932 aparece solo en prensa (no_verificado).",
+   "actividad_reciente": {
+    "fecha": "2025-10",
+    "evidencia": "Nota de Popular (8-oct-2025): reinauguró su fábrica tras un incendio y opera 4 sucursales.",
+    "url": "https://www.popular.com.py/2025/10/08/joven-emprendedor-resurgio-de-las-cenizas-tras-incendio-de-su-fabrica/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Vende muebles de exterior, hamacas y mobiliario de piscina; ninguna nota menciona baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Ratán, cuerda náutica, tricot náutico, estructuras metálicas. Sin marcas de terceros.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 6,
+    "volumen": 12,
+    "gama": 6,
+    "accesibilidad": 4,
+    "oportunidad_inmediata": 2,
+    "total": 30
+   },
+   "puntaje_justificacion": {
+    "estetica": "6/30: ratán y cuerda náutica de exterior, sin relación con hormigón ni minimalismo.",
+    "volumen": "12/25: 50 empleados (2022), fábrica propia y casa central más 4 sucursales; ventas masivas a todo el país.",
+    "gama": "6/20: público medio, con pago en cuotas y envío gratis (Infonegocios), no premium.",
+    "accesibilidad": "4/15: dueño nombrado solo en prensa, el Instagram existe, pero no hay teléfono ni email en fuente propia.",
+    "oportunidad_inmediata": "2/10: anunció una línea de interior (2023) sin datos de lanzamiento; sin obras ni baños/cocinas."
+   },
+   "notas_investigacion": "Leídas: Infonegocios (9-feb-2023), Última Hora (28-abr-2022 y 30-dic-2022), Popular (8-oct-2025), Threads (solo título). Instagram: WebFetch 429; curl devuelve la página de login sin datos. Facebook /udecorapy (login, sin datos), LinkedIn no probado (sin página oficial), Google Maps no cargó. Probé udecora.com.py, udecorapy.com, udecorapy.com.py, udecora.py: no resuelven (sin web propia). Ronda 1 la ubicaba en Asunción: la casa central y fábrica está en Lambaré (según prensa). No hay DNCP ni portales inmobiliarios aplicables (fabricante/retail). La dirección y el teléfono (0982) 331-932 figuran en prensa; no_verificado."
+  },
+  {
+   "nombre": "Caderode / Mobiliarte",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "duplicada_de": "Florense Asunción (Mobiliarte)",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Caderode es una marca brasileña de mobiliario planificado y a medida; Mobiliarte es su revendedor autorizado en Paraguay (Infonegocios, 10-ago-2026). Mobiliarte es la misma empresa ya perfilada como Florense Asunción (Mobiliarte) en r2a-08, que distribuye Caderode. No es una empresa aparte.",
+   "tipo_proyectos": [
+    "oficinas",
+    "residencias",
+    "hoteles",
+    "comercios"
+   ],
+   "estilo": "",
+   "proyectos_destacados": [
+    {
+     "nombre": "Oficinas del Gobierno, +20.000 m2 de divisorias modulares",
+     "anio": 2026,
+     "link": "https://infonegocios.com.py/y-ademas/mobiliario-de-estandar-internacional-a-precios-competitivos-la-propuesta-de-caderode-que-mobiliarte-desarrolla-a-medida-en-paraguay"
+    },
+    {
+     "nombre": "Río Hotel by Bourbon (Luque), recepción y cabeceras",
+     "anio": null,
+     "link": "https://infonegocios.com.py/y-ademas/mobiliario-de-estandar-internacional-a-precios-competitivos-la-propuesta-de-caderode-que-mobiliarte-desarrolla-a-medida-en-paraguay"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Ver ficha de Florense Asunción (Mobiliarte) en r2a-08."
+   },
+   "tamano_aprox": "Ver r2a-08.",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://infonegocios.com.py/y-ademas/mobiliario-de-estandar-internacional-a-precios-competitivos-la-propuesta-de-caderode-que-mobiliarte-desarrolla-a-medida-en-paraguay",
+    "/home/user/coco/prospeccion/datos/ronda2/r2a-08.json"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "Ver la ficha de Florense Asunción (Mobiliarte) en r2a-08.",
+   "fit_preliminar": {
+    "nivel": "B",
+    "motivo": "Duplicada: el fit B (59/100) corresponde a la ficha de Florense Asunción (Mobiliarte) en r2a-08."
+   },
+   "pendiente_verificar": "",
+   "actividad_reciente": {
+    "fecha": "2026-08",
+    "evidencia": "Nota de Infonegocios del 10-ago-2026 sobre Caderode/Mobiliarte.",
+    "url": "https://infonegocios.com.py/y-ademas/mobiliario-de-estandar-internacional-a-precios-competitivos-la-propuesta-de-caderode-que-mobiliarte-desarrolla-a-medida-en-paraguay"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "Ver r2a-08."
+   },
+   "materiales_y_proveedores_visibles": "Tapas de 18 y 25 mm con canto de PVC (Caderode); ver r2a-08 para Florense, Herman Miller y Belgotex.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 15,
+    "gama": 16,
+    "accesibilidad": 10,
+    "oportunidad_inmediata": 4,
+    "total": 59
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: copiado de r2a-08 (Florense Asunción / Mobiliarte).",
+    "volumen": "15/25: copiado de r2a-08.",
+    "gama": "16/20: copiado de r2a-08.",
+    "accesibilidad": "10/15: copiado de r2a-08; los contactos verificados están en esa ficha.",
+    "oportunidad_inmediata": "4/10: copiado de r2a-08."
+   },
+   "notas_investigacion": "La nota de Infonegocios (WebFetch, 10-ago-2026) dice que Caderode es marca brasileña y Mobiliarte su revendedor autorizado en Paraguay, con los mismos proyectos (divisorias de las Oficinas de Gobierno, Río Hotel by Bourbon) que r2a-08 atribuye a Florense Asunción (Mobiliarte), que a su vez lista a Caderode entre sus marcas. La nota no incluye contactos ni menciona Florense; la identidad se confirma por el nombre Mobiliarte y los proyectos coincidentes. No se repitió el recorrido: ver r2a-08. Ronda 1 trataba a Caderode como empresa separada; es una marca representada por Mobiliarte."
+  },
+  {
+   "nombre": "Eugenia Alonso (diseñadora de interiores freelance, Buenos Aires)",
+   "segmento": "interiorismo",
+   "ciudad": "Buenos Aires (Argentina)",
+   "region": "Fuera de Paraguay",
+   "descartada": true,
+   "motivo_descarte": "No es una empresa paraguaya: es una diseñadora freelance con base en Buenos Aires (perfil de Contra). La sede logística de Asunción (2024) la hizo trabajando para Contract Workplaces; no hay estudio propio en Paraguay ni contacto comercial publicado. La empresa Contract Workplaces Paraguay se agrega a candidatos_extra.",
+   "direccion": null,
+   "anio_fundacion": null,
+   "que_hacen": "Diseñadora de interiores en Contra: sede de una empresa de logística en Asunción (2.295 m2, ago-dic 2024, rol de diseño conceptual y documentación, para Contract Workplaces), oficinas ejecutivas de un banco panameño, un venture capital en Buenos Aires y una residencia universitaria.",
+   "tipo_proyectos": [
+    "corporativo"
+   ],
+   "estilo": "",
+   "proyectos_destacados": [
+    {
+     "nombre": "Logistics Company Headquarters Interior Design (Asunción)",
+     "anio": 2024,
+     "link": "https://contra.com/p/LmqEqUBX-logistics-company-headquarters-interior-design"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": ""
+   },
+   "tamano_aprox": "Profesional individual (freelance); 4 seguidores en Contra.",
+   "decisores": [],
+   "web": null,
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "fuentes": [
+    "https://contra.com/p/LmqEqUBX-logistics-company-headquarters-interior-design",
+    "https://contra.com/eugenia_alonso/work"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "alta",
+   "angulo_venta_coco": "",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Descartada: profesional en Argentina sin empresa en Paraguay (17/100)."
+   },
+   "pendiente_verificar": "",
+   "actividad_reciente": {
+    "fecha": "2025-10",
+    "evidencia": "Publicación del proyecto en Contra el 19-oct-2025.",
+    "url": "https://contra.com/p/LmqEqUBX-logistics-company-headquarters-interior-design"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Proyectos corporativos."
+   },
+   "materiales_y_proveedores_visibles": "",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 5,
+    "volumen": 2,
+    "gama": 8,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 0,
+    "total": 17
+   },
+   "puntaje_justificacion": {
+    "estetica": "5/30: solo portfolio corporativo, sin evidencia de concreto.",
+    "volumen": "2/25: profesional individual.",
+    "gama": "8/20: oficinas corporativas, sin datos de público premium.",
+    "accesibilidad": "2/15: solo mensajes dentro de Contra; sin email ni teléfono.",
+    "oportunidad_inmediata": "0/10: sin proyectos en curso."
+   },
+   "notas_investigacion": "Leídos: página del proyecto y perfil en Contra (WebFetch). El perfil dice Buenos Aires, Argentina; el proyecto de Asunción fue para Contract Workplaces. Búsqueda de LinkedIn/estudio propio sin resultados. No se hizo el recorrido completo (descartada). Contract Workplaces Paraguay (diseño y construcción de oficinas, Infonegocios) queda como candidata extra."
+  },
+  {
+   "nombre": "G+P Arquitectos",
+   "segmento": "estudio_arquitectura",
+   "ciudad": "Asunción",
+   "region": "Gran Asunción",
+   "descartada": true,
+   "motivo_descarte": "Sin actividad visible verificable en los últimos ~18 meses: el último proyecto del portfolio es de nov-2020, las noticias del sitio llegan hasta 2018, la prensa es de 2020 y no apareció ninguna nota ni obra de 2021 en adelante. La web sigue en línea con contactos. Instagram y Facebook no se pudieron leer, así que podría estar activa solo en redes; revisar a mano antes de descartar del todo.",
+   "direccion": "Fortín Toledo 547 c/ Avda. Perú, Asunción (https://gmasp.com.py/contacto/)",
+   "anio_fundacion": 2010,
+   "que_hacen": "Estudio de arquitectura y constructora de dos socios (Alberto Galeano y Diego Plett Ramírez) que diseña y construye proyectos residenciales, comerciales e industriales; desarrolla las líneas Aparts y Domum a través de la sociedad DEISA (creada en 2015 con otros inversionistas).",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios de departamentos",
+    "comercial",
+    "institucional"
+   ],
+   "estilo": "Contemporáneo, 'pureza de las formas y contundencia funcional' según su web; sin datos de concreto visto.",
+   "proyectos_destacados": [
+    {
+     "nombre": "Cyrene Aparts (Jara, 10 unidades)",
+     "anio": 2020,
+     "link": "https://gmasp.com.py/portfolio-item/edificio-cyrene-aparts/"
+    },
+    {
+     "nombre": "Francesca Aparts (Recoleta, 16 unidades)",
+     "anio": 2018,
+     "link": "https://gmasp.com.py/portfolio-item/francesca-aparts/"
+    },
+    {
+     "nombre": "Vivienda A+V",
+     "anio": 2020,
+     "link": "https://gmasp.com.py/portfolio-item/vivienda-av/"
+    },
+    {
+     "nombre": "Vivienda S+F",
+     "anio": 2020,
+     "link": "https://gmasp.com.py/portfolio-item/vivienda-sf/"
+    },
+    {
+     "nombre": "CASACOR (bar del Brooklyn Hotel)",
+     "anio": 2018,
+     "link": "https://gmasp.com.py/portfolio-item/casacor/"
+    }
+   ],
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "El portfolio no trae descripciones de materiales."
+   },
+   "tamano_aprox": "Pequeña: dos socios y un grupo de jóvenes profesionales; edificios de 10 a 16 unidades (inversión de 1 a 1,5 millones de dólares cada uno, prensa 2020).",
+   "decisores": [
+    {
+     "nombre": "Alberto Galeano",
+     "cargo": "Arquitecto, socio",
+     "fuente": "https://gmasp.com.py/nosotros/"
+    },
+    {
+     "nombre": "Diego Plett Ramírez",
+     "cargo": "Arquitecto, socio",
+     "fuente": "https://gmasp.com.py/nosotros/"
+    }
+   ],
+   "web": "https://gmasp.com.py/",
+   "instagram": "https://www.instagram.com/gmasp.arq/",
+   "seguidores_ig": null,
+   "facebook": "https://www.facebook.com/gmasp.arq/",
+   "linkedin": null,
+   "email": "recepcion@gmasp.com.py (https://gmasp.com.py/contacto/)",
+   "telefono": "(021) 234 315 (https://gmasp.com.py/contacto/)",
+   "whatsapp": null,
+   "fuentes": [
+    "https://gmasp.com.py/",
+    "https://gmasp.com.py/nosotros/",
+    "https://gmasp.com.py/contacto/",
+    "https://gmasp.com.py/portfolio/",
+    "https://gmasp.com.py/noticias/",
+    "https://infonegocios.com.py/infomicasa/alberto-galeano-asuncion-podria-volverse-una-gran-ciudad-cosmopolita-si-ajusta-las-tuercas-correctas",
+    "https://revistaplus.com.py/2020/07/20/gp-arquitectos-conceptos-vanguardistas-y-funcionalidad-en-desarrollo-de-emprendimientos-inmobiliarios/",
+    "https://www.lanacion.com.py/negocios_edicion_impresa/2020/07/10/firma-de-arquitectos-avanza-con-conceptos-vanguardistas/"
+   ],
+   "fecha_verificacion": "2026-11-13",
+   "confianza": "media",
+   "angulo_venta_coco": "Si siguiera activa: baños y cocinas de sus edificios Aparts/Domum de gama media-alta, con bachas y mesadas UHPC como diferencial. Hoy no hay obra visible.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "44/100 y sin actividad verificable reciente; contactos sí verificados."
+   },
+   "pendiente_verificar": "Instagram (429/login) y Facebook (login) no se pudieron leer: confirmar si publican obras actuales. Arminda Aparts y Valentina Aparts (previstos 2021) sin rastro posterior. Google Maps no cargó.",
+   "actividad_reciente": {
+    "fecha": "2020-11",
+    "evidencia": "Último proyecto del portfolio (Cyrene Aparts, 27-nov-2020); último artículo de prensa en julio de 2020. La web muestra © 2025 (puede ser automático).",
+    "url": "https://gmasp.com.py/portfolio-item/edificio-cyrene-aparts/"
+   },
+   "proyectos_en_curso": [],
+   "banos_cocinas_protagonistas": {
+    "valor": "desconocido",
+    "evidencia": "El portfolio no muestra baños ni cocinas."
+   },
+   "materiales_y_proveedores_visibles": "Ninguno visible.",
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "contactos_verificados": {
+    "telefono": true,
+    "email": true,
+    "whatsapp": false,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 14,
+    "volumen": 6,
+    "gama": 10,
+    "accesibilidad": 14,
+    "oportunidad_inmediata": 0,
+    "total": 44
+   },
+   "puntaje_justificacion": {
+    "estetica": "14/30: lenguaje contemporáneo declarado en la web, sin evidencia de concreto visto.",
+    "volumen": "6/25: dos socios y edificios de 10 a 16 unidades; sin obra visible desde 2020.",
+    "gama": "10/20: departamentos desde US$ 90.000 a 150.000 (prensa 2020), medio-alto.",
+    "accesibilidad": "14/15: teléfono y email en la web propia, dos socios nombrados en /nosotros/; falta WhatsApp.",
+    "oportunidad_inmediata": "0/10: ningún proyecto en curso o en venta confirmado."
+   },
+   "notas_investigacion": "Leídos con curl: gmasp.com.py home, /nosotros/, /contacto/, /noticias/, /portfolio/ y 7 fichas de proyecto. wp-json: la última entrada es de 2018. Prensa leída: Infonegocios, Revista Plus y La Nación (todas 2020); una nota de Última Hora figura con fecha 15-jul-2026 pero repite el texto de 2020, se la trata como mal fechada. Búsquedas con Diego Plett, Alberto Galeano, Arminda, Valentina, Domum y DEISA sin resultados posteriores a 2021. Instagram devuelve la página de login; Facebook pide login; Google Maps no cargó. ArchDaily/Archello sin resultados. La ronda 1 la clasificaba como interiorismo; es estudio de arquitectura y constructora. DNCP no revisado a fondo (sin obra pública declarada, salvo fiscalización de un hospital privado)."
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Contract Workplaces Paraguay (diseño y construcción de oficinas corporativas)",
+   "link": "https://infonegocios.com.py/nota-principal/contract-workplaces-disenando-oficinas-corporativas-de-primer-nivel",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  }
+ ]
+}
