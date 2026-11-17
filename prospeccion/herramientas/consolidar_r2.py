@@ -97,7 +97,7 @@ for pid in sorted(emp):
     ar = c.get("actividad_reciente") or {}
     dec = "; ".join(f'{x.get("nombre")} ({x.get("cargo")})' for x in (c.get("decisores") or []) if x.get("nombre"))
     fuentes = [u for u in (c.get("fuentes") or []) if u]
-    segs = SEG.get(c.get("segmento"), c.get("segmento") or "")
+    segs = SEG.get(c.get("segmento"), "Otro")
     det = f'Est {pt.get("estetica", 0)} · Vol {pt.get("volumen", 0)} · Gama {pt.get("gama", 0)} · Acc {pt.get("accesibilidad", 0)} · Op {pt.get("oportunidad_inmediata", 0)}'
     rows.append([f"'{pid}", cut(c["nombre"], 80), segs, cut(c.get("ciudad"), 40),
                  val(fit.get("nivel")), cut(fit.get("motivo"), 140), cut(c.get("que_hacen"), 170),
