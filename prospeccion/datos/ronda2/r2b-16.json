@@ -1,0 +1,488 @@
+{
+ "lote": "r2b-16",
+ "fecha": "2026-11-13",
+ "empresas": [
+  {
+   "direccion": null,
+   "anio_fundacion": 2022,
+   "decisores": [
+    {
+     "nombre": "Alessandra Riera",
+     "cargo": "Arquitecta fundadora / diseñadora",
+     "fuente": "https://linktr.ee/form.py"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/form.paraguay",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": "+595981456890",
+   "proyectos_destacados": [
+    {
+     "nombre": "Red de showrooms Automotor",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infobrand/form-el-estudio-de-arquitectura-comercial-que-disena-el-espacio-donde-sucede-la-marca"
+    },
+    {
+     "nombre": "Local mas grande de Banco Interfisa",
+     "anio": null,
+     "link": "https://infonegocios.com.py/infobrand/form-el-estudio-de-arquitectura-comercial-que-disena-el-espacio-donde-sucede-la-marca"
+    }
+   ],
+   "proyectos_en_curso": [],
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "fecha_verificacion": "2026-11-13",
+   "region": "Gran Asunción",
+   "nombre": "Form (arquitectura comercial)",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "que_hacen": "Estudio de arquitectura comercial y corporativa que disena espacios para marcas: retail, showrooms, oficinas y gastronomia. Trabaja proyecto integral desde brief y relevamiento hasta ejecucion y entrega.",
+   "tipo_proyectos": [
+    "comercial",
+    "corporativo",
+    "retail",
+    "showrooms",
+    "gastronómico"
+   ],
+   "estilo": "Contemporaneo comercial, orientado a identidad de marca",
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "No se leyo portfolio propio; Instagram bloqueado (429/login)."
+   },
+   "tamano_aprox": "Pequeno (estudio liderado por una arquitecta)",
+   "fuentes": [
+    "https://linktr.ee/form.py",
+    "https://infonegocios.com.py/infobrand/form-el-estudio-de-arquitectura-comercial-que-disena-el-espacio-donde-sucede-la-marca"
+   ],
+   "confianza": "media",
+   "angulo_venta_coco": "Bachas y mesadas UHPC para sanitarios y barras de locales comerciales y oficinas que disena; entrar como proveedor de piezas de marca.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Contacto directo verificado pero foco comercial/corporativo, no residencial."
+   },
+   "pendiente_verificar": "Instagram (seguidores, ultimos posts, uso de concreto) no se pudo leer. Email existe en la nota de Infonegocios pero esta protegido/ilegible: no_verificado. Web propia no encontrada (form.com.py redirige al linktree).",
+   "actividad_reciente": {
+    "fecha": null,
+    "evidencia": "Nota de prensa InfoBrand (fecha no visible) y linktree vigente; sin fecha de ultimo post.",
+    "url": "https://linktr.ee/form.py"
+   },
+   "banos_cocinas_protagonistas": {
+    "valor": "no",
+    "evidencia": "Proyectos comerciales; no aparecen banos/cocinas como foco."
+   },
+   "materiales_y_proveedores_visibles": "No visible.",
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": true,
+    "instagram": true
+   },
+   "puntaje": {
+    "estetica": 12,
+    "volumen": 8,
+    "gama": 12,
+    "accesibilidad": 9,
+    "oportunidad_inmediata": 3,
+    "total": 44
+   },
+   "puntaje_justificacion": {
+    "estetica": "12/30: arquitectura comercial/corporativa (retail, showrooms, oficinas); no hay evidencia leida de hormigon visto ni de banos/cocinas.",
+    "volumen": "8/25: estudio creado en 2022 con una fundadora; cartera de showrooms Automotor y sucursal Interfisa segun Infonegocios, escala media.",
+    "gama": "12/20: clientes corporativos/financieros y automotrices, medio-alto.",
+    "accesibilidad": "9/15: WhatsApp e Instagram publicados en el linktree propio; decisora identificada (Arq. Alessandra Riera); sin email legible ni telefono fijo.",
+    "oportunidad_inmediata": "3/10: sin obras en curso identificadas; solo sanitarios de locales/oficinas."
+   },
+   "notas_investigacion": "Leido: nota Infonegocios (fundacion 2022, Alessandra Riera, @form.paraguay); linktr.ee/form.py (www.form.com.py redirige ahi) con WhatsApp wa.me/595981456890, Instagram y TikTok @form.paraguay y bio 'Arquitectura con pasion | Disenadora: Arq. Alessandra Riera'. Fallaron: Instagram (login/429), formparaguay.com (sin conexion), formpy.com (403, otro sitio). Facebook, LinkedIn, Google Maps y DNCP no aplican/no cargaron; archdaily/divisare sin resultados de Form. Region Gran Asuncion.",
+   "descartada": false
+  },
+  {
+   "direccion": null,
+   "anio_fundacion": 2013,
+   "decisores": [
+    {
+     "nombre": "Julio César Ortiz / Elizabeth Miranda",
+     "cargo": "Fundadores (segun prensa)",
+     "fuente": "https://infonegocios.com.py/default/cima-muebles-disena-y-fabrica-muebles-a-medida-para-el-hogar-o-la-oficina"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/cimamueblespy",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "proyectos_destacados": [],
+   "proyectos_en_curso": [],
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "fecha_verificacion": "2026-11-13",
+   "region": "Gran Asunción",
+   "nombre": "Cima Muebles",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "que_hacen": "Disena, fabrica y monta muebles a medida (cocinas, placares/vestidores, oficina, comerciales) en MDP. Empresa familiar que antes vendia insumos de carpinteria; clientes particulares y constructoras.",
+   "tipo_proyectos": [
+    "residencial",
+    "oficinas",
+    "comercial"
+   ],
+   "estilo": "Muebles a medida en MDP, estandar",
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portfolio leido."
+   },
+   "tamano_aprox": "Pequeno, familiar",
+   "fuentes": [
+    "https://infonegocios.com.py/default/cima-muebles-disena-y-fabrica-muebles-a-medida-para-el-hogar-o-la-oficina"
+   ],
+   "confianza": "baja",
+   "angulo_venta_coco": "Mesadas/bachas UHPC como upgrade para cocinas a medida que ya vende, via constructoras con las que trabaja.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Gama media, datos solo de prensa 2022."
+   },
+   "pendiente_verificar": "Telefonos (0992) 435-175 y (0992) 546-700 figuran solo en nota Infonegocios de mayo 2022: no_verificado. Instagram/Facebook no leidos. Actividad actual no confirmada. Direccion y web no encontradas.",
+   "actividad_reciente": {
+    "fecha": "2022-05",
+    "evidencia": "Nota Infonegocios; no se pudo confirmar actividad en los ultimos 18 meses.",
+    "url": "https://infonegocios.com.py/default/cima-muebles-disena-y-fabrica-muebles-a-medida-para-el-hogar-o-la-oficina"
+   },
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Cocinas son su producto principal (prensa)."
+   },
+   "materiales_y_proveedores_visibles": "MDP (segun prensa).",
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 5,
+    "gama": 5,
+    "accesibilidad": 3,
+    "oportunidad_inmediata": 2,
+    "total": 23
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: muebles a medida en MDP, estetica estandar; sin evidencia de concreto.",
+    "volumen": "5/25: empresa familiar pequena (2013), vende a particulares y constructoras.",
+    "gama": "5/20: gama media.",
+    "accesibilidad": "3/15: solo Instagram @cimamueblespy citado por prensa (no leido); telefonos solo en prensa (no_verificado).",
+    "oportunidad_inmediata": "2/10: sin proyectos identificados; cocinas son su fuerte."
+   },
+   "notas_investigacion": "Leida solo nota Infonegocios y 2 busquedas web. Fallaron: Instagram (login), dominios cimamueblespy.com y cimamueblespy.com.py (sin conexion). Cuidado: cimamuebles.com es una empresa mexicana (Tijuana), NO es esta; no se uso. Sin sitio propio hallado.",
+   "descartada": false
+  },
+  {
+   "direccion": "Avda. Artigas 2034, Asunción (segun prensa 2016, no_verificado)",
+   "anio_fundacion": 2015,
+   "decisores": [
+    {
+     "nombre": "Wildo Soto",
+     "cargo": "Fundador (segun prensa)",
+     "fuente": "https://infonegocios.com.py/default/serra-muebles-espacios-unicos-con-muebles-de-primer-nivel-1"
+    }
+   ],
+   "web": "www.serramuebles.com.py (citada en prensa; no carga)",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "facebook.com/serramuebles (citada en prensa; requiere login)",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "proyectos_destacados": [],
+   "proyectos_en_curso": [],
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "fecha_verificacion": "2026-11-13",
+   "region": "Gran Asunción",
+   "nombre": "SERRA Muebles",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "que_hacen": "Representante oficial en Paraguay de la marca brasilena SERRA Moveis; muebles a medida con modulos editables (cocinas, dormitorios) fabricados en Antonio Prado, Brasil. Atiende particulares y empresas.",
+   "tipo_proyectos": [
+    "residencial",
+    "corporativo"
+   ],
+   "estilo": "Muebles modulares a medida",
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portfolio leido."
+   },
+   "tamano_aprox": "Pequeno-mediano",
+   "fuentes": [
+    "https://infonegocios.com.py/default/serra-muebles-espacios-unicos-con-muebles-de-primer-nivel-1"
+   ],
+   "confianza": "baja",
+   "angulo_venta_coco": "Mesadas y bachas UHPC como complemento premium para cocinas y banos modulares.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Informacion de 2016, sin actividad reciente confirmada."
+   },
+   "pendiente_verificar": "Existencia actual: todo dato viene de nota de octubre 2016. Dominio serramuebles.com.py no responde. No confundir con Sierra Muebles PY (otra marca brasilena, Avda. San Martin 1311). Telefono, email, Instagram: no encontrados.",
+   "actividad_reciente": {
+    "fecha": "2016-10",
+    "evidencia": "Unica nota hallada, de 2016.",
+    "url": "https://infonegocios.com.py/default/serra-muebles-espacios-unicos-con-muebles-de-primer-nivel-1"
+   },
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Cocinas a medida mencionadas en prensa."
+   },
+   "materiales_y_proveedores_visibles": "MDF/MDP de SERRA Moveis.",
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 8,
+    "gama": 12,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 2,
+    "total": 34
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: cocinas y dormitorios modulares MDF/MDP, representante de SERRA Moveis; sin concreto.",
+    "volumen": "8/25: showroom propio y clientes particulares y empresas; escala media.",
+    "gama": "12/20: media-alta segun prensa 'primer nivel'.",
+    "accesibilidad": "2/15: sin contacto verificado; web y Facebook solo citados en prensa 2016.",
+    "oportunidad_inmediata": "2/10: sin proyectos identificados."
+   },
+   "notas_investigacion": "Leida solo nota Infonegocios 2016 + busquedas. Fallaron: serramuebles.com.py/.com/.com.br (sin conexion), Facebook (login). Posible inactiva; sin evidencia en 18 meses, no descartada formalmente por no poder probar inexistencia.",
+   "descartada": false
+  },
+  {
+   "direccion": "Alejo García N°147 c/ Domingo M. de Irala, Mariano Roque Alonso (segun prensa 2022, no_verificado)",
+   "anio_fundacion": 1981,
+   "decisores": [
+    {
+     "nombre": "Liz Páez",
+     "cargo": "Socia propietaria (segun prensa)",
+     "fuente": "https://infonegocios.com.py/infomicasa/alpa-le-pone-el-sello-de-la-sofisticacion-a-sus-muebles-de-madera-y-mdf"
+    },
+    {
+     "nombre": "Alcides Páez",
+     "cargo": "Fundador (segun prensa)",
+     "fuente": "https://infonegocios.com.py/infomicasa/alpa-le-pone-el-sello-de-la-sofisticacion-a-sus-muebles-de-madera-y-mdf"
+    }
+   ],
+   "web": null,
+   "instagram": "https://www.instagram.com/alpamuebles",
+   "seguidores_ig": null,
+   "facebook": null,
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "proyectos_destacados": [],
+   "proyectos_en_curso": [],
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "fecha_verificacion": "2026-11-13",
+   "region": "Gran Asunción",
+   "nombre": "Alpa Muebles",
+   "segmento": "interiorismo",
+   "ciudad": "Mariano Roque Alonso",
+   "que_hacen": "Fabrica muebles y aberturas a medida en madera y MDF: cocinas (producto estrella), placares, muebles de TV, bar, oficina y de bano, con hierro, acero inox, vidrio y espejos.",
+   "tipo_proyectos": [
+    "residencial",
+    "oficinas"
+   ],
+   "estilo": "Madera/MDF a medida, terminaciones cuidadas",
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "Sin portfolio leido."
+   },
+   "tamano_aprox": "Taller familiar",
+   "fuentes": [
+    "https://infonegocios.com.py/infomicasa/alpa-le-pone-el-sello-de-la-sofisticacion-a-sus-muebles-de-madera-y-mdf"
+   ],
+   "confianza": "baja",
+   "angulo_venta_coco": "Bachas y tapas UHPC para sus muebles de bano y cocina, combinadas con madera.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Taller pequeno, datos de 2022."
+   },
+   "pendiente_verificar": "Telefono (0992) 285-050 solo en prensa sept 2022: no_verificado. Instagram/Facebook sin leer. Actividad actual no confirmada. Sin web.",
+   "actividad_reciente": {
+    "fecha": "2022-09",
+    "evidencia": "Nota Infonegocios; sin confirmacion posterior.",
+    "url": "https://infonegocios.com.py/infomicasa/alpa-le-pone-el-sello-de-la-sofisticacion-a-sus-muebles-de-madera-y-mdf"
+   },
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Cocinas producto estrella y muebles de bano (prensa)."
+   },
+   "materiales_y_proveedores_visibles": "Madera, MDF, hierro, acero inox, vidrio, espejos.",
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 8,
+    "volumen": 6,
+    "gama": 8,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 2,
+    "total": 26
+   },
+   "puntaje_justificacion": {
+    "estetica": "8/30: muebles de madera/MDF, incluye muebles de bano e interiores; sin concreto.",
+    "volumen": "6/25: fabrica desde 1981, taller familiar.",
+    "gama": "8/20: media a media-alta.",
+    "accesibilidad": "2/15: telefono solo en prensa 2022; IG/FB citados no leidos.",
+    "oportunidad_inmediata": "2/10: planeaba espacio de exposicion en 2022; sin obras identificadas."
+   },
+   "notas_investigacion": "Leida nota Infonegocios + 2 busquedas. Fallaron: Instagram (login), alpamuebles.com(.py) sin conexion. Alpa SRL/SA argentinas no relacionadas. Region: Gran Asuncion (Mariano Roque Alonso).",
+   "descartada": false
+  },
+  {
+   "direccion": "Showroom Avda. San Martín esq. Nuestra Sra. del Carmen (prensa 2017, no_verificado)",
+   "anio_fundacion": 2014,
+   "decisores": [
+    {
+     "nombre": "Eduardo Franco",
+     "cargo": "Gerente general Quality Group (prensa 2017)",
+     "fuente": "https://infonegocios.com.py/default/italinea-la-marca-de-muebles-planeados-que-brinda-una-solucion-integral"
+    },
+    {
+     "nombre": "Andrés Talavera",
+     "cargo": "Director comercial Quality Group (5Dias 2025)",
+     "fuente": "https://5dias.com.py/article/el-diseo-paraguayo-est-a-la-altura-de-las-grandes-capitales"
+    }
+   ],
+   "web": "https://www.italinea.com.br (sitio de la marca en Brasil, sin datos de Paraguay)",
+   "instagram": null,
+   "seguidores_ig": null,
+   "facebook": "facebook.com/italineapy (citada en prensa; requiere login)",
+   "linkedin": null,
+   "email": null,
+   "telefono": null,
+   "whatsapp": null,
+   "proyectos_destacados": [
+    {
+     "nombre": "The Tower (110 deptos)",
+     "anio": 2017,
+     "link": "https://infonegocios.com.py/default/italinea-la-marca-de-muebles-planeados-que-brinda-una-solucion-integral"
+    },
+    {
+     "nombre": "Wave Tower (66 deptos)",
+     "anio": 2017,
+     "link": "https://infonegocios.com.py/default/italinea-la-marca-de-muebles-planeados-que-brinda-una-solucion-integral"
+    }
+   ],
+   "proyectos_en_curso": [
+    {
+     "nombre": "Showroom renovado Quality Group",
+     "tipo": "showroom",
+     "etapa": "anunciado",
+     "unidades": null,
+     "link": "https://5dias.com.py/article/el-diseo-paraguayo-est-a-la-altura-de-las-grandes-capitales"
+    }
+   ],
+   "resenas_google": {
+    "cantidad": null,
+    "nota": null
+   },
+   "fecha_verificacion": "2026-11-13",
+   "region": "Gran Asunción",
+   "nombre": "Italínea (Quality Group)",
+   "segmento": "interiorismo",
+   "ciudad": "Asunción",
+   "que_hacen": "Marca brasilena de muebles planeados (cocinas, vestidores, banos, dormitorios, oficinas) comercializada en Paraguay por Quality Group desde 2014; provee a constructoras y proyectos corporativos.",
+   "tipo_proyectos": [
+    "residencial",
+    "edificios en altura",
+    "corporativo"
+   ],
+   "estilo": "Muebles planeados, estilos variados",
+   "usa_concreto_visto": {
+    "valor": "desconocido",
+    "evidencia": "No aplica / no leido."
+   },
+   "tamano_aprox": "Mediano (parte de Quality Group)",
+   "fuentes": [
+    "https://infonegocios.com.py/default/italinea-la-marca-de-muebles-planeados-que-brinda-una-solucion-integral",
+    "https://5dias.com.py/article/el-diseo-paraguayo-est-a-la-altura-de-las-grandes-capitales",
+    "https://www.italinea.com.br/"
+   ],
+   "confianza": "media",
+   "angulo_venta_coco": "Mesadas y bachas UHPC como opcion premium en cocinas/banos entregados en edificios, via Quality Group y sus constructoras.",
+   "fit_preliminar": {
+    "nivel": "C",
+    "motivo": "Volumen via constructoras, pero producto estandar y contacto no verificado."
+   },
+   "pendiente_verificar": "Perfilar Quality Group como empresa (web/telefono propios no hallados; quality.com.py y qualitygroup.com.py no responden/406). Telefono (021) 611 662 solo en prensa: no_verificado. Direccion del showroom renovado: 5Dias dice Avda. Espana, prensa vieja dice San Martin.",
+   "actividad_reciente": {
+    "fecha": "2025-05",
+    "evidencia": "5Dias: Quality Group prepara showroom renovado.",
+    "url": "https://5dias.com.py/article/el-diseo-paraguayo-est-a-la-altura-de-las-grandes-capitales"
+   },
+   "banos_cocinas_protagonistas": {
+    "valor": "si",
+    "evidencia": "Cocinas y banos en catalogo (prensa)."
+   },
+   "materiales_y_proveedores_visibles": "Placas MDP/MDF alta compresion, herrajes Bloom (prensa 2017).",
+   "contactos_verificados": {
+    "telefono": false,
+    "email": false,
+    "whatsapp": false,
+    "instagram": false
+   },
+   "puntaje": {
+    "estetica": 10,
+    "volumen": 14,
+    "gama": 10,
+    "accesibilidad": 2,
+    "oportunidad_inmediata": 4,
+    "total": 40
+   },
+   "puntaje_justificacion": {
+    "estetica": "10/30: muebles planeados brasilenos, estilos variados; sin concreto.",
+    "volumen": "14/25: equipo 110 deptos The Tower, 66 Wave Tower, 70+ viviendas, oficinas (prensa 2017); respaldo Quality Group.",
+    "gama": "10/20: media-alta.",
+    "accesibilidad": "2/15: sin contacto propio verificado; telefono (021) 611 662 solo en prensa; web de marca brasilena no tiene datos PY.",
+    "oportunidad_inmediata": "4/10: Quality Group renueva showroom (5Dias, mayo 2025) y equipa edificios."
+   },
+   "notas_investigacion": "Leidas 3 notas Infonegocios, 5Dias (parcial, paywall) y italinea.com.br (tel +55 54 3455-5100 es de Brasil, no PY). Fallaron: italinea.com.py, quality.com.py (406), qualitygroup.com.py, Facebook (login).",
+   "descartada": false
+  }
+ ],
+ "candidatos_extra": [
+  {
+   "nombre": "Sierra Muebles PY",
+   "link": "https://www.facebook.com/sierradecorpy/",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  },
+  {
+   "nombre": "Quality Group / Quality Center",
+   "link": "https://yellow.place/es/quality-center-asunci%C3%B3n-paraguay",
+   "ciudad": "Asunción",
+   "segmento": "interiorismo"
+  }
+ ]
+}
