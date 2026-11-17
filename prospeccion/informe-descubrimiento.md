@@ -12,7 +12,7 @@
 | Desarrolladora | 4 | 11 | 4 | 19 |
 | **Total** | **13** | **53** | **32** | **98** |
 
-Calidad de los datos: solo 6 empresas tienen actividad "si" confirmada; el resto es "dudosa". La mayoría no tiene contacto publicado (los agentes abrieron muy pocas webs para ahorrar). Verificar antes de contactar.
+Calidad de los datos: solo 5 empresas tienen actividad "si" confirmada; el resto es "dudosa". La mayoría no tiene contacto publicado (los agentes abrieron muy pocas webs para ahorrar). Verificar antes de contactar.
 
 ## Las A más prometedoras
 
