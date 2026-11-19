@@ -39,3 +39,20 @@ La planilla "COCO · Prospección Paraguay" quedó así:
 - **Prospectos:** IDs 039–108 de la ronda 2 cargados con `consolidar_r2.py` (las 001–038 ya estaban). Los textos largos van recortados con "…"; el detalle completo está en `datos/ronda2/`. También se repararon los teléfonos y WhatsApp de las filas 001–038 que mostraban #ERROR!.
 - **Seguimiento:** 70 filas nuevas con Estado "Por contactar". Las columnas E a J no se tocaron.
 - **Descubrimiento:** pestaña nueva con las 98 empresas ordenadas por fit (A, B, C), encabezado y 4 primeras columnas fijas, filtro y lista desplegable de Estado.
+
+## Tanda 2
+
+- **Empresas A con contacto:** 7 de las 11 fichas A tienen al menos un dato de contacto publicado (Cresia, Paraguay Development, Carrara, JV Butique, Lorena Macías, Orans, Íntima Studio). Brique, Distrito Perseverancia, Casa Fika y EST arquitectura siguen sin teléfono, email ni WhatsApp. Nueve de las 13 A originales conservan el fit A. Marmopar, Santa Teresa y CasaPro bajaron a B. Instagram devolvió 429 y varias webs no resolvieron, así que ningún dato se confirmó dos veces y 9 de las 11 siguen en actividad "dudosa".
+- **Arquitectos nuevos:** 39 (meta 50, no alcanzada). Salieron 20 del agente A y 25 del B; quedaron 39 tras quitar duplicados y los que ya estaban en la exclusión. Fit: 1 A, 16 B, 22 C. Solo 5 tienen teléfono o email publicado.
+- **Los 10 mejores:**
+  1. EST arquitectura SRL (Carlos A. Jiménez): torres de alta gama con hormigón visto (Torre ICONO), activa.
+  2. MOTUS: reforma de vivienda de 703 m2 en Asunción, publicada en ArchDaily.
+  3. SD+A (Sebastián Domaniczky): cabañas Yvyrupa con materiales locales, teléfono publicado.
+  4. Cantero Hellmers Arquitectos: estudio joven de viviendas y corporativo, con web y teléfono.
+  5. INDARQ: Vivienda E.ME (2025) en Fernando de la Mora, activa.
+  6. PRO Arquitectos: arquitectura e interiorismo desde 2008, gama media-alta.
+  7. Estudio Elgue & Asociados: obra en ArchDaily y Divisare (Casa Mburicao).
+  8. Rcubo: Casa Tatakua, vivienda contemporánea en Luque.
+  9. TDA (Duarte y Rojas): viviendas y conjuntos en Luque.
+  10. Punto Arquitectura: viviendas unifamiliares, con web, email y WhatsApp.
+- **Nota:** la lista incluye a Proseco Arquitectura, ex empleador de Juan. Conviene revisarla antes de contactar.
