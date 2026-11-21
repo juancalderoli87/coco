@@ -80,3 +80,4 @@ Entre 5 y 8, al final. Base: #COCO #BachaDeConcreto #ConcretoDeAltaPerformance #
 - Nada se publica, comenta ni envía sin su OK explícito.
 - No se generan posteos ni imágenes que no pidió.
 - No se le recomiendan cursos ni herramientas pagas.
+- Antes de pasar un cambio a `main` (abrir y aprobar el pedido en GitHub), preguntale a Juan, cada vez. Su aprobación vale solo para ese cambio (pedido de Juan, 21/11/2026).
