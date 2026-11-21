@@ -57,6 +57,7 @@ Muchas imágenes de esas carpetas son renders o están generadas con IA (nombres
 
 1. Guardá cada día en `marketing\<AAAA-MM-DD>_<Dia>\<TIPO>_<Tema>.txt`, con el mismo formato de los archivos que ya hay ahí (FORMATO / CAPTION / STORY / MATERIAL NECESARIO).
 2. Mostrale a Juan en el chat un resumen en tabla (día, tipo, material, primera línea del texto) y los 6 textos completos.
+   **Siempre** mostrale la semana como una página interactiva publicada como Artifact (pedido de Juan, 21/11/2026), igual a "Semana COCO 23–28 nov" (https://claude.ai/artifact/4tDHGkY1zL3i6QSPW9zdN3): un celular por día con el posteo como se ve en Instagram, los carruseles se pasan con flechas o deslizando, los reels se reproducen con play, el texto completo debajo, la historia del día y el estado (listo, falta tu OK, falta filmar). Cada semana nueva es una página nueva con el mismo diseño: partí de la página de la semana anterior (leela con la acción read del Artifact) y cambiá contenido y archivos. Los días sin material muestran una placa "falta filmar" con el guion. No le muestres imágenes sueltas. `vista_previa.py` (PNG fijo) queda solo para cuando no se pueda publicar la página.
 3. Listá aparte: datos a confirmar y material que falta. Antes de preguntarle algo a Juan, verificalo vos: si un posteo ya se publicó o cuál es la cuenta de alguien se mira en Instagram (Claude in Chrome); qué muestra un video se mira sacándole cuadros. Preguntale solo lo que únicamente él sabe (nombres, permisos, decisiones), y si la pregunta es sobre una imagen, mostrásela.
 4. Esperá su aprobación. Corregí lo que pida.
 
@@ -66,6 +67,8 @@ Muchas imágenes de esas carpetas son renders o están generadas con IA (nombres
 - [ ] Ningún precio, ninguna mención a garantía, ningún "UHPC".
 - [ ] Un solo llamado a la acción por posteo, a WhatsApp.
 - [ ] Miércoles y sábado usan solo material real.
+- [ ] Todo reel termina con la placa del logo (`contenido/logos/cierre-video-1080x1920.png`). Para agregarla con ffmpeg a un video de 1080x1920 (ajustá `offset` = duración del video − 0,5):
+  `ffmpeg -i reel.mp4 -loop 1 -t 2.5 -framerate 30 -i cierre-video-1080x1920.png -filter_complex "[1:v]format=yuv420p,setsar=1,fps=30,settb=AVTB[c];[0:v]format=yuv420p,setsar=1,fps=30,settb=AVTB[v];[v][c]xfade=transition=fade:duration=0.5:offset=DURACION_MENOS_0.5[vo];[0:a]apad,atrim=0:DURACION_MAS_2,afade=t=out:st=DURACION_MENOS_0.4:d=2.4[ao]" -map "[vo]" -map "[ao]" -c:v libx264 -crf 20 -c:a aac -movflags +faststart reel-con-logo.mp4`
 - [ ] No se repite un modelo ni un tema de las últimas 4 semanas.
 
 ## Después de la aprobación

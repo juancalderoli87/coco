@@ -72,6 +72,7 @@ Entre 5 y 8, al final. Base: #COCO #BachaDeConcreto #ConcretoDeAltaPerformance #
 - Usar fotos y videos reales de la carpeta de Drive (ver /coco-semana para las rutas).
 - Prohibido: personas generadas por IA, brillos o laqueados, texturas falsas de piedra, modificar la forma de una bacha.
 - Si la imagen es un render y no una foto, no se la presenta como obra real.
+- **Todo video termina con el logo de COCO** (pedido de Juan, 21/11/2026): placa final de 2,5 segundos, `contenido/logos/cierre-video-1080x1920.png` (fondo gris oscuro, logo blanco y "Sculpted. Refined. Timeless."), con fundido de 0,5 s desde la última toma y la música bajando hasta cero sobre la placa. Vale para reels, videos a cámara e historias en video.
 
 ## Forma de trabajo con Juan
 
