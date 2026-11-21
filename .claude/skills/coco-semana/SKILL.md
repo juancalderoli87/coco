@@ -57,6 +57,7 @@ Muchas imágenes de esas carpetas son renders o están generadas con IA (nombres
 
 1. Guardá cada día en `marketing\<AAAA-MM-DD>_<Dia>\<TIPO>_<Tema>.txt`, con el mismo formato de los archivos que ya hay ahí (FORMATO / CAPTION / STORY / MATERIAL NECESARIO).
 2. Mostrale a Juan en el chat un resumen en tabla (día, tipo, material, primera línea del texto) y los 6 textos completos.
+   **Siempre** mostrale cómo se ve cada posteo publicado (pedido de Juan, 21/11/2026): no le muestres imágenes sueltas. Usá `vista_previa.py` de esta carpeta, que arma el celular con el feed de Instagram (primera imagen, texto cortado en "... más", puntos del carrusel) y al lado las placas que siguen. Mandale el PNG de cada día. Uso: `python3 vista_previa.py posteo.json salida.png` (el formato del JSON está al principio del script). Para un reel, usá un cuadro del video como portada.
 3. Listá aparte: datos a confirmar y material que falta. Antes de preguntarle algo a Juan, verificalo vos: si un posteo ya se publicó o cuál es la cuenta de alguien se mira en Instagram (Claude in Chrome); qué muestra un video se mira sacándole cuadros. Preguntale solo lo que únicamente él sabe (nombres, permisos, decisiones), y si la pregunta es sobre una imagen, mostrásela.
 4. Esperá su aprobación. Corregí lo que pida.
 
