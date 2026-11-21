@@ -27,6 +27,7 @@ Contá los modelos y colores leyendo `data/products.ts`; no escribas la cantidad
 
 ## Qué NO se publica en redes
 
+- **Dónde está el taller o la fábrica.** No se nombra la ciudad, el barrio ni la dirección del taller (pedido de Juan, 21/11/2026). Sí se dice "Diseñado y fabricado en Paraguay".
 - **Precios.** Ninguno, ni "desde Gs…". Siempre: "consultá el precio por WhatsApp". (En la web sí figuran; en redes no.)
 - **Precios mayoristas, costos y márgenes.** Nunca, en ningún lado.
 - **La garantía.** No se menciona en posteos, historias, bio ni destacadas. Si un cliente pregunta, lo responde Juan. (En la web se deja como está.)
