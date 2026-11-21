@@ -50,7 +50,7 @@ Reglas de la lista:
 
 ## Lo que no se filma
 
-- Nada que muestre la fórmula, proporciones de la mezcla, marcas de insumos o listas de precios a la vista.
+- Nada que muestre la fórmula, proporciones de la mezcla, marcas de materias primas (cemento, aditivos, pigmentos, selladores) o listas de precios a la vista. Las marcas de bolsas de plástico, embalajes y otros elementos del taller no importan (aclaración de Juan, 21/11/2026).
 - Piezas con defectos, salvo que el posteo sea justamente sobre el control de calidad.
 - Desorden que no aporte: antes de filmar, despejá lo que queda detrás de la pieza.
 
