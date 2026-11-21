@@ -1,0 +1,111 @@
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { AutoplayVideo } from '@/components/AutoplayVideo';
+import { ButtonLink } from '@/components/Button';
+import { ProductCard } from '@/components/ProductCard';
+import { ProductDetail } from '@/components/shop/ProductDetail';
+import { getProduct, productImage, products, relatedProducts } from '@/data/products';
+import { site } from '@/data/site';
+import { formatDimensions, formatGs } from '@/lib/format';
+import { siteUrl } from '@/lib/url';
+
+type Props = { params: Promise<{ slug: string }> };
+
+export function generateStaticParams() {
+  return products.map((p) => ({ slug: p.slug }));
+}
+
+export const dynamicParams = false;
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const product = getProduct((await params).slug);
+  if (!product) return {};
+  const title = `Bacha de concreto ${product.name}`;
+  const description = `${product.shortDescription} ${formatDimensions(product.dimensions)}. ${formatGs(product.price)}. Concreto de alta performance, hecha a mano en Paraguay.`;
+  return {
+    title,
+    description,
+    alternates: { canonical: `/shop/${product.slug}` },
+    openGraph: { title, description, images: [productImage(product.slug)] },
+  };
+}
+
+export default async function ProductPage({ params }: Props) {
+  const product = getProduct((await params).slug);
+  if (!product) notFound();
+
+  const related = relatedProducts(product);
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: `Bacha de concreto ${product.name}`,
+    description: product.shortDescription,
+    weight: { '@type': 'QuantitativeValue', value: product.weightKg, unitCode: 'KGM' },
+    image: `${siteUrl}${productImage(product.slug)}`,
+    brand: { '@type': 'Brand', name: 'COCO' },
+    material: 'Concreto de alta performance',
+    offers: {
+      '@type': 'Offer',
+      price: product.price,
+      priceCurrency: 'PYG',
+      availability: 'https://schema.org/InStock',
+      url: `${siteUrl}/shop/${product.slug}`,
+    },
+  };
+
+  return (
+    <main className="mx-auto max-w-7xl px-4 pt-6 pb-24 md:px-8 md:pt-10">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <nav aria-label="Ruta" className="mb-6 text-xs text-concreto">
+        <Link href="/shop" className="hover:text-carbon hover:underline">
+          Shop
+        </Link>{' '}
+        / <span className="text-carbon">{product.name}</span>
+      </nav>
+
+      <ProductDetail product={product} />
+
+      <section
+        className={`mt-20 grid gap-10 border-t border-arena pt-12 md:gap-16 ${
+          product.video ? 'md:grid-cols-[minmax(0,16rem)_1fr_1fr]' : 'md:grid-cols-2'
+        }`}
+      >
+        {product.video && (
+          <div className="relative aspect-[1080/1880] w-full max-w-xs overflow-hidden bg-white">
+            <AutoplayVideo
+              src={`/videos/bacha-${product.slug}.mp4`}
+              poster={`/videos/bacha-${product.slug}-poster.webp`}
+              label={`Video de la bacha ${product.name}`}
+              className="absolute inset-0 size-full object-cover"
+            />
+          </div>
+        )}
+        <div>
+          <h2 className="text-[11px] tracking-[var(--tracking-label)] text-concreto uppercase">Sobre esta bacha</h2>
+          <p className="mt-4 max-w-prose leading-relaxed">
+            {product.longDescription ||
+              `La bacha ${product.name} está fabricada a mano en nuestro taller de ${site.workshop.city}, en concreto de alta performance con acabado mate sellado. Cada pieza tiene pequeñas variaciones naturales que la hacen única.`}
+          </p>
+        </div>
+        <div>
+          <h2 className="text-[11px] tracking-[var(--tracking-label)] text-concreto uppercase">Cuidado</h2>
+          <p className="mt-4 max-w-prose leading-relaxed">{site.careSummary}</p>
+          <ButtonLink href="/cuidado-y-garantia" variant="link" className="mt-4 text-xs">
+            Cuidado y garantía
+          </ButtonLink>
+        </div>
+      </section>
+
+      <section className="mt-20">
+        <h2 className="mb-8 text-2xl font-light md:text-3xl">También te puede gustar</h2>
+        <div className="grid grid-cols-2 gap-x-3 gap-y-12 sm:gap-x-6 lg:grid-cols-4">
+          {related.map((p) => (
+            <ProductCard key={p.slug} product={p} />
+          ))}
+        </div>
+      </section>
+    </main>
+  );
+}
