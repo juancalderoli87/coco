@@ -67,6 +67,8 @@ Muchas imágenes de esas carpetas son renders o están generadas con IA (nombres
 - [ ] Ningún precio, ninguna mención a garantía, ningún "UHPC".
 - [ ] Un solo llamado a la acción por posteo, a WhatsApp.
 - [ ] Miércoles y sábado usan solo material real.
+- [ ] Todo reel termina con la placa del logo (`contenido/logos/cierre-video-1080x1920.png`). Para agregarla con ffmpeg a un video de 1080x1920 (ajustá `offset` = duración del video − 0,5):
+  `ffmpeg -i reel.mp4 -loop 1 -t 2.5 -framerate 30 -i cierre-video-1080x1920.png -filter_complex "[1:v]format=yuv420p,setsar=1,fps=30,settb=AVTB[c];[0:v]format=yuv420p,setsar=1,fps=30,settb=AVTB[v];[v][c]xfade=transition=fade:duration=0.5:offset=DURACION_MENOS_0.5[vo];[0:a]apad,atrim=0:DURACION_MAS_2,afade=t=out:st=DURACION_MENOS_0.4:d=2.4[ao]" -map "[vo]" -map "[ao]" -c:v libx264 -crf 20 -c:a aac -movflags +faststart reel-con-logo.mp4`
 - [ ] No se repite un modelo ni un tema de las últimas 4 semanas.
 
 ## Después de la aprobación

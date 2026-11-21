@@ -31,7 +31,7 @@ Reglas de la lista:
 
 - Entre 8 y 15 tomas por sesión. Ordenadas según el orden real del trabajo en el taller, no según el orden del video.
 - Marcá con **IMPRESCINDIBLE** las 4 o 5 que no pueden faltar, por si el tiempo no alcanza.
-- Cada reel necesita: una toma de apertura que enganche en el primer segundo, 3 a 5 tomas de desarrollo y una toma final de la pieza terminada.
+- Cada reel necesita: una toma de apertura que enganche en el primer segundo, 3 a 5 tomas de desarrollo y una toma final de la pieza terminada. Después de esa toma va siempre la placa del logo de COCO, que se agrega en la edición: no hace falta filmarla.
 - Incluí siempre 3 fotos fijas de la pieza terminada (frente, tres cuartos, detalle de textura): sirven para carruseles.
 - Si hay una obra o instalación: antes, durante, después, y el plano general del baño.
 
